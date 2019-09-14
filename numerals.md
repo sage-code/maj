@@ -13,9 +13,9 @@ x | maj | xx | maj      |    | maj
 1 | bon | 11 | bona-bon | 10 | bona
 2 | cut | 12 | bona-cut | 20 | cuta
 3 | don | 13 | bona-don | 30 | dona 
-4 | fut | 14 | bona-fut | 40 | futa
-5 | gon | 15 | bona-gon | 50 | gona
-6 | hut | 16 | bona-hut | 60 | huta
+4 | fot | 14 | bona-fot | 40 | fota
+5 | gun | 15 | bona-gun | 50 | guna
+6 | hot | 16 | bona-hot | 60 | hota
 7 | jon | 17 | bona-jon | 70 | jona
 8 | lut | 18 | bona-lut | 80 | luta
 9 | mon | 19 | bona-mon | 90 | mona
@@ -25,9 +25,9 @@ x | maj | xx | maj      |    | maj
 100 =  bon-acta
 200 =  cut-acta
 300 =  don-acta
-400 =  fut-acta
-500 =  gon-acta
-600 =  hut-acta
+400 =  fot-acta
+500 =  gun-acta
+600 =  hot-acta
 700 =  jon-acta
 800 =  lut-acta
 900 =  mon-acta
@@ -38,24 +38,24 @@ x | maj | xx | maj      |    | maj
 111 =  bon-bona-bon
 120 =  bon-cuta-act (bon-cuta)
 122 =  bon-cuta-cut
-150 =  bon-gona-act (bon-gona)
-155 =  bon-gona-gon
+150 =  bon-guna-act (bon-guna)
+155 =  bon-guna-gun
 
-200 =  cot-acta-act (cot-acta)
-201 =  cot-acta-bun
-202 =  cot-acta-cot
+200 =  cut-acta-act (cut-acta)
+201 =  cut-acta-bun
+202 =  cut-acta-cut
 
-300 =  duna_rute acto_acta
-301 =  duna_rute acto_buna
-322 =  duna_rute coto_cota
+300 =  dona_rute acto_acta
+301 =  dona_rute acto_buna
+322 =  dona_rute cuto_cuta
 
 **Thousands = tote**
 
 1.000 = bun-tote
 2.000 = cut-tote
 3.000 = don-tote
-4.000 = fut-tote
-5.000 = gon-tote
+4.000 = fot-tote
+5.000 = gun-tote
 6.000 = hut-tote
 7.000 = jon-tote
 8.000 = lut-tote
@@ -67,7 +67,7 @@ x | maj | xx | maj      |    | maj
 2.000.000 = cut-vute
 3.000.000 = don-vute
 ...
-5.655.230 = gon-vute hut-tote gona-gon cut-dona
+5.655.230 = gun-vute hut-tote guna-gun cut-dona
 9.000.000 = mon-vute
 
 

@@ -8,17 +8,17 @@ Rules of alphabet:
 ```
 -------------------------------------------
 A   B   C   D   E   F   G   H   I   J   
-a   bo  cu  do  e   fu  go  hu  i   jo
+a   bo  cu  do  e   fo  gu  ho  i   jo
 -------------------------------------------
 L   M   N   O   P   R   S   T   U   V   Z
-lu  mo  nu  o   pu  ro  su  to  u   vu  zo
+lu  mo  nu  o   pu  ro  su  to  u   vo  zu
 -------------------------------------------
 ```
 Not used: X Q K W Y 
 
 * Vocals  : a  e  i  o  u
-* Digraph : ts,   sh 
-* Trigraph: tce,  tci
+* Digraph : ts,   sh,   ce,   ci, ge, gi   
+* Trigraph: tce,  tci,  dge,  dgi
 
 ## Logic
 
@@ -81,7 +81,7 @@ la = its   | les = theirs
    
 **So far:**
 
-* me  duda  =  I'm drawing
+* me  coja  =  I'm drawing
 * mos pala  =  We play     
 
 Time       | 
@@ -90,6 +90,7 @@ oi         | now
 ga         | later 
 ro         | in the past
 
-mos palaro = we play some time ago
+**So far:**
 mos palaoi = we play right now
 mos palaga = we will play later
+mos palaro = we play some time ago
