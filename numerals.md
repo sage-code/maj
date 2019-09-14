@@ -1,15 +1,25 @@
 ## Numerals 
 
--------------------------------------
-par   = __t 
-impar = __n
--------------------------------------
+All numerals are created from base of 3 letters.
+
+1. only "zero" numeral start with a vowel "act",
+1. even number are ending with "t",
+1. odd numbers are ending with "n",
+1. first two letters derived from alphabet,
+1. the alphabet order respected for numerals: a < b ... < m,
+1. for hundreds we use "a" suffix,
+1. for thousands, millions and billions we use "e" suffix.
+
+**Note** 
+
+* Numerals to not have genre, past or future
+* There is no ordinal form: "first", "second", "third"
 
 **Then = bona**
 
-x | maj | xx | maj      |    | maj       
+x | maj | xx | maj      | xx | maj       
 --|-----|--- |----------|----|--------------------------
-0 | act | 10 | bona-act | 00 | acta
+0 | act | 10 | bona     | 00 | acta
 1 | bon | 11 | bona-bon | 10 | bona
 2 | cut | 12 | bona-cut | 20 | cuta
 3 | don | 13 | bona-don | 30 | dona 
@@ -32,16 +42,16 @@ x | maj | xx | maj      |    | maj
 800 =  lut-acta
 900 =  mon-acta
 
-100 =  bon-acta-act (bon-acta)
+100 =  bon-acta
 101 =  bon-acta-bon
 102 =  bon-acta-cut
 111 =  bon-bona-bon
-120 =  bon-cuta-act (bon-cuta)
+120 =  bon-cuta
 122 =  bon-cuta-cut
-150 =  bon-guna-act (bon-guna)
+150 =  bon-guna
 155 =  bon-guna-gun
 
-200 =  cut-acta-act (cut-acta)
+200 =  cut-acta
 201 =  cut-acta-bun
 202 =  cut-acta-cut
 
