@@ -1,49 +1,62 @@
 # Alphabet
 
-A B C D E F G H I J K L M N O P R S T U V Z
+Rules of alphabet:
 
+Vouls stand alone:
+Consonants are terminated with 'o' or 'u':
 
-Not used: X Q K W Y 
-
-Alphabet:
+```
 -------------------------------------------
 A   B   C   D   E   F   G   H   I   J   
-ac  bu  cu  du  ec  fu  gu  hu  ic  ju
+a   bo  cu  do  e   fu  go  hu  i   jo
 -------------------------------------------
 L   M   N   O   P   R   S   T   U   V   Z
-lu  mu  nu  oc  pu  ru  su  tu  uc  vu  zu
+lu  mo  nu  o   pu  ro  su  to  u   vo  zu
 -------------------------------------------
+```
+Not used: X Q K W Y 
 
-Vocals  : a  e  i  o  u
-Digraph : cs, cu, ui, ts, sh, 
-Trigraph: tce, tci
+* Vocals  : a  e  i  o  u
+* Digraph : ts,   sh 
+* Trigraph: tce,  tci
 
-Afirmativ: Tac = Da
-Negativ  : Ban = Nu
+## Logic
+
+* Afirmativ  : da   = yes
+* Negativ    : no   = not
+
+* Interogativ: tce  = what is it
+* Interogativ: tci  = who is it
+
+
+
+maj  | english            | romanian
+-----|--------------------|-----------------
+Mama | mother             | mama
+Tata | father             | tata
+Lola | baby sitter        | ingrijitoare
+Nana | grand mother       | bunica
+Sana | grand father       | bunicu
 
 Personal needs. children care:
--------------------------------------------
-mama = mother
-gaga = father
-nana = baby sitter femal
-nunu = beby sitter male
-tata = grand mother
-tutu = grand father
-caca = shit
-pipi = pee
-huhu = change pampers
-hala = be happy
-hafa = laugh
-besu = make a bath
-papa = soft food
-bebe = whater
-lala = milk
-cici = kiss
-pala = game play
-cuna = reading
-cura = writing
-duda = drawings
-cola = painting
+
+maj  | english            | romanian
+-----|--------------------|-----------------
+papa | soft food          | papa
+bebe | whater             | beau
+lele | milk               | lapte 
+caca | shit               | caca
+pipi | pee                | pipi
+huhu | change pampers     | schimba
+hala | be happy           | bucuros
+hafa | laugh              | râde
+besu | make a bath        | baie
+cici | kiss               | pupa
+pala | game play          | joaca
+cuna | reading            | citesc
+cura | writing            | scrie
+duda | drawings           | deseneaza
+cola | painting           | picteaza
 
 
 Noun          | 
