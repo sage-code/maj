@@ -1,10 +1,11 @@
-#Numerals 
+## Numerals 
+
 -------------------------------------
 par   = __t 
 impar = __n
 -------------------------------------
 
-Then = bona
+**Then = bona**
 
 x | maj | xx | maj      |    | maj       
 --|-----|--- |----------|----|--------------------------
@@ -19,7 +20,7 @@ x | maj | xx | maj      |    | maj
 8 | lut | 18 | bona-lut | 80 | luta
 9 | mon | 19 | bona-mon | 90 | mona
 
-Hundreds = acta
+**Hundreds = acta**
 
 100 =  bon-acta
 200 =  cut-acta
@@ -48,7 +49,7 @@ Hundreds = acta
 301 =  duna_rute acto_buna
 322 =  duna_rute coto_cota
 
-Thousands = tote
+**Thousands = tote**
 
 1.000 = bun-tote
 2.000 = cut-tote
@@ -60,18 +61,18 @@ Thousands = tote
 8.000 = lut-tote
 9.000 = mon-tote
 
-Millions  = vote
+**Millions  = vute**
 
-1.000.000 = bun-vote
-2.000.000 = cut-vote
-3.000.000 = don-vote
+1.000.000 = bun-vute
+2.000.000 = cut-vute
+3.000.000 = don-vute
 ...
-5.655.230 = gon-vote hut-tote gona-gon cut-dona
-9.000.000 = mon-vote
+5.655.230 = gon-vute hut-tote gona-gon cut-dona
+9.000.000 = mon-vute
 
 
-Bullions = zute
+**Bullions = zote**
 
-1.000.000.000 = bun-zute
+1.000.000.000 = bun-zote
 
 
