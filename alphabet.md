@@ -84,7 +84,7 @@ la = its   | les = theirs
 * me  coja  =  I'm drawing
 * mos pala  =  We play     
 
-Time       | 
+Time       | english
 -----------|--------------------------------
 oi         | now
 ga         | later 
