@@ -1,0 +1,2 @@
+# maj
+artificial language
