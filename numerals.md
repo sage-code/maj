@@ -61,18 +61,18 @@ x | maj | xx | maj      |    | maj
 8.000 = lut-tote
 9.000 = mon-tote
 
-**Millions  = vute**
+**Millions  = vote**
 
-1.000.000 = bun-vute
-2.000.000 = cut-vute
-3.000.000 = don-vute
+1.000.000 = bun-vote
+2.000.000 = cut-vote
+3.000.000 = don-vote
 ...
-5.655.230 = gun-vute hut-tote guna-gun cut-dona
-9.000.000 = mon-vute
+5.655.230 = gun-vote hut-tote guna-gun cut-dona
+9.000.000 = mon-vote
 
 
-**Bullions = zote**
+**Bullions = zute**
 
-1.000.000.000 = bun-zote
+1.000.000.000 = bun-zute
 
 
