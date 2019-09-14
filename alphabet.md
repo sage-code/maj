@@ -91,6 +91,7 @@ ga         | later
 ro         | in the past
 
 **So far:**
-mos palaoi = we play right now
-mos palaga = we will play later
-mos palaro = we play some time ago
+
+* mos palaoi = we play right now
+* mos palaga = we will play later
+* mos palaro = we play some time ago
