@@ -1,11 +1,16 @@
 ## Numerals 
 
+{ "numar", "numars" }
+
+Verb: numar
+
 All numerals are created from base of 3 letters.
 
-1. only "zero" numeral start with a vowel "act",
-1. even number are ending with "t",
-1. odd numbers are ending with "n",
-1. first two letters derived from alphabet,
+
+1. only "zero" numeral start with a vowel "anut",
+1. even number are ending with "aut" = "even",
+1. odd numbers are ending with "aon" = "odd",
+1. first letter is derived from alphabet,
 1. the alphabet order respected for numerals: a < b ... < m,
 1. for hundreds we use "a" suffix,
 1. for thousands, millions and billions we use "e" suffix.
@@ -17,18 +22,18 @@ All numerals are created from base of 3 letters.
 
 **Then = bona**
 
-x | maj | xx | maj      | xx | maj       
---|-----|--- |----------|----|--------------------------
-0 | act | 10 | bona     | 00 | acta
-1 | bon | 11 | bona-bon | 10 | bona
-2 | cut | 12 | bona-cut | 20 | cuta
-3 | don | 13 | bona-don | 30 | dona 
-4 | fut | 14 | bona-fot | 40 | fota
-5 | gon | 15 | bona-gun | 50 | guna
-6 | hut | 16 | bona-hot | 60 | hota
-7 | jon | 17 | bona-jon | 70 | jona
-8 | lut | 18 | bona-lut | 80 | luta
-9 | mon | 19 | bona-mon | 90 | mona
+x | maj  | xx | maj      | xx | maj       
+--|------|--- |----------|----|--------------------------
+0 | aut  | 10 | bon-aut  | 00 | acta
+1 | bon  | 11 | bon-bon | 10 | bona
+2 | cut  | 12 | bon-cut | 20 | cuta
+3 | don  | 13 | bon-don | 30 | dona 
+4 | fut  | 14 | bon-fot | 40 | fota
+5 | gon  | 15 | bon-gun | 50 | guna
+6 | hut  | 16 | bon-hot | 60 | hota
+7 | jon  | 17 | bon-jon | 70 | jona
+8 | lut  | 18 | bon-lut | 80 | luta
+9 | mon  | 19 | bon-mon | 90 | mona
 
 **Hundreds = acta**
 
