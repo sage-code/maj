@@ -20,10 +20,10 @@ ita =
 
 singular      | plural
 --------------|-----------------------------
-me = myself   | mos = we
-te = you      | tos = you
-se = he/she   | sos = they
-le = it       | les = things
+mu = myself   | mos = we
+tu = you      | tos = you
+su = he/she   | sos = they
+lu = it       | les = things
 
 **Possessive**
 

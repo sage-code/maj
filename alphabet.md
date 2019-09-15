@@ -4,41 +4,97 @@ Rules of alphabet:
 
 * Vowels are stand alone sounds: A E I O U
 * Constants have a special pronunciation not available in alphabet:
-* 
+* There are 45 letters in (maj) alphabet.
 
 ```
--------------------------------------------
-A   B   C   D   E   F   G   H   I   J   L
-a   b   c   d   e   f   g   h   i   j   l
--------------------------------------------
-K   M   N   O   P   R   S   T   U   V   Z
-k   m   n   o   p   r   s   t   u   v   z
--------------------------------------------
+-----------------------------------------------
+A   B   C   D   E   F   G   H   I   J   K  L
+a   b   c   d   e   f   g   h   i   j   k  l
+-----------------------------------------------
+M   N   O   P   R   S   T   U   V   W   X  Y  Z
+m   n   o   p   r   s   t   u   v   W   x  y  z
+-----------------------------------------------
 ```
 
-* Vowels  : a  e  i  o  u 
-* Digraph : ts,   sh,   ce,  ci,  ge,  gi   
-* Trigraph: ghe,  ghi
+* Vowels   :  y a e i o u 
+* Trigraph :  ghe, ghi 
+
+* Digraphs
+
+This sounds are created from two letters that are pronounced different than the letters combined.
+
+maj| english | romanian
+---|---------|--------------------
+ch | /she/.  | şe (cherry)
+ch | /shi/.  | şi (chicago)
+ks | /x  /.  | cs (sex)
+ke | /qe /.  | che
+ki | /qi /.  | chi
+ts | /tzi/.  | ţ
+ce | /tce/.  | ce  
+ci | /tci/.  | ci
+ge | /dge/.  | ge
+gi | /dgi/.  | gi
 
 ## Rarely used
 
-{ X Q K W Y }
+{ I X K W y Q }
 
-X = /ics/. can be used like in sex
-Q = /kiu/. cam be used like in query
-Q = /uou/. 
+**X** 
+* instead of x we use /ks/ at the end of words For example "sex" is written "seks".
+* But x is used for   /xe/. and /xi/.
 
-**K** can be used for /ki/. or /ke/. to avoid "chi", "che". Most of the time c is used.
-
-**Q** 
-Is most of the time used as { /qu/., /qe/. } but it can be replaced by { /ku/., /ki/., /ke/. }. It is not considered to be part of the Cornish, Estonian, Icelandic, Irish, Latvian, Lithuanian, Polish, Serbo-Croatian, Scottish Gaelic, Slovenian, Turkish, or Welsh alphabets.  
+**K** 
+* can be used for /ki/. or /ke/. to avoid "chi", "che" in names.
+* also keep the "K" from respect for physics and to preserve kilo word. 
 
 **X**
 It is a simplification of digraph /ks/. or /gz/. It is present in most romantic languages. In (maj)  is is used rarely and only in foreign words.
 
-**Y**
-Comes from Greek and is very frequent in English but not in other languages. Most of the time is used for neologism borrowed from English. I don't think is of any use in (maj).
+**y**
+Comes from Greek and is very frequent in English but not in other languages. Most of the time is used for neologism borrowed from English. While "i" is very short, and used at the beginning of words, "y" is used at the end of words to transform a word into an attribute.
 
+For example: "seks" will be "seksy" not "seksi". "
+
+**I**
+Since I looks luke "l" it will not be used. Instead we will use "Y" to replace "I" That is what "Y" is only used for.
+
+
+## Unused Q
+
+**Q** 
+Is most of the time used as { /qu/., /qe/. } but it can be replaced by { /ku/., /ki/., /ke/. }. It is not considered to be part of the Cornish, Estonian, Icelandic, Irish, Latvian, Lithuanian, Polish, Serbo-Croatian, Scottish Gaelic, Slovenian, Turkish, or Welsh alphabets. 
+
+Q letter is not part of any word in (maj).
+
+## Phoneme
+
+Two letters close by that are pronounced in unique way are called phoneme. Phonemes have 2 or 3 vowels together.
+
+**Approved:**
+
+x |a  |e  |i  |o  |u
+--|---|---|---|---|----
+a |   |ae |ai |ao |au
+e |ea |   |ei |eo |eu
+i |ia |ie |   |io |iu
+o |oa |oe |oi |   |ou
+u |ua |ue |ui |uo |
+
+## Syllables
+
+Any combination of vowels and consonants are called syllable. Each word must contain at least one syllable.
+ 
+ am an ar as at 
+ el em es et 
+ ia if il im in is it
+ of oh om or
+ uh ul un up us
+ 
+ 
+**Last:** Words can end with "y":
+
+ay ey oy uy by cy dy fy gy hy jy ly my ny oy py ry sy ty vy zy
 
 
 

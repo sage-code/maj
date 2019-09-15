@@ -20,74 +20,82 @@ All numerals are created from base of 3 letters.
 * Numerals to not have genre, past or future
 * There is no ordinal form: "first", "second", "third"
 
-**Then = bona**
+** Alphabet
 
-x | maj  | xx | maj      | xx | maj       
---|------|--- |----------|----|--------------------------
-0 | aut  | 10 | bon-aut  | 00 | acta
+```
+-----------------------------------------------
+A   B   C   D   E   F   G   H   I   J   K  L
+a   b   c   d   e   f   g   h   i   j   k  l
+-----------------------------------------------
+M   N   O   P   R   S   T   U   V   W   X  Y  Z
+m   n   o   p   r   s   t   u   v   W   x  y  z
+-----------------------------------------------
+```
+
+**Then = bon-act**
+
+x | maj  | xx | maj     | xx | maj       
+--|------|----|---------|----|--------
+0 | act  | 10 | bon-act | 00 | acta
 1 | bon  | 11 | bon-bon | 10 | bona
 2 | cut  | 12 | bon-cut | 20 | cuta
-3 | don  | 13 | bon-don | 30 | dona 
-4 | fut  | 14 | bon-fot | 40 | fota
-5 | gon  | 15 | bon-gun | 50 | guna
-6 | hut  | 16 | bon-hot | 60 | hota
-7 | jon  | 17 | bon-jon | 70 | jona
-8 | lut  | 18 | bon-lut | 80 | luta
-9 | mon  | 19 | bon-mon | 90 | mona
+3 | gin  | 13 | bon-gin | 30 | gina 
+4 | kat  | 14 | bon-kat | 40 | kata
+5 | rin  | 15 | bon-rin | 50 | rina
+6 | sut  | 16 | bon-sut | 60 | suta
+7 | tin  | 17 | bon-tin | 70 | tina
+8 | vat  | 18 | bon-vat | 80 | vata
+9 | zon  | 19 | bon-zon | 90 | zona
 
 **Hundreds = acta**
 
 100 =  bon-acta
 200 =  cut-acta
-300 =  don-acta
-400 =  fot-acta
-500 =  gun-acta
-600 =  hot-acta
-700 =  jon-acta
-800 =  lut-acta
-900 =  mon-acta
+300 =  gin-acta
+400 =  kat-acta
+500 =  rin-acta
+600 =  sut-acta
+700 =  tin-acta
+800 =  vat-acta
+900 =  zon-acta
 
-100 =  bon-acta
 101 =  bon-acta-bon
 102 =  bon-acta-cut
 111 =  bon-bona-bon
 120 =  bon-cuta
 122 =  bon-cuta-cut
-150 =  bon-guna
-155 =  bon-guna-gun
+150 =  bon-rina
+155 =  bon-rina-rin
 
-200 =  cut-acta
-201 =  cut-acta-bun
+201 =  cut-acta-bon
 202 =  cut-acta-cut
 
-300 =  dona_rute acto_acta
-301 =  dona_rute acto_buna
-322 =  dona_rute cuto_cuta
+301 =  gin-acta-bon
+322 =  gin-cuta-cut
 
-**Thousands = tote**
+**Thousands = deca**
 
-1.000 = bun-tote
-2.000 = cut-tote
-3.000 = don-tote
-4.000 = fot-tote
-5.000 = gun-tote
-6.000 = hut-tote
-7.000 = jon-tote
-8.000 = lut-tote
-9.000 = mon-tote
+1.000 = bon-deca
+2.000 = cut-deca
+3.000 = gin-deca
+4.000 = kat-deca
+5.000 = rin-deca
+6.000 = sut-deca
+7.000 = tin-deca
+8.000 = vat-deca
+9.000 = zon-deca
 
-**Millions  = vote**
+**Millions  = mola**
 
-1.000.000 = bun-vote
-2.000.000 = cut-vote
-3.000.000 = don-vote
+1.000.000 = bon-mola
+2.000.000 = cut-mola
+3.000.000 = gin-mola
 ...
-5.655.230 = gun-vote hut-tote guna-gun cut-dona
-9.000.000 = mon-vote
+9.000.000 = zon-mola
 
 
-**Bullions = zute**
+**Billions = rica**
 
-1.000.000.000 = bun-zute
+1.000.000.000 = bon-rica
 
 
