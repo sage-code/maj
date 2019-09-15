@@ -23,9 +23,9 @@ x | maj | xx | maj      | xx | maj
 1 | bon | 11 | bona-bon | 10 | bona
 2 | cut | 12 | bona-cut | 20 | cuta
 3 | don | 13 | bona-don | 30 | dona 
-4 | fot | 14 | bona-fot | 40 | fota
-5 | gun | 15 | bona-gun | 50 | guna
-6 | hot | 16 | bona-hot | 60 | hota
+4 | fut | 14 | bona-fot | 40 | fota
+5 | gon | 15 | bona-gun | 50 | guna
+6 | hut | 16 | bona-hot | 60 | hota
 7 | jon | 17 | bona-jon | 70 | jona
 8 | lut | 18 | bona-lut | 80 | luta
 9 | mon | 19 | bona-mon | 90 | mona
