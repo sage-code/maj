@@ -17,7 +17,7 @@ m   n   o   p   r   s   t   u   v   W   x  y  z
 ```
 
 * Vowels   :  y a e i o u 
-* Trigraph :  ghe, ghi 
+* Trigraph :  dge, dgi 
 
 * Digraphs
 
@@ -27,18 +27,17 @@ maj| english | romanian
 ---|---------|--------------------
 ch | /she/.  | şe (cherry)
 ch | /shi/.  | şi (chicago)
-ks | /x  /.  | cs (sex)
-ke | /qe /.  | che
-ki | /qi /.  | chi
 ts | /tzi/.  | ţ
 ce | /tce/.  | ce  
 ci | /tci/.  | ci
-ge | /dge/.  | ge
-gi | /dgi/.  | gi
+ke | /qe /.  | che
+ki | /qi /.  | chi
+ge | /dge/.  | ghe
+gi | /dgi/.  | ghi
 
 ## Rarely used
 
-{ I X K W y Q }
+{ I X K W Q Y}
 
 **X** 
 * instead of x we use /ks/ at the end of words For example "sex" is written "seks".
@@ -48,17 +47,13 @@ gi | /dgi/.  | gi
 * can be used for /ki/. or /ke/. to avoid "chi", "che" in names.
 * also keep the "K" from respect for physics and to preserve kilo word. 
 
-**X**
-It is a simplification of digraph /ks/. or /gz/. It is present in most romantic languages. In (maj)  is is used rarely and only in foreign words.
+**Y**
+Comes from Greek and is very frequent in English but not in other languages. Most of the time is used for neologism borrowed from English. In (maj) "i" is used at the beginning of words, "y" is used at the end of words to transform a word into an attribute.
 
-**y**
-Comes from Greek and is very frequent in English but not in other languages. Most of the time is used for neologism borrowed from English. While "i" is very short, and used at the beginning of words, "y" is used at the end of words to transform a word into an attribute.
-
-For example: "seks" will be "seksy" not "seksi". "
+For example: "sex" will be "sexy" not "sexi". 
 
 **I**
-Since I looks luke "l" it will not be used. Instead we will use "Y" to replace "I" That is what "Y" is only used for.
-
+Since I looks luke "l" it will not be used. Instead we will use "Y" to replace "I" That is what "Y" is only used for. A word starting with "i" will be converted in Y at the beginning of any proposition. Propositions start with capital letters.
 
 ## Unused Q
 
@@ -90,7 +85,6 @@ Any combination of vowels and consonants are called syllable. Each word must con
  ia if il im in is it
  of oh om or
  uh ul un up us
- 
  
 **Last:** Words can end with "y":
 

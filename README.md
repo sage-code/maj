@@ -23,7 +23,7 @@ Basic rules for new language:
 
 **Punctuation:**
 ------------------------------------------------------------------------------
-1. A word that start with uppercase represent a person, animal or a device that can talk,
+1. A word that start with uppercase represent a person, animal or a device that can talk or move,
 1. A thing that can not talk or move or do anything but exist has a name starting with lowercase,
 1. A interrogative sentence start with question mark and end with a question mark,
 1. A declarative sentence start with exclamation mark and end with exclamation mark,

@@ -6,34 +6,6 @@
 * Interogativ: ke  = what is
 * Interogativ: ki  = who is
 
-## Articles
-
-ita = this   = aceasta
-ite = those  = acelea
-ica = 
-
-**So far:**
-
-ita = 
-
-**Noun**
-
-singular      | plural
---------------|-----------------------------
-mu = myself   | mos = we
-tu = you      | tos = you
-su = he/she   | sos = they
-lu = it       | les = things
-
-**Possessive**
-
-singular   | plural
------------|--------------------------------
-ma = mine  | mes = ours
-ta = yours | tes = yours
-sa = his   | ses = theirs
-la = its   | les = theirs
-
 **Close persons:**
 
 maj  | english            | romanian
