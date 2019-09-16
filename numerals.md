@@ -1,6 +1,6 @@
 ## Numerals 
 
-{ "namra", "namras" }
+{ "numa", "numas" }
 
 Verb: "conta" = counting
 
