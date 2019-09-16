@@ -30,10 +30,12 @@ ge | /dge/.  | ghe
 gi | /dgi/.  | ghi
 ch | /tci/.  | tce, tci
 
-
 ## Not used
 
-{ X K W Q}
+Maj do not use specific consonants and accents specific to other Romantic Languages:
+
+* { X K W Q } 
+* { ă â ö ü é è ç ...}
 
 **X** 
 * instead of X we use /cs/. For example "sex" is written "secs".
@@ -45,125 +47,128 @@ ch | /tci/.  | tce, tci
 * instead of W we use  "U" and "V" so it is replaced by "U" for example: Wisky is written Uiscy
 
 **Q** 
-Is most of the time used as { /qu/., /qe/. } but it can be replaced by { /ku/., /ki/., /ke/. }. It is not considered to be part of the Cornish, Estonian, Icelandic, Irish, Latvian, Lithuanian, Polish, Serbo-Croatian, Scottish Gaelic, Slovenian, Turkish, or Welsh alphabets. 
+Is not found in other modern alphabets:
 
-Q letter is not part of any word in (maj).
+* Cornish, Estonian, Icelandic, 
+* Irish, Latvian, Lithuanian, 
+* Polish, Serbo-Croatian, Scottish Gaelic, 
+* Slovenian, Turkish, or Welsh. 
 
 ## Vowels
 
+Maj has 5 vowels and 2 semivowels
+
 * Vowels    : { a e i o u } 
-* Semivowel : { w y j }
+* Semivowel : { y j }
 
 ## Consonants
 
 Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
-* plosive :  p, b, c, t, d, g
+* plosive :  b, c, d, p, t, g
 * nasal   :  m, n
 * liquid  :  l, r
 * fricative: f, v, s, z, h
 
 **combination:** 
 
-Combination CC is possible. Sometimes two conconants are pronounced like a different letter.
+Combination: CC is possible in Maj to form syllable.
 
 * "ts" is a single sound: ţ does not exist in alphabet
 * "ch" is a single sound: ş does not exist in alphabet
 
-Two consonants can be pronounced together but restrictions can apply:
+Other two consonants can be pronounced together but some restrictions apply:
 
-Approved combinations:
+* is not allowed to have two plosive constants together
+* combinations that can not be pronounced are banned
 
-br bs pl pr ps pt gr tl tm tr ts 
+**Approved**
+
+This combinations are possible:
+
+br bs 
 ch cl cm cn cr cs ct cv cz dl 
-dm dr dv
+dm dr dv gr tl tm tr ts 
+pl pr ps pt  
+mf mn mp ms mz
+nb nc nd nf ng nh nl nm np ns nt nv nz
 lb lc ld lf lg lm ln lp ls lt lv lz
 rb rc rd rf rg rh rl rm rn rp rs rt rz
 fl fr ft
-
-
-mf mn mp ms mz
-nb nc nd nf ng nh nl nm np ns nt nv nz
-
 sc sf sh sl sm sn sp sr st sv 
-
-vr  
-zb zd zg zm zn zv
-
-
+vr zb zd zg zm zn zv
 
 ## Diphthong
 
 Two vowels combined together into one are called diphthongs
 
+Strong vowels: { a  e  o } 
+Soft vowels:   { i  u }
+Semi vowels:   { j  y } 
+
+
 **Approved:**
 
-x |a  |e  |i  |o  |u   
---|---|---|---|---|----
-a | x |ae |ai |ao |au
-e |ea | x |ei |eo |eu
-i |ia |ie | x |io |iu
-o |oa |oe |oi | x |ou
-u |ua |ue |ui |uo | x
+x |a  |e  |i  |o  |u   | j | y |
+--|---|---|---|---|----|---|---|
+a | · |ae |ai |ao |au  |aj |ay |
+e |ea | · |ei |eo |eu  |ej |ey |
+i |ia |ie | · |io |iu  |ij | · |
+o |oa |oe |oi | · |ou  |oj |oy |
+u |ua |ue |ui |uo | ·  |uj |uy |
+j |ja |je |ji |jo |ju  | · |jy |
+y |ya |ye | . |yo |yu  |yj | · |
 
+**notes**
 
-## Phonemes
-
-Two letters close by that are pronounced in unique way are called phoneme. 
-
+* One letter is never duplicated in Maj
+* Combinations that can not be pronounced are banned
 
 ## Syllable
 
-Maj is a syllabus oriented language. To create syllable it uses some strong rules:
-
-* Any combination of vowels and consonants are called syllable. 
+A combination of vowels and consonants are called syllable. 
 
 **structure:**	
 
+To describe the structure of a syllable we use following convention:
+
 * In parenthesis (), I have put the optionals. 
-* I have used: V = Vowel, C = Constant
+* I have used: V = Vowel, C = Constant, D = Diphtong, S = Semivowels
 * Alternatives are separated with vertical bar: "\|"
+* I use + to suggest concatenation of two parts
 
 ```python
 # syllable structure
 syllable ::= onset   + rhyme
 onset    ::= initial +(medial)
-ryme     ::= nucleus +(coda)
+rime     ::= nucleus +(coda)
 
 # onset components
 initial  ::= C|V
-medial   ::= {h s e i e i} present only when initial in {s t g c} in digraphs
+medial   ::= {h s e i } is used in digraphs
 
-# ryme is the last part
-nucleus  ::= V|VV
+# rime is the last part
+nucleus + coda
+nucleus  ::= V|VV|VS
 coda     ::= C|CC
 ```
 
-**Rules:**
+**Description:**
 
-* A syllabus can start with vowel or consonant
-* A syllabus can not start with two vowels
-* A diphthong can be used only for nucleus
- 
-**Examples**
- a  e  i  o  u  
- 
- 
-**Extra:** Vowel terminated with "y":
+A syllable ...:
 
-ay ey oy uy by cy dy fy gy hy jy ly my ny oy py ry sy ty vy zy
-
+* can start with vowel or consonant
+* can not start with a strong diphthong
+* can have a nucleus formed from one or two vowels
+* can have a coda formed with one or two consonants
+ 
 ## Word connectivity
 
-* A syllable at the begging of word can start with vowel or consonant,
-* A syllable that have "coda" present is used only for end of words,
-* A syllabus that end with "i" can not be used at end of word,
-* A syllabus at end of word can use semivowel "y" instead of "i",
-* It is not allowed to duplicate a letter as result of connectivity.
-* Composite words using two words must be separated by dash like: "bon-acta = 100"
-
-
-
-
-
+1. Strong vowels can be used as syllable at beginning of words: { a e o u }
+2. Digraphs starting with semi-vocals can be used at beginning of words: { j y }
+3. Syllable that have "coda" present are used only for end of words,
+4. Syllable that end with "i" can not be used at end of word,
+5. Syllable at end of word can use semivowel "y j" instead of "i",
+6. It is not allowed to duplicate a letter as result of connectivity,
+7. Composite words using two words must be separated by dash like this: "bon-acta = 100"
 
