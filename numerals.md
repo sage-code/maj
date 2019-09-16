@@ -20,18 +20,6 @@ All numerals are created from base of 3 letters.
 * Numerals to not have genre, past or future
 * There is no ordinal form: "first", "second", "third"
 
-** Alphabet
-
-```
------------------------------------------------
-A   B   C   D   E   F   G   H   I   J   K  L
-a   b   c   d   e   f   g   h   i   j   k  l
------------------------------------------------
-M   N   O   P   R   S   T   U   V   W   X  Y  Z
-m   n   o   p   r   s   t   u   v   W   x  y  z
------------------------------------------------
-```
-
 **Then = bon-act**
 
 x | maj  | xx | maj      | xx | maj       

@@ -1,26 +1,38 @@
-by ba be bi bo bu
-cy ca ce ci co cu
-dy da de di do du
-fy fa fe fi fo fu
-gy ga ge gi go gu
-hy ha he hi ho hu
-jy ja je ji jo ju
-ly la le li lo lu
-my ma me mi mo mu
-ny na ne ni no nu
-py pa pe pi po pu
-ry ra re ri ro ru
-sy sa se si so su
-ty ta te ti to tu
-vy va ve vi vo vu
-zy za ze zi zo zu
+ba be bi bo bu
+ca ce ci co cu
+da de di do du
+fa fe fi fo fu
+ga ge gi go gu
+ha he hi ho hu
+ja je ji jo ju
+ka ke ki ko ku
+la le li lo lu
+ma me mi mo mu
+na ne ni no nu
+pa pe pi po pu
+ra re ri ro ru
+sa se si so su
+ta te ti to tu
+va ve vi vo vu
+xa xe xi xo xu
+ya ye yi yo yu
+za ze zi zo zu
 
-yb yc yd yf yg yh yj yl ym yn yp yr ys yt yv yz yx yy
-ab ac ad af ag ah aj al am an ap ar as at av az ax ay
-eb ec ed ef eg eh ej el em en ep er es et ev ez ex ey
-ib ic id if ig ih ij il im in ip ir is it iv iz ix iy
-ob oc od of og oh oj ol om on op or os ot ov oz ox oy
-ub uc ud uf ug uh uj ul um un up ur us ut uv uz ux uy
+bc bd bf bg bh bl bm bn bp br bs bt bv bz
+cb cd cf cg ch cl cm cn cp cr cs ct cv cz
+db dc df dg dh dl dm dn dp dr ds dt dv dz
+fb fc fd fg fh fl fm fn fp fr fs ft fv fz
+gb gc gd gf gh gl gm gn gp gr gs gt gv gz
+hb hc hd hf hg hl hm hn hp hr hs ht hv hz
+lb lc ld lf lg lh lm ln lp lr ls lt lv lz
+mb mc md mf mg mh ml mn mp mr ms mt mv mz
+nb nc nd nf ng nh nl nm np nr ns nt nv nz
+pb pc pd pf pg ph pl pm pn pr ps pt pv pz
+rb rc rd rf rg rh rl rm rn rp rs rt rv rz
+sb sc sd sf sg sh sl sm sn sp sr st sv sz
+tb tc td tf tg th tl tm tn tp tr ts tv tz
+vb vc vd vf vg vh vl vm vn vp vr vs vt vz
+zb zc zd zf zg zh zl zm zn zp zr zs zt zv
  
 aba abe abi abo abu aby aca ace aci aco
 acu acy ada ade adi ado adu ady afa afe
@@ -284,3 +296,5 @@ zoh zoi zoj zol zom zon zop zor zos zot
 zou zov zoy zoz zua zub zuc zud zue zuf
 zug zuh zui zuj zul zum zun zuo zup zur
 zus zut zuv zuy zuz 
+
+

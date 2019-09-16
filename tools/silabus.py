@@ -1,8 +1,11 @@
+# -----------------------------------------
+# Generate random syllabus for Maj language
+# -----------------------------------------
 import random
 
-vowls = 'aeiou'
+vowls = 'yaeiou'
 conso = 'bcdfghjlmnprstvz'
-conso = 'bcdfghjlmnprstvzxy'
+conso2 = 'bcdfghjlmnprstvzxy'
 
 # set2 = set()
 set2 = []
