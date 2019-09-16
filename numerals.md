@@ -117,14 +117,15 @@ x | maj  | xx | maj      | xx | maj
 
 **Binary**
 
-bit | unsigned    | signed
-----|-------------|--------
-1   | bon bin     | bon sib   
-8   | vat bin     | vat sib 
 
-**Hexadecimal**
+bit | maj      |origin|maj    | English
+----|----------|------|-------|----------------
+0/1 | act/bon  |act   |acton  | binary
+8   | vat      |bon 1 |bovat  | short
+16  | bona-sut |cut 2 |cuvat  | short integer
+32  | gina-cut |pat 4 |pavat  | integer
+64  | suta-pat |vat 8 |vavat  | long integer
 
-"hex"
 
 
 
