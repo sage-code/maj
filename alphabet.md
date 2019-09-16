@@ -144,7 +144,7 @@ onset    ::= initial +(medial)
 rime     ::= nucleus +(coda)
 
 # onset components
-initial  ::= C|V
+initial  ::= C| V | SV
 medial   ::= {h s e i } is used in digraphs
 
 # rime is the last part
@@ -165,10 +165,10 @@ A syllable ...:
 ## Word connectivity
 
 1. Strong vowels can be used as syllable at beginning of words: { a e o u }
-2. Digraphs starting with semi-vocals can be used at beginning of words: { j y }
+2. Soft digraphs, starting with semi-vocals can be used at beginning of words: { j y }
 3. Syllable that have "coda" present are used only for end of words,
 4. Syllable that end with "i" can not be used at end of word,
-5. Syllable at end of word can use semivowel "y j" instead of "i",
+5. Syllable at end of word will replace "i" with semivowel "y" or "j",
 6. It is not allowed to duplicate a letter as result of connectivity,
 7. Composite words using two words must be separated by dash like this: "bon-acta = 100"
 
