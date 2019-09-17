@@ -26,10 +26,10 @@ Basic rules for new language:
 
 1. Maj is not for encryption,
 1. Maj is not for poetry,
-1. Maj is not design to be easy to learn,
-1. Maj will avoid tight related synonyms,
-1. Maj has rules for antonyms,
-1. Maj do not have intonation rules.
+1. Maj will avoid synonyms,
+1. Maj has simplistic grimmer,
+1. Maj do not have intonation,
+1. Maj do not use diacritics.
 
 **Punctuation:**
 ------------------------------------------------------------------------------------------------
