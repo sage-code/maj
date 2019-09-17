@@ -4,9 +4,11 @@ Maj is an artificial language for chat and games:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
-1. Clear and articulated,
-2. Easy to be spoken,
-3. Reduced complexity.
+1. Articulated and logic,
+2. Storage efficient, 
+3. Easy to be spoken,
+4. Easy to be typed,
+5. Kiwi friendly.
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
@@ -15,10 +17,19 @@ Basic rules for new language:
 1. Not all sentences start with capital letters,
 1. One single letter is pronounced always the same,
 1. One single letter do not represent anything else but itself,
-1. One word that represent a person, object or action must have a single meaning,
-1. One word that represent a number must have a single meaning,
+1. One word must have a single meaning and is context free,
+1. One word representing a number must have a single meaning,
 1. Shortest words are two characters long,
-1. Punctuation symbols can be represented by words.
+1. Punctuation symbols can be represented by words,
+
+**To simplify**
+
+1. Maj is not for encryption,
+1. Maj is not for poetry,
+1. Maj is not design to be easy to learn,
+1. Maj will avoid tight related synonyms,
+1. Maj has rules for antonyms,
+1. Maj do not have intonation rules.
 
 **Punctuation:**
 ------------------------------------------------------------------------------------------------
@@ -80,5 +91,3 @@ Words are selected from 12 different languages.
 * We use a search algorithm to find best words from mentioned languages,
 * We use an algorithm to replace the most expensive words with new words.
 * We test the language to find words hard to pronounce or too much alike.
-
-
