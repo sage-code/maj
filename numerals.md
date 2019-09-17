@@ -37,71 +37,56 @@ x | maj  | xx | maj      | xx | maj
 
 **Hundreds = acta**
 
-00  =  acta
-000 =  acta-act
+00 =  acta
 
-100 =  bon-acta
-200 =  cut-acta
-300 =  gin-acta
-400 =  pat-acta
-500 =  rin-acta
-600 =  sut-acta
-700 =  tin-acta
-800 =  vat-acta
-900 =  zon-acta
-
-101 =  bon-acta-bon
-102 =  bon-acta-cut
-111 =  bon-bona-bon
-120 =  bon-cuta
-122 =  bon-cuta-cut
-
-150 =  bon-rina
-151 =  bon-rina-bon
-155 =  bon-rina-rin
-
-201 =  cut-acta-bon
-202 =  cut-acta-cut
-222 =  cut-cuta-cut
-
-301 =  gin-acta-bon
-322 =  gin-cuta-cut
-333 =  gin-gina-gin
+```
+ 100 =  bon-acta
+ 200 =  cut-acta
+ 300 =  gin-acta
+ 400 =  pat-acta
+ 500 =  rin-acta
+ 600 =  sut-acta
+ 700 =  tin-acta
+ 800 =  vat-acta
+ 900 =  zon-acta
+```
 
 **Thousands = mola**
 
 000 = mola
 
-1.000 = bon-mola
-2.000 = cut-mola
-3.000 = gin-mola
-4.000 = pat-mola
-5.000 = rin-mola
-6.000 = sut-mola
-7.000 = tin-mola
-8.000 = vat-mola
-9.000 = zon-mola
+```
+ 1.000 = bon-mola
+ 2.000 = cut-mola
+ 3.000 = gin-mola
+ 4.000 = pat-mola
+ 5.000 = rin-mola
+ 6.000 = sut-mola
+ 7.000 = tin-mola
+ 8.000 = vat-mola
+ 9.000 = zon-mola
+```
 
 **Millions  = rica**
 
 000.000 = rica
 
+```
 1.000.000 = bon-rica
 2.000.000 = cut-rica
 3.000.000 = gin-rica
-...
 9.000.000 = zon-rica
-
+```
 
 **Billions = veca**
 
 000.000.000   = veca
 
+```
 1.000.000.000 = bon-veca
 2.000.000.000 = cut-veca
-...
 9.000.000.000 = zon-veca
-
+```
 
 **Binary**
 
