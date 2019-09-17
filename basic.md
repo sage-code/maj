@@ -1,6 +1,27 @@
 # Basic Grammar
 
-## Logic
+
+## Fundamental
+
+bun = good  
+mal = wrong / bad
+
+**from Latin**
+vero = the truth
+faso = the lie   
+
+## Greetings
+
+**from latin**
+salu ala = hello   everybody
+vale ala = goodbye everybody (Latin adio)
+
+**composite form**
+vida so  = see you soon
+vida go  = see you around
+vida ne  = see you never
+
+## Verbs
 
 Existential verbs are part of logic:
 
@@ -16,8 +37,17 @@ pas, pasa = to happen
 can, cana = to be able (kan do)
 hut, huta = should 
 
-* Root of verb is follos by "a" to "infinitive" case.
+* Root of verb is using "a" suffix for "infinitive" case.
+
+# Logic
+
 * Logical values are: {vre, fau}, from French.
+
+ver = true   
+fas = false
+ala = everyone
+tot = everything
+not = nothing
 
 **operations**
 
@@ -39,11 +69,11 @@ ui  | yes
 
 Interrogation is created with { ci, ce } from Italian: {qui, que}
 
-* ci ese aci  = who is here?
-* ci ese aca  = who is there?
-* ce cur aca  = what is there?
-* ce ese su   = what is he?
-* ce har su   = how  is he like?
+* ci ser aci     = who is here?
+* ci ser aca     = who is there?
+* ce cur aca     = what is there?
+* ce ser su      = what is he ?
+* ce har su      = what he look like ?
 * ce ipe har su  = how old is he?
 * ce loc har tu  = where are you from?
 
@@ -58,10 +88,10 @@ Interrogation is created with { ci, ce } from Italian: {qui, que}
 ## Articles
        
 ---------------------------------------------
+la  = 
 isa = this
 ise = these
 con = with
-
 
 **Noun**
 
@@ -71,6 +101,7 @@ mu = myself   | mos = we
 tu = you      | tos = you
 su = he/she   | sos = they
 cu = it       | cos = the things
+
 
 **Possessive**
 
@@ -91,12 +122,12 @@ ipe = time
 
 Maj     | English
 --------|--------------------------------
-ga      | in general
 ia      | present (now)
 va      | future
 ro      | past
 ne      | never
-
+so      | soon
+go      | in general
 
 ## Examples
 
