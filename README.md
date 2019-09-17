@@ -43,7 +43,7 @@ Basic rules for new language:
 1. There are 3 times:      {past, present, future}
 1. There are 3 places:     {here, near by, far away}
 1. There are 3 attitudes:  {like, fear, hate}
-1. There are 3 sentiments: {happy, sad, wried}
+1. There are 3 sentiments: {happy, sad, worried}
 1. There are 5 basic needs:{hungry, thirsty, bored, tired, could}
 1. There are 5 kind of things: { people, animals, machines, objects, spirits }
 1. There are 5 elements: { fluid, clay, solid, gas, fire }.
@@ -53,3 +53,7 @@ Basic rules for new language:
 ------------------------------------------------------------------------------
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
+* [Basic grammar](basic.md)
+* [Verbs](verbs.md)
+* [Words](words.md)
+
