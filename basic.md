@@ -17,8 +17,9 @@ salu ala = hello   everybody
 vale ala = goodbye everybody (Latin adio)
 
 **composite form**
-vida so  = see you soon
-vida go  = see you around
+vida vi  = see you soon
+vida va  = see you sometime
+vida ga  = see you around
 vida ne  = see you never
 
 ## Verbs
@@ -57,12 +58,12 @@ no  | not
 or  | or
 et  | and
 si  | if
-ui  | yes
 
-**values**
+**answers**
 
 * ui   = yea, affirmative
-* no   = ney, negative
+* no   = ney, negative 
+
 
 **Interrogative:**
 
@@ -83,9 +84,8 @@ Interrogation is created with { ci, ce } from Italian: {qui, que}
 * ce ipe cur = when is going to happen
 * ce loc cur = where is going to happen
 
-
 ## Articles
-       
+     
 ---------------------------------------------
 la  = 
 isa = this
@@ -121,27 +121,27 @@ ipe = time
 
 Maj     | English
 --------|--------------------------------
+ga      | in general (infinitive)
 ia      | present (now)
-va      | future
-ro      | past
-ne      | never
-so      | soon
-go      | in general
+va      | sometime in the future
+vi      | soon in the future
+ro      | sometime in the past
+ne      | never 
 
 ## Examples
 
 **singulars**
 
-* su pala-ga = in general he play
+* su pala-go = in general he play
 * su pala-ia = he is playing right now
 * su pala-va = he will play in the future 
 * su pala-ro = he play some time ago
 * su pala-ne = it never play
 
 **plural**
-* mos pala-ga = we play 
-* tos pala-ga = you play
-* sos pala-ga la = they play over there
+* mos pala-go = we play 
+* tos pala-go = you play
+* sos pala-go la = they play over there
 
 **Notes:** 
 
@@ -150,14 +150,14 @@ go      | in general
 
 ## Transform a verb in attribute using "y"
 
-* Verb is loosing last focal and it is replaced by "y"
+* Root of the verv + "y" convert the verb into adverb
 
 paly = playful
 
 **So far:**
-* mu ese paly = I'm playful
-* tu ese paly = you are playful 
-* su ese paly = he, it or she is playful
+* mu ser paly = I'm playful
+* tu ser paly = you are playful 
+* su ser paly = he, it or she is playful
 
 ## Locations
 
@@ -174,6 +174,6 @@ aca   | there         | acolo
 
 maj   | english       | romanian   
 ------|---------------|-----------------
-de    | from          | de la  
-la    | to            | pana la/ acolo
+de    | from          | de  
+la    | to            | până
 
