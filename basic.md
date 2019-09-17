@@ -5,7 +5,7 @@
 Existential verbs are part of logic:
 
 ese = to be     
-has = to have   
+har = to have   
 ave = to posses 
 ase = to do
 cur = to occur/happening
@@ -35,14 +35,11 @@ Interrogation is created with { ci, ce } from Italian: {qui, que}
 
 * ci ese aci  = who is here?
 * ci ese aca  = who is there?
-* ce cur aca  = what is happening over there
-
-* ce ese su  = what it is (what he is doing in general)
-* ce has su  = how  is he like
-
-
-* ce ipe has su  = how old is he?
-* ce loc has tu  = where are you from?
+* ce cur aca  = what is there?
+* ce ese su   = what is he?
+* ce har su   = how  is he like?
+* ce ipe har su  = how old is he?
+* ce loc har tu  = where are you from?
 
 * ce ave su  = what is his inheritance (how reach is he)
 * ce ase tu  = what are are you doing
@@ -66,14 +63,16 @@ singular      | plural
 mu = myself   | mos = we
 tu = you      | tos = you
 su = he/she   | sos = they
+cu = it       | cus = the things
 
 **Possessive**
 
 singular   | plural
 -----------|--------------------------------
-ma = mine  | mes = ours
-ta = yours | tes = yours
-sa = his   | ses = theirs
+ma = mine  | mas = ours
+ta = yours | tas = yours
+sa = his   | sas = theirs
+ca = it's  | cas = the things 
 
 **Time:**
 
