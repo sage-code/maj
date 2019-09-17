@@ -3,39 +3,35 @@
 # -----------------------------------------
 import random
 
-vowls = 'yaeiou'
-conso = 'bcdfghjlmnprstvz'
-conso2 = 'bcdfghjlmnprstvzxy'
+vowls   = list('aeiou')
+letter  = list('abcdefghijklmnoprstuvxyz')
+counte  = len(letter) 
 
-# set2 = set()
-set2 = []
-
-# generate words
-word = ""
-for x in conso:
-  for y in vowls:
-    word = word + " "+ x + y
-  set2.append(word)
-  word = ""
+def get():
+  y = random.randint(0,counte-1)
+  return letter[y]
 pass;
 
-result = set2
-for word in result:
-    print(word);  
-
-# set2 = set()
-set1 = []
+# row data
+my_set = set()
 
 # generate words
-word = ""
-for x in vowls:
-  for y in conso2:
-    word = word + " "+ x + y
-  set1.append(word)
+for i in range(1,8000):
   word = ""
+  x = get()  
+  y = get()
+  # quality control
+  if x == y:   continue;
+  if (x not in vowls) and (y not in vowls): continue;
+  # create silabus
+  word = x + y
+  my_set.add(word)
 pass;
 
-result = set1
+# print result
+result = sorted(my_set)
+previous = "_"
 for word in result:
-    print(word);  
-        
+    if word[0] != previous[0]: print()
+    print(word,end=" ");  
+    previous = word;

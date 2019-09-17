@@ -59,11 +59,10 @@ et  | and
 si  | if
 ui  | yes
 
-
 **values**
 
-* Afirmativ  : ui   = yes
-* Negativ    : no   = not
+* ui   = yea, affirmative
+* no   = ney, negative
 
 **Interrogative:**
 

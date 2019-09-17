@@ -2,8 +2,9 @@
 ## I have found 1985 words
 import random
 
-# generate random vowels
+# generate random silabus
 vowls = 'aeiou'
+conso = 'bcdfghjlmnprstvzkx'
 def vowl():
   y = random.randint(0,4)
   o = vowls[y]
@@ -50,13 +51,12 @@ for i in range(1,20000):
   else:
      set2.add(word)
 pass;
-print(len(set2))      # 169
-result = sorted(list(set2))
-# (- rez2
-a = word[0]
-i = 0
 
+## statistics
+print(len(set2)) 
+result = sorted(list(set2))
 ## print all words on 10 columns
+a = word[0] ; i = 0
 for word in result:
     if word[0] == a: 
       if i == 10:
@@ -69,3 +69,4 @@ for word in result:
       print(word, end=" ");  
     i += 1      
     a = word[0]   
+pass;    
