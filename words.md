@@ -1,11 +1,3 @@
-## Logic
-
-* Afirmativ  : da   = yes
-* Negativ    : no   = not
-
-* Interogativ: ke  = what is
-* Interogativ: ki  = who is
-
 **Close persons:**
 
 maj  | english            | romanian

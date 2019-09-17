@@ -1,9 +1,34 @@
-## Basic Grammar
+# Basic Grammar
+
+## Logic
+
+Logical values are: {vre, fau}, from French.
+
+**operations**
+
+Maj     | English
+--------|--------------------------------
+si      | if
+not     | not
+oth     | or
+eth     | and
+
+**values**
+
+* Afirmativ  : ui   = yes
+* Negativ    : no   = not
+
+**Interrogative:**
+
+* chi  = who  (from Italian but pronounced /tci/ )
+* che  = what (from Italian but pronounced /tce/ )
 
 ## Articles
+       
+---------------------------------------------
 
 ita = this   = aceasta
-ike = those  = acelea
+ice = those  = acelea
 
 **Noun**
 
@@ -29,7 +54,7 @@ la = its   | les = theirs
 * Composite words are using "-" to link two words close together,
 * Linked words are pronounced almost as a single word
 
-Time    | English
+Maj     | English
 --------|--------------------------------
 no      | never 
 gi      | frequent
@@ -63,10 +88,10 @@ ro      | in the past
 * Verb is loosing last focal and it is replaced by "y"
 
 paly = playful
-eso  = to be
+se   = to be
 
 **So far:**
-* tu eso paly = you are playful 
+* tu se paly = you are playful 
 
 ## Locations
 
@@ -74,3 +99,13 @@ maj   | english       | romanian
 ------|---------------|-----------------
 cerca | near me       | aproape
 lehos | far away      | departe
+
+## Directions
+
+maj   | english       | romanian   
+------|---------------|-----------------
+de    | from          | de la 
+a     | to            | pana la
+      | toward        | spre
+
+

@@ -4,7 +4,7 @@ Rules of alphabet:
 
 * Vowels are stand alone sounds: A E I O U
 * Constants have a special pronunciation not available in alphabet:
-* There are 45 letters in (maj) alphabet.
+* There are 45 letters in Maj alphabet.
 
 ```
 ------------------------------------------
@@ -16,26 +16,47 @@ m   n   o   p   r   s   t   u   v   y   z
 ------------------------------------------
 ```
 
+Reading alphabet is different from other Romantic Languages:
+
+* After each consonant you add a short "eo" like in "pitgeon",
+* Sound `a`  is more like controlled sound `ar` linke in "car",
+* Sound `i`  is similar to English "ee" in "sheep",
+* Sound `e`  is similar to English "e"  in "melon",
+* Sound `y`  is identical to English sound "y" in "play", "yes",
+* Sound `j`  is similar to English sound "si" in "fusion".
+
+
 * Digraphs
 
 This sounds are created from two letters that are pronounced.
 
-maj| english | romanian
----|---------|--------------------
-sh | /ch/.   | şe, şi
-ts | /tz/.   | ţe, ţi
-ce | /qe/.   | che  
-ci | /qi/.   | chi
-ge | /dge/.  | ghe
-gi | /dgi/.  | ghi
-ch | /tci/.  | tce, tci
+maj| romanian  | english
+---|-----------|---------
+ts | ţe, ţi    | tz
+ce | che       | ke
+ci | chi       | ki
+ge | ghe       | ge
+gi | ghi       | gi
+ch | ce, ci    | ch 
+sh | şe, şi    | she
+
+**notes:**
+
+* sound "shi" is like "ssi" in word "passion" 
+* sound "sha" is like "tio" in "addiction"
 
 ## Not used
 
-Maj do not use specific consonants and accents specific to other Romantic Languages:
+Maj do not use consonants and accents specific to other Romantic Languages:
 
 * { X K W Q } 
 * { ă â ö ü é è ç ...}
+
+**Notes**
+
+* Maj accept names from other Romantic languages without phonetic translation:  
+* For example "New York", "Chicago" or "Washington" are acceptable names in Maj.
+* For example "France" is accepted but "français" is translated to "franchez"
 
 **X** 
 * instead of X we use /cs/. For example "sex" is written "secs".
@@ -117,12 +138,13 @@ i |ia |ie | · |io |iu  |ij | · |
 o |oa |oe |oi | · |ou  |oj |oy |
 u |ua |ue |ui |uo | ·  |uj |uy |
 j |ja |je |ji |jo |ju  | · |jy |
-y |ya |ye | . |yo |yu  |yj | · |
+y |Ya |Ye | . |Yo |Yu  |Yj | · |
 
 **notes**
 
 * One letter is never duplicated in Maj
 * Combinations that can not be pronounced are banned
+* First letter in diphthong can not be "y" but "Y".
 
 ## Syllable
 
