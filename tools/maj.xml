@@ -2,7 +2,7 @@
     <UserLang name="Maj Spec" ext="md maj" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="2" decimalSeparator="0" />
-            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="yes" Keywords8="no" />
         </Settings>
         <KeywordLists>
             <Keywords name="Comments">00# 01 02((EOL)) 03&lt;!-- 04--&gt;</Keywords>
@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1">,</Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">= - + / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \|</Keywords>
+            <Keywords name="Operators1">, = - + / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \|</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -29,9 +29,9 @@
             <Keywords name="Keywords3">* _ ~ </Keywords>
             <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin&#x000D;&#x000A;acta bina cuta gina pata rina suta tina vata zina&#x000D;&#x000A;mola rica veca&#x000D;&#x000A;eva oda&#x000D;&#x000A;acton bivat cuvat pavat vavat &#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords5">A E I O U Y J</Keywords>
-            <Keywords name="Keywords6">si or et ui no&#x000D;&#x000A;ci ce&#x000D;&#x000A;mu tu su lu&#x000D;&#x000A;ma ta sa &#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords7">ese has ave ase cur&#x000D;&#x000A;de la aci aca&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords8">ita ite isa ise ipe loc&#x000D;&#x000A;ga ia va ro ne&#x000D;&#x000A;mos tos sos los</Keywords>
+            <Keywords name="Keywords6">si or et ui no ci ce&#x000D;&#x000A;mu tu su lu cu mos tos sos cos&#x000D;&#x000A;ma ta sa ca mas tas sas cas&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords7">ese har ave ase cur&#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords8">ita ite isa ise ipe loc con&#x000D;&#x000A;ga ia va ro ne&#x000D;&#x000A;de la aci aca</Keywords>
             <Keywords name="Delimiters">00![ 00[ 01\ 02] 02] 03``` 03` 03~~~ 04\ 05``` 05((EOL `)) 05~~~ 06*** 07\ 08((EOL ***)) 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15** 16\ 17((EOL **)) 18* 19\ 20((EOL *)) 21&quot; 22 23&quot;</Keywords>
         </KeywordLists>
         <Styles>

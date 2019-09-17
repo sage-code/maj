@@ -4,14 +4,20 @@
 
 Existential verbs are part of logic:
 
-ese = to be     
-har = to have   
-ave = to posses 
-ase = to do
-cur = to occur/happening
+ser, sera = to be     
+har, hara = to have   
+ave, avea = to posses 
+ase, asea = to do
+cur, cura = to occur/happening
+and, anda = to go
+vid, vida = to see
+aud, auda = ti hear
+pas, pasa = to happen
+can, cana = to be able (kan do)
+hut, huta = should 
 
-
-Logical values are: {vre, fau}, from French.
+* Root of verb is follos by "a" to "infinitive" case.
+* Logical values are: {vre, fau}, from French.
 
 **operations**
 
@@ -54,6 +60,7 @@ Interrogation is created with { ci, ce } from Italian: {qui, que}
 ---------------------------------------------
 isa = this
 ise = these
+con = with
 
 
 **Noun**
@@ -63,7 +70,7 @@ singular      | plural
 mu = myself   | mos = we
 tu = you      | tos = you
 su = he/she   | sos = they
-cu = it       | cus = the things
+cu = it       | cos = the things
 
 **Possessive**
 
