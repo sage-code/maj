@@ -2,16 +2,27 @@
 
 ## Logic
 
+Existential verbs are part of logic:
+
+ese = to be     
+has = to have   
+ave = to posses 
+ase = to do
+cur = to occur/happening
+
+
 Logical values are: {vre, fau}, from French.
 
 **operations**
 
-Maj     | English
---------|--------------------------------
-si      | if
-not     | not
-oth     | or
-eth     | and
+Maj | English
+----|--------------------------------
+no  | not
+or  | or
+et  | and
+si  | if
+ui  | yes
+
 
 **values**
 
@@ -20,15 +31,33 @@ eth     | and
 
 **Interrogative:**
 
-* chi  = who  (from Italian but pronounced /tci/ )
-* che  = what (from Italian but pronounced /tce/ )
+Interrogation is created with { ci, ce } from Italian: {qui, que}
+
+* ci ese aci  = who is here?
+* ci ese aca  = who is there?
+* ce cur aca  = what is happening over there
+
+* ce ese su  = what it is (what he is doing in general)
+* ce has su  = how  is he like
+
+
+* ce ipe has su  = how old is he?
+* ce loc has tu  = where are you from?
+
+* ce ave su  = what is his inheritance (how reach is he)
+* ce ase tu  = what are are you doing
+* ce ipe tu  = what time is at your place
+* ce loc tu  = where are you right now
+* ce ipe cur = when is going to happen
+* ce loc cur = where is going to happen
+
 
 ## Articles
        
 ---------------------------------------------
+isa = this
+ise = these
 
-ita = this   = aceasta
-ice = those  = acelea
 
 **Noun**
 
@@ -37,7 +66,6 @@ singular      | plural
 mu = myself   | mos = we
 tu = you      | tos = you
 su = he/she   | sos = they
-lu = it       | los = things
 
 **Possessive**
 
@@ -46,9 +74,10 @@ singular   | plural
 ma = mine  | mes = ours
 ta = yours | tes = yours
 sa = his   | ses = theirs
-la = its   | les = theirs
 
 **Time:**
+
+ipe = time
 
 * Verbs can be followed by time but the verb remain unchanged,
 * Composite words are using "-" to link two words close together,
@@ -56,27 +85,27 @@ la = its   | les = theirs
 
 Maj     | English
 --------|--------------------------------
-no      | never 
-gi      | frequent
-oi      | now
-ia      | in the future
-ro      | in the past
+ga      | in general
+ia      | present (now)
+va      | future
+ro      | past
+ne      | never
+
 
 ## Examples
 
 **singulars**
 
-* mu pala-oi = I play now
-* tu pala-ia = you will play later
+* su pala-ga = in general he play
+* su pala-ia = he is playing right now
+* su pala-va = he will play in the future 
 * su pala-ro = he play some time ago
-* lu pala-no = it never play
-* lu pala-gi = it play frequent
+* su pala-ne = it never play
 
 **plural**
-* mos pala-ia = we will play later
-* tos pala-ia = you all will play later
-* sos pala-ro = they all have play in the past 
-* los pala-no = the things never play
+* mos pala-ga = we play 
+* tos pala-ga = you play
+* sos pala-ga la = they play over there
 
 **Notes:** 
 
@@ -88,24 +117,27 @@ ro      | in the past
 * Verb is loosing last focal and it is replaced by "y"
 
 paly = playful
-se   = to be
 
 **So far:**
-* tu se paly = you are playful 
+* mu ese paly = I'm playful
+* tu ese paly = you are playful 
+* su ese paly = he, it or she is playful
 
 ## Locations
+
+loc = location
 
 maj   | english       | romanian
 ------|---------------|-----------------
 cerca | near me       | aproape
 lehos | far away      | departe
-
+aci   | here          | aici
+aca   | there         | acolo
+      
 ## Directions
 
 maj   | english       | romanian   
 ------|---------------|-----------------
-de    | from          | de la 
-a     | to            | pana la
-      | toward        | spre
-
+de    | from          | de la  
+la    | to            | pana la/ acolo
 
