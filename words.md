@@ -41,31 +41,38 @@ miedo = miedo-sy    = frightening
 
 **Nouns:**
 
-* Nouns can have a root word and a filling or coda. 
-   * "ud" if is liquid, 
-   * "ut" if is solid.
-   * "am" if is for drinking
-   * "im" if is for eating
-   * "an" if is for entertainment
-   * "um" not good for drinking or eating
-   
-* Nouns can be articulated or non articulated.
+1. Nouns can be articulated or non articulated.
 
 singular     | plural
 -------------|-------------
 la  = this   | lo  = that
 los = those  | las = these 
 
-**pattern** 
+2. Nouns can have a root word and a filling or coda. 
 
-* la  panim    = the bread
-* los cucim    = the cookies
-* la  lelam    = the milk
-* la  acuam    = the water
-* los uveim    = the preps
-* la  banim    = the bananas
-* los aplim    = the apples
+   * "am" for drinks or food 
+   * "im" for sweet drinks
+   * "ol" is for drinks or food with alcohol      
+   * "e"  or "es" for fruits
 
-dictionary is work in progress
+**patterns** 
+
+* la  panas = the bread
+* la  acuas = the water
+* la  banas = the banana
+* la  jusim = sweet juice  
+  
+* los cacim = the cookies
+* los cheol = the chocolate with alcohol
+
+**numerals**
+
+Numerals can be used with nouns to specify how many:
+
+* bin bane = one bananas
+* cut mere = two apples
+* gin uves = three grapes
+ 
+Dictinary  is work in progress
 
 
