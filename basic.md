@@ -6,49 +6,26 @@
 bun = good  
 mal = wrong / bad
 
-**from Latin**
-vero = the truth
-faso = the lie   
 
 ## Greetings
 
 **from latin**
-salu ala = hello   everybody
-vale ala = goodbye everybody (Latin adio)
+salu las toto = hello   everybody
+vale las toto = goodbye everybody (Latin adio)
 
-**composite form**
-vida vi  = see you soon
-vida va  = see you sometime
-vida ga  = see you around
-vida ne  = see you never
-
-## Verbs
-
-Existential verbs are part of logic:
-
-ser, sera = to be     
-har, hara = to have   
-ave, avea = to posses 
-ase, asea = to do
-cur, cura = to occur/happening
-and, anda = to go
-vid, vida = to see
-aud, auda = ti hear
-pas, pasa = to happen
-can, cana = to be able (kan do)
-hut, huta = should 
+toto = everyone
+noto = nobody
+soto = somebody
 
 * Root of verb is using "a" suffix for "infinitive" case.
+
 
 # Logic
 
 * Logical values are: {vre, fau}, from French.
 
-ver = true   
-fas = false
-ala = everyone
-tot = everything
-not = nothing
+vero = the truth
+faso = the lie   
 
 **operations**
 
@@ -58,21 +35,29 @@ no  | not
 or  | or
 et  | and
 si  | if
+es  | is
+in  | in
+
 
 **answers**
 
 * ui   = yea, affirmative
 * no   = ney, negative 
 
-
 **Interrogative:**
 
 Interrogation is created with { ci, ce } from Italian: {qui, que}
+ 
+maj   | english  | spanish | romanian
+------|----------|---------|---------
+ci?   | who?     | que     | cine
+ce?   | what?    | qué     | ce
+du?   | where?   | donde   | unde
+cu?   | when?    | cuando  | când
+vu?   | whither? |¿adónde  | âncotro
 
-* ci ser aci     = who is here?
-* ci ser aca     = who is there?
-* ce cur aca     = what is there?
-* ce ser su      = what is he ?
+      
+* ci sera aci    = who is here?
 * ce har su      = what he look like ?
 * ce ipe har su  = how old is he?
 * ce loc har tu  = where are you from?
@@ -87,19 +72,18 @@ Interrogation is created with { ci, ce } from Italian: {qui, que}
 ## Articles
      
 ---------------------------------------------
-la  = 
-isa = this
-ise = these
-con = with
+la  = this  
+las = these
+lo  = that
+los = those   
 
 **Noun**
 
 singular      | plural
 --------------|-----------------------------
-mu = myself   | mos = we
-tu = you      | tos = you
-su = he/she   | sos = they
-cu = it       | cos = the things
+me = myself   | mos = we
+te = you      | tos = you
+se = he/she   | sos = they
 
 
 **Possessive**
@@ -109,7 +93,6 @@ singular   | plural
 ma = mine  | mas = ours
 ta = yours | tas = yours
 sa = his   | sas = theirs
-ca = it's  | cas = the things 
 
 **Time:**
 
@@ -123,22 +106,28 @@ Maj     | English
 --------|--------------------------------
 ga      | in general (infinitive)
 ia      | present (now)
-va      | sometime in the future
-vi      | soon in the future
+ve      | sometime in the future
 ro      | sometime in the past
 ne      | never 
 
-## Examples
+**time based greetings**
 
-**singulars**
+Using verb: veda = to see
 
-* su pala-go = in general he play
+veda ga  = see you around
+veda ia  = see you soon
+veda ve  = see you sometime
+veda ne  = I will never see you again
+
+**singular conjugation**
+
+* su pala-ga = in general he play
 * su pala-ia = he is playing right now
 * su pala-va = he will play in the future 
 * su pala-ro = he play some time ago
 * su pala-ne = it never play
 
-**plural**
+**plural conjugation**
 * mos pala-go = we play 
 * tos pala-go = you play
 * sos pala-go la = they play over there
@@ -161,19 +150,55 @@ paly = playful
 
 ## Locations
 
+* Locations are so important in Maj.
+* Common locations are terminated in "u".
+
 loc = location
 
-maj   | english       | romanian
-------|---------------|-----------------
-cerca | near me       | aproape
-lehos | far away      | departe
-aci   | here          | aici
-aca   | there         | acolo
+maj | english       | Spanish
+----|---------------|-----------------
+rou | north         | norte
+sou | south         | sur
+etu | est           | este
+usu | west          | oeste
+      
+
+maj	| english	|spanish
+----| ----------------------------
+ogu	| on 	    |en
+ovu	| over	    |terminado
+inu	| inside    |dentro
+deu	| above	    |encima
+seu	| under	    |debajo
+neu	| near	    |cerca
+fau	| far 	    |lejos
+aru	| up	    |arriba
+idu	| down	    |abajo
+pau	| prior	    |anterior
+jau	| next	    |próximo
+feu	| front	    |frente
+bau	| back	    |espalda
+ibu	| forward	|adelante
+oru	| backward  |hacia atrás
+dou | where     |donde   
+cou | when      |cuando  
+anu | whither   |¿adónde 
+heu | here      | aqui
+zeu | there     | hay 
+
       
 ## Directions
 
+Directions are even more important than locations.
+
 maj   | english       | romanian   
 ------|---------------|-----------------
-de    | from          | de  
-la    | to            | până
+de    | from          | da  
+po    | po            | până
+  
+Examples:
+  
+* de dou po dou  = from where to where?
+* de heu po zeu  = from here  to there!
+* de zeu po heu  = from there to here!
 

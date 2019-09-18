@@ -4,11 +4,13 @@ Maj is an artificial language for chat and games:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
-1. Articulated and logic,
-2. Storage efficient, 
-3. Easy to be spoken,
-4. Easy to be typed,
-5. Kiwi friendly.
+1. Articulated,
+2. Efficient, 
+3. Easy to speak,
+4. Easy to type,
+5. Easy to be learned,
+6. Wiki friendly,
+7. Popular.
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
