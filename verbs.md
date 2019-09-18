@@ -1,6 +1,6 @@
 # Some verbs
 
-All verbs have base form:
+All verbs have an invariable form:
 
 maj  | english       | romanian
 -----|---------------|-----------------
@@ -13,6 +13,10 @@ kija | drawings      | deseneaza
 cola | painting      | picteaza
 kabo | writing       | scrie
 lire | reading       | citesc  
+papa | eating        | papa
+beba | drinking      | beau
+caca | making pu     | a se căca
+pipi | making pee    | a se pişa
 
 # Selecting verbs
 
@@ -20,7 +24,7 @@ We select verbs from several languages.
 
 maj  |english   |spanish    |franch    |latin
 -----|----------|-----------|----------|---------------
-pova |to able   |poder      |pouvoir   |possit
+pova |to be able|poder      |pouvoir   |possit
 lesa |to let    |dejar      |laisser   |dimittere
 pica |to like   |gustar     |aimer     |amare
 dira |to mean   |significar |dire      |dicere
@@ -32,7 +36,7 @@ vela |to will   |voluntad   |vouloir   |velle
 inca |to begin  |empezar    |commencer |incipere
 pesa |to think  |pensar     |penser    |cogitare
 diva |to become |convertirse|devenir   |facti sunt
-huta |should    |debería    |devrait   |ut
+huta |it should |debería    |devrait   |ut
 
 
 # Top 100 Spanish 
@@ -138,19 +142,5 @@ spanish   | veda    |ver          | to see
 original  | vita    |vivir        | to be alive 
 latin     | vica    |conquer      | to to conquerer
 latin     | reda    |volver       | to return/come back
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

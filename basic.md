@@ -44,30 +44,25 @@ in  | in
 * ui   = yea, affirmative
 * no   = ney, negative 
 
+**Purpose:**
+
+* fo   = for
+* zu   = through
+
 **Interrogative:**
 
-Interrogation is created with { ci, ce } from Italian: {qui, que}
+Interrogation is created with { ci, ce, co, cu } from Italian: {chi, che, como}
  
 maj   | english  | spanish | romanian
 ------|----------|---------|---------
 ci?   | who?     | que     | cine
 ce?   | what?    | qué     | ce
-du?   | where?   | donde   | unde
-cu?   | when?    | cuando  | când
-vu?   | whither? |¿adónde  | âncotro
+co?   | how?     | como    | cum
 
       
-* ci sera aci    = who is here?
-* ce har su      = what he look like ?
-* ce ipe har su  = how old is he?
-* ce loc har tu  = where are you from?
-
-* ce ave su  = what is his inheritance (how reach is he)
-* ce ase tu  = what are are you doing
-* ce ipe tu  = what time is at your place
-* ce loc tu  = where are you right now
-* ce ipe cur = when is going to happen
-* ce loc cur = where is going to happen
+* ci sera  = who is ?
+* ce hara  = how is he like ?
+* co pica  = how is your food ?
 
 ## Articles
      
@@ -81,10 +76,9 @@ los = those
 
 singular      | plural
 --------------|-----------------------------
-me = myself   | mos = we
-te = you      | tos = you
-se = he/she   | sos = they
-
+me = myself   | mes = we
+te = you      | tes = you
+se = he/she   | ses = they
 
 **Possessive**
 
@@ -180,11 +174,8 @@ feu	| front	    |frente
 bau	| back	    |espalda
 ibu	| forward	|adelante
 oru	| backward  |hacia atrás
-dou | where     |donde   
-cou | when      |cuando  
-anu | whither   |¿adónde 
-heu | here      | aqui
-zeu | there     | hay 
+heu | here      |aqui
+zeu | there     |hay 
 
       
 ## Directions
@@ -193,12 +184,21 @@ Directions are even more important than locations.
 
 maj   | english       | romanian   
 ------|---------------|-----------------
-de    | from          | da  
-po    | po            | până
+de    | from          | de la
+po    | to            | până la
   
 Examples:
-  
-* de dou po dou  = from where to where?
-* de heu po zeu  = from here  to there!
-* de zeu po heu  = from there to here!
 
+
+**interrogative**
+
+* ce loc te anda?    = where are you going?
+* ce ipe te pala?    = when are you plaing?
+* ce loc mes anda?   = where are we going?
+* ce ipe mes pala?   = when are we plaing?
+
+**expressions**
+  
+* de dou po dou!     = from where to where!
+* de zeu po heu!     = from there to here!
+* po loc ce te pica! = where you like!

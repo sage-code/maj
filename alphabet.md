@@ -50,7 +50,7 @@ sh | şe, şi    | she
 Maj do not use consonants and accents specific to other Romantic Languages:
 
 * { X K W Q } 
-* { ă â ö ü é è ç ...}
+* { ă â ö ü é è ç ş ţ ...}
 
 **Notes**
 
