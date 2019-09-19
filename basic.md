@@ -37,7 +37,7 @@ et  | and
 si  | if
 es  | is
 in  | in
-
+ca  | like
 
 **answers**
 
@@ -55,30 +55,35 @@ Interrogation is created with { ci, ce, co, cu } from Italian: {chi, che, como}
  
 maj   | english  | spanish | romanian
 ------|----------|---------|---------
-chi?  | who?     | que     | cine
-che?  | what?    | qué     | ce
-cho?  | how?     | como    | cum
-
+ci?   | who?     | que     | cine
+ce?   | what?    | qué     | ce
+co?   | how?     | como    | cum
+ou?   | where?   | dónde   | unde
       
-* chi sera  = who is ?
-* che hara  = how is he like ?
-* cho pica  = how is your food ?
+* ci sera  = who is ?
+* ce hara  = how is he like ?
+* co pica  = how is your food ?
+* ou sera  = where are you?
 
-Symbol "h" is silent:
+**notes:** 
 
-* che  = que 
-* chi  = qui  
-* cho  = quo
+* Symbol "ci" is pronounced like Spanish "qu",
+* Symbol "ou" is pronounced like Franch "ou".
 
 ## Articles
+
+The article do not alter a word, just underline the value of the word in sentences. It puts the word on the spot so we know exactly what are you talking about. It is improving the semantic of propositions. But in Maj it has also a role to specify the singular or plural.
      
 ---------------------------------------------
 la  = this  
 las = these
 lo  = that
 los = those   
+---------------------------------------------
 
-**Noun**
+**Pronoun**
+
+Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
 singular      | plural
 --------------|-----------------------------
@@ -93,6 +98,12 @@ singular   | plural
 ma = mine  | mas = ours
 ta = yours | tas = yours
 sa = his   | sas = theirs
+
+**Notes:**
+
+* pronouns are always using lowercase characters,
+* pronoun can replacing the article role,
+* pronoun will indicate plural if used with "s"
 
 **Time:**
 
@@ -121,16 +132,16 @@ veda ne  = I will never see you again
 
 **singular conjugation**
 
-* su pala-ga = in general he play
-* su pala-ia = he is playing right now
-* su pala-ve = he will play in the future 
-* su pala-ro = he play some time ago
-* su pala-ne = it never play
+* se pala-ga = in general he play
+* se pala-ia = he is playing right now
+* se pala-ve = he will play in the future 
+* se pala-ro = he play some time ago
+* se pala-ne = it never play
 
 **plural conjugation**
-* mos pala-go = we play 
-* tos pala-go = you play
-* sos pala-go la = they play over there
+* mes pala-ga = we play 
+* tes pala-ga = you play
+* ses pala-ga la = they play over there
 
 **Notes:** 
 
@@ -139,14 +150,12 @@ veda ne  = I will never see you again
 
 ## Transform a verb in attribute using "y"
 
-* Root of the verv + "y" convert the verb into adverb
-
 paly = playful
 
 **So far:**
-* mu ser paly = I'm playful
-* tu ser paly = you are playful 
-* su ser paly = he, it or she is playful
+* me sera paly = I'm playful
+* te sera paly = you are playful 
+* se sera paly = he, it or she is playful
 
 ## Locations
 
@@ -198,13 +207,14 @@ Examples:
 
 **interrogative**
 
-* che loc te  anda?   = where are you going?
-* che ipe te  pala?   = when are you plaing?
-* che loc mes anda?   = where are we going?
-* che ipe mes pala?   = when are we plaing?
+* ce loc te  anda?   = where are you going?
+* ce ipe te  pala?   = when are you plaing?
+* ce loc mes anda?   = where are we going?
+* ce ipe mes pala?   = when are we plaing?
 
 **expressions**
   
 * de dou po dou!      = from where to where!
 * de zeu po heu!      = from there to here!
-* de loc che te pica! = from where you like!
+* de loc ce te pica!  = from where you like!
+
