@@ -1,24 +1,21 @@
-# Motivation
+# Use case
 
 
-History has proven that a language is a powerful possession of a nation. 
+History has proven that a language is powerful tool for: 
 
-* Learning a new language is difficult,
-* We spend years in schools just learning our nation language,
-* Few people spend time to learn a second language,
-* Even fewer know a third or more languages,
+* We spend a decade in schools learning our primary language,
+* Few people have spare time to spend to learn a second language,
+* Even fewer know a third or more languages, and usually older people.
 
-Once a language is learned there is available a new resource for you to tap into.
+Once a language is learned this become a resource of knowledge.
 
 # History
 
-I will not look into history of languages. This domain is close to infinity.
-
-Conclusions:
+From history of languages:
 
 * natural languages are evolving but slow,
-* sometimes a language is pushed forward,
-* constructed languages failed.
+* sometimes a language need a pushed forward,
+* constructed languages failed so far.
 
 # But why
 
@@ -26,21 +23,21 @@ A constructed language can have good use-cases.
 
 **As a project:**
 
-* study grammar and vocabulary of other languages
-* experiment with different algorithms
-* making examples of intelligent programs
+* study grammar and vocabulary of other languages,
+* experiment with different new words,
+* making examples of intelligent programs.
 
 **As a product**
 
-Once the language is finished and usable:
+Once the language is stabilized it can be usable for:
 
 1.games 
 2.movies
 3.chat
 4.teaching
 5.storage
-6.translation
-7.thinking 
+6.translations
+7.making AI
 
 * First use case is clear. Making video games,
 * For making movies with aliens that do not speak an Earth language,
@@ -48,9 +45,9 @@ Once the language is finished and usable:
 * For teaching other languages, science or other skills,
 * For storing world knowledge and wisdom,
 * For making translation between languages,
-* For thinking correctly in another language that helps you to think faster.
+* For making computer thinking AI.
 
-The last use-case is actually the most valuable of all. We think usually in a language. It takes decades to master a language until you can use it to make rational thinking. Having an efficient language will enable you to think better. However this objective is difficult to achieve without a proper community and history.
+The last use-case is actually the most valuable of all. We think usually in a language. It takes decades to master a language until you can use it to make rational thinking. Having an efficient language will enable you to think better when making AI for computers.
 
 # For peace
 

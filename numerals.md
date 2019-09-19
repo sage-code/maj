@@ -15,6 +15,8 @@ All numerals are created from base of 3 letters.
 1. for 10..90 you could use long form "bin-act" or short form  "binea"
 1. for thousands, millions and billions we use "e" suffix.
 
+## Level 1
+
 **Note** 
 
 * Numerals to not have genre, past or future
@@ -34,6 +36,9 @@ x | maj  | xx | maj        | xx | maj   | origin  |
 7 | tin  | 17 | binea-tin  | 70 | tinea | tin-act |
 8 | vat  | 18 | binea-vat  | 80 | vatea | vat-act |
 9 | zin  | 19 | binea-zin  | 90 | zinea | zin-act |
+
+
+## Level 2
 
 **Hundreds = acta**
 
@@ -90,8 +95,9 @@ x | maj  | xx | maj        | xx | maj   | origin  |
 9,000,000.000 = zin-vecea
 ```
 
-**Binary**
+## Level 3
 
+**Binary**
 
 bit | maj      |origin|maj    | English
 ----|----------|------|-------|----------------

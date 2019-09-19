@@ -2,6 +2,8 @@
 
 All verbs have an invariable form:
 
+**Level 1**
+
 maj  | english       | romanian
 -----|---------------|-----------------
 hafa | laughing      | râde
@@ -18,7 +20,7 @@ beba | drinking      | beau
 caca | making pu     | a se căca
 pipi | making pee    | a se pişa
 
-# Selecting verbs
+**Level2** 
 
 We select verbs from several languages.
 
@@ -39,7 +41,7 @@ diva |to become |convertirse|devenir   |facti sunt
 huta |it should |debería    |devrait   |ut
 
 
-# Top 100 Spanish 
+**Level3**
 
 Origin    | Maj     |Spanish      | English
 ----------|---------|-------------|---------------
