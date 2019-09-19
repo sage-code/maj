@@ -113,14 +113,14 @@ Is not found in other modern alphabets:
 
 Maj has 5 vowels and 2 semivowels
 
-* Vowels    : { a e i o u } 
-* Semivowel : { y j }
+* Vowels     : { a e i o u } 
+* Semivowels : { y j l }
 
 ## Consonants
 
 Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
-* plosive :  b, c, d, p, t, g
+* plosive :  b, d, c, p, t, g
 * nasal   :  m, n
 * liquid  :  l, r
 * fricative: f, v, s, z, h
@@ -138,20 +138,20 @@ Other two consonants can be pronounced together but some restrictions apply:
 * is not allowed to have two plosive constants together
 * combinations that can not be pronounced are not used
 
-**Approved**
+**Examples**
 
 After a short analysis, these CC combinations are usable:
 
 br bs 
-ch cl cm cn cr cs ct cv cz dl 
-dm dr dv gr tl tm tr ts 
+cl cm cn cr cs ct cv cz dl 
+dm dr dv gr tl tm tr 
 pl pr ps pt  
 mf mn mp ms mz
 nb nc nd nf ng nh nl nm np ns nt nv nz
 lb lc ld lf lg lm ln lp ls lt lv lz
 rb rc rd rf rg rh rl rm rn rp rs rt rz
 fl fr ft
-sc sf sh sl sm sn sp sr st sv 
+sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
 
 ## Diphthong
@@ -226,5 +226,24 @@ A syllable ...:
 2. Diphtongs, starting with semi-vocals can be used at beginning of words: { y j l }
 3. Syllable that have "coda" present are used only for end of words,
 4. Composite words using two words must be separated by dash: "bon-acta"
+
+# Complexity
+
+Letters and sounds are more or less expensive to make. This can be used to give a Const for complexity of a word. So less expensive words can be learned faster. Gradualy we can introduce more more complex words for advanced speakers.
+
+Cost   |Sounds
+-------|-------------------------------
+  1    |a, e, i, o, u        
+  2    |m, n, l, y 
+  3    |b, c, d, p, t, g
+  4    |f, s, h,
+  5    |v, j, s, r  
+  6    |ts, sh, ch, gu
+
+**calculation**  
+Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
+
+
+  
 
 

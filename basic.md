@@ -164,16 +164,16 @@ paly = playful
 
 loc = location
 
-maj | english       | Spanish
-----|---------------|-----------------
-rou | north         | norte
-sou | south         | sur
-etu | est           | este
-usu | west          | oeste
+maj | english   | Spanish
+----|-----------|-----------------
+rou | north     | norte
+sou | south     | sur
+etu | est       | este
+usu | west      | oeste
       
 
 maj	| english	|spanish
-----| ----------------------------
+----| ----------|------------------
 ogu	| on 	    |en
 ovu	| over	    |terminado
 inu	| inside    |dentro

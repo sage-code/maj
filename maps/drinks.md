@@ -3,23 +3,35 @@ Most frequent drinks.
 * All alcoholic drinks are terminated with "ol"
 * If a root word is too short we use "am" or "om"
 
+Level 1
+
 maj     | english    |  spanish    | franch     |italian    | romanian
 --------|------------|-------------|------------|-----------|-----------------
-acuam   | water      | agua        | eau        | acqua     | apă
-hugom   | juice      | jugo        | jus        | succo     | suc
-alcol   | alcohol    | alcohol     | alcool     | alcool    | alcool
-frape   | milk shake | leche batudo| lait frappé| frappè    | milkshake
-buzol   | drink (buz)| beber       | boisson    | bere      | băutură
+acua    | water      | agua        | eau        | acqua     | apă
+hugo    | juice      | jugo        | jus        | succo     | suc
+late    | milk       | leche       | lait       | latte     | lapte
+chai    | tea        | té          | thé        | tè        | ceai
+
+
+Level 2
+
+maj     | english    |  spanish    | franch     |italian    | romanian
+--------|------------|-------------|------------|-----------|-----------------
 botla   | bottle     | botella     | bouteille  | bottiglia | sticla
-cafea   | coffee     | café        | café       | caffè     | cafea
-berol   | beer       | cerveza     | bière      | birra     | bere
-braol   | brandy     | coñac       | brandy     | brandy    | coniac
 glase   | ice        | hielo       | glace      | ghiaccio  | gheaţă
+frape   | milk shake | leche batudo| lait frappé| frappè    | milkshake
+cafea   | coffee     | café        | café       | caffè     | cafea
 shery   | sherry     | jerez       | sherry     | sherry    | sherry
-lapte   | milk       | leche       | lait       | latte     | lapte
 fesco   | soft drink | refresco    | gazeuse    | bibita    | racoritoare
 sidre   | cider      | sidra       | cidre      | sidro     | cidru
-cheai   | tea        | té          | thé        | tè        | ceai
+
+Level 3 (over 21)
+
+maj     | english    |  spanish    | franch     |italian    | romanian
+--------|------------|-------------|------------|-----------|-----------------
+braol   | brandy     | coñac       | brandy     | brandy    | coniac
+buzol   | drink (buz)| beber       | boisson    | bere      | băutură
+berol   | beer       | cerveza     | bière      | birra     | bere
+alcol   | alcohol    | alcohol     | alcool     | alcool    | alcool
 vinol   | wine       | vino        | vin        | vino      | vin
 vodol   | vodka      | vodka       | vodka      | vodka     | vodcă
-

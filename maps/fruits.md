@@ -5,25 +5,33 @@ All fruits are nouns, and have an invariable form.
 * Most fruits are terminated with "e". 
 * Some fruits can borrow "s" from other languages.
 
+**Level 1**
+
 maj    |  english   | spanish     |  franch      |  romanian
 -------|------------|-------------|--------------|-------------------
+leme   |  lemon     | limón       |  citron      |  lămâie
+mere   |  apple     | manzana     |  Pomme       |  măr
+mure   |  blackberry| mora        |  la mûre     |  mure
+pere   |  pear      | pera        |  poire       |  pară
+pine   |  pineapple | piña        |  ananas      |  ananas
+bane   |  banana    | plátano     |  banane      |  banană
+uvas   |  grape     | uva         |  grain       |  strugure
+
+**Level 2**
+
+maj    |  english   | spanish     |  franch      |  romanian
+-------|------------|-------------|--------------|-------------------
+frute  |  fruit     | fruta       |  fruit       |  fruct
 arade  |  cranberry | arándano    |  canneberge  |  merisor
 plume  |  plum      | ciruela     |  prune       |  prună
 secos  |  prune     | ciruela     |  (seca)      |  prună uscata
 cocos  |  coconut   | coco        |  coco noix   |  nuca de cocos
 piche  |  peach     | durazno     |  pêche       |  piersică
 frese  |  strawberry| fresa       |  fraise      |  căpșună
-frute  |  fruit     | fruta       |  fruit       |  fruct
 guves  |  guava     | guayaba     |  goyave      |  guava
 figus  |  fig       | higo        |  figure      |  Fig
 citre  |  lime      | lima        |  citron vert |  lămâie verde
-leme   |  lemon     | limón       |  citron      |  lămâie
-mere   |  apple     | manzana     |  Pomme       |  măr
-pepe   |  melon     | melón       |  melon       |  pepenele galben
-mure   |  blackberry| mora        |  la mûre     |  mure
+pepen  |  melon     | melón       |  melon       |  pepenele galben
 orehe  |  orange    | naranja     |  Orange      |  portocale
 rasin  |  raisin    | pasa de uva |  raisin      |  stafidă
-pere   |  pear      | pera        |  poire       |  pară
-pine   |  pineapple | piña        |  ananas      |  ananas
-bane   |  banana    | plátano     |  banane      |  banană
-uvas   |  grape     | uva         |  grain       |  strugure
+
