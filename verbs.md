@@ -116,7 +116,7 @@ english   | itra    |presentar    | to introduce/present
 latin     | poda    |producir     | to produce
 latin     | mana    |quedar       | to stay
 franch    | vala    |querer       | to want
-Origin    | pefa    |realizar     | to achieve
+origin    | pefa    |realizar     | to achieve
 tuekish   | maca    |recibir      | to receive
 spanish   | reco    |reconocer    | to recognize
 franch    | repa    |recordar     | to remember

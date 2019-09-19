@@ -55,14 +55,20 @@ Interrogation is created with { ci, ce, co, cu } from Italian: {chi, che, como}
  
 maj   | english  | spanish | romanian
 ------|----------|---------|---------
-ci?   | who?     | que     | cine
-ce?   | what?    | qué     | ce
-co?   | how?     | como    | cum
+chi?  | who?     | que     | cine
+che?  | what?    | qué     | ce
+cho?  | how?     | como    | cum
 
       
-* ci sera  = who is ?
-* ce hara  = how is he like ?
-* co pica  = how is your food ?
+* chi sera  = who is ?
+* che hara  = how is he like ?
+* cho pica  = how is your food ?
+
+Symbol "h" is silent:
+
+* che  = que 
+* chi  = qui  
+* cho  = quo
 
 ## Articles
      
@@ -117,7 +123,7 @@ veda ne  = I will never see you again
 
 * su pala-ga = in general he play
 * su pala-ia = he is playing right now
-* su pala-va = he will play in the future 
+* su pala-ve = he will play in the future 
 * su pala-ro = he play some time ago
 * su pala-ne = it never play
 
@@ -192,13 +198,13 @@ Examples:
 
 **interrogative**
 
-* ce loc te anda?    = where are you going?
-* ce ipe te pala?    = when are you plaing?
-* ce loc mes anda?   = where are we going?
-* ce ipe mes pala?   = when are we plaing?
+* che loc te  anda?   = where are you going?
+* che ipe te  pala?   = when are you plaing?
+* che loc mes anda?   = where are we going?
+* che ipe mes pala?   = when are we plaing?
 
 **expressions**
   
-* de dou po dou!     = from where to where!
-* de zeu po heu!     = from there to here!
-* po loc ce te pica! = where you like!
+* de dou po dou!      = from where to where!
+* de zeu po heu!      = from there to here!
+* de loc che te pica! = from where you like!
