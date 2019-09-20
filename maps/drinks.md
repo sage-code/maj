@@ -2,8 +2,15 @@
 
 * All alcoholic drinks are terminated with "ol"
 * If a root word is too short we use "am" or "om"
+* Some drinks have a form of plural that means something else:
 
-To drink: beba
+acue  = waters (river and lakes)
+late  = dairy products
+fesce = soft drinks
+
+**related verb**
+
+To drink: beba-go
 
 **Level 1**
 

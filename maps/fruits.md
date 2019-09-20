@@ -2,8 +2,10 @@
 
 All fruits are nouns, and have an invariable form.
 
-* Most fruits are terminated with "e". 
-* Some fruits can borrow "s" from other languages.
+* Most fruits are terminated with "a" (singular) "e" plural. 
+* Some fruits can borrow "s" from other languages 
+* For  fruits that are very sweet we ad "as" or "os" to the end.
+* Fruits that are not terminated in "a" do not have plural form.
 
 **Level 1**
 
@@ -28,8 +30,8 @@ secos  |  prune     | ciruela     |  (seca)      |  prună uscata
 cocos  |  coconut   | coco        |  coco noix   |  nuca de cocos
 piche  |  peach     | durazno     |  pêche       |  piersică
 frese  |  strawberry| fresa       |  fraise      |  căpșună
-guves  |  guava     | guayaba     |  goyave      |  guava
-figus  |  fig       | higo        |  figure      |  Fig
+guvas  |  guava     | guayaba     |  goyave      |  guava
+figas  |  fig       | higo        |  figure      |  Fig
 citre  |  lime      | lima        |  citron vert |  lămâie verde
 pepen  |  melon     | melón       |  melon       |  pepenele galben
 orehe  |  orange    | naranja     |  Orange      |  portocale

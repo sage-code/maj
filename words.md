@@ -1,5 +1,7 @@
 **Close persons:**
 
+Nouns are usually terminated with "a".
+
 maj  | english            | romanian
 -----|--------------------|-----------------
 Mama | mother             | mama
@@ -7,16 +9,30 @@ Tata | father             | tata
 Lola | baby sitter        | ingrijitoare
 Nana | grand mother       | bunica
 Sana | grand father       | bunicu
-Sata | Santa Claus        | mos Craciun
 Doda | nurse              | doctorita
 Duda | doctor             | doctor
 
+**Note:** 
+
+1. Nouns representing leaving beings are starting with uppercase.
+2. Person names are written with all capital letters.
+
+* SANA     = Santa Claus
+* CHICAGO  = The city of Chicago
+* Maj      = Language Maj
+
 **verbs**
 
-Verns can be terminated like nouns with a, but verbs are composite with time information. 
+Verbs can be terminated like nouns with "a".
 
-* Tata esta-go ferio.
-* Mama esta-go triso.
+* Tata esta ferio.
+* Mama esta triso.
+
+Verbs can be composite with time information. 
+
+
+* Tata esta-go curio.
+* Mama esta-go icodo.
 
 
 **adjectives:**
@@ -60,10 +76,10 @@ isa = that   | ise = those
 
 **patterns** 
 
-* ita  pana = the bread
-* ita  acua = the water
-* ita  bana = the banana
-* ita  jusi = sweet juice  
+* ita  pana   = the bread
+* ita  acua   = the water
+* ita  banana = the banana
+* ita  hugaos = sweet juice  
   
 * ite chcos = the cookies with chocolate
 * ite cheol = the chocolate with alcohol
