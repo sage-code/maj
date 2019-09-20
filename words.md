@@ -1,6 +1,8 @@
+# Classification of words
+
 **Close persons:**
 
-Nouns are usually terminated with "a".
+Nouns are from 3 up to 6 letters long but usually 4.
 
 maj  | english            | romanian
 -----|--------------------|-----------------
@@ -21,23 +23,32 @@ Duda | doctor             | doctor
 * CHICAGO  = The city of Chicago
 * Maj      = Language Maj
 
-**verbs**
+## verbs
 
-Verbs can be terminated like nouns with "a".
+The verbs have a root of 4 characters and is ending with time preposition:
 
-* Tata esta ferio.
-* Mama esta triso.
+Maj     | English
+--------|--------------------------------
+ga      | sometime
+ra      | present 
+fa      | in the future
+pa      | in the past
+na      | never 
 
-Verbs can be composite with time information. 
+* Tata esta-ga ferio = Father is furious.
+* Mama esta-na triso = Mama is never sad.
 
+**notes:**
 
-* Tata esta-go curio.
-* Mama esta-go icodo.
+1. There is a problem. If a verb is ending with "ga", "ra", "fa", "pa", "na" it may be confusing to duplicate the termination. So we avoid to make verbs terminated with these groups!
 
+2. A verb is referring to somebody or something that is the subject of the discussion. In the above examples Tata and Mama are the subjects. The verb is used immediately after the subject. If the subject is not near by, it must be replaced by a pronoun before the verb otherwise the proposition may not make sense.
 
-**adjectives:**
+3. The verb do not change its root with the subject number. It is invariant in this regard. Therefore Maj is not a musical language, does not rime very well. This is not a defect, it is a feature. We think that this will reduce the learning effort.
 
-All adjectives are terminated with "o" :
+## adjectives:
+
+All adjectives are terminated with "o" and are 5 character long:
 
 maj   |romanian   |spanish   |english
 ------|-----------|----------|---------
@@ -56,7 +67,9 @@ calmo |linistit   |tranquilo |quiet
 icsio |excitat    |excitado  |excited
 furio |furios     |furioso   |furious
 
-**Nouns:**
+Adjectives can change termination to "a" or "e" to become noun.
+
+## Nouns
 
 1. Nouns can be articulated or non articulated.
 
@@ -65,33 +78,39 @@ singular     | plural
 ita = this   | ite = these
 isa = that   | ise = those
 
-* Common nouns are terminated with "a", semi-vocal or consonant. 
-* Common are never terminated with { e, i, o, u }
-* Location nouns are terminated with "u"
+1. Common nouns are terminated with "a" and are 4 characters long,
+2. Some nouns can change termination from "a" to "e" to become plural,
+3. Sometimes nouns have special termination, in this case there is no plural form:
 
-2. Sometimes nouns have special termination:
+* for beverage terminated with - ola (contains alcohol),
+* for food that contains a lot of sugar we use - osa,  
+* for nouns representing multiple pieces we use "e" at the end.
 
-* for beverage terminated with - ol (contains alcohol)
-* for food that contains a lot of sugar we use - os  
+uve = grapes      (invariant plural)
+uva = grape seed  (singular may be translated different in different languages)
 
 **patterns** 
 
 * ita  pana   = the bread
+* ite  pane   = these breads
 * ita  acua   = the water
 * ita  banana = the banana
-* ita  hugaos = sweet juice  
+* ite  banane = these bananas
+* ita  hugos  = sweet juice  
   
-* ite chcos = the cookies with chocolate
-* ite cheol = the chocolate with alcohol
+* ite checosa = the cookies with chocolate
+* ite cheola  = the chocolate with alcohol
 
-**numerals**
+##: numerals
 
 Numerals can be used with nouns to specify how many:
 
-* bin bane = one bananas
-* cut mere = two apples
-* gin uves = three grapes
+* ti coma-pa bin pana = you have eat one banana
+* ti coma-pa cut mere = you have eat two apples
+
+**Observe:** that last letter of noun is changing from "a" to "e" with numbers > 1.
  
 Dictinary  is work in progress
+
 
 
