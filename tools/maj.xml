@@ -24,13 +24,13 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">ui no or et si es in&#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;bun mal vero faso salu vale toto noto soto&#x000D;&#x000A;cin cen com udu cau</Keywords>
-            <Keywords name="Keywords2">rou sou etu usu&#x000D;&#x000A;ogu&#x000D;&#x000A;ovu&#x000D;&#x000A;inu&#x000D;&#x000A;abu&#x000D;&#x000A;bau&#x000D;&#x000A;neu&#x000D;&#x000A;fau&#x000D;&#x000A;aru&#x000D;&#x000A;idu&#x000D;&#x000A;pru&#x000D;&#x000A;csu&#x000D;&#x000A;fru&#x000D;&#x000A;pau&#x000D;&#x000A;fou&#x000D;&#x000A;atu&#x000D;&#x000A;ciu&#x000D;&#x000A;hiu&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;ra fa pa na&#x000D;&#x000A;da la bu su</Keywords>
-            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda &#x000D;&#x000A;actea binea cutea ginea patea rinea sutea tinea vatea zinea molea ricea vecea&#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
+            <Keywords name="Keywords1">ui no or et si es in&#x000D;&#x000A;ci ce co ud ca&#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;bun mal vero faso salu vale toto noto soto&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">rou sou etu usu&#x000D;&#x000A;ogu&#x000D;&#x000A;ovu&#x000D;&#x000A;inu&#x000D;&#x000A;abu&#x000D;&#x000A;udu&#x000D;&#x000A;bau&#x000D;&#x000A;neu&#x000D;&#x000A;fau&#x000D;&#x000A;aru&#x000D;&#x000A;idu&#x000D;&#x000A;pru&#x000D;&#x000A;csu&#x000D;&#x000A;fru&#x000D;&#x000A;pau&#x000D;&#x000A;fou&#x000D;&#x000A;atu&#x000D;&#x000A;ciu&#x000D;&#x000A;hiu&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;go ra fa pa na&#x000D;&#x000A;da la bu su</Keywords>
+            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda&#x000D;&#x000A;bina cuta gina pata rina suta tina vata zina&#x000D;&#x000A;acta mola rica veca &#x000D;&#x000A;acte mole rice vece &#x000D;&#x000A;&#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
             <Keywords name="Keywords5">tepu locu&#x000D;&#x000A;rasu fasu pasu</Keywords>
             <Keywords name="Keywords6"></Keywords>
-            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z</Keywords>
+            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z&#x000D;&#x000A;original turkish arabic portugese german english esperanto french italian latin romanian english</Keywords>
             <Keywords name="Keywords8">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
             <Keywords name="Delimiters">00![ 00[ 01\ 02] 02] 03``` 03` 03~~~ 04\ 05``` 05((EOL `)) 05~~~ 06*** 07\ 08((EOL ***)) 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15** 16\ 17((EOL **)) 18 19 20 21&quot; 22 23&quot;</Keywords>
         </KeywordLists>
