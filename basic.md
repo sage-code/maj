@@ -111,7 +111,7 @@ pasu  = past
 
 Maj     | English
 --------|--------------------------------
-go      | infinitive (no time)
+ga      | infinitive (no time)
 ra      | present (now)
 fa      | sometime in the future
 pa      | sometime in the past
@@ -206,8 +206,8 @@ Examples:
 
 Preposition "ud" can be used for location:
 
-* ud la loc tu anda-go? = where you going?
-* ud da loc tu vena-go? = where you coming from?
+* ud la loc tu anda-ga? = where you going?
+* ud da loc tu vena-ga? = where you coming from?
     
 * ud la locu ca ti pala-go? = are you plaing?
 * ud la locu ca ti anda-go? = are we going?

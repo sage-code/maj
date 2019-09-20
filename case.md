@@ -1,41 +1,36 @@
 # Use case
 
+**note:** in this document i use Maj capitalization!
 
-History has proven that a language is powerful tool for: 
 
-* We spend a decade in schools learning our primary language,
-* Few people have spare time to spend to learn a second language,
-* Even fewer know a third or more languages, and usually older people.
+there are the following reasons to build a new language:
 
-Once a language is learned this become a resource of knowledge.
-
-# History
-
-From history of languages:
-
+* we spend a decade in schools learning our natural language,
+* then few people have any spare time left for learn a second language,
+* even fewer know a third or other languages,
 * natural languages are evolving but slow,
 * sometimes a language need a pushed forward,
 * constructed languages failed so far.
 
-# But how
+# but how
 
-* We simplify the alphabet for Maj
-* We create strong simple grammar rules
-* We optimize the language using programming algorithms
+* we simplify the alphabet for Maj,
+* we create strong simple grammar rules,
+* we optimize the language using programming algorithms.
 
-# But why
+# but why
 
-A constructed language can have good use-cases.
+a constructed language can have good use-cases.
 
-**As a project:**
+**as a project:**
 
 * study grammar and vocabulary of other languages,
 * experiment with different new words,
 * making examples of intelligent programs.
 
-**As a product**
+**as a product**
 
-Once the language is stabilized it can be usable for:
+once the language is stabilized it can be usable for:
 
 1.games 
 2.movies
@@ -45,36 +40,29 @@ Once the language is stabilized it can be usable for:
 6.translations
 7.making AI
 
-* First use case is clear. Making video games,
-* For making movies with aliens that do not speak an Earth language,
-* For chat with friends that do not speack English,
-* For teaching other languages, science or other skills,
-* For storing world knowledge and wisdom,
-* For making translation between languages,
-* For making computer thinking AI.
+* first use case is clear: making video games,
+* for making movies with aliens that do not speak an Earth language,
+* for chat with friends that do not speak English,
+* for teaching other languages, science or other skills,
+* for storing world knowledge and wisdom,
+* for making translation between languages,
+* for making computer thinking AI.
 
-The last use-case is actually the most valuable of all. We think usually in a language. It takes decades to master a language until you can use it to make rational thinking. Having an efficient language will enable you to think better when making AI for computers.
+the last use-case is actually the most valuable of all. we think usually in a language. it takes decades to master a language until you can use it to make rational thinking. having an efficient language will enable you to think better when making AI for computers.
 
 # For peace
 
-Maj is a language of peace. While you learn this language you also learn peace. The language is used to create ideas of serenity and purity. This will influence your way of spending time and make you a better person.
+Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and purity. this will influence your way of spending time and make you a better person.
 
-Reducing the time necessary to learn new thing, and storing these thing more efficient in your memory you can be much more useful to yoruself and to sociaty surrounding you. You can explain better the things to your friends or students in case you are a teacher.
+reducing the time necessary to learn new thing, and storing these thing more efficient in your memory you can be much more useful to yourself and to society surrounding you. you can explain better the things to your friends or students in case you are a teacher.
 
 # For making
 
-Maj will enable you to make text faster. This reduce time to write a story or a thesis. Multiply this with milions and you will change the world. So writers as well as readers will reduce time to communicate.
+Maj will enable you to make text faster. this reduce time to write a story or a thesis. multiply this with milions and you will change the world. so writers as well as readers will reduce time to communicate.
 
-Storage is expensive. It is true that text do not take so much space, but maybe in the future AI will learn how to produce text content. In this case, the repository knowledge will grow exponential. Improving efficiency should be always a goal.
+storage is expensive. it is true that text do not take so much space, but maybe in the future AI will learn how to produce text content. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
 
-It is time to stop talking and start making.
+it is time to stop talking and start making.
 
 vale!
-
-
-
-
-
-
-
 

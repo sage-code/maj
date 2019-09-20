@@ -1,30 +1,38 @@
 # Some verbs
 
-All verbs have a root that can terminate with "a" or "e".
+All verbs are 4 character long and can be terminate with "o".
+
+Format of the verb can be:
+
+* VCVu :common
+* CVCu :start with a consonant  
+* CCVu
+* VCCu :expensive
+
 
 **Level 1**
 
-Infinitiv form of verbs is terminated with "go":
+Some invented Maj specific verbs for personal care:
 
 maj     | english       | romanian
 --------|---------------|-----------------
-papa-go | eating        | papa
-bebe-go | drinking      | beau
-pala-go | game play     | joaca
-hafa-go | laughing      | râde
-besa-go | kissing       | pupa
-baia-go | make a bath   | baie
-ciha-go | drawings      | deseneaza
-cola-go | painting      | picteaza
-caba-go | writing       | scrie
-lira-go | reading       | citesc  
-caca-go | making pu     | a se căca
-pipa-go | making pee    | a se pişa
-huha-go | changing      | schimba
+coma    | eating        | mânca
+beba    | drinking      | beau
+pala    | game play     | joaca
+hafa    | laughing      | râde
+besa    | kissing       | pupa
+baia    | make a bath   | baie
+ciha    | drawings      | deseneaza
+cola    | painting      | picteaza
+caba    | writing       | scrie
+lira    | reading       | citesc  
+caca    | making pu     | căca
+pisa    | making pee    | pişa
+huha    | diapers       | scutece
 
 **Level 2** 
 
-We select verbs from several languages.
+Infinitiv form of verbs is terminated with "go":
 
 maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
@@ -41,15 +49,45 @@ pesa-go |to think  |pensar     |penser    |cogitare
 diva-go |to become |convertirse|devenir   |facti sunt
 huta-go |it should |debería    |devrait   |ut
 
-
 **Level 3**
 
-Inspired from diverse other languages
+Top 25 verbs in alphabetical order
+
+Maj    |English   |Spanish   |Franch     |Italian   |Latin
+-------|----------|----------|-----------|----------|---------
+anda   |go        |ir        |aller      |partire   |vade
+apea   |call      |llamada   |appel      |chiamata  |voca
+opua   |work      |trabajo   |travail    |lavoro    |opus
+asea   |do        |hacer     |faire      |fare      |facite
+deha   |say       |decir     |dire       |dire      |dicere
+esta   |be        |ser       |être       |essere    |quod
+foma   |make      |hacer     |faire      |rendere   |facere
+giva   |give      |dar       |donner     |dare      |dare
+geta   |get       |obtener   |obtenir    |ottenere  |ut
+hara   |have      |tener     |avoir      |avere     |habet
+iuza   |use       |utilizar  |utilisation|uso       |usus
+mira   |look      |Mira      |Regardez   |Guarda    |quaerere
+onta   |tell      |contar    |dire       |raccontare|amen dico
+pasa   |think     |pensar    |pense      |pensare   |cogitare
+pega   |ask       |pedir     |demander   |Chiedi    |quaerere
+ruva   |find      |encontrar |trouver    |trova     |inveniet
+sala   |leave     |salir     |partir     |partire   |relinquo
+scia   |know      |saber     |savoir     |conoscere |scio
+sema   |seem      |parecer   |sembler    |sembrare  |videtur
+sesa   |feel      |sensación |ressentir  |sentire   |sentire
+teta   |try       |tratar    |essayer    |provare   |tentant
+toma   |take      |tomar     |prendre    |prendere  |accipere
+vala   |want      |querer    |vouloir    |volere    |cupio
+veda   |see       |ver       |voir       |vedere    |videre
+vena   |come      |ven       |viens      |venire    |veni
+
+**Level 4**
+
+Top 100 verbs, ordered by Spanish
 
 Origin    | Maj     |Spanish      | English
 ----------|---------|-------------|---------------
 french    | ovra-go |abrir        | to open
-italian   | pica-go |gustar       | to like     
 spanish   | acba-go |acabar       | to finish/end
 spanish   | agra-go |agarrar      | to grab
 spanish   | ceta-go |aceptar      | to accept
@@ -88,6 +126,7 @@ italian   | piga-go |explicar     | to explain
 spanish   | foma-go |formar       | to form/make
 spanish   | gana-go |ganar        | to earn/win
 italian   | pica-go |gustar       | to like
+italian   | pica-go |gustar       | to like     
 spanish   | hara-go |haber        | to have
 spanish   | asea-go |hacer        | to do
 romanian  | poba-go |intentar     | to try
@@ -131,9 +170,9 @@ latin     | scia-go |saber        | to know
 spanish   | saca-go |sacar        | to take out
 spanish   | sala-go |salir        | to go out
 spanish   | sega-go |seguir       | to follow
-spanish   | sena-go |sentir       | to feel
+spanish   | sesa-go |sentir       | to feel
 spanish   | sera-go |ser          | to be / to exist
-spanish   | seva-go |servir       | to serve/function
+spanish   | sava-go |servir       | to serve/function
 spanish   | supa-go |suponer      | to suppose
 original  | hara-go |tener        | to have (to posses)
 german    | fera-go |terminar     | to finish
@@ -141,7 +180,7 @@ spanish   | toca-go |tocar        | to touch/play
 spanish   | toma-go |tomar        | to take
 latin     | opua-go |trabajar     | to work
 original  | adra-go |traer        | to bring
-original  | tora-go |tratar       | to treat
+original  | rata-go |tratar       | to treat
 english   | iuza-go |utilizar     | to use
 spanish   | vena-go |venir        | to come
 spanish   | veda-go |ver          | to see
