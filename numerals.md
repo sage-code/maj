@@ -13,63 +13,64 @@ All numerals are created from base of 3 letters.
 1. first letter is derived from alphabet, a < b ... < z,
 1. for hundreds "00" we use "act" + "ea" suffix => "actea",
 1. for 10..90 you could use long form "bin-act" or short form  "binea"
-1. for thousands, millions and billions we use "e" suffix.
+1. for hundreds, thousands, millions and billions we use "e" suffix.
+
 
 ## Level 1
 
 **Note** 
 
 * Numerals to not have genre, past or future
-* There is no ordinal form: "first", "second", "third"
+* Termination "e" is representing plural 
 
 **Then = bina**
 
 x | maj  | xx | maj        | xx | maj   | origin  |
 --|------|----|------------|----|-------|---------|
-0 | act  | 10 | binea      | 00 | actea | act-act |
-1 | bin  | 11 | binea-bin  | 10 | binea | bin-act |
-2 | cut  | 12 | binea-cut  | 20 | cutea | cut-act |
-3 | gin  | 13 | binea-gin  | 30 | ginea | gin-act |
-4 | pat  | 14 | binea-pat  | 40 | patea | pat-act |
-5 | rin  | 15 | binea-rin  | 50 | rinea | rin-act |
-6 | sut  | 16 | binea-sut  | 60 | sutea | sut-act |
-7 | tin  | 17 | binea-tin  | 70 | tinea | tin-act |
-8 | vat  | 18 | binea-vat  | 80 | vatea | vat-act |
-9 | zin  | 19 | binea-zin  | 90 | zinea | zin-act |
+0 | act  | 10 | bina       | 00 | acta  | act-act |
+1 | bin  | 11 | bina-bin   | 10 | bina  | bin-act |
+2 | cut  | 12 | bina-cut   | 20 | cuta  | cut-act |
+3 | gin  | 13 | bina-gin   | 30 | gina  | gin-act |
+4 | pat  | 14 | bina-pat   | 40 | pata  | pat-act |
+5 | rin  | 15 | bina-rin   | 50 | rina  | rin-act |
+6 | sut  | 16 | bina-sut   | 60 | suta  | sut-act |
+7 | tin  | 17 | bina-tin   | 70 | tina  | tin-act |
+8 | vat  | 18 | bina-vat   | 80 | vata  | vat-act |
+9 | zin  | 19 | bina-zin   | 90 | zina  | zin-act |
 
 
 ## Level 2
 
 **Hundreds = acta**
 
-00 =  actea
+00 =  acta
 
 ```
- 100 =  bin-actea
- 200 =  cut-actea
- 300 =  gin-actea
- 400 =  pat-actea
- 500 =  rin-actea
- 600 =  sut-actea
- 700 =  tin-actea
- 800 =  vat-actea
- 900 =  zin-actea
+ 100 =  bin-acta
+ 200 =  cut-acte
+ 300 =  gin-acte
+ 400 =  pat-acte
+ 500 =  rin-acte
+ 600 =  sut-acte
+ 700 =  tin-acte
+ 800 =  vat-acte
+ 900 =  zin-acte
 ```
 
 **Thousands = mola**
 
-000 = molea
+000 = mola
 
 ``` 
- 1,000 = bin-molea
- 2,000 = cut-molea
- 3,000 = gin-molea
- 4,000 = pat-molea
- 5,000 = rin-molea
- 6,000 = sut-molea
- 7,000 = tin-molea
- 8,000 = vat-molea
- 9,000 = zin-molea
+ 1,000 = bin-mola
+ 2,000 = cut-mole
+ 3,000 = gin-mole
+ 4,000 = pat-mole
+ 5,000 = rin-mole
+ 6,000 = sut-mole
+ 7,000 = tin-mole
+ 8,000 = vat-mole
+ 9,000 = zin-mole
 ```
 
 **Millions  = rica**
@@ -77,22 +78,22 @@ x | maj  | xx | maj        | xx | maj   | origin  |
 000,000 = rica
 
 ```
-1,000.000 = bin-ricea
-2,000.000 = cut-ricea
-3,000.000 = gin-ricea
+1,000.000 = bin-rica
+2,000.000 = cut-rice
+3,000.000 = gin-rice
 ...
-9,000.000 = zin-ricea
+9,000.000 = zin-rice
 ```
 
 **Billions = veca**
 
-000.000.000   = vecea
+000.000.000   = veca
 
 ```
-1,000,000.000 = bin-vecea
-2,000,000.000 = cut-vecea
+1,000,000.000 = bin-veca
+2,000,000.000 = cut-vece
 ...
-9,000,000.000 = zin-vecea
+9,000,000.000 = zin-vece
 ```
 
 ## Level 3
