@@ -80,7 +80,7 @@ italian   | ruva-go |encontrar    | to find
 spanish   | etra-go |entrar       | to enter
 spanish   | ciba-go |escribir     | to write
 latin     | auda-go |escuchar     | to listen
-german    | vata-go |esperar      | to wait/hope
+english   | hopa-go |esperar      | to hope
 spanish   | esta-go |estar        | to be
 spanish   | esta-go |existir      | to exist
 esperanto | tuda-go |estudiar     | to study
@@ -120,7 +120,7 @@ spanish   | pona-go |poner        | to put
 spanish   | rega-go |preguntar    | to ask
 english   | itra-go |presentar    | to introduce/present
 latin     | poda-go |producir     | to produce
-latin     | mana-go |quedar       | to stay
+latin     | cuda-go |quedar       | to stay / rest
 french    | vala-go |querer       | to want
 original  | pefa-go |realizar     | to achieve
 tuekish   | maca-go |recibir      | to receive
@@ -139,7 +139,7 @@ original  | hara-go |tener        | to have (to posses)
 german    | fera-go |terminar     | to finish
 spanish   | toca-go |tocar        | to touch/play
 spanish   | toma-go |tomar        | to take
-latin     | opsa-go |trabajar     | to work
+latin     | opua-go |trabajar     | to work
 original  | adra-go |traer        | to bring
 original  | tora-go |tratar       | to treat
 english   | iuza-go |utilizar     | to use
