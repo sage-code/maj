@@ -73,23 +73,12 @@ Basic rules for new language:
 
 Words are selected from 12 different languages.
 
-1. Spanish
-2. Italian
-3. French
-4. English
-5. Romanian
-6. Portuguese
-7. Latin
-8. Esperanto
-9. German
-10.Irish
-11.Turkish
-12.Arabic
+1. Latin, Spanish, Italian, French, Romanian, Portuguese 
+2. English, Esperanto, German, Irish, Turkish, Greek
 
 **technology:**
 
-* Numerals are created manually and reserved,
-* Most used basic words and 100 Verbs are created also manually using a spreadsheet,
-* We use a search algorithm to find best words from mentioned languages,
-* We use an algorithm to replace the most expensive words with new words.
-* We test the language to find words hard to pronounce or too much alike.
+* Numerals are original, we have used rules to make useful numerals,
+* Most common words Verbs are created manually using a translation spreadsheet,
+* We use an algorithm to calculate a  word cost based on complexity,
+* We look for expensive words that could be simplified to improve the language.

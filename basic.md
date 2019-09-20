@@ -80,6 +80,8 @@ hi  = he/she  | ze = they
 
 **Possessive**
 
+To have = hara
+
 singular    | plural
 ------------|--------------------------------
 mia = mine  | nue = ours

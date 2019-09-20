@@ -22,7 +22,7 @@ caca-go | making pu     | a se căca
 pipa-go | making pee    | a se pişa
 huha-go | changing      | schimba
 
-**Level2** 
+**Level 2** 
 
 We select verbs from several languages.
 
@@ -30,7 +30,6 @@ maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
 pova-go |to be able|poder      |pouvoir   |possit
 lesa-go |to let    |dejar      |laisser   |dimittere
-pica-go |to like   |gustar     |aimer     |amare
 dira-go |to mean   |significar |dire      |dicere
 mova-go |to move   |mover      |bouger    |movere
 mosa-go |to show   |mostrar    |montrer   |ostendere
@@ -43,11 +42,14 @@ diva-go |to become |convertirse|devenir   |facti sunt
 huta-go |it should |debería    |devrait   |ut
 
 
-**Level3**
+**Level 3**
+
+Inspired from diverse other languages
 
 Origin    | Maj     |Spanish      | English
 ----------|---------|-------------|---------------
-franch    | ovra-go |abrir        | to open
+french    | ovra-go |abrir        | to open
+italian   | pica-go |gustar       | to like     
 spanish   | acba-go |acabar       | to finish/end
 spanish   | agra-go |agarrar      | to grab
 spanish   | ceta-go |aceptar      | to accept
@@ -65,14 +67,14 @@ italian   | onta-go |contar       | to count
 arabic    | hula-go |convertir    | to convert/change
 italian   | orsa-go |correr       | to run
 latin     | arta-go |crear        | to create
-romanian  | crea-go |creer        | to believe
+spanish   | crea-go |creer        | to believe
 german    | rafa-go |cumplir      | to achieve
 english   | giva-go |dar          | to give
 italian   | dova-go |deber        | to owe
 italian   | dica-go |decir/hablar | to say
 spanish   | deha-go |dejar        | to leave
 italian   | reva-go |descubrir    | to discover
-franch    | onda-go |dirigir      | to direct
+french    | onda-go |dirigir      | to direct
 spanish   | peza-go |empezar      | to start
 italian   | ruva-go |encontrar    | to find
 spanish   | etra-go |entrar       | to enter
@@ -91,24 +93,24 @@ spanish   | asea-go |hacer        | to do
 romanian  | poba-go |intentar     | to try
 italian   | anda-go |ir           | to go
 original  | pala-go |jugar        | to play
-franch    | lira-go |leer         | to read
+french    | lira-go |leer         | to read
 english   | raza-go |levantar     | to get up/raise
-franch    | apea-go |llamar       | to call
-franch    | arva-go |llegar       | to arrive
-franch    | orta-go |llevar       | to carry
+french    | apea-go |llamar       | to call
+french    | arva-go |llegar       | to arrive
+french    | orta-go |llevar       | to carry
 spanish   | ogra-go |lograr       | to achieve/manage to
-ebglish   | anta-go |mantener     | to maintain/keep
+english   | anta-go |mantener     | to maintain/keep
 italian   | mira-go |mirar        | to watch/look at
 italian   | mota-go |morir        | to die
 portugese | asca-go |nacer        | to be born
-franch    | isna-go |necesitar    | to need
+french    | isna-go |necesitar    | to need
 spanish   | cura-go |ocurrir      | to occur/happen
 latin     | ofra-go |ofrecer      | to offer
 latin     | auda-go |oír          | to hear
 spanish   | paga-go |pagar        | to pay
 spanish   | para-go |parar        | to stop
 english   | sema-go |parecer      | to seem
-Origin    | ecsa-go |partir       | to leave
+original  | ecsa-go |partir       | to leave
 spanish   | pasa-go |pasar        | to happen/pass
 spanish   | pega-go |pedir        | to ask for
 english   | losa-go |perder       | to lose
@@ -119,11 +121,11 @@ spanish   | rega-go |preguntar    | to ask
 english   | itra-go |presentar    | to introduce/present
 latin     | poda-go |producir     | to produce
 latin     | mana-go |quedar       | to stay
-franch    | vala-go |querer       | to want
-origin    | pefa-go |realizar     | to achieve
+french    | vala-go |querer       | to want
+original  | pefa-go |realizar     | to achieve
 tuekish   | maca-go |recibir      | to receive
 spanish   | reca-go |reconocer    | to recognize
-franch    | repa-go |recordar     | to remember
+french    | repa-go |recordar     | to remember
 esperanto | reza-go |resultar     | to turn out
 latin     | scia-go |saber        | to know
 spanish   | saca-go |sacar        | to take out
@@ -143,8 +145,7 @@ original  | tora-go |tratar       | to treat
 english   | iuza-go |utilizar     | to use
 spanish   | vena-go |venir        | to come
 spanish   | veda-go |ver          | to see
-original  | vita-go |vivir        | to be alive 
+original  | viva-go |vivir        | to be alive 
 latin     | vica-go |conquer      | to to conquerer
-latin     | reda-go |volver       | to return/come back
-
+latin     | reta-go |volver       | to return/come back
 
