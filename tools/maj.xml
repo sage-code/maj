@@ -2,7 +2,7 @@
     <UserLang name="Maj Spec" ext="md maj" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="2" decimalSeparator="0" />
-            <Prefix Keywords1="yes" Keywords2="no" Keywords3="yes" Keywords4="no" Keywords5="yes" Keywords6="no" Keywords7="no" Keywords8="no" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="yes" Keywords8="yes" />
         </Settings>
         <KeywordLists>
             <Keywords name="Comments">00# 01 02((EOL)) 03&lt;!-- 04--&gt;</Keywords>
@@ -24,14 +24,14 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
-            <Keywords name="Keywords2">ogu ovu inu deu seu neu fau aru idu pau jau feu bau ibu oru dou cou anu heu zeu rou sou etu usu&#x000D;&#x000A;bun mal vero faso salu vale toto noto soto</Keywords>
-            <Keywords name="Keywords3">* _ ~ </Keywords>
-            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda &#x000D;&#x000A;actea binea cutea ginea patea rinea sutea tinea vatea zinea molea ricea vecea&#x000D;&#x000A;acton bivat cuvat pavat vavat </Keywords>
-            <Keywords name="Keywords5">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords6">no or si et es in ui no &#x000D;&#x000A;chi che cho&#x000D;&#x000A;me te se mes tes ses&#x000D;&#x000A;ma ta sa mas tas sas&#x000D;&#x000A;la las lo los</Keywords>
-            <Keywords name="Keywords7">hafa&#x000D;&#x000A;besu&#x000D;&#x000A;huhu&#x000D;&#x000A;pike&#x000D;&#x000A;pala&#x000D;&#x000A;kija&#x000D;&#x000A;cola&#x000D;&#x000A;kabo&#x000D;&#x000A;lire&#x000D;&#x000A;pova&#x000D;&#x000A;lesa&#x000D;&#x000A;pica&#x000D;&#x000A;dira&#x000D;&#x000A;mova&#x000D;&#x000A;mosa&#x000D;&#x000A;dica&#x000D;&#x000A;nara&#x000D;&#x000A;vela&#x000D;&#x000A;inca&#x000D;&#x000A;pesa&#x000D;&#x000A;diva&#x000D;&#x000A;huta&#x000D;&#x000A;ovra&#x000D;&#x000A;acba&#x000D;&#x000A;agra&#x000D;&#x000A;ceta&#x000D;&#x000A;acza&#x000D;&#x000A;apra&#x000D;&#x000A;ajda&#x000D;&#x000A;usca&#x000D;&#x000A;cada&#x000D;&#x000A;muta&#x000D;&#x000A;inca&#x000D;&#x000A;capa&#x000D;&#x000A;cona&#x000D;&#x000A;zara&#x000D;&#x000A;onta&#x000D;&#x000A;hula&#x000D;&#x000A;orsa&#x000D;&#x000A;arta&#x000D;&#x000A;crea&#x000D;&#x000A;rafa&#x000D;&#x000A;giva&#x000D;&#x000A;dova&#x000D;&#x000A;dica&#x000D;&#x000A;deha&#x000D;&#x000A;reva&#x000D;&#x000A;onda&#x000D;&#x000A;peza&#x000D;&#x000A;ruva&#x000D;&#x000A;etra&#x000D;&#x000A;ciba&#x000D;&#x000A;auda&#x000D;&#x000A;vata&#x000D;&#x000A;esta&#x000D;&#x000A;tuda&#x000D;&#x000A;esta&#x000D;&#x000A;piga&#x000D;&#x000A;foma&#x000D;&#x000A;gana&#x000D;&#x000A;pica&#x000D;&#x000A;hara&#x000D;&#x000A;asea&#x000D;&#x000A;poba&#x000D;&#x000A;anda&#x000D;&#x000A;pala&#x000D;&#x000A;lira&#x000D;&#x000A;raza&#x000D;&#x000A;apea&#x000D;&#x000A;arva&#x000D;&#x000A;orta&#x000D;&#x000A;ogra&#x000D;&#x000A;anta&#x000D;&#x000A;mira&#x000D;&#x000A;mota&#x000D;&#x000A;asca&#x000D;&#x000A;isna&#x000D;&#x000A;cura&#x000D;&#x000A;ofra&#x000D;&#x000A;auda&#x000D;&#x000A;paga&#x000D;&#x000A;para&#x000D;&#x000A;sema&#x000D;&#x000A;ecsa&#x000D;&#x000A;pasa&#x000D;&#x000A;pega&#x000D;&#x000A;losa&#x000D;&#x000A;poma&#x000D;&#x000A;pava&#x000D;&#x000A;pona&#x000D;&#x000A;rega&#x000D;&#x000A;itra&#x000D;&#x000A;poda&#x000D;&#x000A;mana&#x000D;&#x000A;vala&#x000D;&#x000A;pefa&#x000D;&#x000A;maca&#x000D;&#x000A;reco&#x000D;&#x000A;repa&#x000D;&#x000A;reza&#x000D;&#x000A;scia&#x000D;&#x000A;saca&#x000D;&#x000A;sala&#x000D;&#x000A;sega&#x000D;&#x000A;sena&#x000D;&#x000A;sera&#x000D;&#x000A;seva&#x000D;&#x000A;supa&#x000D;&#x000A;hara&#x000D;&#x000A;fera&#x000D;&#x000A;toca&#x000D;&#x000A;toma&#x000D;&#x000A;opsa&#x000D;&#x000A;adra&#x000D;&#x000A;tora&#x000D;&#x000A;iuza&#x000D;&#x000A;vena&#x000D;&#x000A;veda&#x000D;&#x000A;vita&#x000D;&#x000A;vica&#x000D;&#x000A;reda&#x000D;&#x000A;papa &#x000D;&#x000A;beba &#x000D;&#x000A;caca &#x000D;&#x000A;pipi &#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords8">ita ite isa ise ipe loc con&#x000D;&#x000A;ga ia ve ro ne &#x000D;&#x000A;de po </Keywords>
+            <Keywords name="Keywords1">ui no or et si es in&#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;bun mal vero faso salu vale toto noto soto&#x000D;&#x000A;cin cen com udu cau</Keywords>
+            <Keywords name="Keywords2">rou sou etu usu&#x000D;&#x000A;ogu&#x000D;&#x000A;ovu&#x000D;&#x000A;inu&#x000D;&#x000A;abu&#x000D;&#x000A;bau&#x000D;&#x000A;neu&#x000D;&#x000A;fau&#x000D;&#x000A;aru&#x000D;&#x000A;idu&#x000D;&#x000A;pru&#x000D;&#x000A;csu&#x000D;&#x000A;fru&#x000D;&#x000A;pau&#x000D;&#x000A;fou&#x000D;&#x000A;atu&#x000D;&#x000A;ciu&#x000D;&#x000A;hiu&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;ra fa pa na&#x000D;&#x000A;da la bu su</Keywords>
+            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda &#x000D;&#x000A;actea binea cutea ginea patea rinea sutea tinea vatea zinea molea ricea vecea&#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
+            <Keywords name="Keywords5">tepu locu&#x000D;&#x000A;rasu fasu pasu</Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z</Keywords>
+            <Keywords name="Keywords8">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
             <Keywords name="Delimiters">00![ 00[ 01\ 02] 02] 03``` 03` 03~~~ 04\ 05``` 05((EOL `)) 05~~~ 06*** 07\ 08((EOL ***)) 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15** 16\ 17((EOL **)) 18 19 20 21&quot; 22 23&quot;</Keywords>
         </KeywordLists>
         <Styles>
@@ -39,9 +39,9 @@
             <WordsStyle name="COMMENTS" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="8000FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="00FFFF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS3" fgColor="80FFFF" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0080C0" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="FFFF00" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="00FFFF" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
@@ -55,7 +55,7 @@
             <WordsStyle name="DELIMITERS2" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="83910656" />
             <WordsStyle name="DELIMITERS3" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="DELIMITERS4" fgColor="00FF40" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="65600" />
-            <WordsStyle name="DELIMITERS5" fgColor="808000" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="17037344" />
+            <WordsStyle name="DELIMITERS5" fgColor="808000" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="17038368" />
             <WordsStyle name="DELIMITERS6" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="DELIMITERS7" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="DELIMITERS8" fgColor="FFFF00" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="8192" />

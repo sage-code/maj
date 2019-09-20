@@ -3,41 +3,42 @@
 maj  | english            | romanian
 -----|--------------------|-----------------
 Mama | mother             | mama
-Tatu | father             | tata
+Tata | father             | tata
 Lola | baby sitter        | ingrijitoare
 Nana | grand mother       | bunica
-Sanu | grand father       | bunicu
-Duda | nurse              | doctorita
-Dodu | doctor             | doctor
+Sana | grand father       | bunicu
+Sata | Santa Claus        | mos Craciun
+Doda | nurse              | doctorita
+Duda | doctor             | doctor
 
-**Personal needs:**
+**verbs**
 
-Sentimends and personal needs, terminated with "o". 
+Verns can be terminated like nouns with a, but verbs are composite with time information. 
 
-maj     |romanian   |spanish   |english
---------|-----------|----------|---------
-ferco   |fericit    |feliz     |happy
-triso   |trist      |triste    |sad
-fomeo   |foame      |hambre    |hunger
-seteo   |sete       |sed       |thirst
-frigo   |frig       |frío      |cold
-caldo   |cald       |caliente  |warm
-canso   |obosit     |cansado   |tired
-boreo   |plictisit  |perforado |bored
-icodo   |ingrijorat |preocupado|anxious
-curio   |curios     |curioso   |curious
-miedo   |speriat    |miedo     |scared
-calmo   |linistit   |tranquilo |quiet
-icsio   |excitat    |excitado  |excited
-furio   |furios     |furioso   |furious
+* Tata esta-go ferio.
+* Mama esta-go triso.
 
 
-Using "sy" at the end of word can transfort the word into a composite word:
+**adjectives:**
 
-boreo = boreo-sy    = boring   
-calmo = calmo-sy    = calming
-seteo = seteo-sy    = thirsty
-miedo = miedo-sy    = frightening
+All adjectives are terminated with "o" :
+
+maj   |romanian   |spanish   |english
+------|-----------|----------|---------
+ferio |fericit    |feliz     |happy
+triso |trist      |triste    |sad
+fomeo |foame      |hambre    |hunger
+seteo |sete       |sed       |thirst
+frigo |frig       |frío      |cold
+caldo |cald       |caliente  |warm
+canso |obosit     |cansado   |tired
+boreo |plictisit  |perforado |bored
+icodo |ingrijorat |preocupado|anxious
+curio |curios     |curioso   |curious
+miedo |speriat    |miedo     |scared
+calmo |linistit   |tranquilo |quiet
+icsio |excitat    |excitado  |excited
+furio |furios     |furioso   |furious
 
 **Nouns:**
 
@@ -45,25 +46,27 @@ miedo = miedo-sy    = frightening
 
 singular     | plural
 -------------|-------------
-la  = this   | lo  = that
-los = those  | las = these 
+ita = this   | ite = these
+isa = that   | ise = those
 
-2. Nouns can have a root word and a filling or coda. 
+* Common nouns are terminated with "a", semi-vocal or consonant. 
+* Common are never terminated with { e, i, o, u }
+* Location nouns are terminated with "u"
 
-   * "am" for drinks or food 
-   * "im" for sweet drinks
-   * "ol" is for drinks or food with alcohol      
-   * "e"  or "es" for fruits
+2. Sometimes nouns have special termination:
+
+* for beverage terminated with - ol (contains alcohol)
+* for food that contains a lot of sugar we use - os  
 
 **patterns** 
 
-* la  panas = the bread
-* la  acuas = the water
-* la  banas = the banana
-* la  jusim = sweet juice  
+* ita  pana = the bread
+* ita  acua = the water
+* ita  bana = the banana
+* ita  jusi = sweet juice  
   
-* los cacim = the cookies
-* los cheol = the chocolate with alcohol
+* ite chcos = the cookies with chocolate
+* ite cheol = the chocolate with alcohol
 
 **numerals**
 

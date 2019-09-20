@@ -10,21 +10,21 @@ To drink: beba
 maj     | english    |  spanish    | franch     |italian    | romanian
 --------|------------|-------------|------------|-----------|-----------------
 acua    | water      | agua        | eau        | acqua     | apă
-hugo    | juice      | jugo        | jus        | succo     | suc
-late    | milk       | leche       | lait       | latte     | lapte
-chai    | tea        | té          | thé        | tè        | ceai
+huga    | juice      | jugo        | jus        | succo     | suc
+lata    | milk       | leche       | lait       | latte     | lapte
+chia    | tea        | té          | thé        | tè        | ceai
 
 **Level 2**
 
 maj     | english    |  spanish    | franch     |italian    | romanian
 --------|------------|-------------|------------|-----------|-----------------
 botla   | bottle     | botella     | bouteille  | bottiglia | sticla
-glase   | ice        | hielo       | glace      | ghiaccio  | gheaţă
-frape   | milk shake | leche batudo| lait frappé| frappè    | milkshake
+glasa   | ice        | hielo       | glace      | ghiaccio  | gheaţă
+frapa   | milk shake | leche batudo| lait frappé| frappè    | milkshake
 cafea   | coffee     | café        | café       | caffè     | cafea
-shery   | sherry     | jerez       | sherry     | sherry    | sherry
-fesco   | soft drink | refresco    | gazeuse    | bibita    | racoritoare
-sidre   | cider      | sidra       | cidre      | sidro     | cidru
+shera   | sherry     | jerez       | sherry     | sherry    | sherry
+fesca   | soft drink | refresco    | gazeuse    | bibita    | racoritoare
+sidra   | cider      | sidra       | cidre      | sidro     | cidru
 
 **Level 3**
 

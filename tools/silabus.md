@@ -5,7 +5,6 @@ fa fe fi fo fu
 ga ge gi go gu
 ha he hi ho hu
 ja je ji jo ju
-ka ke ki ko ku
 la le li lo lu
 ma me mi mo mu
 na ne ni no nu
@@ -14,9 +13,13 @@ ra re ri ro ru
 sa se si so su
 ta te ti to tu
 va ve vi vo vu
+za ze zi zo zu
+
+
+~ka ke ki ko ku~
 ~xa xe xi xo xu~
 ~ya ye yi yo yu~
-za ze zi zo zu
+
 
 bc bd bf bg bh bl bm bn bp br bs bt bv bz
 cb cd cf cg ch cl cm cn cp cr cs ct cv cz

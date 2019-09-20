@@ -17,6 +17,12 @@ From history of languages:
 * sometimes a language need a pushed forward,
 * constructed languages failed so far.
 
+# But how
+
+* We simplify the alphabet for Maj
+* We create strong simple grammar rules
+* We optimize the language using programming algorithms
+
 # But why
 
 A constructed language can have good use-cases.
