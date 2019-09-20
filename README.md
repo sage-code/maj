@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an artificial language for chat and games:
+Maj is an constructed language for chat, games and AI applications:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
@@ -63,6 +63,7 @@ Basic rules for new language:
 
 **Elements:**
 ------------------------------------------------------------------------------------------------
+* [The use case](case.md)
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
 * [Basic grammar](basic.md)
