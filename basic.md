@@ -3,22 +3,31 @@
 
 ## Fundamental adjectives
 
-buno = good  
+buno = good 
 malo = wrong / bad
 
 ## Greetings
 
-Are based on adjectives:
+You can give greetings to one person or to everyone:
 
-salo  = hello
-valo  = goodbye
 toto  = everyone
 noto  = nobody
 soto  = somebody
 
-# Logic 
+Are based on adjectives :
 
-* Logical adjectives are: {vero, faso}, from French.
+Maj   | English  | Spanish    | French     | Latin     | Romanian
+------|----------|------------|------------|-----------|----------
+save  |hello     | hola       | bienvenue  | salve     | salut 
+vale  |goodbye   | adiós      | au bientot | vale      | ramas bun 
+adio  |farewell  | despedida  | adieu      | vale      | adio
+buno  |okay      | como estas | ça va      | bene      | bine      
+vedu  |see you   | nos vemos  | au revoir  | te videre | la revedere
+
+
+# Logical adjectives
+
+* Logical values are: {vero, faso}, from French.
 
 vero = the truth
 faso = the lie   
@@ -55,7 +64,7 @@ ud?   | where?   | dónde   | unde
 ca?   | which?   | qual    | care/ca
       
 * ci seru  = who is ?
-* ce comu  = what are you eating ?
+* ce mocu  = what are you eating ?
 * co bebu  = how is your drink ?
 * ud seru  = where are you?
 * missing example with ca
