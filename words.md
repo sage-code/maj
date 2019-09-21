@@ -14,8 +14,8 @@ Duda | doctor             | doctor
 
 **notes:** 
 
-*. Nouns representing leaving beings are starting with uppercase.
-*. Person names are written with all capital letters.
+* Nouns representing leaving beings are starting with uppercase.
+* Person names are written with all capital letters.
 
 **examples:**
 
@@ -35,29 +35,30 @@ isa = that   | ise = those
 **rules**
 
 * nouns are from 3 up to 6 letters long but usually 4.
-* common nouns are terminated with "a" and are 4 characters long,
+* common nouns are terminated with "a",
 * some nouns can change termination from "a" to "e" to become plural,
-* sometimes nouns have special termination, in this case there is no plural form:
 
 **extra**
 * for beverage terminated with - ola (contains alcohol),
 * for food that contains a lot of sugar we use - osa,  
-* for nouns representing multiple pieces we use "e" at the end.
+
 
 uve = grapes      (invariant plural)
 uva = grape seed  (singular may be translated different in different languages)
 
 **patterns** 
 
-* ita  pana   = the bread
-* ite  pane   = these breads
-* ita  acua   = the water
-* ita  banana = the banana
-* ite  banane = these bananas
-* ita  hugos  = sweet juice  
+* ita  pana    = the bread
+* ite  pana    = these breads
+* ita  acua    = the water
+* ita  bana    = the banana
+* ite  bana    = these bananas
+* ita  huga    = the juice  
   
-* ite checosa = the cookies with chocolate
-* ite cheola  = the chocolate with alcohol
+* ite  cheosa  = the cookies with chocolate
+* ita  hugosa  = extra sweet juice 
+* ite  cheola  = the chocolate with alcohol
+* ita  hugola  = juice mixed with alcohol 
 
 ## verbs
 
@@ -71,12 +72,12 @@ fa      | in the future
 pa      | in the past
 na      | never 
 
-* Tata esta-ga ferio = Father is furious.
-* Mama esta-na triso = Mama is never sad.
+* Tata estu-ga ferio = Father is furious.
+* Mama estu-na triso = Mama is never sad.
 
 **rules:**
 
-1. There is a problem. If a verb is ending with "ga", "ra", "fa", "pa", "na" it may be confusing to duplicate the termination. So we avoid to make verbs terminated with these groups!
+1. Verb root is always terminated with "u" so is distinguish as an action of some sort. There are less verbs than nouns, so the termiantion "u" is not so bad.
 
 2. A verb is referring to somebody or something that is the subject of the discussion. In the above examples Tata and Mama are the subjects. The verb is used immediately after the subject. If the subject is not near by, it must be replaced by a pronoun before the verb otherwise the proposition may not make sense.
 
@@ -102,19 +103,28 @@ miedo |speriat    |miedo     |scared
 calmo |linistit   |tranquilo |quiet
 icsio |excitat    |excitado  |excited
 furio |furios     |furioso   |furious
+santo |sănătos    |saludable |healthy 
+maldo |bolnav     |enfermo   |sick
 
-2. Adjectives can change termination to "a" or "e" to become noun.
+2. Adjectives can change termination to "u" or "e" to become articulated nouns.
+
+ita ferisu = this could
+ita caldu  = this heat
+ita maldu  = this sick person
 
 ## Numerals
 
 Numerals can be used with nouns to specify how many:
 
-* ti coma-pa bin pana = you have eat one banana
+* ti coma-pa bin bana = you have eat one banana
 * ti coma-pa cut mere = you have eat two apples
 
 **Observe:** that last letter of noun is changing from "a" to "e" with numbers > 1.
  
-Dictinary  is work in progress
+Dictinary  is work in progress in folder: "maps"
+
+[fruits](/maps/fruits.md)
+[drinks](/maps/drinks.md)
 
 
 

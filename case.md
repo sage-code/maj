@@ -2,7 +2,6 @@
 
 **note:** in this document i use Maj capitalization!
 
-
 there are the following reasons to build a new language:
 
 * we spend a decade in schools learning our natural language,
@@ -11,6 +10,14 @@ there are the following reasons to build a new language:
 * natural languages are evolving but slow,
 * sometimes a language need a pushed forward,
 * constructed languages failed so far.
+
+# but where
+
+Maj is designed to be very articulate and is based on a lot of air. So it can be spoken well in hot and humid places like the forest or desert but not under water. Under water you should use click sounds like Dolphins do. 
+
+Maj can be used on Internet chat and on GitHub. It has specifics for describing computer languages and other languages. So I guess Maj is a descriptive "pseudo-code" and "domain specific". 
+
+Maj can be spoken in public places. Nobody will understand you especially if you are in China, Russia or Africa, but if you are on American soil or Europe some words could look familiar to other people.
 
 # but how
 

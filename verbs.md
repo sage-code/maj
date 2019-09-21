@@ -1,13 +1,13 @@
 # Some verbs
 
-All verbs are 4 character long and can be terminate with "o".
+All verbs are 4 character long and can be terminate with "a".
 
 Format of the verb can be:
 
-* VCVu :common
-* CVCu :start with a consonant  
-* CCVu :start with two consonants 
-* VCCu :contains two consonants
+* VCVa :common
+* CVCa :start with a consonant  
+* CCVa :start with two consonants 
+* VCCa :contains two consonants
 
 **Level 1**
 
@@ -15,38 +15,40 @@ Some original Maj specific verbs for personal care:
 
 maj     | english       | romanian
 --------|---------------|-----------------
-coma    | eating        | mânca
-beba    | drinking      | beau
-pala    | game play     | joaca
-hafa    | laughing      | râde
-besa    | kissing       | pupa
-baia    | make a bath   | baie
-ciha    | drawings      | deseneaza
-cola    | painting      | picteaza
-caba    | writing       | scrie
-lira    | reading       | citesc  
-caca    | making pu     | căca
-pisa    | making pee    | pişa
-huha    | diapers       | scutece
+comu    | eating        | mânca
+bebu    | drinking      | beau
+palu    | game play     | joaca
+hafu    | laughing      | râde
+besu    | kissing       | pupa
+baiu    | make a bath   | baie
+cihu    | drawings      | deseneaza
+colu    | painting      | picteaza
+cabu    | writing       | scrie
+liru    | reading       | citesc  
+cacu    | making pu     | căca
+pisu    | making pee    | pişa
+huhu    | diapers       | scutece
 
 **Level 2** 
 
-Infinitiv form of verbs is terminated with "go":
+Infinitiv form of verbs is terminated with "ga":
 
 maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
-pova-go |to be able|poder      |pouvoir   |possit
-lesa-go |to let    |dejar      |laisser   |dimittere
-dira-go |to mean   |significar |dire      |dicere
-mova-go |to move   |mover      |bouger    |movere
-mosa-go |to show   |mostrar    |montrer   |ostendere
-dica-go |to talk   |hablar     |parler    |dicere
-nara-go |to tell   |decir      |dire      |narrat
-vela-go |to will   |voluntad   |vouloir   |velle
-inca-go |to begin  |empezar    |commencer |incipere
-pesa-go |to think  |pensar     |penser    |cogitare
-diva-go |to become |convertirse|devenir   |facti sunt
-huta-go |it should |debería    |devrait   |ut
+povu-ga |to be able|poder      |pouvoir   |possit
+lesu-ga |to let    |dejar      |laisser   |dimittere
+diru-ga |to mean   |significar |dire      |dicere
+movu-ga |to move   |mover      |bouger    |movere
+mosu-ga |to show   |mostrar    |montrer   |ostendere
+dicu-ga |to talk   |hablar     |parler    |dicere
+naru-ga |to tell   |decir      |dire      |narrat
+velu-ga |to will   |voluntad   |vouloir   |velle
+incu-ga |to begin  |empezar    |commencer |incipere
+pesu-ga |to think  |pensar     |penser    |cogitare
+divu-ga |to become |convertirse|devenir   |facti sunt
+hutu-ga |it should |debería    |devrait   |ut
+
+Termination "ga" is like english "to", it stress-out that this is a verb.
 
 **Level 3**
 
@@ -54,31 +56,31 @@ Top 25 verbs in alphabetical order
 
 Maj    |English   |Spanish   |Franch     |Italian   |Latin
 -------|----------|----------|-----------|----------|---------
-anda   |go        |ir        |aller      |partire   |vade
-apea   |call      |llamada   |appel      |chiamata  |voca
-opua   |work      |trabajo   |travail    |lavoro    |opus
-asea   |do        |hacer     |faire      |fare      |facite
-deha   |say       |decir     |dire       |dire      |dicere
-esta   |be        |ser       |être       |essere    |quod
-foma   |make      |hacer     |faire      |rendere   |facere
-giva   |give      |dar       |donner     |dare      |dare
-geta   |get       |obtener   |obtenir    |ottenere  |ut
-hara   |have      |tener     |avoir      |avere     |habet
-iuza   |use       |utilizar  |utilisation|uso       |usus
-mira   |look      |Mira      |Regardez   |Guarda    |quaerere
-onta   |tell      |contar    |dire       |raccontare|amen dico
-pasa   |think     |pensar    |pense      |pensare   |cogitare
-pega   |ask       |pedir     |demander   |Chiedi    |quaerere
-ruva   |find      |encontrar |trouver    |trova     |inveniet
-sala   |leave     |salir     |partir     |partire   |relinquo
-scia   |know      |saber     |savoir     |conoscere |scio
-sema   |seem      |parecer   |sembler    |sembrare  |videtur
-sesa   |feel      |sensación |ressentir  |sentire   |sentire
-teta   |try       |tratar    |essayer    |provare   |tentant
-toma   |take      |tomar     |prendre    |prendere  |accipere
-vala   |want      |querer    |vouloir    |volere    |cupio
-veda   |see       |ver       |voir       |vedere    |videre
-vena   |come      |ven       |viens      |venire    |veni
+andu   |go        |ir        |aller      |partire   |vade
+apeu   |call      |llamada   |appel      |chiamata  |voca
+opuu   |work      |trabajo   |travail    |lavoro    |opus
+aseu   |do        |hacer     |faire      |fare      |facite
+dehu   |say       |decir     |dire       |dire      |dicere
+estu   |be        |ser       |être       |essere    |quod
+fomu   |make      |hacer     |faire      |rendere   |facere
+givu   |give      |dar       |donner     |dare      |dare
+getu   |get       |obtener   |obtenir    |ottenere  |ut
+haru   |have      |tener     |avoir      |avere     |habet
+iuzu   |use       |utilizar  |utilisation|uso       |usus
+miru   |look      |Mira      |Regardez   |Guarda    |quaerere
+ontu   |tell      |contar    |dire       |raccontare|amen dico
+pasu   |think     |pensar    |pense      |pensare   |cogitare
+pegu   |ask       |pedir     |demander   |Chiedi    |quaerere
+ruvu   |find      |encontrar |trouver    |trova     |inveniet
+salu   |leave     |salir     |partir     |partire   |relinquo
+sciu   |know      |saber     |savoir     |conoscere |scio
+semu   |seem      |parecer   |sembler    |sembrare  |videtur
+sesu   |feel      |sensación |ressentir  |sentire   |sentire
+tetu   |try       |tratar    |essayer    |provare   |tentant
+tomu   |take      |tomar     |prendre    |prendere  |accipere
+valu   |want      |querer    |vouloir    |volere    |cupio
+vedu   |see       |ver       |voir       |vedere    |videre
+venu   |come      |ven       |viens      |venire    |veni
 
 **Level 4**
 
@@ -86,104 +88,104 @@ Top 100 verbs, ordered by Spanish
 
 Origin    | Maj     |Spanish      | English
 ----------|---------|-------------|---------------
-french    | ovra-go |abrir        | to open
-spanish   | acba-go |acabar       | to finish/end
-spanish   | agra-go |agarrar      | to grab
-spanish   | ceta-go |aceptar      | to accept
-spanish   | acza-go |alcanzar     | to reach
-spanish   | apra-go |aparecer     | to appear
-portugese | ajda-go |ayudar       | to help
-spanish   | usca-go |buscar       | to look for
-italian   | cada-go |caer         | to fall
-italian   | muta-go |cambiar      | to change
-latin     | inca-go |comenzar     | to begin
-italian   | capa-go |entender     | to understand
-esperanto | cona-go |conocer      | to know/meet
-arabic    | zara-go |considerar   | to consider
-italian   | onta-go |contar       | to count
-arabic    | hula-go |convertir    | to convert/change
-italian   | orsa-go |correr       | to run
-latin     | arta-go |crear        | to create
-spanish   | crea-go |creer        | to believe
-german    | rafa-go |cumplir      | to achieve
-english   | giva-go |dar          | to give
-italian   | dova-go |deber        | to owe
-italian   | dica-go |decir/hablar | to say
-spanish   | deha-go |dejar        | to leave
-italian   | reva-go |descubrir    | to discover
-french    | onda-go |dirigir      | to direct
-spanish   | peza-go |empezar      | to start
-italian   | ruva-go |encontrar    | to find
-spanish   | etra-go |entrar       | to enter
-spanish   | ciba-go |escribir     | to write
-latin     | auda-go |escuchar     | to listen
-english   | hopa-go |esperar      | to hope
-spanish   | esta-go |estar        | to be
-spanish   | esta-go |existir      | to exist
-esperanto | tuda-go |estudiar     | to study
-italian   | piga-go |explicar     | to explain
-spanish   | foma-go |formar       | to form/make
-spanish   | gana-go |ganar        | to earn/win
-italian   | pica-go |gustar       | to like
-italian   | pica-go |gustar       | to like     
-spanish   | hara-go |haber        | to have
-spanish   | asea-go |hacer        | to do
-romanian  | poba-go |intentar     | to try
-italian   | anda-go |ir           | to go
-original  | pala-go |jugar        | to play
-french    | lira-go |leer         | to read
-english   | raza-go |levantar     | to get up/raise
-french    | apea-go |llamar       | to call
-french    | arva-go |llegar       | to arrive
-french    | orta-go |llevar       | to carry
-spanish   | ogra-go |lograr       | to achieve/manage to
-english   | anta-go |mantener     | to maintain/keep
-italian   | mira-go |mirar        | to watch/look at
-italian   | mota-go |morir        | to die
-portugese | asca-go |nacer        | to be born
-french    | isna-go |necesitar    | to need
-spanish   | cura-go |ocurrir      | to occur/happen
-latin     | ofra-go |ofrecer      | to offer
-latin     | auda-go |oír          | to hear
-spanish   | paga-go |pagar        | to pay
-spanish   | para-go |parar        | to stop
-english   | sema-go |parecer      | to seem
-original  | ecsa-go |partir       | to leave
-spanish   | pasa-go |pasar        | to happen/pass
-spanish   | pega-go |pedir        | to ask for
-english   | losa-go |perder       | to lose
-spanish   | poma-go |permitir     | to permit/allow
-esperanto | pava-go |poder        | to be able to
-spanish   | pona-go |poner        | to put
-spanish   | rega-go |preguntar    | to ask
-english   | itra-go |presentar    | to introduce/present
-latin     | poda-go |producir     | to produce
-latin     | cuda-go |quedar       | to stay / rest
-french    | vala-go |querer       | to want
-original  | pefa-go |realizar     | to achieve
-original  | maca-go |recibir      | to receive
-spanish   | reca-go |reconocer    | to recognize
-french    | repa-go |recordar     | to remember
-esperanto | reza-go |resultar     | to turn out
-latin     | scia-go |saber        | to know
-spanish   | saca-go |sacar        | to take out
-spanish   | sala-go |salir        | to go out
-spanish   | sega-go |seguir       | to follow
-spanish   | sesa-go |sentir       | to feel
-spanish   | sera-go |ser          | to be / to exist
-spanish   | sava-go |servir       | to serve/function
-spanish   | supa-go |suponer      | to suppose
-original  | hara-go |tener        | to have (to posses)
-german    | fera-go |terminar     | to finish
-spanish   | toca-go |tocar        | to touch/play
-spanish   | toma-go |tomar        | to take
-latin     | opua-go |trabajar     | to work
-original  | adra-go |traer        | to bring
-original  | rata-go |tratar       | to treat
-english   | iuza-go |utilizar     | to use
-spanish   | vena-go |venir        | to come
-spanish   | veda-go |ver          | to see
-original  | viva-go |vivir        | to be alive 
-latin     | vica-go |conquer      | to to conquerer
-latin     | reta-go |volver       | to return/come back
+french    | ovru    |abrir        | to open
+spanish   | acbu    |acabar       | to finish/end
+spanish   | agru    |agarrar      | to grab
+spanish   | cetu    |aceptar      | to accept
+spanish   | aczu    |alcanzar     | to reach
+spanish   | apru    |aparecer     | to appear
+portugese | ajdu    |ayudar       | to help
+spanish   | uscu    |buscar       | to look for
+italian   | cadu    |caer         | to fall
+italian   | mutu    |cambiar      | to change
+latin     | incu    |comenzar     | to begin
+italian   | capu    |entender     | to understand
+esperanto | conu    |conocer      | to know/meet
+arabic    | zaru    |considerar   | to consider
+italian   | ontu    |contar       | to count
+arabic    | hulu    |convertir    | to convert/change
+italian   | orsu    |correr       | to run
+latin     | artu    |crear        | to create
+spanish   | creu    |creer        | to believe
+german    | rafu    |cumplir      | to achieve
+english   | givu    |dar          | to give
+italian   | dovu    |deber        | to owe
+italian   | dicu    |decir/hablar | to say
+spanish   | dehu    |dejar        | to leave
+italian   | revu    |descubrir    | to discover
+french    | ondu    |dirigir      | to direct
+spanish   | pezu    |empezar      | to start
+italian   | ruvu    |encontrar    | to find
+spanish   | etru    |entrar       | to enter
+spanish   | cibu    |escribir     | to write
+latin     | audu    |escuchar     | to listen
+english   | hopu    |esperar      | to hope
+spanish   | estu    |estar        | to be
+spanish   | estu    |existir      | to exist
+esperanto | tudu    |estudiar     | to study
+italian   | pigu    |explicar     | to explain
+spanish   | fomu    |formar       | to form/make
+spanish   | ganu    |ganar        | to earn/win
+italian   | picu    |gustar       | to like
+italian   | picu    |gustar       | to like     
+spanish   | haru    |haber        | to have
+spanish   | aseu    |hacer        | to do
+romanian  | pobu    |intentar     | to try
+italian   | andu    |ir           | to go
+original  | palu    |jugar        | to play
+french    | liru    |leer         | to read
+english   | razu    |levantar     | to get up/raise
+french    | apeu    |llamar       | to call
+french    | arvu    |llegar       | to arrive
+french    | ortu    |llevar       | to carry
+spanish   | ogru    |lograr       | to achieve/manage to
+english   | antu    |mantener     | to maintain/keep
+italian   | miru    |mirar        | to watch/look at
+italian   | motu    |morir        | to die
+portugese | ascu    |nacer        | to be born
+french    | isnu    |necesitar    | to need
+spanish   | curu    |ocurrir      | to occur/happen
+latin     | ofru    |ofrecer      | to offer
+latin     | audu    |oír          | to hear
+spanish   | pagu    |pagar        | to pay
+spanish   | paru    |parar        | to stop
+english   | semu    |parecer      | to seem
+original  | ecsu    |partir       | to leave
+spanish   | pasu    |pasar        | to happen/pass
+spanish   | pegu    |pedir        | to ask for
+english   | losu    |perder       | to lose
+spanish   | pomu    |permitir     | to permit/allow
+esperanto | pavu    |poder        | to be able to
+spanish   | ponu    |poner        | to put
+spanish   | regu    |preguntar    | to ask
+english   | itru    |presentar    | to introduce/present
+latin     | podu    |producir     | to produce
+latin     | cudu    |quedar       | to stay / rest
+french    | valu    |querer       | to want
+original  | pefu    |realizar     | to achieve
+original  | macu    |recibir      | to receive
+spanish   | recu    |reconocer    | to recognize
+french    | repu    |recordar     | to remember
+esperanto | rezu    |resultar     | to turn out
+latin     | sciu    |saber        | to know
+spanish   | sacu    |sacar        | to take out
+spanish   | salu    |salir        | to go out
+spanish   | segu    |seguir       | to follow
+spanish   | sesu    |sentir       | to feel
+spanish   | seru    |ser          | to be / to exist
+spanish   | savu    |servir       | to serve/function
+spanish   | supu    |suponer      | to suppose
+original  | haru    |tener        | to have (to posses)
+german    | feru    |terminar     | to finish
+spanish   | tocu    |tocar        | to touch/play
+spanish   | tomu    |tomar        | to take
+latin     | opuu    |trabajar     | to work
+original  | adru    |traer        | to bring
+original  | ratu    |tratar       | to treat
+english   | iuzu    |utilizar     | to use
+spanish   | venu    |venir        | to come
+spanish   | vedu    |ver          | to see
+original  | vivu    |vivir        | to be alive 
+latin     | vicu    |conquer      | to to conquerer
+latin     | retu    |volver       | to return/come back
 

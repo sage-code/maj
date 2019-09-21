@@ -1,29 +1,24 @@
 # Basic Grammar
 
 
-## Fundamental
+## Fundamental adjectives
 
-bun = good  
-mal = wrong / bad
-
+buno = good  
+malo = wrong / bad
 
 ## Greetings
 
-**from latin**
-salu ita toto = hello   everybody
-vale ita toto = goodbye everybody (Latin adio)
+Are based on adjectives:
 
-salu = health
-vale = final/ over/ end
-toto = everyone
-noto = nobody
-soto = somebody
+salo  = hello
+valo  = goodbye
+toto  = everyone
+noto  = nobody
+soto  = somebody
 
-* Root of verb is using "a" suffix for "infinitive" case.
+# Logic 
 
-# Logic
-
-* Logical values are: {vre, fau}, from French.
+* Logical adjectives are: {vero, faso}, from French.
 
 vero = the truth
 faso = the lie   
@@ -57,13 +52,12 @@ ci?   | who?     | que     | cine
 ce?   | what?    | qué     | ce
 co?   | how?     | como    | cum
 ud?   | where?   | dónde   | unde
-ca?   | which?   | qual    | care
+ca?   | which?   | qual    | care/ca
       
-* ci sera  = who is ?
-* ce coma  = what are you eating ?
-* co coma  = how is your food  ?
-* co beba  = how is your drink ?
-* ud sera  = where are you?
+* ci seru  = who is ?
+* ce comu  = what are you eating ?
+* co bebu  = how is your drink ?
+* ud seru  = where are you?
 * missing example with ca
 
 ## Articles
@@ -87,7 +81,7 @@ hi  = he/she  | ze = they
 
 **Possessive**
 
-To have = hara
+haru = to have
 
 singular    | plural
 ------------|--------------------------------
@@ -105,20 +99,19 @@ hia = his   | zue = theirs
 
 Information for time is ending with "u".
 
-tepu = time
+tepa = time
 
 * Verbs can be followed by time but the verb remain unchanged,
 * Composite words are using "-" to link two words close together,
 * Linked words are pronounced almost as a single word
 
-
-rasu  = present 
-fasu  = feature
-pasu  = past
+rasa  = present 
+fasa  = feature
+pasa  = past
 
 Maj     | English
 --------|--------------------------------
-ga      | infinitive (no time)
+ga      | sometimes soon
 ra      | present (now)
 fa      | sometime in the future
 pa      | sometime in the past
@@ -128,10 +121,11 @@ na      | never
 
 Using verb: veda = to see
 
-* to veda-ra  = see you soon
-* to veda-fa  = see you sometime
-* to veda-pa  = see you sometime
-* to veda-na  = I will never see you again
+* ti vedu-ga  = see you soon
+* ti vedu-ra  = I can see see you
+* ti vedu-fa  = see you sometime
+* ti vedu-pa  = I have seen you a while ago
+* ti vedu-na  = I will never see you again
 
 **singular conjugation**
 
@@ -152,7 +146,7 @@ Using verb: veda = to see
 
 ## Transform a verb in attribute using "sy"
 
-pala-sy = playful
+palu-sy = playful
 
 **So far:**
 * ma sera pala-sy = I'm playful
@@ -162,38 +156,38 @@ pala-sy = playful
 ## Locations
 
 * Locations are so important in Maj.
-* Common locations are terminated in "u".
+* Common locations are nouns so they are terminated in "a".
 
-locu = location
+loca = location
 
-maj | english   | Spanish
-----|-----------|-----------------
-rou | north     | norte
-sou | south     | sur
-etu | est       | este
-usu | west      | oeste
+maj  | english   | Spanish
+-----|-----------|-----------------
+nosa | north     | norte
+sosa | south     | sur
+esta | est       | este
+veta | west      | oeste
       
 
 maj	| english	|spanish
 ----| ----------|------------------
-ogu	| on 	    |en
-ovu	| over	    |terminado
-inu	| inside    |dentro
-abu	| above	    |encima
-bau	| under	    |debajo
-neu	| near	    |cerca
-fau	| far 	    |lejos
-aru	| up	    |arriba
-idu	| down	    |abajo
-pru	| prior	    |anterior
-csu	| next	    |próximo
-fru	| front	    |frente
-pau	| back	    |espalda
-fou	| forward	|adelante
-atu	| backward  |hacia atrás
-ciu | here      |aqui
-hiu | there     |hay 
-udu | where     |donde
+oga	| on 	    |en
+ova	| over	    |terminado
+ina	| inside    |dentro
+aba	| above	    |encima
+baa	| under	    |debajo
+nea	| near	    |cerca
+faa	| far 	    |lejos
+ara	| up	    |arriba
+ida	| down	    |abajo
+pra	| prior	    |anterior
+csa	| next	    |próximo
+fra	| front	    |frente
+paa	| back	    |espalda
+foa	| forward	|adelante
+ata	| backward  |hacia atrás
+cia | here      |aqui
+dea | there     |hay 
+uda | where     |donde
 
       
 ## Directions
@@ -204,8 +198,8 @@ maj   | english | romanian
 ------|---------|------------
 da    | from    | din        
 la    | to      | spre       
-bu    | by      | către      
-su    | via     | prin        
+ba    | by      | către      
+sa    | via     | prin        
   
 Examples:
 
@@ -213,17 +207,17 @@ Examples:
 
 Preposition "ud" can be used for location:
 
-* ud la loc ti anda-ga? = where you going?
-* ud da loc ti vena-ga? = where you coming from?
+* ud la loca ti andu-ga? = where you going?
+* ud da loca ti venu-ga? = where you coming from?
     
-* ud la locu ce ti pala-ga? = are you plaing?
-* ud la locu ce ti anda-ga? = are we going?
-* ud la locu ce ti anda-ga? = are you going?
-* ud la locu ce ti pala-ga? = are we plaing?
+* ud la loca ce ti palu-ga? = are you plaing?
+* ud la loca ce ti andu-ga? = are we going?
+* ud la loca ce ti andu-ga? = are you going?
+* ud la loca ce ti palu-ga? = are we plaing?
 
 **expressions**
   
-* da udu la udu!      = from where to where!
-* da ciu la hiu!      = from there to here!
-* da locu ce ti pica! = from where you like!
+* da uda  la uda!      = from where to where!
+* da cia  la dea!      = from here to there!
+* da loca ce ti picu!  = from where you like!
 
