@@ -6,13 +6,12 @@ Format of the verb can be:
 
 * VCVu :common
 * CVCu :start with a consonant  
-* CCVu
-* VCCu :expensive
-
+* CCVu :start with two consonants 
+* VCCu :contains two consonants
 
 **Level 1**
 
-Some invented Maj specific verbs for personal care:
+Some original Maj specific verbs for personal care:
 
 maj     | english       | romanian
 --------|---------------|-----------------
@@ -162,7 +161,7 @@ latin     | poda-go |producir     | to produce
 latin     | cuda-go |quedar       | to stay / rest
 french    | vala-go |querer       | to want
 original  | pefa-go |realizar     | to achieve
-tuekish   | maca-go |recibir      | to receive
+original  | maca-go |recibir      | to receive
 spanish   | reca-go |reconocer    | to recognize
 french    | repa-go |recordar     | to remember
 esperanto | reza-go |resultar     | to turn out

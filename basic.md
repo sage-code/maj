@@ -40,6 +40,12 @@ si  | if      | conditional
 es  | is      | verb "este"
 in  | in      | location
 
+**symbols**
+
+When used in text some symbols are read out loud:
+
+* symbol `+` is read "et"
+* symbol `/` is read "or"
 
 **Interrogative:**
 

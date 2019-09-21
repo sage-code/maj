@@ -57,6 +57,15 @@ x | maj  | xx | maj        | xx | maj   | origin  |
  900 =  zin-acte
 ```
 
+* Read symbol "+" as "et", make a short pause before "et"
+* Symbol "-" is never read, it is a "legato", (you do not pause)
+
+```
+ 125 = bin-acta+cuta-rin 
+ 555 = rin-acta+rina-rin
+ 801 = vat-acta+bin
+```
+
 **Thousands = mola**
 
 000 = mola
