@@ -31,7 +31,7 @@ huhu    | diapers       | scutece
 
 **Level 2** 
 
-Infinitiv form of verbs is terminated with "ga":
+Infinitiv form of verbs is terminated with "ga" meaning "sometimes":
 
 maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
@@ -48,7 +48,6 @@ pesu-ga |to think  |pensar     |penser    |cogitare
 divu-ga |to become |convertirse|devenir   |facti sunt
 hutu-ga |it should |debería    |devrait   |ut
 
-Termination "ga" is like english "to", it stress-out that this is a verb.
 
 **Level 3**
 
