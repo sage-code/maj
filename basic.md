@@ -54,10 +54,11 @@ ud?   | where?   | dónde   | unde
 ca?   | which?   | qual    | care
       
 * ci sera  = who is ?
-* ce papa  = what are you eating ?
-* co papa  = how is your food  ?
-* co bebe  = how is your drink ?
+* ce coma  = what are you eating ?
+* co coma  = how is your food  ?
+* co beba  = how is your drink ?
 * ud sera  = where are you?
+* missing example with ca
 
 ## Articles
 
@@ -75,7 +76,7 @@ Is a word that can function by itself as a noun phrase and that refers either to
 singular      | plural
 --------------|-----------------------------
 mi  = myself  | ne = we
-ti  = you     | ve = you
+ti  = you     | ve = you all
 hi  = he/she  | ze = they
 
 **Possessive**
@@ -134,9 +135,9 @@ Using verb: veda = to see
 * hi pala-na = he never play
 
 **plural conjugation**
-* ne pala-ga = we all play 
-* ve pala-ga = you all play
-* ze pala-ga = they all play 
+* ne pala-ga = we all play sometimes
+* ve pala-ga = you all play sometimes
+* ze pala-ga = they all play sometimes 
 
 **Notes:** 
 
@@ -145,12 +146,12 @@ Using verb: veda = to see
 
 ## Transform a verb in attribute using "sy"
 
-paly = playful
+pala-sy = playful
 
 **So far:**
-* mi sera pala-sy = I'm playful
-* ti sera pala-sy = you are playful 
-* hi sera pala-sy = he, it or she is playful
+* ma sera pala-sy = I'm playful
+* ta sera pala-sy = you are playful 
+* ha sera pala-sy = he, it or she is playful
 
 ## Locations
 
@@ -206,17 +207,17 @@ Examples:
 
 Preposition "ud" can be used for location:
 
-* ud la loc tu anda-ga? = where you going?
-* ud da loc tu vena-ga? = where you coming from?
+* ud la loc ti anda-ga? = where you going?
+* ud da loc ti vena-ga? = where you coming from?
     
-* ud la locu ca ti pala-go? = are you plaing?
-* ud la locu ca ti anda-go? = are we going?
-* ud la locu ca ti anda-go? = are you going?
-* ud la locu ca ti pala-go? = are we plaing?
+* ud la locu ce ti pala-ga? = are you plaing?
+* ud la locu ce ti anda-ga? = are we going?
+* ud la locu ce ti anda-ga? = are you going?
+* ud la locu ce ti pala-ga? = are we plaing?
 
 **expressions**
   
 * da udu la udu!      = from where to where!
 * da ciu la hiu!      = from there to here!
-* da locu ce ti pice! = from where you like!
+* da locu ce ti pica! = from where you like!
 
