@@ -18,12 +18,14 @@ Are based on adjectives :
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian
 ------|----------|------------|------------|-----------|----------
-save  |hello     | hola       | bienvenue  | salve     | salut 
+hola  |hello     | hola       | bienvenue  | salve     | salut 
 vale  |goodbye   | adiós      | au bientot | vale      | ramas bun 
 adio  |farewell  | despedida  | adieu      | vale      | adio
 buno  |okay      | como estas | ça va      | bene      | bine      
 vedu  |see you   | nos vemos  | au revoir  | te videre | la revedere
 
+hola ita todo  = hello everyone
+vale ita todo  = goodbye everyone
 
 # Logical adjectives
 
