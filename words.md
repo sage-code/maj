@@ -155,15 +155,17 @@ English preposition can be considered in this categories: { time, place, directi
 
 **related nouns**
 
-locta = location
-datea = date
-tempa = time
-horea = hour
-anoia = year
-minea = minute
-scuda = second
-aresa = the address
-sezia = season
+Location related nouns are 4 character long, they are more important.
+
+loca  = location
+data  = date
+tepa  = time
+hora  = hour
+anoa  = year
+mina  = minute
+seda  = second
+asra  = the address
+seza  = season
 
 **Location examples**
 
@@ -173,39 +175,47 @@ sezia = season
 
 **Time examples**
 
-* in 2005 = en anoia 2005
-* on Spring = en sezia Spring 
-* at 21 of September 2005 = la datea 21 de Septeber 2005
-* at 2:45 = la horea 2:45 (cut con pata-rin)
+* in 2005 = en anoa 2005
+* on Spring = en seza Spring 
+* at 21 of September 2005 = la data 21 de Septeber 2005
+* at 2:45 = la hora 2:45 (cut con pata-rin)
 
 **movement**
 
-Across / Through
-Along / Around
-Into / Out Of
-Onto / Off
-Up / Down
-Over / Under
-Towards / Away From
-Back To
+Movement prepositions are 5 character long and ending in a consonant.
 
-**direction
+Maj      | English | Maj   |English     
+---------|---------|-------|----------------------------
+         |Across   |       | Through
+         |Along    |       | Around
+         |Into     |       | Out Of
+         |Onto     |       | Off
+         |Up       |       | Down
+         |Over     |       | Under
+         |Towards  |       | Away From
 
-{to, toward, into}
 
 **position**
 
-Above / On Top Of / On 
-Under / Below / Underneath / Beneath
-Behind / In Front Of
-Between / Beside / Next To
-Near / Close To / By
-Out / Outside / Out Of
+Position prepositions are 5 character long and ending in a consonant.
+
+ Maj     | English| Maj    |English     | Maj   |English 
+---------|--------|--------|------------|-------|---------------
+ubo      |Above   |top     |On Top Of   | auf   |On 
+unt      |Under   |unt     |Below       | unt   |Beneath
+der      |Behind  |pro     |In Front Of | pro   |Prior
+fra      |Between |con     |Beside      | con   |Next To
+nah      |Near    |con     |Close To    | par   |By
+out      |Out     |for     |Outside     | din   |Out Of
+
+**direction
+
+{toward, into, backward}
 
 
 **Agent & Tools**
 
-by, with
+{ by, with }
 
 Read more on: [preposition.md](preposition.md)
 

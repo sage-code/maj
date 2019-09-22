@@ -170,32 +170,32 @@ palu-sy = playful
 * Locations are so important in Maj.
 * Common locations are nouns so they are terminated in "a".
 
-loca = location (noun)
+locea = location (noun)
 
 maj  | english   | Spanish
 -----|-----------|-----------------
-nosa | north     | norte
-sosa | south     | sur
+nora | north     | norte
+sura | south     | sur
 esta | est       | este
 veta | west      | oeste
       
 **relative locations**
 
-maj	| english	|spanish  | romanian
+maj	| english	|spanish  | german
 ----| ----------|---------|---------
-en	| in, on    |en       | în
-pe  | on the    |sobra    | pe
-bu	| above	    |encima   | supra
-su	| under	    |debajo   | sub
-ri	| up	    |arriba   | în sus 
-jo	| down	    |abajo    | în jos
+ino	| inside    |en       | innen
+auf | on the    |sobra    | auf
+ubo	| above	    |encima   | über
+unt	| under	    |debajo   | unter
+upa	| up	    |arriba   | oben
+run	| down	    |abajo    | runter
 
       
 ## Directions
 
 Directions are even more important than locations.
 
-maj   | english | romanian   
+Maj   | English | Romanian   
 ------|---------|------------
 de    | from    | din        
 la    | to      | la 
