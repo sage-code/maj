@@ -18,7 +18,6 @@ Docta | doctor             | doctor
 * Nouns representing leaving beings are starting with uppercase.
 * Person names are written with all capital letters.
 
-
 **examples:**
 
 * SANA     = Santa Claus
@@ -208,11 +207,15 @@ Out / Outside / Out Of
 
 by, with
 
+Read more on: [preposition.md](preposition.md)
+
 ## Adverbs
 
 A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. 
 
 (e.g., gently, quite, then, there ).
+
+Read more on: [adverbs.md](adverbs.md)
 
 ## Dictionary
 
