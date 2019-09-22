@@ -49,7 +49,7 @@ Basic rules for new language:
 
 ## Symbols
 
-{ + - / ? ! . : * ; [ ]( )}
+{ + - / ? ! . : * ; }
 
 1. One star `* ` follow by one space at the beginning of line start a bullet list;
 1. Number `1. `  follow by dot that at beginning of line start a numbered list;
@@ -57,7 +57,7 @@ Basic rules for new language:
 1. Two text enclosed with `**` becomes **bold**;
 1. Any text that start and end with `_` is _italic_;
 1. Any text that start and end with `~` is ~strike~;
-1. Notation "[Text](URL)" is used to create hyper-link;
+1. Notation `[Text](URL)` is used to create hyper-links;
 1. Symbol `#` is header, `##` sub-header (enlarged font);
 1. Commented text HTML notation: <!-- .... --> is supported;
 1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
