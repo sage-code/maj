@@ -25,15 +25,15 @@ a   b    c   d   e   f   g   h   i   j   l
 a   b    c   d   e   f   g   h   j   ʒ   l
 ------------------------------------------
 m   n   o   p   r   s   t   u   v   y   z
-m   n   o   p   r   s   t   u   v   y   zî
+m   n   o   p   r   s   t   u   v   y   z
 ------------------------------------------
 
 **notes**
 
 Reading the alphabet is different from other Romantic Languages:
 
-* After each consonant you add a short "ɨ" sounding like "eo" from "pitgeon",
-* The above rule is active only when the consonant is standing alone.
+* After each consonant you add a short "ɨ" sound like "eo" from "pitgeon",
+* The above rule is active only when the consonant is standing alone
 
 * Sound `a`  is open, like `a` in "car",
 * Sound `i`  is not "ai" but similar to "ee" in "sheep",
@@ -53,7 +53,9 @@ R is the most difficult letter of the Maj language. It is stronger than English 
 
 **Trilled J**
 
-In Maj, J is trilled. That means your tongue will vibrate. To pronounce this sound you must try to produce "h" and a fricative "s" with the middle of your tongue touching the mouth roof. The best symbol for this sound is "ʒ"
+Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must try to produce "h" and a fricative "s" with the middle of your tongue touching the mouth roof. The best symbol for this sound is "ʒ".
+
+Sounds "je,ji", "Je,Ji" are even more difficult, it is pronounced "dʒ" like in "giraf", "gin". Observe that "gi" and "ge" are more natural to read like in English "guitar", "get". 
 
 
 * Digraphs
@@ -63,17 +65,21 @@ This sounds are created using two letters that produce a different sound.
 maj| romanian  | phonetic(*)  |
 ---|-----------|--------------|
 ts | ţe,  ţi   | t͡s          |
-sh | şe,  şi   | ʃ            |
-ch | ce,  ci   | t͡ɕ, tʃ      |
-ge | ghe, ghi  | gɨ           |
+sh | şe,  şi   | ʂ            |
+ch | ce,  ci   | t͡ɕ          |
+ce | che       |              |
+ci | chi       |              |
+ge | ghe, ghi  | ɢe, ɢi       |
+ja | ja,  ju   | ʒa, ʒa       |
 je | ge,  gi   | dʒ           |
 
 **notes:**
 
-* sound "ch"  sound like "ch" in "peach"
+* sound "ja"  is pronounced "ʒa", almost like "sha" but trilled,
 * sound "je"  is like "ge" in "generator",
 * sound "ji"  is like "gi" in "gin",
-* sound "gu"  is like "g" in  "get", "gear", "gees" 
+* sound "ge"  is like "g" in  "get", "gear", "gees",
+* sound "gi"  is like "g" in  "guitar",
 * sound "sh"  is like "sh" in "she" or "ti" in "addiction" or "ss" in "passion"
 * sound "ch"  is like "ch" in "cheese", "peach"
 * sound "ts"  and "tz" are similar to "z" in German "zuruck = back"
