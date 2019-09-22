@@ -72,8 +72,8 @@ estu   |be        |ser       |être       |essere    |quod
 fomu   |make      |hacer     |faire      |rendere   |facere
 givu   |give      |dar       |donner     |dare      |dare
 getu   |get       |obtener   |obtenir    |ottenere  |ut
-haru   |have      |tener     |avoir      |avere     |habet
-iuzu   |use       |utilizar  |utilisation|uso       |usus
+habu   |have      |tener     |avoir      |avere     |habet
+iusu   |use       |utilizar  |utilisation|uso       |usus
 miru   |look      |mira      |regardez   |guarda    |quaerere
 ontu   |tell      |contar    |dire       |raccontare|amen dico
 pegu   |ask       |pedir     |demander   |chiedi    |quaerere

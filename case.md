@@ -21,9 +21,23 @@ Maj can be spoken in public places. Nobody will understand you especially if you
 
 # but how
 
-* we simplify the alphabet for Maj,
-* we create strong simple grammar rules,
+Maj is a constructed Romantic language. We think the natural language evolution of Latin language has stop, so we will give it a push forward. We shorten the words and we reduce cost of pronunciation. So then Maj become faster and more efficient. Intended for children to learn quick and effortless.
+
+**design:**
+
+* we eliminate some redundant letters: {W, X, Q, K}
+* we do not use cedilla and weird letters found in Franch or German
+* we try to make the language very articulate and less annoying
+* we create strong and simple grammar rules to reduce complexity,
 * we optimize the language using programming algorithms.
+
+**rules:**
+
+* we replace "s" rule for plural: {English, Spanish, French} to "e" rule from: {Italian, Romanian};
+* we use suffix for different kind of words: adjective, verbs, nouns;
+* we use fixed length words, determined by average frequency of word category;
+* we use invariant forms of nouns and verbs. there are no irregular verbs;
+* we eliminate synonyms the best we can and we prefer one meaning for one word.
 
 # but why
 
@@ -33,7 +47,7 @@ a constructed language can have good use-cases.
 
 * study grammar and vocabulary of other languages,
 * experiment with different new words,
-* making examples of intelligent programs.
+* making examples of software for word manipulation.
 
 **as a product**
 
@@ -44,7 +58,7 @@ once the language is stabilized it can be usable for:
 3.chat
 4.teaching
 5.storage
-6.translations
+6.translation
 7.making AI
 
 * first use case is clear: making video games,

@@ -38,7 +38,7 @@ Reading the alphabet is different from other Romantic Languages:
 * Sound `a`  is open, like `a` in "car",
 * Sound `i`  is not "ai" but similar to "ee" in "sheep",
 * Sound `e`  is open, similar to "e"  in "melon",
-* Sound `y`  is same like "y" in "play", "yes",
+* Sound `y`  is like "ei", same like "y" in "play", "yes",
 * Sound `j`  is trilled, similar to sound "si" in "fusion".
 * Sound `s`  is like "s" in "snake" but is changing if is follow by `h`
 * Sound `z`  is trilled similar to `z` in "zoo".
@@ -65,19 +65,19 @@ maj| romanian  | phonetic(*)  |
 ts | ţe,  ţi   | t͡s          |
 sh | şe,  şi   | ʃ            |
 ch | ce,  ci   | t͡ɕ, tʃ      |
-ge | ge,  gi   | dʒ           |
-gu | ghe, ghi  | gɨ           |
-
+ge | ghe, ghi  | gɨ           |
+je | ge,  gi   | dʒ           |
 
 **notes:**
 
-* sound "ch" sound like "ch" in "peach"
-* sound "ge" is like "ge" in "generator",
-* sound "gi" is like "gi" in "gin",
-* sound "gu" is like "g" in "get", "gear, "gees" 
-* sound "sh" is like "ti" in "she", "addiction", "passion"
-* sound "ch" is like "ch" in "cheese", "peach"
-* sound "ts" and "tz" are similar to "z" in German "zuruck = back"
+* sound "ch"  sound like "ch" in "peach"
+* sound "je"  is like "ge" in "generator",
+* sound "ji"  is like "gi" in "gin",
+* sound "gu"  is like "g" in  "get", "gear", "gees" 
+* sound "sh"  is like "sh" in "she" or "ti" in "addiction" or "ss" in "passion"
+* sound "ch"  is like "ch" in "cheese", "peach"
+* sound "ts"  and "tz" are similar to "z" in German "zuruck = back"
+* sound "ue"  and "ui" are similar to "we", "wi" in "wet", "whisky"
 
 ## Not used
 
