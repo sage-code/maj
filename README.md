@@ -47,7 +47,7 @@ Basic rules for new language:
 1. You can use single quotes: '1'  to reffer ti a single symbol.
 1. You can use single backquote: `4+4` to enclose an mathematical expression or inline code.
 
-** Following punctuation symbols are used:
+## Symbols
 
 { + - / ? ! . : * ; [ ]( )}
 
@@ -63,28 +63,6 @@ Basic rules for new language:
 1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
 1. Use \`\`\` to create a block of code, that is tipical to wiki notation.
 
-**The surrounding:**
-------------------------------------------------------------------------------------------------
-1. There are 3 kind of sentences: {interrogative, declarative, imperative} ,
-1. There are 3 kind of answers: { affirmative, negative, informative },
-1. There are 3 states of logic: { true, false , maybe },
-1. There are 3 times:      {past, present, future},
-1. There are 3 places:     {here, near by, far away},
-1. There are 3 attitudes:  {like, fear, hate},
-1. There are 3 sentiments: {happy, sad, worried},
-1. There are 5 basic needs:{hungry, thirsty, bored, tired, could},
-1. There are 5 kind of things: { people, animals, machines, objects, spirits },
-1. There are 5 elements: { fluid, clay, solid, gas, fire }.
-
-
-**Elements:**
-------------------------------------------------------------------------------------------------
-* [The use case](case.md)
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
-* [Basic grammar](basic.md)
-* [Verbs](verbs.md)
-* [Words](words.md)
 
 ## Constructing
 
@@ -99,3 +77,23 @@ Words are selected from 12 different languages.
 * Most common words Verbs are created manually using a translation spreadsheet,
 * We use an algorithm to calculate a  word cost based on complexity,
 * We look for expensive words that could be simplified to improve the language.
+
+## The sentences
+
+1. There are 3 kind of sentences: {interrogative, declarative, imperative} ,
+1. There are 3 kind of answers: { affirmative, negative, informative } ,
+1. The sentances are constructed from "language elements".
+
+**Elements:**
+
+Language elements are designed in separated documents you can read one by one in this order:
+
+* [The use case](case.md)
+* [The alphabet](alphabet.md)
+* [The numerals](numerals.md)
+* [Basic grammar](basic.md)
+* [Words](words.md)
+* [Verbs](verbs.md)
+* [Adverbs](adverbs.md)
+* [Nouns](nouns.md)
+* [Adjectives](adjectives.md)
