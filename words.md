@@ -62,6 +62,8 @@ uva = grape seed  (singular may be translated different in different languages)
 * ite  cheola  = the chocolate with alcohol
 * ita  hugola  = juice mixed with alcohol 
 
+More: [nouns](nouns.md)
+
 ## verbs
 
 The verbs have a root of 4 character long and is ending with time preposition:
@@ -91,7 +93,7 @@ Rationale: Verbs are more often used than nouns, and are therefore more valuable
 
 Is an attribute related to a noun to modify or describe it.
 
-1. Long adjectives are terminated with "o" and are 5 character long:
+1. Adjectives are terminated with "o" and are 5 character long:
 
 maj   |romanian   |spanish   |english
 ------|-----------|----------|---------
@@ -112,11 +114,15 @@ furio |furios     |furioso   |furious
 santo |sănătos    |saludable |healthy 
 maldo |bolnav     |enfermo   |sick
 
+More: [verbs](verbs.md)
+
 2. Adjectives can change termination from "o" to "a" to become nouns.
 
 ita feria  = this cold
 ita calda  = this heat
 ita malda  = this sick person
+
+More: [adjectives](adjectives.md)
 
 ## Numerals
 
@@ -126,11 +132,6 @@ Numerals can be used with nouns to specify how many:
 * ti coma-pa cut mere = you have eat two apples
 
 **Observe:** that last letter of noun is changing from "a" to "e" with numbers > 1.
- 
-Dictinary  is work in progress in folder: "maps"
-
-[fruits](/maps/fruits.md)
-[drinks](/maps/drinks.md)
 
 
 ## Preposition
@@ -213,4 +214,10 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 (e.g., gently, quite, then, there ).
 
+## Dictionary
+
+Dictinary  is work in progress in folder: "maps"
+
+[fruits](/maps/fruits.md)
+[drinks](/maps/drinks.md)
 

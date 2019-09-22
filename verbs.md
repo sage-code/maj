@@ -91,7 +91,7 @@ vasu   |go        |ir,vas    |aller,vas  |partire   |vade
 
 **Level 4**
 
-More 70 verbs, ordered by Spanish
+Some 70-ish more verbs, ordered by Spanish with diverse origins:
 
 Origin    | Maj     |Spanish      | English
 ----------|---------|-------------|---------------
