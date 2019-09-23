@@ -7,7 +7,7 @@ Adjectives are 4 or 5 character long and are ending usually with:
 * semivowels - {"l","j","y"}
 * adjectives ending in consonant can be 6 character long
 
-Level 1
+## Level 1
 
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
@@ -17,11 +17,10 @@ poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
 buno    |good      |bueno      |bien        |bene        |bonum   |bun
 alto    |high      |alto       |haute       |alto        |altum   |înalt
 pico    |little    |pequeño    |peu         |poco        |paulo   |mic
-long    |long      |largo      |longue      |lungo       |longus  |lung
-alto    |other     |otro       |autre       |altro       |alium   |alte
+otro    |other     |otro       |autre       |altro       |alium   |alte
 peco    |small     |pequeña    |petit       |piccolo     |paulo   |mic
 
-Level 2
+## Level 2
 
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
