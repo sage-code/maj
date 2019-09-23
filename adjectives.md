@@ -1,7 +1,11 @@
 # Adjectives
 
-Adjectives are 4 or 5 character long and are ending with "o"
+Adjectives are 4 or 5 character long and are ending usually with:
 
+* vowels - {"o","i","e"} not {"a" or "u"}
+* semivowels - {"l","j","y"}
+* any consonants but usually not plosive
+* adjectives ending in consonant can be 6 character long
 
 Level 1
 
@@ -9,7 +13,7 @@ Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
 podo    |able      |poder      |capable     |capace      |potes   |capabil
 malo    |bad       |malo       |mauvais     |male        |malus   |rău
-poco    |few       |pocos      |peu         |pochi       |pauci   |puțini
+poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
 buno    |good      |bueno      |bien        |bene        |bonum   |bun
 alto    |high      |alto       |haute       |alto        |altum   |înalt
 pico    |little    |pequeño    |peu         |poco        |paulo   |mic
@@ -37,4 +41,4 @@ popio   |own       |propio     |posséder    |proprio     |suum    |propriu
 publo   |public    |público    |Publique    |pubblico    |publicae|public
 justo   |right     |correcto   |bonne       |giusto      |iustum  |potrivit
 mismo   |same      |mismo      |même        |stesso      |idem    |la fel
-hoveo   |young     |joven      |Jeune       |giovane     |iuvenis |tineri
+hoven   |young     |joven      |Jeune       |giovane     |iuvenis |tineri
