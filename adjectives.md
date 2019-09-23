@@ -2,12 +2,12 @@
 
 Adjectives are 4 or 5 character long and are ending usually with:
 
-* preferred ending is "o"
-* other vowels - {"i" or"e"} never {"a" or "u"}
+* vowels - {"o", "e", "i"} never {"a" or "u"}
 * semivowels - {"l","j","y"}
 * adjectives ending in consonant can be 6 character long
 
 ## Level 1
+
 
 Personal care and feelings.
 
@@ -65,3 +65,7 @@ publo   |public    |público    |Publique    |pubblico    |publicae|public
 justo   |right     |correcto   |bonne       |giusto      |iustum  |potrivit
 mismo   |same      |mismo      |même        |stesso      |idem    |la fel
 hoven   |young     |joven      |Jeune       |giovane     |iuvenis |tineri
+
+## Level 4
+
+
