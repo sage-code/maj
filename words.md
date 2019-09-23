@@ -89,26 +89,6 @@ More: [verbs](verbs.md)
 Is an attribute related to a noun to modify or describe it.
 
 1. Adjectives are terminated with "o" and are 5 character long:
-
-maj   |romanian   |spanish   |english
-------|-----------|----------|---------
-ferio |fericit    |feliz     |happy
-triso |trist      |triste    |sad
-fomeo |foame      |hambre    |hunger
-seteo |sete       |sed       |thirst
-frigo |frig       |frío      |cold
-caldo |cald       |caliente  |warm
-canso |obosit     |cansado   |tired
-boreo |plictisit  |perforado |bored
-icodo |ingrijorat |preocupado|anxious
-curio |curios     |curioso   |curious
-miedo |speriat    |miedo     |scared
-calmo |linistit   |tranquilo |quiet
-icsio |excitat    |excitado  |excited
-furio |furios     |furioso   |furious
-santo |sănătos    |saludable |healthy 
-maldo |bolnav     |enfermo   |sick
-
 2. Adjectives can change termination from "o" to "a" to become nouns.
 
 ita feria  = this cold
@@ -174,6 +154,16 @@ seza  = season
 * at 21 of September 2005 = la data 21 de Septeber 2005
 * at 2:45 = la hora 2:45 (cut et pata-rin)
 
+**Agent & Tools**
+
+von  = by    ( from German ) is
+con  = with  ( from Italian )
+
+**examples**
+
+von Mark Twain   = by Mark Twain
+con mia cut mane = with my two hand
+
 **movement**
 
 Movement prepositions are 5 character long and ending in a consonant.
@@ -217,18 +207,6 @@ via     |Via                 | Latin
 sus	    |Up	                 | Romania
 jos	    |Down                | Romanian
 
-
-**Agent & Tools**
-
-von  = by    ( from German ) is
-con  = with  ( from Italian )
-
-**examples**
-
-von Mark Twain   = by Mark Twain
-con mia cut mane = with my two hand
-
-Read more on: [preposition.md](preposition.md)
 
 ## Adverbs
 

@@ -9,6 +9,30 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 ## Level 1
 
+Personal care and feelings.
+
+maj   |romanian   |spanish   |english
+------|-----------|----------|---------
+ferio |fericit    |feliz     |happy
+triso |trist      |triste    |sad
+fomeo |foame      |hambre    |hunger
+seteo |sete       |sed       |thirst
+frigo |frig       |frío      |cold
+caldo |cald       |caliente  |warm
+canso |obosit     |cansado   |tired
+boreo |plictisit  |perforado |bored
+icodo |ingrijorat |preocupado|anxious
+curio |curios     |curioso   |curious
+miedo |speriat    |miedo     |scared
+calmo |linistit   |tranquilo |quiet
+icsio |excitat    |excitado  |excited
+furio |furios     |furioso   |furious
+santo |sănătos    |saludable |healthy 
+maldo |bolnav     |enfermo   |sick
+
+
+## Level 2
+
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
 alto    |high      |alto       |haute       |alto        |altum   |înalt
@@ -21,7 +45,7 @@ poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
 podo    |able      |poder      |capable     |capace      |potes   |capabil
 difo    |different |diferente  |différent   |diverso     |alium   |diferit
 
-## Level 2
+## Level 3
 
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------

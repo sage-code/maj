@@ -78,7 +78,7 @@ cotu   |count     |contar    |décompte   |contare   |computat
 pegu   |ask       |pedir     |demander   |chiedi    |quaerere
 tovu   |find      |encontrar |trouver    |trova     |inveniet
 tabu   |work      |trabajo   |travail    |lavoro    |opus
-salu   |leave     |salir     |partir     |partire   |relinquo
+relu   |leave     |salir     |partir     |partire   |relinquo
 semu   |seem      |parecer   |sembler    |sembrare  |videtur
 sesu   |feel      |sensación |ressentir  |sentire   |sentire
 teru   |try       |tratar    |essayer    |provare   |tentant
