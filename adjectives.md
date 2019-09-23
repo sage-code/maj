@@ -2,9 +2,9 @@
 
 Adjectives are 4 or 5 character long and are ending usually with:
 
-* vowels - {"o","i","e"} not {"a" or "u"}
+* preferred ending is "o"
+* other vowels - {"i" or"e"} never {"a" or "u"}
 * semivowels - {"l","j","y"}
-* any consonants but usually not plosive
 * adjectives ending in consonant can be 6 character long
 
 Level 1
@@ -17,7 +17,7 @@ poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
 buno    |good      |bueno      |bien        |bene        |bonum   |bun
 alto    |high      |alto       |haute       |alto        |altum   |înalt
 pico    |little    |pequeño    |peu         |poco        |paulo   |mic
-logo    |long      |largo      |longue      |lungo       |longus  |lung
+long    |long      |largo      |longue      |lungo       |longus  |lung
 alto    |other     |otro       |autre       |altro       |alium   |alte
 peco    |small     |pequeña    |petit       |piccolo     |paulo   |mic
 
