@@ -1,6 +1,8 @@
 # Classification of words
 
-**close persons:**
+## Nouns
+
+Person nouns are starting with uppercase.
 
 maj   | english            | romanian
 ------|--------------------|-----------------
@@ -14,7 +16,7 @@ Dotoa | doctor             | doctor
 
 **notes:** 
 
-* Nouns are 3, 4 or 5 character long and are ending with "a"
+* Nouns are 4, 5, 6 character long and are ending with "a"
 * Nouns representing leaving beings are starting with uppercase.
 * Person names are written with all capital letters.
 
@@ -43,7 +45,6 @@ isa = that   | ise = those
 * for beverage terminated with - ola (contains alcohol),
 * for food that contains a lot of sugar we use - osa,  
 
-
 uve = grapes      (invariant plural)
 uva = grape seed  (singular may be translated different in different languages)
 
@@ -63,32 +64,27 @@ uva = grape seed  (singular may be translated different in different languages)
 
 More: [nouns](nouns.md)
 
-## verbs
+## Verbs
 
-The verbs have a root of 4 character long and is ending with time preposition:
+The verbs have a root of 4 character long and is terminated with "u":
 
-Maj     | English
---------|--------------------------------
-ga      | sometime
-ra      | present 
-fa      | in the future
-pa      | in the past
-na      | never 
-
-* Tata estu-ga ferio = Father is furious.
-* Mama estu-na triso = Mama is never sad.
-
-Rationale: Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 5 to 4. There are planty of possible combinations that do not sound so bad if we put some work into it.
+Rationale: Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 5 to 4. There are plenty of possible combinations that do not sound so bad if we put some work into it.
 
 **rules:**
 
-1. Verb root is always terminated with "u" so is distinguish as an action of some sort. There are less verbs than nouns, so the termiantion "u" is not so bad.
+1. Verb root is always terminated with "u" so is distinguish as an action of some sort. There are less verbs than nouns, so the termination "u" is not so bad.
 
 2. A verb is referring to somebody or something that is the subject of the discussion. In the above examples Tata and Mama are the subjects. The verb is used immediately after the subject. If the subject is not near by, it must be replaced by a pronoun before the verb otherwise the proposition may not make sense.
 
-3. The verb do not change its root with the subject number. It is invariant in this regard. Therefore Maj is not a musical language, does not rime very well. This is not a defect, it is a feature. We think that this will reduce the learning effort.
+3. The verb do not change its root with the case or number. However, a word that have same root like a verb and is terminated in "a" or "e" it becomes a noun. If "u" is changed to "o" it becomes adjective. 
 
-## adjectives:
+Some popular verbs
+
+
+
+More: [verbs](verbs.md)
+
+## Adjectives:
 
 Is an attribute related to a noun to modify or describe it.
 
@@ -112,8 +108,6 @@ icsio |excitat    |excitado  |excited
 furio |furios     |furioso   |furious
 santo |sănătos    |saludable |healthy 
 maldo |bolnav     |enfermo   |sick
-
-More: [verbs](verbs.md)
 
 2. Adjectives can change termination from "o" to "a" to become nouns.
 
@@ -248,6 +242,6 @@ Read more on: [adverbs.md](adverbs.md)
 
 Dictinary  is work in progress in folder: "maps"
 
-[fruits](/maps/fruits.md)
-[drinks](/maps/drinks.md)
+* [fruits](/maps/fruits.md)
+* [drinks](/maps/drinks.md)
 

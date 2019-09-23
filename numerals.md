@@ -2,7 +2,7 @@
 
 { "numa", "nume" }
 
-Verb: "conta" = counting
+Verb: "cotu" = counting
 
 All numerals are created from base of 3 letters.
 

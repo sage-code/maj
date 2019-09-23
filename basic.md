@@ -27,13 +27,13 @@ salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
 vale  |goodbye   | adiós      | au bientot | vale      | ramas bun   | addio
 adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 bine? |okay?     | como estas?| ça va?     | bene?     | bine?       | va bene
-vedu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediamo
+vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediamo
 
 **examples:**
 
 * helo ita todo  = hello everyone
 * vale ita todo  = goodbye everyone
-* vedu ita moca  = see you soon
+* vidu ita moca  = see you soon
 
 **note:** Some form of salut have multiple meanings
 
@@ -158,15 +158,15 @@ pa      | sometime in the past
 
 **time based greetings**
 
-* vedu  = to see
+* vidu  = to see
 * alga  = sometime
 * nuca  = never
 * suva  = often (French souvent)
 * moca  = soon  (Latin mox)
 
-* Ti vedu-fu ita mi, suva. = you will see me often
-* Ti vedu-re ita mi, alga. = you can see me sometime
-* Mi vedu-pa ita ti, nuca. = I have never seen you before
+* Ti vidu-fu ita mi, suva. = you will see me often
+* Ti vidu-re ita mi, alga. = you can see me sometime
+* Mi vidu-pa ita ti, nuca. = I have never seen you before
 
 Structure of above propositions: Subject, verb, article, pronoun, adverb.
 

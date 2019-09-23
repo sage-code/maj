@@ -45,7 +45,6 @@ maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
 povu    |to be able|poder      |pouvoir   |possit
 lesu    |to let    |dejar      |laisser   |dimittere
-diru    |to mean   |significar |dire      |dicere
 movu    |to move   |mover      |bouger    |movere
 mosu    |to show   |mostrar    |montrer   |ostendere
 dicu    |to talk   |hablar     |parler    |dicere
@@ -67,7 +66,7 @@ apeu   |call      |llamada   |appel      |chiamata  |voca
 aseu   |do        |hacer     |faire      |fare      |facite
 ceru   |want      |querer    |vouloir    |volere    |cupio
 conu   |know      |saber     |savoir     |conoscere |scio
-dehu   |say       |decir     |dire       |dire      |dicere
+dicu   |say       |decir     |dire       |dire      |dicere
 estu   |be        |ser       |être       |essere    |quod
 fomu   |make      |hacer     |faire      |rendere   |facere
 givu   |give      |dar       |donner     |dare      |dare
@@ -75,17 +74,17 @@ getu   |get       |obtener   |obtenir    |ottenere  |ut
 habu   |have      |tener     |avoir      |avere     |habet
 iusu   |use       |utilizar  |utilisation|uso       |usus
 miru   |look      |mira      |regardez   |guarda    |quaerere
-ontu   |tell      |contar    |dire       |raccontare|amen dico
+cotu   |count     |contar    |décompte   |contare   |computat
 pegu   |ask       |pedir     |demander   |chiedi    |quaerere
-ruvu   |find      |encontrar |trouver    |trova     |inveniet
-rabu   |work      |trabajo   |travail    |lavoro    |opus
+tovu   |find      |encontrar |trouver    |trova     |inveniet
+tabu   |work      |trabajo   |travail    |lavoro    |opus
 salu   |leave     |salir     |partir     |partire   |relinquo
 semu   |seem      |parecer   |sembler    |sembrare  |videtur
 sesu   |feel      |sensación |ressentir  |sentire   |sentire
 teru   |try       |tratar    |essayer    |provare   |tentant
 tomu   |take      |tomar     |prendre    |prendere  |accipere
 venu   |come      |ven       |viens      |venire    |veni
-vedu   |see       |ver       |voir       |vedere    |videre
+vidu   |see       |ver       |voir       |vedere    |videre
 vasu   |go        |ir,vas    |aller,vas  |partire   |vade
 
 
