@@ -12,7 +12,7 @@ Lola  | baby sitter        | ingrijitoare
 Nana  | grand mother       | bunica
 Sona  | grand father       | bunicu
 Efera | nurse              | doctorita
-Dotoa | doctor             | doctor
+Docta | doctor             | doctor
 
 **notes:** 
 
@@ -22,9 +22,10 @@ Dotoa | doctor             | doctor
 
 **examples:**
 
-* SANA     = Santa Claus
-* CHICAGO  = The city of Chicago
-* Maj      = Language Maj
+* CHICAGO   = The city of Chicago
+* SANA      = Santa Claus
+* Cimas     = Christmas 
+* Maj       = Language Maj
 
 **articles**
 
