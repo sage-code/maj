@@ -33,28 +33,28 @@ sigu    | sing      | cantar    | cântat
 balu    | dancing   | bailando  | dansul
 
 **Note** 
-* these are inexpensive verbs easy to communicate to or by a child,
+
 * huhu translate to: change diapers and make child happy
 * lahu is similar to huhu: making the child happy
 
 **Level 2** 
 
-Infinitiv form of verbs is terminated with "ga" meaning "sometimes":
+Infinitiv form of verbs is invariant:
 
 maj     |english   |spanish    |franch    |latin
 --------|----------|-----------|----------|---------------
-povu-ga |to be able|poder      |pouvoir   |possit
-lesu-ga |to let    |dejar      |laisser   |dimittere
-diru-ga |to mean   |significar |dire      |dicere
-movu-ga |to move   |mover      |bouger    |movere
-mosu-ga |to show   |mostrar    |montrer   |ostendere
-dicu-ga |to talk   |hablar     |parler    |dicere
-naru-ga |to tell   |decir      |dire      |narrat
-velu-ga |to will   |voluntad   |vouloir   |velle
-incu-ga |to begin  |empezar    |commencer |incipere
-pesu-ga |to think  |pensar     |penser    |cogitare
-divu-ga |to become |convertirse|devenir   |facti sunt
-hutu-ga |it should |debería    |devrait   |ut
+povu    |to be able|poder      |pouvoir   |possit
+lesu    |to let    |dejar      |laisser   |dimittere
+diru    |to mean   |significar |dire      |dicere
+movu    |to move   |mover      |bouger    |movere
+mosu    |to show   |mostrar    |montrer   |ostendere
+dicu    |to talk   |hablar     |parler    |dicere
+naru    |to tell   |decir      |dire      |narrat
+velu    |to will   |voluntad   |vouloir   |velle
+incu    |to begin  |empezar    |commencer |incipere
+pesu    |to think  |pensar     |penser    |cogitare
+divu    |to become |convertirse|devenir   |facti sunt
+hutu    |it should |debería    |devrait   |ut
 
 
 **Level 3**

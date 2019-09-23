@@ -11,21 +11,21 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
-podo    |able      |poder      |capable     |capace      |potes   |capabil
-malo    |bad       |malo       |mauvais     |male        |malus   |rău
-poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
-buno    |good      |bueno      |bien        |bene        |bonum   |bun
 alto    |high      |alto       |haute       |alto        |altum   |înalt
-pico    |little    |pequeño    |peu         |poco        |paulo   |mic
+malo    |bad       |malo       |mauvais     |male        |malus   |rău
+bono    |good      |bueno      |bien        |bene        |bonum   |bun
 otro    |other     |otro       |autre       |altro       |alium   |alte
+pico    |little    |pequeño    |peu         |poco        |paulo   |mic
 peco    |small     |pequeña    |petit       |piccolo     |paulo   |mic
+poci    |few       |pocos      |peu         |pochi       |pauci   |puțini
+podo    |able      |poder      |capable     |capace      |potes   |capabil
+difo    |different |diferente  |différent   |diverso     |alium   |diferit
 
 ## Level 2
 
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
 grado   |big       |grande     |gros        |grande      |magnum  |mare
-difro   |different |diferente  |différent   |diverso     |alium   |diferit
 preso   |early     |temprano de|bonne heure |presto      |mane    |din timp
 primo   |first     |primero    |première    |primo       |primis  |primul
 jenio   |great     |Excelente  |génial      |grande      |magna   |Grozav

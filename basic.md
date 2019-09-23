@@ -3,36 +3,50 @@
 
 ## Fundamental adjectives
 
-buno = good 
+bono = good 
 malo = wrong / bad
 
 ## Greetings
 
 You can give greetings to one person or to everyone:
 
+Adverbs from Spanish:
+
 todo  = everyone
-noto  = nobody
-soto  = somebody
+algo  = somebody
+alga  = something
+nado  = nobody
+nada  = nothing
+nuca  = never
 
-Are based on adjectives :
 
-Maj   | English  | Spanish    | French     | Latin     | Romanian
-------|----------|------------|------------|-----------|----------
-hola  |hello     | hola       | bienvenue  | salve     | salut 
-vale  |goodbye   | adiós      | au bientot | vale      | ramas bun 
-adio  |farewell  | despedida  | adieu      | vale      | adio
-buno  |okay      | como estas | ça va      | bene      | bine      
-vedo  |see you   | nos vemos  | au revoir  | te videre | la revedere
+Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
+------|----------|------------|------------|-----------|-------------|----------
+helo  |hello     | hola       | bienvenue  | salve     | salut       | ciao
+salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
+vale  |goodbye   | adiós      | au bientot | vale      | ramas bun   | addio
+adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
+bine? |okay?     | como estas?| ça va?     | bene?     | bine?       | va bene
+vedu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediamo
 
-hola ita todo  = hello everyone
-vale ita todo  = goodbye everyone
+**examples:**
+
+* helo ita todo  = hello everyone
+* vale ita todo  = goodbye everyone
+* vedu ita moca  = see you soon
+
+**note:** Some form of salut have multiple meanings
+
+* salu = bless you  (interjection: when somebody is sneezing
+* salu = bye        (when you leave you can say salu)
+* salu = healthy    (adjective: referring to a person or animal)
 
 # Logical adjectives
 
 * Logical values are: {vero, faso}, from French.
 
-vero = the truth
-faso = the lie   
+* vero = the truth
+* faso = the lie   
 
 **operations**
 
@@ -122,39 +136,55 @@ tepa = time
 * Composite words are using "-" to link two words close together,
 * Linked words are pronounced almost as a single word
 
-rasa  = present 
-fasa  = feature
-pasa  = past
+**nouns:**
+
+* futa  = future
+* resa  = present  
+* pasa  = past
+
+**examples:**
+
+* nara de futa = a story from future
+* dice de pasa = stories from past
+
+**sufix:**
 
 Maj     | English
 --------|--------------------------------
-ga      | sometimes soon
-ra      | present (now)
-fa      | sometime in the future
+re      | present (now)
+fu      | sometime in the future
 pa      | sometime in the past
-na      | never 
+
 
 **time based greetings**
 
-Using verb: veda = to see
+* vedu  = to see
+* alga  = sometime
+* nuca  = never
+* suva  = often (French souvent)
+* moca  = soon  (Latin mox)
 
-* ti vedu-ga mi  = you see me soon
-* ti vedu-ra mi  = you are seeing me now
-* mi vedu-fa ti  = I will see you
-* mi vedu-pa ti  = I have seen you
-* mi vedu-na ti  = I will never see you again
+* Ti vedu-fu ita mi, suva. = you will see me often
+* Ti vedu-re ita mi, alga. = you can see me sometime
+* Mi vedu-pa ita ti, nuca. = I have never seen you before
+
+Structure of above propositions: Subject, verb, article, pronoun, adverb.
+
+**notes:**
+
+* In some Eglish dialects y'all is a thing, but you is already plural,
+* Pronoun "you" is the plural form of previous "Thou", that is no longer used.
 
 **singular conjugation**
 
-* hi pala-ra = he is playing right now
-* hi pala-fa = he will play in the future 
+* hi pala-re = he is playing right now
+* hi pala-fu = he will play in the future 
 * hi pala-pa = he play some time ago
-* hi pala-na = he never play
 
 **plural conjugation**
-* ne pala-ga = we all play sometimes
-* ve pala-ga = you all play sometimes
-* ze pala-ga = they all play sometimes 
+* ne pala alga = we play sometimes
+* ve pala nuca = you never play
+* ze pala suva = they play often
 
 **Notes:** 
 
@@ -216,14 +246,14 @@ Examples:
 
 Preposition "ud" can be used for location:
 
-* ud la loca ti andu-ga? = where you going?
-* ud de loca ti venu-ga? = where you coming from?
-* ud de loca ti seru-ga? = where are you from?
+* ud la loca ti andu-re? = where you going?
+* ud de loca ti venu-re? = where you coming from?
+* ud de loca ti seru-re? = where are you from?
     
-* ud la locta ce ti palu-ga? = are you plaing?
-* ud la locta ce ti andu-ga? = are we going?
-* ud la locta ce ti andu-ga? = are you going?
-* ud la locta ce ti palu-ga? = are we plaing?
+* ud la locta ce ti palu-re? = are you plaing?
+* ud la locta ce ti andu-re? = are we going?
+* ud la locta ce ti andu-re? = are you going?
+* ud la locta ce ti palu-re? = are we plaing?
 
 **expressions**
   
