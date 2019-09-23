@@ -78,9 +78,21 @@ Rationale: Verbs are more often used than nouns, and are therefore more valuable
 
 3. The verb do not change its root with the case or number. However, a word that have same root like a verb and is terminated in "a" or "e" it becomes a noun. If "u" is changed to "o" it becomes adjective. 
 
-Some popular verbs
+Some popular verbs:
 
-
+Origin    | Maj     |Spanish      | English
+----------|---------|-------------|---------------
+latin     | audu    |oír          | to hear
+portugese | aidu    |ayudar       | to help
+latin     | artu    |crear        | to create
+spanish   | cibu    |escribir     | to write
+spanish   | ganu    |ganar        | to earn/win
+spanish   | uscu    |buscar       | to look for
+french    | liru    |leer         | to read
+italian   | orsu    |correr       | to run
+spanish   | pezu    |empezar      | to start
+original  | palu    |jugar        | to play
+original  | vivu    |vivir        | to be alive 
 
 More: [verbs](verbs.md)
 
@@ -210,9 +222,7 @@ jos	    |Down                | Romanian
 
 ## Adverbs
 
-A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. 
-
-(e.g., gently, quite, then, there ).
+A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.  (e.g., gently, quite, then, there ).
 
 Read more on: [adverbs.md](adverbs.md)
 

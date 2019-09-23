@@ -164,11 +164,11 @@ pa      | sometime in the past
 * suva  = often (French souvent)
 * moca  = soon  (Latin mox)
 
-* Ti vidu-fu ita mi, suva. = you will see me often
-* Ti vidu-re ita mi, alga. = you can see me sometime
-* Mi vidu-pa ita ti, nuca. = I have never seen you before
+* ti vidu-fu suva ita mi. = you will see me often
+* ti vidu-re alga ita mi. = you can see me sometime
+* mi vidu-pa nuca ita ti. = I have never seen you before
 
-Structure of above propositions: Subject, verb, article, pronoun, adverb.
+Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **notes:**
 
@@ -242,18 +242,18 @@ en    | in      | in     | in       | à       | en
   
 Examples:
 
-**interrogative**
+## Interrogative
 
 Preposition "ud" can be used for location:
 
-* ud la loca ti andu-re? = where you going?
-* ud de loca ti venu-re? = where you coming from?
-* ud de loca ti seru-re? = where are you from?
+**short form**
+* ud ti andu-re? = where you going?
+* ud ti venu-re? = where you coming from?
+* ud ti seru-re? = where are you from?
     
-* ud la locta ce ti palu-re? = are you plaing?
-* ud la locta ce ti andu-re? = are we going?
-* ud la locta ce ti andu-re? = are you going?
-* ud la locta ce ti palu-re? = are we plaing?
+**longer form**    
+* ud seru la loca ce ti palu-re? = where is the place you are plaing?
+* ud seru la loca ce ne andu-re? = where is the place we  are going?
 
 **expressions**
   

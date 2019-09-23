@@ -100,7 +100,7 @@ spanish   | agru    |agarrar      | to grab
 spanish   | cetu    |aceptar      | to accept
 spanish   | aczu    |alcanzar     | to reach
 spanish   | apru    |aparecer     | to appear
-portugese | ajdu    |ayudar       | to help
+portugese | aidu    |ayudar       | to help
 spanish   | uscu    |buscar       | to look for
 italian   | cadu    |caer         | to fall
 italian   | mutu    |cambiar      | to change
@@ -123,7 +123,6 @@ esperanto | tudu    |estudiar     | to study
 italian   | pigu    |explicar     | to explain
 spanish   | ganu    |ganar        | to earn/win
 italian   | picu    |gustar       | to like
-italian   | picu    |gustar       | to like     
 romanian  | pobu    |intentar     | to try
 original  | palu    |jugar        | to play
 french    | liru    |leer         | to read
