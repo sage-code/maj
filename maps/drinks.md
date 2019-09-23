@@ -14,7 +14,7 @@ To drink: beba-go
 
 **Level 1**
 
-maj     | english    |  spanish    | franch     |italian    | romanian
+maj     | english    |  spanish    | franch     | italian   | romanian
 --------|------------|-------------|------------|-----------|-----------------
 acua    | water      | agua        | eau        | acqua     | apă
 huga    | juice      | jugo        | jus        | succo     | suc

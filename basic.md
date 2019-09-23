@@ -73,14 +73,19 @@ ud?   | where?   | donde   | unde
 
 ## Articles
 
-The article do not alter a word, just underline the value of the word in sentences. It puts the word on the spot so we know exactly what are you talking about. It is improving the semantic of propositions. But in Maj it has also a role to specify the singular or plural.
+The article do not alter a word, just underline the value of the word in sentences. It puts the word on the spot so we know exactly what are you talking about. It is improving the semantic of propositions. But in Maj it has also a role to specify the singular or plural for the subject.
      
 singular     | plural
 -------------|-------------
 ita = this   | ite = these
 isa = that   | ise = those
 
-**Pronoun**
+**example**
+
+ita bana divu-ga maleo
+
+
+## Pronoun
 
 Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
@@ -133,11 +138,11 @@ na      | never
 
 Using verb: veda = to see
 
-* ti vedu-ga  = see you soon
-* ti vedu-ra  = I can see see you
-* ti vedu-fa  = see you sometime
-* ti vedu-pa  = I have seen you a while ago
-* ti vedu-na  = I will never see you again
+* ti vedu-ga mi  = you see me soon
+* ti vedu-ra mi  = you are seeing me now
+* mi vedu-fa ti  = I will see you
+* mi vedu-pa ti  = I have seen you
+* mi vedu-na ti  = I will never see you again
 
 **singular conjugation**
 

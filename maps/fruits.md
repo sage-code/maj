@@ -3,14 +3,14 @@
 All fruits are nouns, and have an invariable form.
 
 * Most fruits are terminated with "a" (singular) "e" plural. 
-* For  fruits that are very sweet we ad "as" or "es" to the end.
+* Some fruits that are ending in consonant there is no plural.
 
 **Level 1**
 
 maj    |  english   | spanish     |  franch      |  romanian
 -------|------------|-------------|--------------|-------------------
 leme   |  lemon     | limón       |  citron      |  lămâie
-mere   |  apple     | manzana     |  Pomme       |  măr
+mere   |  apple     | manzana     |  pomme       |  măr
 mure   |  blackberry| mora        |  la mûre     |  mure
 pere   |  pear      | pera        |  poire       |  pară
 pine   |  pineapple | piña        |  ananas      |  ananas
@@ -29,12 +29,10 @@ cocos  |  coconut   | coco        |  coco noix   |  nuca de cocos
 piche  |  peach     | durazno     |  pêche       |  piersică
 frese  |  strawberry| fresa       |  fraise      |  căpșună
 guves  |  guava     | guayaba     |  goyave      |  guava
-figes  |  fig       | higo        |  figure      |  Fig
+figes  |  fig       | higo        |  fig         |  fig
 citre  |  lime      | lima        |  citron vert |  lămâie verde
 pepes  |  melon     | melón       |  melon       |  pepenele galben
-orehs  |  orange    | naranja     |  Orange      |  portocale
+orehs  |  orange    | naranja     |  orange      |  portocale
 rasin  |  raisin    | pasa de uva |  raisin      |  stafidă
 
-**notes**
 
-Some exceptions apply: like (rasin) that should be (rasines).
