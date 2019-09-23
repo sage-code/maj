@@ -111,15 +111,15 @@ hia = his   | zue = theirs
 
 Information for time is ending with "u".
 
-tempa = time
+tepa = time
 
 * Verbs can be followed by time but the verb remain unchanged,
 * Composite words are using "-" to link two words close together,
 * Linked words are pronounced almost as a single word
 
-rasea  = present 
-fasea  = feature
-pasea  = past
+rasa  = present 
+fasa  = feature
+pasa  = past
 
 Maj     | English
 --------|--------------------------------
@@ -170,7 +170,7 @@ palu-sy = playful
 * Locations are so important in Maj.
 * Common locations are nouns so they are terminated in "a".
 
-locea = location (noun)
+loca = location (noun)
 
 maj  | english   | Spanish
 -----|-----------|-----------------
@@ -179,28 +179,31 @@ sura | south     | sur
 esta | est       | este
 veta | west      | oeste
       
-**relative locations**
+## Preposition
 
-maj	| english	|spanish  | german
+Location prepositions are 3 character long:
+
+maj	| english	|spanish  | origin
 ----| ----------|---------|---------
-ino	| inside    |en       | innen
-auf | on the    |sobra    | auf
-ubo	| above	    |encima   | über
-unt	| under	    |debajo   | unter
-upa	| up	    |arriba   | oben
-run	| down	    |abajo    | runter
+ino	| inside    |en       | Latin
+auf | on the    |sobra    | German
+abo	| above	    |encima   | German
+unt	| under	    |debajo   | German
+sus	| up	    |arriba   | Romanian
+jos	| down	    |abajo    | Romanian
 
       
 ## Directions
 
-Directions are even more important than locations.
+These three directions are si important prepositions:
 
-Maj   | English | Romanian   
-------|---------|------------
-de    | from    | din        
-la    | to      | la 
-ba    | by      | spre, către      
-vi    | via     | prin        
+Maj   | English | German | Romanian | Franch  | Spanish
+------|---------|--------|----------|---------|---------
+de    | from    | fon    | de       | de      | de
+la    | to      | zu     | la       | à       | para
+en    | in      | in     | in       | à       | en
+
+**Exception:** Some prepositions are 2 character long    
   
 Examples:
 
@@ -208,9 +211,9 @@ Examples:
 
 Preposition "ud" can be used for location:
 
-* ud la locta ti andu-ga? = where you going?
-* ud de locta ti venu-ga? = where you coming from?
-* ud de locta ti seru-ga? = where are you from?
+* ud la loca ti andu-ga? = where you going?
+* ud de loca ti venu-ga? = where you coming from?
+* ud de loca ti seru-ga? = where are you from?
     
 * ud la locta ce ti palu-ga? = are you plaing?
 * ud la locta ce ti andu-ga? = are we going?

@@ -4,17 +4,17 @@
 
 maj   | english            | romanian
 ------|--------------------|-----------------
-Mamia | mother             | mama
-Tatia | father             | tata
-Lolia | baby sitter        | ingrijitoare
-Nania | grand mother       | bunica
-Sonia | grand father       | bunicu
-Norsa | nurse              | doctorita
-Docta | doctor             | doctor
+Mama  | mother             | mama
+Tata  | father             | tata
+Lola  | baby sitter        | ingrijitoare
+Nana  | grand mother       | bunica
+Sona  | grand father       | bunicu
+Efera | nurse              | doctorita
+Dotoa | doctor             | doctor
 
 **notes:** 
 
-* Nouns are 5 character long and are ending with "a"
+* Nouns are 3, 4 or 5 character long and are ending with "a"
 * Nouns representing leaving beings are starting with uppercase.
 * Person names are written with all capital letters.
 
@@ -127,8 +127,8 @@ More: [adjectives](adjectives.md)
 
 Numerals can be used with nouns to specify how many:
 
-* ti coma-pa bin bana = you have eat one banana
-* ti coma-pa cut mere = you have eat two apples
+* ti coma-pa bin bana = you have eaten one banana
+* ti coma-pa cut mere = you have eaten two apples
 
 **Observe:** that last letter of noun is changing from "a" to "e" with numbers > 1.
 
@@ -178,44 +178,61 @@ seza  = season
 * in 2005 = en anoa 2005
 * on Spring = en seza Spring 
 * at 21 of September 2005 = la data 21 de Septeber 2005
-* at 2:45 = la hora 2:45 (cut con pata-rin)
+* at 2:45 = la hora 2:45 (cut et pata-rin)
 
 **movement**
 
 Movement prepositions are 5 character long and ending in a consonant.
 
-Maj      | English | Maj   |English     
----------|---------|-------|----------------------------
-         |Across   |       | Through
-         |Along    |       | Around
-         |Into     |       | Out Of
-         |Onto     |       | Off
-         |Up       |       | Down
-         |Over     |       | Under
-         |Towards  |       | Away From
+Maj      | English  | Origin
+---------|----------|--------
+cos      |Across    | Emglish
+log      |Along     | English
+veg      |Away From | German
+ito      |Into      | English
+oto      |Onto      | English
+ove      |Over      | English
+cha      |Towards   | Spanish 
+dur      |Through   | German
+uma      |Around    | German
+aus      |Off       | German
+ruc      |Back      | German
+         
+         
+**positions**
 
+Most prepositions are 3 character long:
 
-**position**
-
-Position prepositions are 5 character long and ending in a consonant.
-
- Maj     | English| Maj    |English     | Maj   |English 
----------|--------|--------|------------|-------|---------------
-ubo      |Above   |top     |On Top Of   | auf   |On 
-unt      |Under   |unt     |Below       | unt   |Beneath
-der      |Behind  |pro     |In Front Of | pro   |Prior
-fra      |Between |con     |Beside      | con   |Next To
-nah      |Near    |con     |Close To    | par   |By
-out      |Out     |for     |Outside     | din   |Out Of
-
-**direction
-
-{toward, into, backward}
+Maj     |English             | Origin
+--------|--------------------|---------
+auf     |On                  | German
+con     |Beside , Next To    | German
+der     |Behind              | German
+aus     |Out Of              | German
+fra     |Between             | German
+ino     |Inside              | Latin
+nah     |Near                | German
+out     |Out                 | English
+out     |Outside             | English
+par     |Close To, By        | Spanish
+pri     |Prior               | English
+top     |On Top              | English
+abo     |Above               | English
+unt     |Under,Below,Beneath | German
+via     |Via                 | Latin
+sus	    |Up	                 | Romania
+jos	    |Down                | Romanian
 
 
 **Agent & Tools**
 
-{ by, with }
+von  = by    ( from German ) is
+con  = with  ( from Italian )
+
+**examples**
+
+von Mark Twain   = by Mark Twain
+con mia cut mane = with my two hand
 
 Read more on: [preposition.md](preposition.md)
 

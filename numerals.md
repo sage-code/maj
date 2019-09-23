@@ -117,3 +117,11 @@ bit | maj      |origin|maj    | English
 32  | gina-cut |pat 4 |pavat  | integer
 64  | suta-pat |vat 8 |vavat  | long integer
 
+## Counting:
+
+Let's count a rocket lifting off:
+
+* ... 3 2 1 0 and lift off
+* ... gin cut bin act et rizu aus !!! 
+
+Great!

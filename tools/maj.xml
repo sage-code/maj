@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1">,</Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">, = - + ? ! . : ; { } * / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \|</Keywords>
+            <Keywords name="Operators1">, = - + ? ! . : ;  / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \| </Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,13 +24,13 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">ui no or et si es in&#x000D;&#x000A;ci ce co ud ca&#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;buno malo vero faso &#x000D;&#x000A;salo valo toto noto soto&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords2"></Keywords>
-            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;ga ra fa pa na sy&#x000D;&#x000A;da la ba sa</Keywords>
-            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda&#x000D;&#x000A;bina cuta gina pata rina suta tina vata zina&#x000D;&#x000A;acta mola rica veca &#x000D;&#x000A;acte mole rice vece &#x000D;&#x000A;&#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
-            <Keywords name="Keywords5">tepa loca rasa fasa pasa&#x000D;&#x000A;nosa sosa esta veta&#x000D;&#x000A; </Keywords>
-            <Keywords name="Keywords6"></Keywords>
-            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z&#x000D;&#x000A;original turkish arabic portugese german english esperanto french italian latin romanian english spanish franch maj</Keywords>
+            <Keywords name="Keywords1">buno malo todo noto soto&#x000D;&#x000A;hola vale adio vedo&#x000D;&#x000A;vero faso </Keywords>
+            <Keywords name="Keywords2">ui no or et si es in cu&#x000D;&#x000A;ci ce co ud&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;ga ra fa pa na sy&#x000D;&#x000A;de la en&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords4">numa = numbers&#x000D;&#x000A;act bin cut gin pat rin sut tin vat zin eva oda&#x000D;&#x000A;bina cuta gina pata rina suta tina vata zina&#x000D;&#x000A;acta mola rica veca &#x000D;&#x000A;acte mole rice vece &#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
+            <Keywords name="Keywords5">pepa = prepositions&#x000D;&#x000A;tepa loca rasa fasa pasa&#x000D;&#x000A;nora sura esta veta&#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords6">auf &#x000D;&#x000A;con &#x000D;&#x000A;der &#x000D;&#x000A;aus &#x000D;&#x000A;fra &#x000D;&#x000A;ino &#x000D;&#x000A;nah &#x000D;&#x000A;out &#x000D;&#x000A;out &#x000D;&#x000A;par &#x000D;&#x000A;pri &#x000D;&#x000A;top &#x000D;&#x000A;abo &#x000D;&#x000A;unt &#x000D;&#x000A;via &#x000D;&#x000A;sus&#x0009;&#x000D;&#x000A;jos&#x0009;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z&#x000D;&#x000A;original turkish arabic esperanto french italian</Keywords>
             <Keywords name="Keywords8">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
             <Keywords name="Delimiters">00``` 00` 00~~~ 01\ 02``` 02((EOL `)) 02~~~ 03~ 04\ 05~ 06_ 07\ 08((EOL _)) 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15&quot; 16 17&quot; 18( 18[ 18{ 19\ 20) 20] 20} 21` 22\ 23`</Keywords>
         </KeywordLists>
@@ -51,13 +51,13 @@
             <WordsStyle name="FOLDER IN CODE1" fgColor="333333" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="333333" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="333333" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS2" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="6" nesting="0" />
             <WordsStyle name="DELIMITERS3" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="DELIMITERS4" fgColor="00FF40" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="DELIMITERS5" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="17038368" />
             <WordsStyle name="DELIMITERS6" fgColor="FFFF00" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS7" fgColor="808000" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="3" nesting="0" />
             <WordsStyle name="DELIMITERS8" fgColor="FFFF00" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="0" />
         </Styles>
     </UserLang>
