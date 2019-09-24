@@ -25,44 +25,44 @@ All numerals are created from base of 3 letters.
 
 **Then = zen**
 
-x | maj  | xx | maj        | xx | maj    |
---|------|----|------------|----|--------|
-0 | nul  | 10 | zen        | 00 | senta  |
-1 | una  | 11 | zen-una    | 10 | unzen  |
-2 | dua  | 12 | zen-dua    | 20 | duzen  |
-3 | tea  | 13 | zen-tra    | 30 | tezen  |
-4 | cua  | 14 | zen-cua    | 40 | cuzen  |
-5 | cha  | 15 | zen-cha    | 50 | chzen  |
-6 | sia  | 16 | zen-sia    | 60 | sizen  |
-7 | sha  | 17 | zen-sha    | 70 | shzen  |
-8 | oca  | 18 | zen-oca    | 80 | oczen  |
-9 | nia  | 19 | zen-nia    | 90 | nizen  |
+x | maj  | xx | maj          | xx | maj      |
+--|------|----|--------------|----|----------|
+0 | nul  | 10 | una-zen      | 00 | nul-zen  |
+1 | una  | 11 | una-zen+una  | 10 | una-zen  |
+2 | dua  | 12 | una-zen+dua  | 20 | dua-zen  |
+3 | tea  | 13 | una-zen+tea  | 30 | tea-zen  |
+4 | cua  | 14 | una-zen+cua  | 40 | cua-zen  |
+5 | cha  | 15 | una-zen+cha  | 50 | cha-zen  |
+6 | sia  | 16 | una-zen+sia  | 60 | sia-zen  |
+7 | sha  | 17 | una-zen+sha  | 70 | sha-zen  |
+8 | oca  | 18 | una-zen+oca  | 80 | oca-zen  |
+9 | nia  | 19 | una-zen+nia  | 90 | nia-zen  | 
 
 ## Level 2
 
-**Hundreds = seta**
+**Hundreds = suta**
 
-00 =  seta
+00 =  suta
 
 ```
- 100 =  una-seta
- 200 =  dua-seta
- 300 =  tea-seta
- 400 =  cua-seta
- 500 =  cha-seta
- 600 =  sia-seta
- 700 =  sha-seta
- 800 =  oca-seta
- 900 =  nia-seta
+ 100 =  una-suta
+ 200 =  dua-suta
+ 300 =  tea-suta
+ 400 =  cua-suta
+ 500 =  cha-suta
+ 600 =  sia-suta
+ 700 =  sha-suta
+ 800 =  oca-suta
+ 900 =  nia-suta
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = una-seta+dua-chn
- 555 = cha-seta+cha-zen
- 801 = oca-seta+nul-una
+ 125 = una-suta+dua-zen+chn
+ 555 = cha-suta+cha-zen+zen
+ 801 = oca-suta+nul-zeb+una
 ```
 
 **Thousands = ioma**
@@ -109,8 +109,8 @@ x | maj  | xx | maj        | xx | maj    |
 
 **Binary**
 
-bit | maj      |origin|maj    | English
-----|----------|------|-------|----------------
+bit | maj      |
+----|----------|----------------------
 0/1 | bit      | bit
 8   | bin      | word
 16  | dubin    | short integer
