@@ -23,86 +23,86 @@ All numerals are created from base of 3 letters.
 * Numerals to not have genre, past or future
 * Termination "e" is representing plural 
 
-**Then = bina**
+**Then = zen**
 
-x | maj  | xx | maj        | xx | maj   | origin  |
---|------|----|------------|----|-------|---------|
-0 | act  | 10 | bina       | 00 | acta  | act-act |
-1 | bin  | 11 | bina-bin   | 10 | bina  | bin-act |
-2 | cut  | 12 | bina-cut   | 20 | cuta  | cut-act |
-3 | gin  | 13 | bina-gin   | 30 | gina  | gin-act |
-4 | pat  | 14 | bina-pat   | 40 | pata  | pat-act |
-5 | rin  | 15 | bina-rin   | 50 | rina  | rin-act |
-6 | sut  | 16 | bina-sut   | 60 | suta  | sut-act |
-7 | tin  | 17 | bina-tin   | 70 | tina  | tin-act |
-8 | vat  | 18 | bina-vat   | 80 | vata  | vat-act |
-9 | zin  | 19 | bina-zin   | 90 | zina  | zin-act |
-
+x | maj  | xx | maj        | xx | maj    |
+--|------|----|------------|----|--------|
+0 | nul  | 10 | zen        | 00 | senta  |
+1 | una  | 11 | zen-una    | 10 | unzen  |
+2 | dua  | 12 | zen-dua    | 20 | duzen  |
+3 | tea  | 13 | zen-tra    | 30 | tezen  |
+4 | cua  | 14 | zen-cua    | 40 | cuzen  |
+5 | cha  | 15 | zen-cha    | 50 | chzen  |
+6 | sia  | 16 | zen-sia    | 60 | sizen  |
+7 | sha  | 17 | zen-sha    | 70 | shzen  |
+8 | oca  | 18 | zen-oca    | 80 | oczen  |
+9 | nia  | 19 | zen-nia    | 90 | nizen  |
 
 ## Level 2
 
-**Hundreds = acta**
+**Hundreds = seta**
 
-00 =  acta
+00 =  seta
 
 ```
- 100 =  bin-acta
- 200 =  cut-acte
- 300 =  gin-acte
- 400 =  pat-acte
- 500 =  rin-acte
- 600 =  sut-acte
- 700 =  tin-acte
- 800 =  vat-acte
- 900 =  zin-acte
+ 100 =  una-seta
+ 200 =  dua-seta
+ 300 =  tea-seta
+ 400 =  cua-seta
+ 500 =  cha-seta
+ 600 =  sia-seta
+ 700 =  sha-seta
+ 800 =  oca-seta
+ 900 =  nia-seta
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = bin-acta+cuta-rin 
- 555 = rin-acta+rina-rin
- 801 = vat-acta+bin
+ 125 = una-seta+dua-chn
+ 555 = cha-seta+cha-zen
+ 801 = oca-seta+nul-una
 ```
 
-**Thousands = mola**
+**Thousands = ioma**
 
-000 = mola
+000 = ioma
 
 ``` 
- 1,000 = bin-mola
- 2,000 = cut-mole
- 3,000 = gin-mole
- 4,000 = pat-mole
- 5,000 = rin-mole
- 6,000 = sut-mole
- 7,000 = tin-mole
- 8,000 = vat-mole
- 9,000 = zin-mole
+ 1,000 = una-ioma
+ 2,000 = dua-ioma
+ 3,000 = tea-ioma
+ 4,000 = cua-ioma
+ 5,000 = cha-ioma
+ 6,000 = sia-ioma
+ 7,000 = sha-ioma
+ 8,000 = oca-ioma
+ 9,000 = nia-ioma
 ```
 
-**Millions  = rica**
+**Millions  = mila**
 
-000,000 = rica
+000,000 = mila
 
 ```
-1,000.000 = bin-rica
-2,000.000 = cut-rice
-3,000.000 = gin-rice
+1,000.000 = una-mila
+2,000.000 = sua-mila
+3,000.000 = tea-mila
 ...
-9,000.000 = zin-rice
+9,000.000 = nia-mila
 ```
 
-**Billions = veca**
+**Billions = bila**
 
-000.000.000   = veca
+000.000.000   = bila
 
 ```
-1,000,000.000 = bin-veca
-2,000,000.000 = cut-vece
+1,000,000.000 = una-bila
+2,000,000.000 = doa-bila
+5,000,000.000 = cha-bila
 ...
-9,000,000.000 = zin-vece
+9,000,000.000 = nia-bila
 ```
 
 ## Level 3
@@ -111,17 +111,17 @@ x | maj  | xx | maj        | xx | maj   | origin  |
 
 bit | maj      |origin|maj    | English
 ----|----------|------|-------|----------------
-0/1 | act/bin  |act   |acton  | binary
-8   | vat      |bin 1 |bivat  | short
-16  | bina-sut |cut 2 |cuvat  | short integer
-32  | gina-cut |pat 4 |pavat  | integer
-64  | suta-pat |vat 8 |vavat  | long integer
+0/1 | bit      | bit
+8   | bin      | word
+16  | dubin    | short integer
+32  | cubin    | integer
+64  | ocbin    | long integer
 
 ## Counting:
 
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... gin cut bin act et rizu aus !!! 
+* ... tea doa una et rizu aus !!! 
 
 Great!

@@ -52,13 +52,12 @@ vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediam
 
 Maj | English | Description
 ----|---------|-----------------------
-ui  | yea     | affirmative
-no  | ney     | negative 
+da  | yea     | affirmative
+nu  | ney     | negative 
 or  | or      | alternative
 et  | plus    | in addition
 si  | if      | conditional
 es  | is      | prepositional verb seru
-in  | in      | location
 cu  | and     | conjunctive
 
 **symbols**
@@ -103,11 +102,12 @@ ita bana divu-ga maleo
 
 Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
-singular      | plural
---------------|-----------------------------
-mi  = myself  | ne = we
-ti  = you     | ve = you all
-hi  = he/she  | ze = they
+singular     | plural
+-------------|-----------------------------
+yo = myself  | nos = we
+tu = you     | vos = you
+el = he/she  | zei = they
+it = it      | ite
 
 **Possessive**
 
@@ -115,9 +115,9 @@ haru = to have
 
 singular    | plural
 ------------|--------------------------------
-mia = mine  | nue = ours
-tia = yours | vue = yours
-hia = his   | zue = theirs
+ma = mine   | na = ours
+ta = yours  | va = yours
+ha = his    | za = theirs
 
 **Notes:**
 
@@ -145,7 +145,7 @@ tepa = time
 **examples:**
 
 * nara de futa = a story from future
-* dice de pasa = stories from past
+* dica de pasa = talk about the past
 
 **sufix:**
 
@@ -196,9 +196,9 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 palu-sy = playful
 
 **So far:**
-* ma sera pala-sy = I'm playful
-* ta sera pala-sy = you are playful 
-* ha sera pala-sy = he, it or she is playful
+* mi sera pala-sy = I'm playful
+* ti sera pala-sy = you are playful 
+* hi sera pala-sy = he, it or she is playful
 
 ## Locations
 
@@ -235,8 +235,8 @@ These three directions are si important prepositions:
 Maj   | English | German | Romanian | Franch  | Spanish
 ------|---------|--------|----------|---------|---------
 de    | from    | fon    | de       | de      | de
-la    | to      | zu     | la       | à       | para
-en    | in      | in     | in       | à       | en
+la    | to      | zu     | la       | vers    | para
+en    | in      | in     | în       | en      | en
 
 **Exception:** Some prepositions are 2 character long    
   

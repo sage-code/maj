@@ -1,5 +1,18 @@
 # Classification of words
 
+
+In Maj a word have a root and a final vocal or consonant called "coda".
+
+**classes*
+
+Most words are bis-yllabic or tri-syllabic
+
+* Nouns are finalized with "a" or "e" or consonant
+* Adjectives are finalized in "o"
+* Verbs are finalized in "re", "fu", "pa", "ly"
+* Adverbs can not be finalized with: {"a", "e", "o}
+* Prepositions are short and monosyllabic.
+
 ## Nouns
 
 Person nouns are starting with uppercase.

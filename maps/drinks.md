@@ -20,11 +20,6 @@ acua    | water      | agua        | eau        | acqua     | apă
 huga    | juice      | jugo        | jus        | succo     | suc
 lata    | milk       | leche       | lait       | latte     | lapte
 chia    | tea        | té          | thé        | tè        | ceai
-
-**Level 2**
-
-maj     | english    |  spanish    | franch     |italian    | romanian
---------|------------|-------------|------------|-----------|-----------------
 botla   | bottle     | botella     | bouteille  | bottiglia | sticla
 glasa   | ice        | hielo       | glace      | ghiaccio  | gheaţă
 frapa   | milk shake | leche batudo| lait frappé| frappè    | milkshake
@@ -32,11 +27,6 @@ cafea   | coffee     | café        | café       | caffè     | cafea
 shera   | sherry     | jerez       | sherry     | sherry    | sherry
 fesca   | soft drink | refresco    | gazeuse    | bibita    | racoritoare
 sidra   | cider      | sidra       | cidre      | sidro     | cidru
-
-**Level 3**
-
-maj     | english    |  spanish    | franch     |italian    | romanian
---------|------------|-------------|------------|-----------|-----------------
 alcol   | alcohol    | alcohol     | alcool     | alcool    | alcool
 buzol   | drink (buz)| beber       | boisson    | bere      | băutură
 berol   | beer       | cerveza     | bière      | birra     | bere

@@ -139,6 +139,8 @@ Some CC combinations can produce a different sound (digraphs):
 * "ch" is a single sound: ş 
 * "cu" is a single sound: q 
 
+
+
 Other two consonants can be pronounced together but some restrictions apply:
 
 * is not allowed to have two plosive constants together
