@@ -43,7 +43,7 @@ Most letters sound like ISO latin alphabet from English but some letters are mod
 **With ipa notation**
 ```
 i  y  e  j  c    g   q  k   
-ɘ  y  e  ʒ  t͡ɕ  dʒ   ɢ  c  
+ɘ  y  e  ʒ  t͡ɕ   dʒ  ɢ  c  
 ```
 
 **With romanian notation**
@@ -197,9 +197,7 @@ w |wa |we |wi |wo |wu|wy
 **notes**
 
 * One letter is never duplicated in Maj,
-* Combinations that can not be pronounced are banned,
-* First letter in diphthong can not be "y" but "Y",
-* W is used at beginning of words and is pronounced "U"
+* W is used only at beginning of words.
 
 ## Syllable
 
@@ -209,10 +207,11 @@ A combination of vowels and consonants are called syllable.
 
 To describe the structure of a syllable we use following convention:
 
-* In parenthesis (), I have put the optionals. 
-* I have used: V = Vowel, C = Constant, D = Diphtong
-* Alternatives are separated with vertical bar: "\|"
-* I use + to suggest concatenation of two parts
+* In parenthesis (), I have put the optionals,
+* I have used: V = Vowel, C = Constant, D = Diphtong,
+* Alternatives are separated with vertical bar: "\|",
+* I use + to suggest concatenation of two parts,
+* V do not include W that is actually a semivowel.
 
 ```python
 # syllable structure
@@ -221,13 +220,14 @@ onset    ::= initial +(medial)
 rime     ::= nucleus +(coda)
 
 # onset components
-initial  ::= C| V | SV
-medial   ::= {h s e i } is used in digraphs
+initial  ::= V | W | C
+medial   ::= {h s} present in digraphs
 
 # rime is the last part
 nucleus + coda
-nucleus  ::= V|VV|VS
-coda     ::= C|CC
+nucleus  ::= V | CV
+coda     ::= C | CC
+# 
 ```
 
 **Description:**
@@ -235,7 +235,7 @@ coda     ::= C|CC
 A syllable ...:
 
 * can start with vowel or consonant
-* can not start with a strong diphthong
+* can be a single vowel or a diphthong
 * can have a nucleus formed from one or two vowels
 * can have a coda formed with one or two consonants
  
