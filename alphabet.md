@@ -2,33 +2,34 @@
 
 Maj is using: [ISO Basic Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
 
-
-Rules of alphabet:
-
-* There are 24 letters in Maj alphabet.
-
 **uppercase**
 ```
------------------------------------------------
-A   B   C   D   E   F   G   H   I   J   L   M   
-N   O   P   Q   R   S   T   U   V   X   Y   Z
------------------------------------------------
+-------------------------------------------------
+A   B   C   D   E   F   G   H   I   J   K   L   M
+N   O   P   Q   R   S   T   U   V   X   Y   Z   W
+-------------------------------------------------
 ```
 
 **lowercase**
 ```
-----------------------------------------------
-a   b   c   d   e   f   g   h   i   j   l   m
-n   o   p   q   r   s   t   u   v   x   y   z
-----------------------------------------------
+-------------------------------------------------
+a   b   c   d   e   f   g   h   i   j   K   l   m
+n   o   p   q   r   s   t   u   v   x   y   z   w
+--------------------------------------------------
 ```
+
+**Notes**
+
+There are 26 letters in Maj alphabet.
 
 ## Pronunciation
 
 Reading the alphabet is different from other Romantic Languages:
 
-* After each consonant you add a short "ɨ" sound like "eo" from "pitgeon",
-* The above rule is active only when a consonant letter is standing alone.
+* Vouls are read like in Latin ISO alphabet,
+* You can add a short "ɘ" sound after consonants like "eo" from "pitgeon",
+* The above rule is active only when a consonant letter is standing alone,
+* In English alphabet you add an open sound "e" after consonants, not like in Maj.
 
 **Notation**
 
@@ -37,19 +38,19 @@ notation to represent special Maj sounds.
 
 **modified letters**
 
-Some letters are modified to realize a realistic pronunciation that do not require throat effort.
+Most letters sound like ISO latin alphabet from English but some letters are modified to realize a reach pronunciation that is specific to original Latin and Romantinco languages like: Italian, Franch and Romanian.
 
-**ipa**
+**With ipa notation**
 ```
 i  y  e  j  c    g   q  k   
-ɘ  y  e  ʒ  t͡ɕ  dʒ  ɢ  c  
+ɘ  y  e  ʒ  t͡ɕ  dʒ   ɢ  c  
 ```
 
-**romanian**
+**With romanian notation**
 
 ```
-i  y  e  j  c   g    q   k    
-â  y  e  j  ce  ge   g   c    
+i  y  e  j  c   g    q   k   x 
+â  i  e  j  ce  ge   g   c   ş 
 ```
 
 * Sound `a`  is open  vowel, like `a` in "car",
@@ -77,19 +78,20 @@ Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce th
 
 * Digraphs
 
-This sounds are created using two letters that produce a different sound. We avoid th
+Some sounds are created using two letters that produce a different sound than the two combined letters. 
 
 maj| romanian  | phonetic(*)  
 ---|-----------|--------------
 ts | ţ         | t͡se         
 sh | ş         | ʃ 
+th | z         | z
 ch | ciâ       | t͡ɕ  
 ca | cia       | t͡ɕa
 ce | ce        | t͡ɕe
 ci | ciâ       | t͡ɕi
-cy | ci        | t͡ɕy
 co | co        | t͡ɕo
 cu | cu        | t͡ɕu
+cy | ci        | t͡ɕy
 
 **notes:**
 
@@ -113,14 +115,19 @@ Maj do not use cedilla found in other Languages:
 * New York, Chicago or Washington are acceptable names in Maj.
 * France is accepted but "française" should be translated to "franchez"
 
-**K** 
-* can be replaced by /c/. The only exception is in "ch".
+** Rarely used
 
 **W**
-* instead of W we use "U" for example: Wisky is written Uiscy.
+* can be present only at beginning of words: for example: "whiskey".
+* inside or at end of words we always use "u" follow by "i" or "e".
 
 **Q** 
-Is not found in other modern alphabets:
+* is very different from Latin alphabet. I is pronounced "G" like in English "get".
+* original "qu" is writthen "ku" in Maj. So "ke" is pronounced "que?" = "what?"
+
+**note:**
+
+Q is not present in following alphabets:
 
 * Cornish, Estonian, Icelandic, 
 * Irish, Latvian, Lithuanian, 
