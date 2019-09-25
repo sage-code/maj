@@ -5,13 +5,15 @@ In Maj a word have a root and a final vocal or consonant called "coda".
 
 **classes*
 
-Most words are bis-yllabic or tri-syllabic
+Most words are bi-syllabic or tree-syllabic
 
 * Nouns are finalized with "a" or "e" or consonant
-* Adjectives are finalized in "o"
-* Verbs are finalized in "re", "fu", "pa", "ly"
-* Adverbs can not be finalized with: {"a", "e", "o}
-* Prepositions are short and monosyllabic.
+* Adjectives are finalized with "o"
+* Verbs are finalized in suffix "re", "fu", "pa", "so"
+* Adverbs can not be finalized with: {"o" or "e"}
+* Prepositions are monosyllabic, and can terminate with any letter.
+
+There are no other parts of propositions. Any word will fall into one of these.
 
 ## Nouns
 
@@ -53,9 +55,20 @@ Docta | doctor             | doctor
 uve = grapes      (invariant plural)
 uva = grape seed  (singular may be translated different in different languages)
 
+## Diminutives
+
+Maj enable diminutives using suffix: 'tsa. Whe a noun is using suffix, it changes last letter from "a" to "u", making the word more easy to pronounce. Name of persons can not support diminutives.
+
+**example**
+Mama => Mamu'tsa
+Tata => Tatu'tsa
+
+
 ## Article
 
-An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to point out or refer to nouns. There are two different types of articles that we use in writing and conversation to point out or refer to a noun or group of nouns: definite and indefinite articles.
+An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to _point out_ or _refer_ nouns or a group of nouns. 
+
+There are two different types of articles: definite and indefinite articles.
 
 **Definite Article**
 

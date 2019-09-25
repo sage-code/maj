@@ -178,28 +178,27 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **singular conjugation**
 
-* zy pala-re = he is playing right now
-* zy pala-fu = he will play in the future 
-* zy pala-pa = he play some time ago
+* zy palu-re = he is playing right now
+* zy palu-fu = he will play in the future 
+* zy palu-pa = he play some time ago
 
 **plural conjugation**
-* ne pala alga = we play sometimes
-* ve pala nuca = you never play
-* ze pala suva = they play often
+* ne palu alga = we play sometimes
+* ve palu nuca = you never play
+* ze palu suva = they play often
 
-**Notes:** 
+## Verb transformation
 
-* So far I have inspired from Spanish a little.
-* Having fix verbs make the learning experience better.
+You can transform a verb into an attribute using suffix 'sa or 'se.
 
-## Transform a verb in attribute using "sh"
+**rxample
+palu => pala'sa = playful
 
-palu-sh = playful
 
 **So far:**
-* yo sera pala-sh = I'm playful
-* tu sera pala-sh = you are playful 
-* zy sera pala-sh = he, it or she is playful
+* yo sera pala'sha = I'm playful
+* tu sera pala'sha = you are playful 
+* zy sera pala'sha = he, it or she is playful
 
 ## Locations
 

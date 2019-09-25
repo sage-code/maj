@@ -42,15 +42,15 @@ Most letters sound like ISO latin alphabet from English but some letters are mod
 
 **With ipa notation**
 ```
-i  y  e  j   c    k  g   x
-ɘ  y  e  dʒ  t͡ɕ  c  ɢ   ʃ 
+i  y   e   j   k   g   x
+ɘ  y   e   ʒ   c   ɢ   ʃ 
 ```
 
 **With Romanian notation**
 
 ```
-i  y  e  j   c   g   k   x 
-â  i  e  ge  ce  G   c   ş 
+i  y  e  j   g   k   x 
+â  i  e  ge  G   c   ş 
 ```
 
 * Sound `a`  is open  vowel, like `a` in "car",
@@ -58,16 +58,16 @@ i  y  e  j   c   g   k   x
 * Sound `y`  is close vowel, like "i" in "play", "yes",
 * Sound `e`  is close mid, similar to "e"  in "melon",
 * Sound `j`  is trilled, similar to sound "si" in "fusion",
-* Sound `c`  is palate-alveolar affricate like "ch" in "peech"
 * Sound `s`  is fricative alveolar like "s" in "snake",
 * Sound `z`  is trilled similar to `z` in "zoo",
 * Sound `r`  is trilled similar to "rr" in "Africa",
 * Sound `v`  is trilled like "v" in "vehicle",
-* Sound "g"  is post-alveolar affricate like "ge"  in "generator",
-* Sound `q`  is plosive uvular like "gu" in `guitar`
+* Sound `j`  is post-alveolar affricate like "ge"  in "generator",
+* Sound `g`  is plosive uvular like "g" in "gees", "guitar", "get"
 * Sound `k`  is fricative "ch" like "k" in "back", "sky",
 * Sound `x`  is fricative post-alveolar "sh" in "she".
 * Sound `w`  is voiced labial-velar like "w" in "whiskey".
+* Sound `x`  is not `cs` like in English but `sh` = `ʃ`
 
 **Trilled R**
 
@@ -87,22 +87,20 @@ sh | ş         | ʃ
 ts | ţi        | t͡si         
 tz | ţe        | t͡se         
 ch | ce, ci    | t͡ɕ  
-ca | cea       | t͡ɕ  
 ce | cei,      | t͡ɕ  
 ci | cia,      | t͡ɕ  
-co | cio,      | t͡ɕ  
-cu | ciu       | t͡ɕ  
+ge | ge        | dʒe 
+gi | gi        | dʒi
+
 
 **notes:**
 
-* sound "sh"  is like "s"   in "she" but most of the time is replaced by "x"
-* sound "je"  is like "ge"  in "generator",
-* sound "ji"  is like "gi"  in "gin",
-* sound "g"   is like "g"   in "get", "gear", "gees", "guitar"
+* sound "sh"  is like "s"   in "she" (also "x" is pronounced "sh")
+* sound "ge"  is like "ge"  in "generator",
+* sound "gi"  is like "gi"  in "gin",
 * sound "sh"  is like "sh"  in "she" or "ti" in "addiction" or "ss" in "passion"
 * sound "ch"  is like "ch"  in "cheese", "peach" or "speech"
 * sound "ts"  and "tz" are similar to "z" in German "zuruck = back"
-* sound "ue"  and "ui" are similar to "we", "wi" in "wet", "whisky"
 
 ## Not used
 
@@ -131,8 +129,9 @@ Maj do not use cedilla found in other Languages:
 * Q is used in questions: qe, qi and some words from Latin like "aqua"
 
 **X**
-* In Maj, X is pronounced like in Chinese: "ʃ" and is replacement for "sh".
-* The romanic  X is converted into"cs" when we create the words. 
+* In Maj, X is pronounced like in Chinese: "ʃ" and is replacement for "sh",
+* The romanic  X is converted into"cs" when we create the words.
+
 
 **K**
 * K and Q are pronounced almost the same,
@@ -150,16 +149,18 @@ Q is not present in following alphabets:
 
 ## Vowels
 
-Maj has 7 vowels: { a e i o u w y } 
+Maj has 6 vowels: { a e i o u y } 
+One semivowel: { w }
 
 ## Consonants
 
 Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
-* plosive :  b, d, c, p, t, g
+* plosive :  b, d, p, t, g, k 
 * nasal   :  m, n
-* liquid  :  l, r
-* fricative: f, v, s, z, h
+* trilled :  r, j, v, z
+* labial  :  l, r
+* fricative: f, s, c, h, q, x
 
 **combination:** 
 
@@ -168,7 +169,6 @@ Some CC combinations can produce a different sound (digraphs):
 * "ts" is a single sound: ţ 
 * "sh" is a single sound: ş 
 * "ch" is a whistled sound like "Ch" in "Chicago"
-* "c"  in combination with any vowel create a whistled sound like "ch" in peetch
 
 Other two consonants can be pronounced together but some restrictions apply:
 
