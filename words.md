@@ -40,15 +40,6 @@ Docta | doctor             | doctor
 * Cimas     = Christmas 
 * Maj       = Language Maj
 
-**articles**
-
-The article, is used in proposition to bring focus to a particular subject.
-
-singular     | plural
--------------|-------------
-ita = this   | ite = these
-isa = that   | ise = those
-
 **rules**
 
 * nouns can be up to 7 characters letters long but usually 5.
@@ -61,6 +52,50 @@ isa = that   | ise = those
 
 uve = grapes      (invariant plural)
 uva = grape seed  (singular may be translated different in different languages)
+
+## Article
+
+An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to point out or refer to nouns. There are two different types of articles that we use in writing and conversation to point out or refer to a noun or group of nouns: definite and indefinite articles.
+
+**Definite Article**
+
+singular     | plural
+-------------|-------------
+ita = this   | ite = these
+isa = that   | ise = those
+
+
+Let's begin by looking at the definite article. This article is the word 'the,' and it refers directly to a specific noun or groups of nouns. For example:
+
+* the freckles on my face
+* the alligator in the pond
+* the breakfast burrito on my plate
+
+Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
+
+**Indefinite Articles**
+Indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
+
+* a Mercedes from the car lot
+* an event in history
+
+In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
+
+In Maj, this situation is resolved by using numeral "one" as article. 
+
+* one Mercedes ...TODO
+* one event    ...TODO 
+
+
+**Article Usage**
+
+Properly using a definite article is fairly straightforward, but it can be tricky when you are trying to figure out which indefinite article to use. The article choice depends on the sound at the beginning of the noun that is being modified. There is a quick and easy way to remember this.
+
+If the noun that comes after the article begins with a vowel sound, the appropriate indefinite article to use is 'an.' A vowel sound is a sound that is created by any vowel in the English language: 'a,' 'e,' 'i,' 'o,' 'u,' and sometimes 'y' if it makes an 'e' or 'i' sound. For example:
+
+* an advertisement on the radio (this noun begins with 'a,' which is a vowel)
+* an element on the periodic table (this noun begins with 'e,' which is also a vowel)
+
 
 **patterns** 
 

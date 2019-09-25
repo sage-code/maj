@@ -1,40 +1,39 @@
 # Use case
 
-**note:** in this document i use Maj capitalization!
+**note:** in this document I use Maj capitalization!
 
-there are the following reasons to build a new language:
+we think the natural language evolution of Latin language has stopped. so we will give it a push forward. next are some good reasons to make a new language that is very much different than current constructed languages:
 
-* we spend a decade in schools learning our natural language,
-* then few people have any spare time left for learn a second language,
-* even fewer know a third or other languages,
-* natural languages are evolving but slow,
-* sometimes a language need a pushed forward,
-* constructed languages failed so far.
+* you have spend a decade in schools learning English,
+* a few people know a second language, maybe Spanish
+* in these languages you can not do computation,
+* programming languages can do computation but can not be spoken.
 
 # but where
 
-Maj is designed to be very articulate and is based on a lot of air. So it can be spoken well in hot and humid places like the forest or desert but not under water. Under water you should use click sounds like Dolphins do. 
+Maj is designed to be very articulate and is based on a lot of air. So it can be spoken well in hot and humid places like the forest or desert. Not under water where you should use a click alphabet like Dolphins do. 
 
-Maj can be used on Internet chat and on GitHub. It has specifics for describing computer languages and other languages. So I guess Maj is a descriptive "pseudo-code" and "domain specific". 
+Maj can be used on chat. It has specifics for describing computer languages and algorithms. So I guess Maj is a descriptive "pseudo-code" and "domain specific" language for software design. 
 
-Maj can be spoken in public places. Nobody will understand you especially if you are in China, Russia or Africa, but if you are on American soil or Europe some words could look familiar to other people.
+Maj can be spoken in public but Nobody will understand you. especially if you are in China, Russia or Africa, but if you are on America or Australia or Europe some words could look familiar to some people.
 
 # but how
 
-Maj is a constructed Romantic language. We think the natural language evolution of Latin language has stop, so we will give it a push forward. We shorten the words and we reduce cost of pronunciation. So then Maj become faster and more efficient. Intended for children to learn quick and effortless.
+We shorten the words and we reduce cost of pronunciation. So then Maj become faster and more efficient. is not for children, but is designed to be learn quick and effortless. It is for many software developers from many countries to be able to work together ina a team on software projects even if they do not know English at all.
 
 **design:**
 
-* we eliminate some redundant letters: {W, X, Q, K}
-* we do not use cedilla and weird letters found in Franch or German
-* we try to make the language very articulate and less annoying
+* we re-purpose some redundant letters: { J, K, Q, X },
+* we do not use cedilla and weird letters found in Franch, Romanian or German,
+* we try to make the language very articulate and less annoying,
 * we create strong and simple grammar rules to reduce complexity,
 * we optimize the language using programming algorithms.
 
 **rules:**
 
-* we replace "s" rule for plural: {English, Spanish, French} to "e" rule from: {Italian, Romanian};
-* we use suffix for different kind of words: adjective, verbs, nouns;
+* maj do not use "s" rule for plural: { English, Spanish, French } 
+* maj is using "e" rule to make plural like in: { Italian, Romanian };
+* we use suffix for main word elements: adjective, verbs, nouns;
 * we use fixed length words, determined by average frequency of word category;
 * we use invariant forms of nouns and verbs. there are no irregular verbs;
 * we eliminate synonyms the best we can and we prefer one meaning for one word.
@@ -53,16 +52,8 @@ a constructed language can have good use-cases.
 
 once the language is stabilized it can be usable for:
 
-1.games 
-2.movies
-3.chat
-4.teaching
-5.storage
-6.translation
-7.making AI
-
-* first use case is clear: making video games,
-* for making movies with aliens that do not speak an Earth language,
+* for making video games,
+* for making movies with aliens that do not speak Earth,
 * for chat with friends that do not speak English,
 * for teaching other languages, science or other skills,
 * for storing world knowledge and wisdom,
@@ -73,17 +64,19 @@ the last use-case is actually the most valuable of all. we think usually in a la
 
 # For peace
 
-Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and purity. this will influence your way of spending time and make you a better person.
+Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and soul purity. this will influence you in a good way make you a better person.
 
-reducing the time necessary to learn new thing, and storing these thing more efficient in your memory you can be much more useful to yourself and to society surrounding you. you can explain better the things to your friends or students in case you are a teacher.
+reducing the time necessary to learn new thing, and storing these thing more efficient in your memory you can be much more useful to yourself and to society surrounding you. you can explain better your feelings and Thoth to your friends or students in case you are a teacher.
 
 # For making
 
-Maj will enable you to make text faster. this reduce time to write a story or a thesis. multiply this with milions and you will change the world. so writers as well as readers will reduce time to communicate.
+Maj will enable you to make text. this reduce time to write a story or a thesis. multiply this with millions and you will change the world. so writers as well as readers will reduce time to communicate.
 
 storage is expensive. it is true that text do not take so much space, but maybe in the future AI will learn how to produce text content. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
 
+Maybe we manage to make smarter text. This is a text that ca do computations. By doing this, you can describe a program then "execute" the program line by line and even repeat a potion of text multiple times like a program do. So yur text can be also a running program.
+
 it is time to stop talking and start making.
 
-vale!
+**vale!**
 

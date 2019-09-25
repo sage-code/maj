@@ -51,14 +51,15 @@ vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediam
 **operations**
 
 Maj | English | Description
-----|---------|-----------------------
+----|---------|------------------------------------
 da  | yea     | affirmative
 nu  | ney     | negative 
 or  | or      | alternative
-et  | plus    | in addition
+et  | and     | conjunctive
 si  | if      | conditional
-es  | is      | prepositional verb seru
-cu  | and     | conjunctive
+es  | is      | short form of verb = seru
+ka  | like    | comparative preposition
+en  | in      | belong to, is in list
 
 **symbols**
 
@@ -74,50 +75,50 @@ Interrogation is created with { ci, ce, co } from Italian: {chi, che, como}
  
 maj   | english  | spanish | romanian
 ------|----------|---------|---------
-ci?   | who?     | que     | cine
-ce?   | what?    | qué     | ce
-co?   | how?     | como    | cum
+qi?   | who?     | que     | cine
+qe?   | what?    | qué     | ce
+qo?   | how?     | como    | cumi
 ud?   | where?   | donde   | unde
       
-* ci seru?  = who is ?
-* ce mocu?  = what are you eating ?
-* co bebu?  = how is your drink ?
+* qi seru?  = who is ?
+* qe mocu?  = what are you eating ?
+* qo bebu?  = how is your drink ?
 * ud seru?  = where are you?
 
 ## Articles
 
 The article do not alter a word, just underline the value of the word in sentences. It puts the word on the spot so we know exactly what are you talking about. It is improving the semantic of propositions. But in Maj it has also a role to specify the singular or plural for the subject.
      
-singular     | plural
--------------|-------------
-ita = this   | ite = these
-isa = that   | ise = those
-
-**example**
-
-ita bana divu-ga maleo
-
+singular    | plural
+------------|-------------
+eta = this  | ete = these
+esa = that  | ese = those
 
 ## Pronoun
 
 Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
-singular     | plural
--------------|-----------------------------
-yo = myself  | nos = we
-tu = you     | vos = you
-el = he/she  | zei = they
-it = it      | ite
+singular    | plural
+------------|-----------------------------
+yo = I      | ne  = we
+me = myself | us  = ourselves
+tu = you    | ve  = you*
+zy = he/she | ze  = they
+ut = it     | ete = these, ese = those
+
+* English has translation only for plural: tu, ve = you
+* The "ete" and "ese" are actually determinant articles.
 
 **Possessive**
 
 haru = to have
+ha   = short form of haru.
 
-singular    | plural
-------------|--------------------------------
-ma = mine   | na = ours
-ta = yours  | va = yours
-ha = his    | za = theirs
+singular        | plural
+----------------|--------------------------------
+mya = mine      | nos = ours
+tya = yours     | vos = yours
+zea = his/hers  | zos = theirs
 
 **Notes:**
 
@@ -164,9 +165,9 @@ pa      | sometime in the past
 * suva  = often (French souvent)
 * moca  = soon  (Latin mox)
 
-* ti vidu-fu suva ita mi. = you will see me often
-* ti vidu-re alga ita mi. = you can see me sometime
-* mi vidu-pa nuca ita ti. = I have never seen you before
+* tu vidu-fu suva ita mi. = you will see me often
+* tu vidu-re alga ita mi. = you can see me sometime
+* yo vidu-pa nuca ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -177,9 +178,9 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **singular conjugation**
 
-* hi pala-re = he is playing right now
-* hi pala-fu = he will play in the future 
-* hi pala-pa = he play some time ago
+* zy pala-re = he is playing right now
+* zy pala-fu = he will play in the future 
+* zy pala-pa = he play some time ago
 
 **plural conjugation**
 * ne pala alga = we play sometimes
@@ -191,14 +192,14 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 * So far I have inspired from Spanish a little.
 * Having fix verbs make the learning experience better.
 
-## Transform a verb in attribute using "sy"
+## Transform a verb in attribute using "sh"
 
-palu-sy = playful
+palu-sh = playful
 
 **So far:**
-* mi sera pala-sy = I'm playful
-* ti sera pala-sy = you are playful 
-* hi sera pala-sy = he, it or she is playful
+* yo sera pala-sh = I'm playful
+* tu sera pala-sh = you are playful 
+* zy sera pala-sh = he, it or she is playful
 
 ## Locations
 
@@ -247,17 +248,17 @@ Examples:
 Preposition "ud" can be used for location:
 
 **short form**
-* ud ti andu-re? = where you going?
-* ud ti venu-re? = where you coming from?
-* ud ti seru-re? = where are you from?
+* ud tu andu-re? = where you going?
+* ud tu venu-re? = where you coming from?
+* ud tu seru-re? = where are you from?
     
 **longer form**    
-* ud seru la loca ce ti palu-re? = where is the place you are plaing?
-* ud seru la loca ce ne andu-re? = where is the place we  are going?
+* ud seru la loca qe tu palu-re? = where is the place you are plaing?
+* ud seru la loca qe ne andu-re? = where is the place we  are going?
 
 **expressions**
   
 * da uda   la uda?      = from where to where!
 * da cia   la dea!      = from here to there!
-* da locta ce ti picu!  = from where you like!
+* da locta qe tu picu!  = from where you like!
 

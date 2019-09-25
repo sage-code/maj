@@ -23,20 +23,20 @@ All numerals are created from base of 3 letters.
 * Numerals to not have genre, past or future
 * Termination "e" is representing plural 
 
-**Then = zen**
+**Then = tsa**
 
 x | maj  | xx | maj          | xx | maj      |
 --|------|----|--------------|----|----------|
-0 | nul  | 10 | una-zen      | 00 | nul-zen  |
-1 | una  | 11 | una-zen+una  | 10 | una-zen  |
-2 | dua  | 12 | una-zen+dua  | 20 | dua-zen  |
-3 | tea  | 13 | una-zen+tea  | 30 | tea-zen  |
-4 | cua  | 14 | una-zen+cua  | 40 | cua-zen  |
-5 | cha  | 15 | una-zen+cha  | 50 | cha-zen  |
-6 | sia  | 16 | una-zen+sia  | 60 | sia-zen  |
-7 | sha  | 17 | una-zen+sha  | 70 | sha-zen  |
-8 | oca  | 18 | una-zen+oca  | 80 | oca-zen  |
-9 | nia  | 19 | una-zen+nia  | 90 | nia-zen  | 
+0 | nul  | 10 | una-tsa      | 00 | nul-tsa  |
+1 | una  | 11 | una-tsa+una  | 10 | una-tsa  |
+2 | dua  | 12 | una-tsa+dua  | 20 | dua-tsa  |
+3 | tea  | 13 | una-tsa+tea  | 30 | tea-tsa  |
+4 | qua  | 14 | una-tsa+qua  | 40 | qua-tsa  |
+5 | cea  | 15 | una-tsa+cia  | 50 | cea-tsa  |
+6 | sya  | 16 | una-tsa+sya  | 60 | sya-tsa  |
+7 | sha  | 17 | una-tsa+sha  | 70 | sha-tsa  |
+8 | oka  | 18 | una-tsa+oka  | 80 | oka-tsa  |
+9 | nia  | 19 | una-tsa+nia  | 90 | nia-tsa  | 
 
 ## Level 2
 
@@ -48,11 +48,11 @@ x | maj  | xx | maj          | xx | maj      |
  100 =  una-suta
  200 =  dua-suta
  300 =  tea-suta
- 400 =  cua-suta
- 500 =  cha-suta
- 600 =  sia-suta
+ 400 =  qua-suta
+ 500 =  cea-suta
+ 600 =  sya-suta
  700 =  sha-suta
- 800 =  oca-suta
+ 800 =  oka-suta
  900 =  nia-suta
 ```
 
@@ -60,9 +60,9 @@ x | maj  | xx | maj          | xx | maj      |
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = una-suta+dua-zen+chn
- 555 = cha-suta+cha-zen+zen
- 801 = oca-suta+nul-zeb+una
+ 125 = una-suta+dua-tsa+chn
+ 555 = cea-suta+cea-tsa+tsa
+ 801 = oka-suta+nul-tza+una
 ```
 
 **Thousands = ioma**
@@ -73,11 +73,11 @@ x | maj  | xx | maj          | xx | maj      |
  1,000 = una-ioma
  2,000 = dua-ioma
  3,000 = tea-ioma
- 4,000 = cua-ioma
- 5,000 = cha-ioma
- 6,000 = sia-ioma
+ 4,000 = qua-ioma
+ 5,000 = cea-ioma
+ 6,000 = sya-ioma
  7,000 = sha-ioma
- 8,000 = oca-ioma
+ 8,000 = oka-ioma
  9,000 = nia-ioma
 ```
 
@@ -100,7 +100,7 @@ x | maj  | xx | maj          | xx | maj      |
 ```
 1,000,000.000 = una-bila
 2,000,000.000 = doa-bila
-5,000,000.000 = cha-bila
+5,000,000.000 = cea-bila
 ...
 9,000,000.000 = nia-bila
 ```
@@ -115,7 +115,7 @@ bit | maj      |
 8   | bin      | word
 16  | dubin    | short integer
 32  | cubin    | integer
-64  | ocbin    | long integer
+64  | okbin    | long integer
 
 ## Counting:
 

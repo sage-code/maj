@@ -116,19 +116,27 @@ Maj do not use cedilla found in other Languages:
 * New York, Chicago or Washington are acceptable names in Maj.
 * France is accepted but "française" should be translated to "franchez"
 
-** Rarely used
+## Rarely used: 
+
+{W, Q, X, K}
+
 
 **W**
 * can be present only at beginning of words: for example: "whiskey".
 * inside or at end of words we always use "u" follow by "i" or "e".
 
 **Q** 
-* is very different from Latin alphabet. I is pronounced "G" like in English "get".
-* original "qu" is writthen "ku" in Maj. So "ke" is pronounced "que?" = "what?"
+
+* is similar to q from Latin alphabet, can be follow by "e", "i" to prevent sound "ch",
+* Q is used in questions: qe, qi and some words from Latin like "aqua"
 
 **X**
 * In Maj, X is pronounced like in Chinese: "ʃ" and is replacement for "sh".
 * The romanic  X is converted into"cs" when we create the words. 
+
+**K**
+* K and Q are pronounced almost the same,
+* K is used in "kilo" and to replacing group "cc".
 
 
 **note:**
@@ -217,7 +225,6 @@ To describe the structure of a syllable we use following convention:
 * I have used: V = Vowel, C = Constant, D = Diphtong,
 * Alternatives are separated with vertical bar: "\|",
 * I use + to suggest concatenation of two parts,
-* V do not include W that is actually a semivowel.
 
 ```python
 # syllable structure
@@ -260,9 +267,9 @@ Cost   |Sounds
 -------|-------------------------------
   1    |a, e, y, o, u         
   2    |i, l, m, n, j, h, w 
-  3    |b, c, d, p, t, q
+  3    |b, c, d, p, t, q, k
   4    |f, s, v, j, r, g, x 
-  6    |ts, sh, ch, gu
+  6    |ts, sh, ch
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
