@@ -42,15 +42,15 @@ Most letters sound like ISO latin alphabet from English but some letters are mod
 
 **With ipa notation**
 ```
-i  y  e  j  c    g   q  k   
-ɘ  y  e  ʒ  t͡ɕ   dʒ  ɢ  c  
+i  y  e  j   c    k  g   x
+ɘ  y  e  dʒ  t͡ɕ  c  ɢ   ʃ 
 ```
 
-**With romanian notation**
+**With Romanian notation**
 
 ```
-i  y  e  j  c   g    q   k   x 
-â  i  e  j  ce  ge   g   c   ş 
+i  y  e  j   c   g   k   x 
+â  i  e  ge  ce  G   c   ş 
 ```
 
 * Sound `a`  is open  vowel, like `a` in "car",
@@ -66,6 +66,7 @@ i  y  e  j  c   g    q   k   x
 * Sound "g"  is post-alveolar affricate like "ge"  in "generator",
 * Sound `q`  is plosive uvular like "gu" in `guitar`
 * Sound `k`  is fricative "ch" like "k" in "back", "sky",
+* Sound `x`  is fricative post-alveolar "sh" in "she".
 * Sound `w`  is voiced labial-velar like "w" in "whiskey".
 
 **Trilled R**
@@ -82,24 +83,24 @@ Some sounds are created using two letters that produce a different sound than th
 
 maj| romanian  | phonetic(*)  
 ---|-----------|--------------
-ts | ţ         | t͡se         
 sh | ş         | ʃ 
-th | z         | z
-ch | ciâ       | t͡ɕ  
-ca | cia       | t͡ɕa
-ce | ce        | t͡ɕe
-ci | ciâ       | t͡ɕi
-co | co        | t͡ɕo
-cu | cu        | t͡ɕu
-cy | ci        | t͡ɕy
+ts | ţi        | t͡si         
+tz | ţe        | t͡se         
+ch | ce, ci    | t͡ɕ  
+ca | cea       | t͡ɕ  
+ce | cei,      | t͡ɕ  
+ci | cia,      | t͡ɕ  
+co | cio,      | t͡ɕ  
+cu | ciu       | t͡ɕ  
 
 **notes:**
 
-* sound "ge"  is like "ge"  in "generator",
-* sound "gi"  is like "gi"  in "gin",
-* sound "gh"  is like "g"   in "get", "gear", "gees", "guitar"
+* sound "sh"  is like "s"   in "she" but most of the time is replaced by "x"
+* sound "je"  is like "ge"  in "generator",
+* sound "ji"  is like "gi"  in "gin",
+* sound "g"   is like "g"   in "get", "gear", "gees", "guitar"
 * sound "sh"  is like "sh"  in "she" or "ti" in "addiction" or "ss" in "passion"
-* sound "ch"  is like "ch"  in "cheese", "peach"
+* sound "ch"  is like "ch"  in "cheese", "peach" or "speech"
 * sound "ts"  and "tz" are similar to "z" in German "zuruck = back"
 * sound "ue"  and "ui" are similar to "we", "wi" in "wet", "whisky"
 
@@ -124,6 +125,11 @@ Maj do not use cedilla found in other Languages:
 **Q** 
 * is very different from Latin alphabet. I is pronounced "G" like in English "get".
 * original "qu" is writthen "ku" in Maj. So "ke" is pronounced "que?" = "what?"
+
+**X**
+* In Maj, X is pronounced like in Chinese: "ʃ" and is replacement for "sh".
+* The romanic  X is converted into"cs" when we create the words. 
+
 
 **note:**
 
