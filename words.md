@@ -28,12 +28,16 @@ Nana  | grand mother       | bunica
 Sona  | grand father       | bunicu
 Efera | nurse              | doctorita
 Docta | doctor             | doctor
+Homyna| men                | bărbat
+Femyna| women              | femeie
+
 
 **notes:** 
 
-* Nouns are 4, 5, 6 character long and are ending with "a"
-* Nouns representing leaving beings are starting with uppercase.
-* Person names are written with all capital letters.
+* Nouns have variable length from 3 up to 7 character long
+* Nouns are are ending with "a" for singular, "e" plural
+* Nouns representing leaving beings are starting with uppercase,
+* Person names are written with all capital letters,
 
 **examples:**
 
@@ -44,24 +48,42 @@ Docta | doctor             | doctor
 
 **rules**
 
-* nouns can be up to 7 characters letters long but usually 5.
-* common nouns are terminated with "a",
-* some nouns can change termination from "a" to "e" to become plural,
+1. some nouns can change termination from "a" to "e" to become plural,
 
-**extra**
-* for beverage terminated with - ola (contains alcohol),
-* for food that contains a lot of sugar we use - osa,  
-
+```
 uve = grapes      (invariant plural)
 uva = grape seed  (singular may be translated different in different languages)
+```
+
+2. for distinguish between male and female creatures we use adjectives: 
+
+* maso    = male    (latin: masculum)
+* femo    = female  (latin: feminam)
+
+```
+maso canya  = dog male
+femo canya  = dog female
+```
+
+**extra**
+* for beverage terminated with 'ola (contains alcohol),
+* for food that contains a lot of sugar we use 'osa,  
 
 ## Diminutives
 
 Maj enable diminutives using suffix: 'tsa. Whe a noun is using suffix, it changes last letter from "a" to "u", making the word more easy to pronounce. Name of persons can not support diminutives.
 
-**example**
-Mama => Mamu'tsa
-Tata => Tatu'tsa
+**examples**
+
+```
+Mamu'tsa  = mommy
+Tatu'tsa  = daddy
+```
+
+```
+maso canyu'tsa  = dogy male
+femo canyu'tsa  = dogy female
+```
 
 ## Article
 
@@ -239,7 +261,7 @@ con mia cut mane = with my two hand
 
 **movement**
 
-Movement prepositions are 5 character long and ending in a consonant.
+Movement prepositions indicating a direction of movement. 
 
 Maj      | English  | Origin
 ---------|----------|--------
@@ -258,7 +280,7 @@ ruc      |Back      | German
          
 **positions**
 
-Most prepositions are 3 character long:
+Indicate a position of object relative to other object.
 
 Maj     |English             | Origin
 --------|--------------------|---------

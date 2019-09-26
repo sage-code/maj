@@ -91,8 +91,8 @@ The article do not alter a word, just underline the value of the word in sentenc
      
 singular    | plural
 ------------|-------------
-eta = this  | ete = these
-esa = that  | ese = those
+yta = this  | yte = these
+ysa = that  | yse = those
 
 ## Pronoun
 
@@ -101,10 +101,9 @@ Is a word that can function by itself as a noun phrase and that refers either to
 singular    | plural
 ------------|-----------------------------
 yo = I      | ne  = we
-me = myself | us  = ourselves
 tu = you    | ve  = you*
 zy = he/she | ze  = they
-ut = it     | ete = these, ese = those
+yt = it     | yte = these, yse = those
 
 * English has translation only for plural: tu, ve = you
 * The "ete" and "ese" are actually determinant articles.
@@ -160,14 +159,14 @@ pa      | sometime in the past
 **time based greetings**
 
 * vidu  = to see
-* alga  = sometime
-* nuca  = never
-* suva  = often (French souvent)
-* moca  = soon  (Latin mox)
+* algo  = sometime
+* nuco  = never
+* suvo  = often (French souvent)
+* moxo  = soon  (Latin mox)
 
-* tu vidu'fu suva ita mi. = you will see me often
-* tu vidu're alga ita mi. = you can see me sometime
-* yo vidu'pa nuca ita ti. = I have never seen you before
+* tu vidu'fu suvo ita mi. = you will see me often
+* tu vidu're algo ita mi. = you can see me sometime
+* yo vidu'pa nuco ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -183,18 +182,21 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 * zy jocu'pa = he play some time ago
 
 **plural conjugation**
-* ne jocu alga = we play sometimes
-* ve jocu nuca = you never play
-* ze jocu suva = they play often
+* ne jocu algo = we play sometimes
+* ve jocu nuco = you never play
+* ze jocu suvo = they play often
 
 ## Verb transformation
 
 You can transform a verb into an attribute using suffix 'sha or 'she.
 
+* xa for singular
+* xe for plural
+
 **to adjective:**
 
-jocu => joca'sha = playful
-jocu => joca'she = playful
+jocu => jocu'sha = playful
+jocu => jocu'she = playful
 
 
 **So far:**
@@ -206,9 +208,8 @@ jocu => joca'she = playful
 
 Use termination "ora" for singular, "ore" for plural.
 
-* yo seru 
-
-* 
+* yo seru'pa una juca'ora = I was a player
+* ne seru'fu juca'ore     = we will be players
 
 ## Locations
 
