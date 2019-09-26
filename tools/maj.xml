@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1">,</Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">, = - + ? ! . * / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \|</Keywords>
+            <Keywords name="Operators1">&apos; , = - + ? ! . * / @ &lt; &gt; \&lt; \&gt; \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \~ :|: |: :| | \|</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,13 +24,13 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">ui no or et si es in cu&#x000D;&#x000A;ci ce co ud ca&#x000D;&#x000A;mi ti hi ne ve ze&#x000D;&#x000A;mia tia hia nue vue zue&#x000D;&#x000A;bono malo vero faso &#x000D;&#x000A;salu vale todo helo adio bine vidu&#x000D;&#x000A;algo alga nado nada nuca suva moca&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords2">rou sou etu usu&#x000D;&#x000A;ogu&#x000D;&#x000A;ovu&#x000D;&#x000A;inu&#x000D;&#x000A;abu&#x000D;&#x000A;udu&#x000D;&#x000A;bau&#x000D;&#x000A;neu&#x000D;&#x000A;fau&#x000D;&#x000A;aru&#x000D;&#x000A;idu&#x000D;&#x000A;pru&#x000D;&#x000A;csu&#x000D;&#x000A;fru&#x000D;&#x000A;pau&#x000D;&#x000A;fou&#x000D;&#x000A;atu&#x000D;&#x000A;ciu&#x000D;&#x000A;hiu&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords3">ita ite isa ise &#x000D;&#x000A;su re fu pa sy&#x000D;&#x000A;de la en</Keywords>
-            <Keywords name="Keywords4">act bin cut gin pat rin sut tin vat zin eva oda &#x000D;&#x000A;actea binea cutea ginea patea rinea sutea tinea vatea zinea molea ricea vecea&#x000D;&#x000A;acton bivat cuvat pavat vavat</Keywords>
+            <Keywords name="Keywords1">da nu or et si es en ka&#x000D;&#x000A;qi qe qo ud&#x000D;&#x000A;yo me tu zy ut ne us ve ze&#x000D;&#x000A;mya tya zea nos vos zos&#x000D;&#x000A;bono malo vero faso &#x000D;&#x000A;salu vale todo helo adio bine vidu&#x000D;&#x000A;algo alga nado nada nuca suva moca&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">nul&#x000D;&#x000A;una&#x000D;&#x000A;dua&#x000D;&#x000A;tea&#x000D;&#x000A;qua&#x000D;&#x000A;cea&#x000D;&#x000A;sya&#x000D;&#x000A;xoa&#x000D;&#x000A;oka&#x000D;&#x000A;nia&#x000D;&#x000A;tsa</Keywords>
+            <Keywords name="Keywords3">re fu pa&#x000D;&#x000A;de la en&#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords4"></Keywords>
             <Keywords name="Keywords5">tepa loca futa resa pasa suna nuca</Keywords>
             <Keywords name="Keywords6"></Keywords>
-            <Keywords name="Keywords7">A B C D E F G H I J L&#x000D;&#x000A;M N O P R S T U V Y Z</Keywords>
+            <Keywords name="Keywords7">A B C D E F G H I J K L M &#x000D;&#x000A;N O P Q R S T U V X Y Z W</Keywords>
             <Keywords name="Keywords8">http:// (http:// https:// (https:// mailto: (mailto: ftp:// (ftp:// ftps:// (ftps:// (/ /</Keywords>
             <Keywords name="Delimiters">00( 00[ 00{ 01\ 02) 02] 02} 03``` 03` 03~~~ 04\ 05``` 05((EOL `)) 05~~~ 06~ 07 08~ 09** 10\ 11((EOL **)) 12* 13\ 14((EOL *)) 15 16 17 18_ 19 20_ 21&quot; 22 23&quot;</Keywords>
         </KeywordLists>
@@ -51,7 +51,7 @@
             <WordsStyle name="FOLDER IN CODE1" fgColor="333333" bgColor="FFFFFF" fontName="yes" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="333333" bgColor="FFFFFF" fontName="no" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="333333" bgColor="FFFFFF" fontName="MISC" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontName="&#x74F0;&#x02C1;" fontStyle="0" nesting="196" />
+            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontName="&#x74F0;&#x02C1;" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS2" fgColor="C0C0C0" bgColor="FFFFFF" fontName="no" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS3" fgColor="FF0000" bgColor="FFFFFF" fontName="&#x7560;&#x02C1;" fontStyle="4" nesting="0" />
             <WordsStyle name="DELIMITERS4" fgColor="00FF40" bgColor="FFFFFF" fontName="&#xD7A0;&#x061F;" fontStyle="1" nesting="0" />

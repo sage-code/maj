@@ -1,13 +1,6 @@
 # Some verbs
 
-All verbs are 4 character long and can be terminate with "a".
-
-Format of the verb can be:
-
-* VCVa :common
-* CVCa :start with a consonant  
-* CCVa :start with two consonants 
-* VCCa :contains two consonants
+All verbs are 4 character long and can be terminate with "u".
 
 **Level 1**
 
@@ -17,7 +10,7 @@ maj     | english   | spanish   | romanian
 --------|-----------|-----------|----------------
 comu    | eating    | comer     | mâncat
 bebu    | drinking  | bebida    | băut
-hogu    | play      | jugar     | joaca
+jocu    | play      | jugar     | joaca
 lahu    | laughing  | riendo    | râde
 besu    | kissing   | besos     | sărutat
 banu    | bath      | baño      | baie
@@ -124,7 +117,7 @@ italian   | pigu    |explicar     | to explain
 spanish   | ganu    |ganar        | to earn/win
 italian   | picu    |gustar       | to like
 romanian  | pobu    |intentar     | to try
-original  | palu    |jugar        | to play
+spanish   | jocu    |jugar        | to play
 french    | liru    |leer         | to read
 english   | razu    |levantar     | to get up/raise
 french    | arvu    |llegar       | to arrive

@@ -63,7 +63,6 @@ Maj enable diminutives using suffix: 'tsa. Whe a noun is using suffix, it change
 Mama => Mamu'tsa
 Tata => Tatu'tsa
 
-
 ## Article
 
 An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to _point out_ or _refer_ nouns or a group of nouns. 
@@ -128,9 +127,9 @@ More: [nouns](nouns.md)
 
 ## Verbs
 
-The verbs have a root of 4 character long and is terminated with "u":
+The verbs have a root of 4 - 5 character long and is terminated with "u":
 
-Rationale: Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 5 to 4. There are plenty of possible combinations that do not sound so bad if we put some work into it.
+Rationale: Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 6 to 4. There are plenty of possible combinations that do not sound so bad if we put some work into it.
 
 **rules:**
 
@@ -153,7 +152,7 @@ spanish   | uscu    |buscar       | to look for
 french    | liru    |leer         | to read
 italian   | orsu    |correr       | to run
 spanish   | pezu    |empezar      | to start
-original  | palu    |jugar        | to play
+spanish   | jocu    |jugar        | to play
 original  | vivu    |vivir        | to be alive 
 
 More: [verbs](verbs.md)

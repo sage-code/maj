@@ -32,9 +32,9 @@ x | maj  | xx | maj          | xx | maj      |
 2 | dua  | 12 | una-tsa+dua  | 20 | dua-tsa  |
 3 | tea  | 13 | una-tsa+tea  | 30 | tea-tsa  |
 4 | qua  | 14 | una-tsa+qua  | 40 | qua-tsa  |
-5 | cea  | 15 | una-tsa+cia  | 50 | cea-tsa  |
+5 | cea  | 15 | una-tsa+cea  | 50 | cea-tsa  |
 6 | sya  | 16 | una-tsa+sya  | 60 | sya-tsa  |
-7 | sha  | 17 | una-tsa+sha  | 70 | sha-tsa  |
+7 | xoa  | 17 | una-tsa+xoa  | 70 | xoa-tsa  |
 8 | oka  | 18 | una-tsa+oka  | 80 | oka-tsa  |
 9 | nia  | 19 | una-tsa+nia  | 90 | nia-tsa  | 
 
@@ -51,7 +51,7 @@ x | maj  | xx | maj          | xx | maj      |
  400 =  qua-suta
  500 =  cea-suta
  600 =  sya-suta
- 700 =  sha-suta
+ 700 =  xoa-suta
  800 =  oka-suta
  900 =  nia-suta
 ```
@@ -76,7 +76,7 @@ x | maj  | xx | maj          | xx | maj      |
  4,000 = qua-ioma
  5,000 = cea-ioma
  6,000 = sya-ioma
- 7,000 = sha-ioma
+ 7,000 = xoa-ioma
  8,000 = oka-ioma
  9,000 = nia-ioma
 ```
@@ -109,10 +109,10 @@ x | maj  | xx | maj          | xx | maj      |
 
 **Binary**
 
-bit | maj      |
+bit | maj      | description
 ----|----------|----------------------
-0/1 | bit      | bit
-8   | bin      | word
+0/1 | bit      | one bit
+8   | bin      | one word
 16  | dubin    | short integer
 32  | cubin    | integer
 64  | okbin    | long integer

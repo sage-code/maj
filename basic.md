@@ -165,9 +165,9 @@ pa      | sometime in the past
 * suva  = often (French souvent)
 * moca  = soon  (Latin mox)
 
-* tu vidu-fu suva ita mi. = you will see me often
-* tu vidu-re alga ita mi. = you can see me sometime
-* yo vidu-pa nuca ita ti. = I have never seen you before
+* tu vidu'fu suva ita mi. = you will see me often
+* tu vidu're alga ita mi. = you can see me sometime
+* yo vidu'pa nuca ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -178,27 +178,37 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **singular conjugation**
 
-* zy palu-re = he is playing right now
-* zy palu-fu = he will play in the future 
-* zy palu-pa = he play some time ago
+* zy jocu're = he is playing right now
+* zy jocu'fu = he will play in the future 
+* zy jocu'pa = he play some time ago
 
 **plural conjugation**
-* ne palu alga = we play sometimes
-* ve palu nuca = you never play
-* ze palu suva = they play often
+* ne jocu alga = we play sometimes
+* ve jocu nuca = you never play
+* ze jocu suva = they play often
 
 ## Verb transformation
 
-You can transform a verb into an attribute using suffix 'sa or 'se.
+You can transform a verb into an attribute using suffix 'sha or 'she.
 
-**rxample
-palu => pala'sa = playful
+**to adjective:**
+
+jocu => joca'sha = playful
+jocu => joca'she = playful
 
 
 **So far:**
-* yo sera pala'sha = I'm playful
-* tu sera pala'sha = you are playful 
-* zy sera pala'sha = he, it or she is playful
+* yo seru joca'sha = I'm playful
+* tu seru joca'sha = you are playful 
+* zy seru joca'sha = he is playful
+
+**to noun:**
+
+Use termination "ora" for singular, "ore" for plural.
+
+* yo seru 
+
+* 
 
 ## Locations
 
@@ -247,17 +257,17 @@ Examples:
 Preposition "ud" can be used for location:
 
 **short form**
-* ud tu andu-re? = where you going?
-* ud tu venu-re? = where you coming from?
-* ud tu seru-re? = where are you from?
+* ud tu andu're? = where you going?
+* ud tu venu're? = where you coming from?
+* ud tu seru're? = where are you from?
     
 **longer form**    
-* ud seru la loca qe tu palu-re? = where is the place you are plaing?
-* ud seru la loca qe ne andu-re? = where is the place we  are going?
+* ud seru la loca qe tu jocu're? = where is the place you are plaing?
+* ud seru la loca qe ne andu're? = where is the place we  are going?
 
 **expressions**
   
 * da uda   la uda?      = from where to where!
 * da cia   la dea!      = from here to there!
-* da locta qe tu picu!  = from where you like!
+* da loca  qe tu picu!  = from where you like!
 
