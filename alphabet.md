@@ -265,11 +265,11 @@ Letters and sounds are more or less expensive to make. This can be used to give 
 
 Cost   |Sounds
 -------|-------------------------------
-  1    |a, e, y, o, u         
-  2    |i, l, m, n, j, h, w 
-  3    |b, c, d, p, t, q, k
-  4    |f, s, v, j, r, g, x 
-  6    |ts, sh, ch
+  1    |a, e, o, u, y
+  2    |l, m, n, h, i 
+  3    |b, c, d, p, t, q 
+  4    |f, s, v, j, r, g, k, x, z, w 
+  5    |ts, sh, ch, ce, ci, ge, gi
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
