@@ -10,14 +10,18 @@ malo = wrong / bad
 
 You can give greetings to one person or to everyone:
 
-Adverbs from Spanish:
+Adverbs borrowed from Spanish:
 
-todo  = everyone
-algo  = somebody
+**used**
+todo  = everyone / everything
+algo  = somebody / something
+nado  = nobody   / nothing
+
+**not used**
 alga  = something
-nado  = nobody
 nada  = nothing
-nuca  = never
+nuxo  = never
+moxo  = soon
 
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
@@ -33,7 +37,7 @@ vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediam
 
 * helo ita todo  = hello everyone
 * vale ita todo  = goodbye everyone
-* vidu ita moca  = see you soon
+* vidu ita moxo  = see you soon
 
 **note:** Some form of salut have multiple meanings
 

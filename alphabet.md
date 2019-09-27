@@ -31,43 +31,32 @@ Reading the alphabet is different from other Romantic Languages:
 * The above rule is active only when a consonant letter is standing alone,
 * In English alphabet you add an open sound "e" after consonants, not like in Maj.
 
+* Sound `a`  is open  vowel, like `a` in "car",
+* Sound `y`  is close vowel like `a` follow by `r` in "spare"
+* Sound `i`  is close vowel, like first `i` in "initial"
+* Sound `e`  is close mid, like `e`  in "melon",
+* Sound `j`  is trilled, similar to sound `si` in "fusion",
+* Sound `s`  is fricative alveolar like `s` in "snake",
+* Sound `z`  is trilled similar to `z` in "zoo",
+* Sound `r`  is trilled similar to `rr` in "Africa",
+* Sound `v`  is trilled like `v` in "vehicle",
+* Sound `g`  is plosive uvular like `g` in "gees", "guitar", "get"
+* Sound `k`  is fricative `c` like `k` in "sky",
+* Sound `x`  is fricative post-alveolar `sh` in "she" or `sh` in "fashion",
+* Sound `w`  is voiced labial-velar like `w in "whiskey".
+
 **Notation**
 
-Next I will try to use: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
+I have try to use: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
 notation to represent special Maj sounds.
 
 **modified letters**
 
-Most letters sound like ISO latin alphabet from English but some letters are modified to realize a reach pronunciation that is specific to original Latin and Romantinco languages like: Italian, Franch and Romanian.
+Most letters sound like ISO Latin alphabet from English but some letters are modified to realize a reach pronunciation that is specific to original Latin and Romantinco languages like: Italian, Franch and Romanian.
 
-**With ipa notation**
-```
-i  y   e   j   k   g   x
-ɘ  y   e   ʒ   c   ɢ   ʃ 
-```
-
-**With Romanian notation**
-
-```
-i  y  e  j   g   k   x 
-â  i  e  ge  G   c   ş 
-```
-
-* Sound `a`  is open  vowel, like `a` in "car",
-* Sound `i`  is middle vowel like "eo" from "pitgeon",
-* Sound `y`  is close vowel, like "i" in "play", "yes",
-* Sound `e`  is close mid, similar to "e"  in "melon",
-* Sound `j`  is trilled, similar to sound "si" in "fusion",
-* Sound `s`  is fricative alveolar like "s" in "snake",
-* Sound `z`  is trilled similar to `z` in "zoo",
-* Sound `r`  is trilled similar to "rr" in "Africa",
-* Sound `v`  is trilled like "v" in "vehicle",
-* Sound `j`  is post-alveolar affricate like "ge"  in "generator",
-* Sound `g`  is plosive uvular like "g" in "gees", "guitar", "get"
-* Sound `k`  is fricative "ch" like "k" in "back", "sky",
-* Sound `x`  is fricative post-alveolar "sh" in "she".
-* Sound `w`  is voiced labial-velar like "w" in "whiskey".
-* Sound `x`  is not `cs` like in English but `sh` = `ʃ`
+* `x` is not `cs` as in other Romanic languages but `ʃ` that is like `sh` in English,
+* `k` is only used when follow by `e` or `i` otherwise you use `c` like in English,
+* `y` is not `i` but is closed `a` like `io` in "fashion".
 
 **Trilled R**
 
@@ -81,26 +70,25 @@ Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce th
 
 Some sounds are created using two letters that produce a different sound than the two combined letters. 
 
-maj| romanian  | phonetic(*)  
----|-----------|--------------
-sh | ş         | ʃ 
-ts | ţi        | t͡si         
-tz | ţe        | t͡se         
-ch | ce, ci    | t͡ɕ  
-ce | cei,      | t͡ɕ  
-ci | cia,      | t͡ɕ  
-ge | ge        | dʒe 
-gi | gi        | dʒi
+maj| romanian | phonetic(*)  
+---|----------|--------------
+sh | ş        | ʃ 
+ts | ţ        | t͡s
+tz | ţ        | t͡s
+ch | ce, ci   | t͡ɕ  
+ce | ce       | t͡ɕe  
+ci | ci       | t͡ɕi  
+ge | ge       | dʒe 
+gi | gi       | dʒi
 
 
 **notes:**
 
-* sound "sh"  is like "s"   in "she" (also "x" is pronounced "sh")
-* sound "ge"  is like "ge"  in "generator",
-* sound "gi"  is like "gi"  in "gin",
-* sound "sh"  is like "sh"  in "she" or "ti" in "addiction" or "ss" in "passion"
-* sound "ch"  is like "ch"  in "cheese", "peach" or "speech"
-* sound "ts"  and "tz" are similar to "z" in German "zuruck = back"
+* sound "sh"  is `ʃ`   like `s`   in "she" 
+* sound "ge"  is `dʒe` like `ge`  in "generator",
+* sound "gi"  is `dʒi` like `gi`  in "gin",
+* sound "ch"  is `t͡ɕ` like `ch`  in "cheese", "peach" or "speech"
+* sound "ts"  is `t͡s` like `z`   in German "zuruck"
 
 ## Not used
 
@@ -125,17 +113,17 @@ Maj do not use cedilla found in other Languages:
 
 **Q** 
 
-* is similar to q from Latin alphabet, can be follow by "e", "i" to prevent sound "ch",
-* Q is used in questions: qe, qi and some words from Latin like "aqua"
+* is similar to q from Latin alphabet, can be follow by "ue", "ui",
+* Q is used in questions: que, qui and some words from Latin like "aqua"
 
 **X**
-* In Maj, X is pronounced like in Chinese: "ʃ" and is replacement for "sh",
-* The romanic  X is converted into"cs" when we create the words.
+* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for "sh",
+* The romantic X is converted into"cs" to avoid `ʃ` pronunciation.
 
 
 **K**
 * K and Q are pronounced almost the same,
-* K is used in "kilo" and to replacing group "cc".
+* K is used to avoid whistle sound when followed by `e` or `i`.
 
 
 **note:**
@@ -150,7 +138,7 @@ Q is not present in following alphabets:
 ## Vowels
 
 Maj has 6 vowels: { a e i o u y } 
-One semivowel: { w }
+One semivowel: { w } 
 
 ## Consonants
 
@@ -200,18 +188,19 @@ Two vowels combined together into one are called diphthongs
 
 x |a  |e  |i  |o  |u | y  
 --|---|---|---|---|--|--
-a | · |ae |ai |ao |au|ay  
-e |ea | · |ei |eo |eu|ey  
+a | · |ae |ai |ao |au| ·  
+e |ea | · |ei |eo |eu| ·  
 i |ia |ie | · |io |iu|iy  
-o |oa |oe |oi | · |ou|oy  
+o |oa |oe |oi | · |ou| ·  
 u |ua |ue |ui |uo | ·|uy 
-y |ya |ye |yi |yo |yu| .  
-w |wa |we |wi |wo |wu|wy 
+y | · | · |yi | · |yu| .  
+w |wa |we |wi |wo | ·|wy 
 
 **notes**
 
 * One letter is never duplicated in Maj,
-* W is used only at beginning of words.
+* W is used only at beginning of words,
+* Combinations difficult to pronounce are excluded.
 
 ## Syllable
 
@@ -265,10 +254,10 @@ Letters and sounds are more or less expensive to make. This can be used to give 
 
 Cost   |Sounds
 -------|-------------------------------
-  1    |a, e, o, u, y
-  2    |l, m, n, h, i 
-  3    |b, c, d, p, t, q 
-  4    |f, s, v, j, r, g, k, x, z, w 
+  1    |a, e, i, o, u
+  2    |l, m, n, h, y
+  3    |b, c, d, p, t, q, f, s 
+  4    |v, j, g, k, x, z, r, w 
   5    |ts, sh, ch, ce, ci, ge, gi
 
 **calculation**  

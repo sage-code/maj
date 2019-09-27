@@ -48,17 +48,17 @@ Femyna| women              | femeie
 
 **rules**
 
-1. some nouns can change termination from "a" to "e" to become plural,
+1. nouns with "a" coda can change it into "e" to become plural,
 
 ```
-uve = grapes      (invariant plural)
-uva = grape seed  (singular may be translated different in different languages)
+uva   -> uve = grape / grape seed 
+manza -> manse = apple / apples
 ```
 
 2. for distinguish between male and female creatures we use adjectives: 
 
-* maso    = male    (latin: masculum)
-* femo    = female  (latin: feminam)
+* maso  = male    (latin: masculum)
+* femo  = female  (latin: feminam)
 
 ```
 maso canya  = dog male
@@ -71,18 +71,18 @@ femo canya  = dog female
 
 ## Diminutives
 
-Maj enable diminutives using suffix: 'tsa. Whe a noun is using suffix, it changes last letter from "a" to "u", making the word more easy to pronounce. Name of persons can not support diminutives.
+Maj enable diminutives using suffix: 'uca. Whe a noun is uses suffix, it looses letter "a" that is replaced by apostroph, making the word short and easy to pronounce. Proper nouns (names of places or persons) do not support diminutives.
 
 **examples**
 
 ```
-Mamu'tsa  = mommy
-Tatu'tsa  = daddy
+Mam'uca  = mommy
+Tat'uca  = daddy
 ```
 
 ```
-maso canyu'tsa  = dogy male
-femo canyu'tsa  = dogy female
+maso cany'uca  = dogy male
+femo cany'uca  = dogy female
 ```
 
 ## Article
