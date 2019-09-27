@@ -34,7 +34,7 @@ x | maj  | xx | maj          | xx | maj      |
 5 | cia  | 15 | una-tsa+cia  | 50 | cia-tsa  |
 6 | sea  | 16 | una-tsa+sea  | 60 | sea-tsa  |
 7 | xoa  | 17 | una-tsa+xoa  | 70 | xoa-tsa  |
-8 | xoa  | 18 | una-tsa+xoa  | 80 | xoa-tsa  |
+8 | oca  | 18 | una-tsa+oca  | 80 | oca-tsa  |
 9 | nia  | 19 | una-tsa+nia  | 90 | nia-tsa  | 
 
 ## Level 2
@@ -114,7 +114,7 @@ bit | maj      | description
 8   | bin      | one word
 16  | dubin    | short integer
 32  | cubin    | integer
-64  | okbin    | long integer
+64  | ocbin    | long integer
 
 ## Counting:
 
