@@ -97,3 +97,6 @@ Language elements are designed in separated documents you can read one by one in
 
 **Read more:** 
 [The use cases](case.md)
+
+**Community:**
+[discord invitation](https://discord.gg/SRX3tse)
