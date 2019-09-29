@@ -5,15 +5,15 @@ In Maj a word have a root and a final vocal or consonant called "coda".
 
 **classes*
 
-Most words are bi-syllabic or tree-syllabic
+Most words are bi-syllabic, some words are bi-syllabic and some are tree-syllabic.
 
 * Nouns are finalized with "a" or "e" or consonant
 * Adjectives are finalized with "o"
-* Verbs are finalized in suffix "re", "fu", "pa", "so"
-* Adverbs can not be finalized with: {"o" or "e"}
-* Prepositions are monosyllabic, and can terminate with any letter.
+* Verbs are finalized in "u" + suffix "re", "fu", "pa", "so"
+* Adverbs are finalized with a consonant
+* Prepositions are just monosyllabic, and do not have coda.
 
-There are no other parts of propositions. Any word will fall into one of these.
+There are no other parts of propositions. Any word will fall into one of these categories.
 
 ## Nouns
 

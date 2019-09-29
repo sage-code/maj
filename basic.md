@@ -17,12 +17,6 @@ todo  = everyone / everything
 algo  = somebody / something
 nado  = nobody   / nothing
 
-**not used**
-alga  = something
-nada  = nothing
-nuxo  = never
-moxo  = soon
-
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ------|----------|------------|------------|-----------|-------------|----------
@@ -62,8 +56,7 @@ or  | or      | alternative
 et  | and     | conjunctive
 si  | if      | conditional
 es  | is      | short form of verb = seru
-ka  | like    | comparative preposition
-en  | in      | belong to, is in list
+ca  | like    | comparative preposition
 
 **symbols**
 
@@ -79,15 +72,16 @@ Interrogation is created with { ci, ce, co } from Italian: {chi, che, como}
  
 maj   | english  | spanish | romanian
 ------|----------|---------|---------
-qi?   | who?     | que     | cine
-qe?   | what?    | qué     | ce
-qo?   | how?     | como    | cumi
-ud?   | where?   | donde   | unde
+qui?  | who?     | que     | cine
+que?  | what?    | qué     | ce
+quo?  | how?     | como    | cumi
+udo?  | where?   | donde   | unde
+uta?  | when?    | cuando  | când
       
-* qi seru?  = who is ?
-* qe mocu?  = what are you eating ?
-* qo bebu?  = how is your drink ?
-* ud seru?  = where are you?
+* qui seru?  = who is ?
+* que mocu?  = what are you eating ?
+* quo bebu?  = how is your drink ?
+* udo seru?  = where are you?
 
 ## Articles
 
@@ -95,8 +89,8 @@ The article do not alter a word, just underline the value of the word in sentenc
      
 singular    | plural
 ------------|-------------
-yta = this  | yte = these
-ysa = that  | yse = those
+ita = this  | ite = these
+isa = that  | ise = those
 
 ## Pronoun
 
@@ -104,10 +98,10 @@ Is a word that can function by itself as a noun phrase and that refers either to
 
 singular    | plural
 ------------|-----------------------------
-yo = I      | ne  = we
+io = I      | ne  = we
 tu = you    | ve  = you*
 zy = he/she | ze  = they
-yt = it     | yte = these, yse = those
+it = it     | ite = these, ise = those
 
 * English has translation only for plural: tu, ve = you
 * The "ete" and "ese" are actually determinant articles.
@@ -170,7 +164,7 @@ pa      | sometime in the past
 
 * tu vidu'fu suvo ita mi. = you will see me often
 * tu vidu're algo ita mi. = you can see me sometime
-* yo vidu'pa nuco ita ti. = I have never seen you before
+* io vidu'pa nuco ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -194,8 +188,8 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 You can transform a verb into an attribute using suffix 'sha or 'she.
 
-* xa for singular
-* xe for plural
+* sha for singular
+* she for plural
 
 **to adjective:**
 
@@ -204,7 +198,7 @@ jocu => jocu'she = playful
 
 
 **So far:**
-* yo seru joca'sha = I'm playful
+* io seru joca'sha = I'm playful
 * tu seru joca'sha = you are playful 
 * zy seru joca'sha = he is playful
 
@@ -212,12 +206,12 @@ jocu => jocu'she = playful
 
 Use termination "ora" for singular, "ore" for plural.
 
-* yo seru'pa una juca'ora = I was a player
+* io seru'pa una juca'ora = I was a player
 * ne seru'fu juca'ore     = we will be players
 
 ## Locations
 
-* Locations are so important in Maj.
+* Locations are very important in Maj.
 * Common locations are nouns so they are terminated in "a".
 
 loca = location (noun)
@@ -231,7 +225,7 @@ veta | west      | oeste
       
 ## Preposition
 
-Location prepositions are 3 character long:
+Location prepositions are 2 - 3 character long:
 
 maj	| english	|spanish  | origin
 ----| ----------|---------|---------
@@ -241,38 +235,37 @@ abo	| above	    |encima   | German
 unt	| under	    |debajo   | German
 sus	| up	    |arriba   | Romanian
 jos	| down	    |abajo    | Romanian
-
+hir | here      |         | English
+der | there     |         | English  
       
 ## Directions
 
-These three directions are si important prepositions:
+These three directions are very important prepositions:
 
 Maj   | English | German | Romanian | Franch  | Spanish
 ------|---------|--------|----------|---------|---------
 de    | from    | fon    | de       | de      | de
 la    | to      | zu     | la       | vers    | para
-en    | in      | in     | în       | en      | en
-
-**Exception:** Some prepositions are 2 character long    
+in    | in      | in     | în       | en      | en
   
 Examples:
 
 ## Interrogative
 
-Preposition "ud" can be used for location:
+Preposition "udo" can be used for questions about location:
 
 **short form**
-* ud tu andu're? = where you going?
-* ud tu venu're? = where you coming from?
-* ud tu seru're? = where are you from?
+* udo tu andu're? = where you going?
+* udo tu venu're? = where you coming from?
+* udo tu seru're? = where are you from?
     
 **longer form**    
-* ud seru la loca qe tu jocu're? = where is the place you are plaing?
-* ud seru la loca qe ne andu're? = where is the place we  are going?
+* udo seru la loca que tu jocu're? = where is the place you are plaing?
+* udo seru la loca que ne andu're? = where is the place we  are going?
 
 **expressions**
   
-* da uda   la uda?      = from where to where!
-* da cia   la dea!      = from here to there!
-* da loca  qe tu picu!  = from where you like!
+* da udo   la udo?      = from where to where!
+* da hir   la der!      = from here to there!
+* da loca  que tu picu!  = from where you like!
 

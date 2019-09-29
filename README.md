@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an constructed language for chat, games and AI applications:
+Maj is language for chat, games and AI applications:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Maj is an constructed language for chat, games and AI applications:
 ------------------------------------------------------------------------------------------------
 Basic rules for new language:
 
-1. one single letter do not represent anything else but itself,
-1. one single letter is pronounced always the same,
+1. one letter do not represent anything else but itself,
+1. one letter is pronounced always the same,
 1. one word must have a single meaning and is context free,
 1. numerals are unique and familiar,
 1. punctuation symbols can be read as words.
@@ -27,7 +27,8 @@ Basic rules for new language:
 1. Maj has short words,
 1. Maj do not have intonation,
 1. Maj do not use diacritics,
-1. Maj words are invariant.
+1. Maj words are invariant,
+1. Maj words can stand alone.
 
 **Punctuation:**
 ------------------------------------------------------------------------------------------------

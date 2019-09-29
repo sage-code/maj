@@ -27,7 +27,7 @@ There are 26 letters in Maj alphabet.
 Reading the alphabet is different from other Romantic Languages:
 
 * Vouls are read like in Latin ISO alphabet,
-* You can add a short "ɘ" sound after consonants like "eo" from "pitgeon",
+* You can add a short "ɨ" sound after consonants like "eo" from "pitgeon",
 * The above rule is active only when a consonant letter is standing alone,
 * In English alphabet you add an open sound "e" after consonants, not like in Maj.
 
@@ -77,7 +77,10 @@ ts | ţ        | t͡s
 tz | ţ        | t͡s
 ch | ce, ci   | t͡ɕ  
 ce | ce       | t͡ɕe  
-ci | ci       | t͡ɕi  
+ci | ci       | t͡ɕi 
+co | ceo      | t͡ɕo
+cu | ciu      | t͡ɕu 
+cy | ciă      | t͡ɕə
 ge | ge       | dʒe 
 gi | gi       | dʒi
 
@@ -104,7 +107,7 @@ Maj do not use cedilla found in other Languages:
 
 ## Rarely used: 
 
-{W, Q, X, K}
+{W, Q, X, Y, K}
 
 
 **W**
@@ -113,18 +116,28 @@ Maj do not use cedilla found in other Languages:
 
 **Q** 
 
-* is similar to q from Latin alphabet, can be follow by "ue", "ui",
-* Q is used in questions: que, qui and some words from Latin like "aqua"
+* is similar to `q` from Latin alphabet, can be follow by `ue`, `ui`,
+* `q` is used used to avoid whistle sound instead of `ce` and `ci`
+* `q` is used in questions: que, qui and some words from Latin like "aqua"
 
 **X**
 * In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for "sh",
 * The romantic X is converted into"cs" to avoid `ʃ` pronunciation.
 
+**Y**
+* `y` is pronounced as `ə` like last `a` in "chocolate".
+* `y` at the beginning of words is still pronounced "I".
 
 **K**
-* K and Q are pronounced almost the same,
-* K is used to avoid whistle sound when followed by `e` or `i`.
+* `k` and `q` are pronounced almost the same, `q` is softer,
+* `k` is used to avoid group `cc`, it is replaced by `kc`,
+* `k` is used used to avoid whistling sound instead of `co`, `cu`, `cy`
 
+**examples**
+
+* word `accident` can be `akcida` 
+* word `cocos` can be `kokos`
+* word `chocolate` can be `cokla` or `cokle`
 
 **note:**
 
@@ -253,12 +266,12 @@ A syllable ...:
 Letters and sounds are more or less expensive to make. This can be used to give a Const for complexity of a word. So less expensive words can be learned faster. Gradualy we can introduce more more complex words for advanced speakers.
 
 Cost   |Sounds
--------|-------------------------------
+-------|----------------------------------------
   1    |a, e, i, o, u
   2    |l, m, n, h, y
   3    |b, c, d, p, t, q, f, s 
   4    |v, j, g, k, x, z, r, w 
-  5    |ts, sh, ch, ce, ci, ge, gi
+  5    |ts, sh, ch, ce, ci, co, cu, cy, ge, gi
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
