@@ -17,9 +17,11 @@ Maj can be used on chat. It has specifics for describing computer languages and 
 
 Maj can be spoken in public but Nobody will understand you. especially if you are in China, Russia or Africa, but if you are on America or Australia or Europe some words could look familiar to some people.
 
+Maj is designed to be learn quickly and effortless. It is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all.
+
 # but how
 
-We shorten the words and we reduce cost of pronunciation. So then Maj become faster and more efficient. is not for children, but is designed to be learn quick and effortless. It is for many software developers from many countries to be able to work together ina a team on software projects even if they do not know English at all.
+We shorten the words to reduce cost of pronunciation. So Maj can be faster and efficient. 
 
 **design:**
 
@@ -54,7 +56,7 @@ a constructed language can have good use-cases.
 
 **as a product**
 
-once the language is stabilized it can be usable for:
+once the language is established it can be usable for:
 
 * for making video games,
 * for making fantastic movies,
