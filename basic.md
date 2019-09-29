@@ -50,8 +50,8 @@ vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediam
 
 Maj | English | Description
 ----|---------|------------------------------------
-da  | yea     | affirmative
-nu  | ney     | negative 
+ia  | yes     | affirmative
+no  | no      | negative 
 or  | or      | alternative
 et  | and     | conjunctive
 si  | if      | conditional
@@ -64,7 +64,7 @@ When used in text some symbols are read out loud:
 
 * symbol `+` is read et
 * symbol `/` is read or
-* symbol `:` is read cu (used for pair-up or time)
+* symbol `:` is read con (used for pair-up or time)
 
 **Interrogative:**
 
@@ -79,7 +79,7 @@ udo?  | where?   | donde   | unde
 uta?  | when?    | cuando  | când
       
 * qui seru?  = who is ?
-* que mocu?  = what are you eating ?
+* que magu?  = what are you eating ?
 * quo bebu?  = how is your drink ?
 * udo seru?  = where are you?
 
@@ -96,15 +96,16 @@ isa = that  | ise = those
 
 Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
-singular    | plural
-------------|-----------------------------
-io = I      | ne  = we
-tu = you    | ve  = you*
-zy = he/she | ze  = they
-it = it     | ite = these, ise = those
+singular       | plural
+---------------|-----------------------------
+jo, mi = I     | ne  = we
+tu, ti = you   | ve  = you*
+zi = he        | ze  = they
+xi = she       | ite = these
+it = it        | ise = those
 
 * English has translation only for plural: tu, ve = you
-* The "ete" and "ese" are actually determinant articles.
+* The ite and ise are actually determinant articles.
 
 **Possessive**
 
@@ -112,8 +113,8 @@ haru = to have
 
 singular        | plural
 ----------------|--------------------------------
-mya = mine      | nos = ours
-tya = yours     | vos = yours
+mia = mine      | nos = ours
+tia = yours     | vos = yours
 zea = his/hers  | zos = theirs
 
 **Notes:**
@@ -163,7 +164,7 @@ pa      | sometime in the past
 
 * tu vidu'fu suvo ita mi. = you will see me often
 * tu vidu're algo ita mi. = you can see me sometime
-* io vidu'pa nuco ita ti. = I have never seen you before
+* jo vidu'pa nuco ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -174,9 +175,9 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **singular conjugation**
 
-* zy jocu're = he is playing right now
-* zy jocu'fu = he will play in the future 
-* zy jocu'pa = he play some time ago
+* zi jocu're = he is playing right now
+* zi jocu'fu = he will play in the future 
+* zi jocu'pa = he play some time ago
 
 **plural conjugation**
 * ne jocu algo = we play sometimes
@@ -185,28 +186,26 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 ## Verb transformation
 
-You can transform a verb into an attribute using suffix 'sha or 'she.
+You can transform a verb into an attribute using suffix 'xa
 
 * sha for singular
 * she for plural
 
 **to adjective:**
 
-jocu => jocu'sha = playful
-jocu => jocu'she = playful
-
+jocu => jocu'xa = playful
 
 **So far:**
-* io seru joca'sha = I'm playful
-* tu seru joca'sha = you are playful 
-* zy seru joca'sha = he is playful
+* jo seru jocu'xa = I'm playful
+* tu seru jocu'xa = you are playful 
+* zi seru jocu'xa = he is playful
 
 **to noun:**
 
-Use termination "ora" for singular, "ore" for plural.
+Use termination "sa" to make a noun.
 
-* io seru'pa una juca'ora = I was a player
-* ne seru'fu juca'ore     = we will be players
+* jo seru'pa una jocu'sa = I was a player
+* ne seru'fu jocu'sa     = we will be players
 
 ## Locations
 

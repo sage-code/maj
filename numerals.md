@@ -23,7 +23,7 @@ x | maj  | xx | maj          | xx | maj      |
 1 | una  | 11 | un'tsa+una   | 10 | un'tsa   |
 2 | dua  | 12 | un'tsa+dua   | 20 | du'tsa   |
 3 | tea  | 13 | un'tsa+tea   | 30 | te'tsa   |
-4 | qua  | 14 | un'tsa+qua   | 40 | qu'tsa   |
+4 | cua  | 14 | un'tsa+cua   | 40 | cu'tsa   |
 5 | cia  | 15 | un'tsa+cia   | 50 | ci'tsa   |
 6 | sea  | 16 | un'tsa+sea   | 60 | se'tsa   |
 7 | xoa  | 17 | un'tsa+xoa   | 70 | xo'tsa   |
@@ -40,7 +40,7 @@ x | maj  | xx | maj          | xx | maj      |
  100 =  una-suta
  200 =  dua-suta
  300 =  tea-suta
- 400 =  qua-suta
+ 400 =  cua-suta
  500 =  cia-suta
  600 =  sea-suta
  700 =  xoa-suta
@@ -65,7 +65,7 @@ x | maj  | xx | maj          | xx | maj      |
  1,000 = una-ioma
  2,000 = dua-ioma
  3,000 = tea-ioma
- 4,000 = qua-ioma
+ 4,000 = cua-ioma
  5,000 = cia-ioma
  6,000 = sea-ioma
  7,000 = xoa-ioma
