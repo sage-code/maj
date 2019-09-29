@@ -1,6 +1,6 @@
 # Maj
 
-Maj is language for chat, games and AI applications:
+Maj is an artificial language for chat and games:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
@@ -22,19 +22,19 @@ Basic rules for new language:
 
 1. Maj is not for encryption,
 1. Maj is not for poetry,
+1. Maj is not a secret language,
 1. Maj is not for education,
-1. Maj will avoid synonyms,
-1. Maj has short words,
+1. Maj is not an auxiliary language,
 1. Maj do not have intonation,
-1. Maj do not use diacritics,
-1. Maj words are invariant,
-1. Maj words can stand alone.
+1. Maj do not have synonyms,
+1. Maj words have a single meaning.
+
 
 **Punctuation:**
 ------------------------------------------------------------------------------------------------
 1. A word that start with uppercase represent a person or animals or a robot or an AI device,
-1. A thing that can not talk or move or do anything but exist has a name starting with lowercase,
-1. A interrogative sentences start with prepositions: "qi,qe,qu,ud" and end with a question mark,
+1. A thing that can not talk or move or do anything cab have a name that is starting with lowercase,
+1. A interrogative sentences start with prepositions: "qi,qe,qu,ud,ut" and end with a question mark,
 1. A imperative sentence end with exclamation mark, wile a declarative sentence with "."
 1. Dialog is mark with bullet point "*" and end with ";","?" or "!",
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent,
