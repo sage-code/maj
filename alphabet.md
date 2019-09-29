@@ -24,6 +24,17 @@ There are 26 letters in Maj alphabet.
 
 ## Pronunciation
 
+```
+-------------------------------------------------------
+a    b   c   d    e   f   g   h   i   j   K   l  m
+a    b   c   d    e   f   ɢ   h   j   ʒ   k   l  m
+-------------------------------------------------------
+n    o   p   q    r   s   t   u   v   x   y   z  w
+n    o   p   q    r   s   t   u   v   ʃ   ə   z  u
+-------------------------------------------------------
+```
+
+
 Reading the alphabet is different from other Romantic Languages:
 
 * Vouls are read like in Latin ISO alphabet,
@@ -31,19 +42,20 @@ Reading the alphabet is different from other Romantic Languages:
 * The above rule is active only when a consonant letter is standing alone,
 * In English alphabet you add an open sound "e" after consonants, not like in Maj.
 
-* Sound `a`  is open  vowel, like `a` in "car",
-* Sound `y`  is close vowel like `a` follow by `r` in "spare"
-* Sound `i`  is close vowel, like first `i` in "initial"
-* Sound `e`  is close mid, like `e`  in "melon",
-* Sound `j`  is trilled, similar to sound `si` in "fusion",
-* Sound `s`  is fricative alveolar like `s` in "snake",
-* Sound `z`  is trilled similar to `z` in "zoo",
-* Sound `r`  is trilled similar to `rr` in "Africa",
-* Sound `v`  is trilled like `v` in "vehicle",
-* Sound `g`  is plosive uvular like `g` in "gees", "guitar", "get"
-* Sound `k`  is fricative `c` like `k` in "sky",
-* Sound `x`  is fricative post-alveolar `sh` in "she" or `sh` in "fashion",
-* Sound `w`  is voiced labial-velar like `w in "whiskey".
+* Sound  `a`  is open  vowel, like `a` in "car",
+* Sound  `y`  is close vowel like `a` follow by `r` in "spare"
+* Sound  `i`  is close vowel, like first `i` in "initial"
+* Sound  `e`  is close mid, like `e`  in "melon",
+* Symbol `e`  is occasional pronounced `i` in names,
+* Sound  `j`  is trilled, similar to sound `si` in "fusion",
+* Sound  `s`  is fricative alveolar like `s` in "snake",
+* Sound  `z`  is trilled similar to `z` in "zoo",
+* Sound  `r`  is trilled similar to `rr` in "Africa",
+* Sound  `v`  is trilled like `v` in "vehicle",
+* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get"
+* Sound  `k`  is fricative `c` like `k` in "sky",
+* Sound  `x`  is fricative post-alveolar `sh` in "she" or `sh` in "fashion",
+* Sound  `w`  is voiced labial-velar like `w in "whiskey".
 
 **Notation**
 
@@ -54,9 +66,8 @@ notation to represent special Maj sounds.
 
 Most letters sound like ISO Latin alphabet from English but some letters are modified to realize a reach pronunciation that is specific to original Latin and Romantinco languages like: Italian, Franch and Romanian.
 
-* `x` is not `cs` as in other Romanic languages but `ʃ` that is like `sh` in English,
-* `k` is only used when follow by `e` or `i` otherwise you use `c` like in English,
-* `y` is not `i` but is closed `a` like `io` in "fashion".
+* `x` is `ʃ` that is like `sh` in "fashion".
+* `y` is `ə` close `a` like `io` in "fashion".
 
 **Trilled R**
 
@@ -75,20 +86,13 @@ maj| romanian | phonetic(*)
 sh | ş        | ʃ 
 ts | ţ        | t͡s
 tz | ţ        | t͡s
-ch | ce, ci   | t͡ɕ  
-ce | ce       | t͡ɕe  
-ci | ci       | t͡ɕi 
-ge | ge       | dʒe 
-gi | gi       | dʒi
-
-
+ch | ce, ci   | t͡ʃ
+   
 **notes:**
 
 * sound "sh"  is `ʃ`   like `s`   in "she" 
-* sound "ge"  is `dʒe` like `ge`  in "generator",
-* sound "gi"  is `dʒi` like `gi`  in "gin",
-* sound "ch"  is `t͡ɕ` like `ch`  in "cheese", "peach" or "speech"
 * sound "ts"  is `t͡s` like `z`   in German "zuruck"
+* sound "ch"  is `t͡ɕ` like `ch`  in "cheese", "peach" or "speech"
 
 ## Not used
 
@@ -115,7 +119,7 @@ Maj do not use cedilla found in other Languages:
 
 * is similar to `q` from Latin alphabet, can be follow by `ue`, `ui`,
 * `q` is used used to avoid whistle sound instead of `ce` and `ci`
-* `q` is used in questions: que, qui and some words from Latin like "aqua"
+* `q` is used in questions: `que`, `qui` and some words from Latin like "aqua"
 
 **X**
 * In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for "sh",
@@ -123,12 +127,11 @@ Maj do not use cedilla found in other Languages:
 
 **Y**
 * `y` is pronounced as `ə` like last `a` in "chocolate".
-* `y` at the beginning of words is still pronounced "I".
+* `y` at the beginning of words is pronounced "Y" like in New York.
 
 **K**
 * `k` and `q` are pronounced almost the same, `q` is softer,
-* `k` is used to avoid group `cc`, it is replaced by `kc`,
-* `k` is used used to avoid whistling sound instead of `co`, `cu`, `cy`
+* `k` is used to avoid group `cc`, it can be replaced by `kc`
 
 **examples**
 

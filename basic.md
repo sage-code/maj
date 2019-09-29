@@ -115,7 +115,8 @@ singular        | plural
 ----------------|--------------------------------
 mia = mine      | nos = ours
 tia = yours     | vos = yours
-zea = his/hers  | zos = theirs
+zia = his       | zos = theirs
+xia = hers      | 
 
 **Notes:**
 

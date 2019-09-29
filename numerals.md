@@ -15,46 +15,46 @@ All numerals are created from base of 3 letters.
 * Two numbers are composite using apostrophe 
 * Two numerals are combined using `et` symbol `+`
 
-**Then = tsa**
+**Then = sua**
 
-x | maj  | xx | maj          | xx | maj      |
---|------|----|--------------|----|----------|
-0 | nul  | 10 | un'tsa       | 00 | nu'tsa   |
-1 | una  | 11 | un'tsa+una   | 10 | un'tsa   |
-2 | dua  | 12 | un'tsa+dua   | 20 | du'tsa   |
-3 | tea  | 13 | un'tsa+tea   | 30 | te'tsa   |
-4 | cua  | 14 | un'tsa+cua   | 40 | cu'tsa   |
-5 | cia  | 15 | un'tsa+cia   | 50 | ci'tsa   |
-6 | sea  | 16 | un'tsa+sea   | 60 | se'tsa   |
-7 | xoa  | 17 | un'tsa+xoa   | 70 | xo'tsa   |
-8 | oca  | 18 | un'tsa+oca   | 80 | oc'tsa   |
-9 | nia  | 19 | un'tsa+nia   | 90 | ni'tsa   | 
+x | maj  | xx | maj           | xx | maj     |
+--|------|----|---------------|----|---------|
+0 | nul  | 10 | sua'nul       |    |         |
+1 | una  | 11 | sua'una       | 10 | un'sua  |
+2 | dua  | 12 | sua'dua       | 20 | du'sua  |
+3 | tea  | 13 | sua'tea       | 30 | te'sua  |
+4 | cua  | 14 | sua'cua       | 40 | cu'sua  |
+5 | pea  | 15 | sua'pea       | 50 | pe'sua  |
+6 | sea  | 16 | sua'sea       | 60 | se'sua  |
+7 | xoa  | 17 | sua'xoa       | 70 | xo'sua  |
+8 | oca  | 18 | sua'oca       | 80 | oc'sua  |
+9 | nia  | 19 | sua'nia       | 90 | ni'sua  | 
 
 ## Level 2
 
-**Hundreds = suta**
+**Hundreds = huta**
 
-00 =  suta
+00 =  huta
 
 ```
- 100 =  una-suta
- 200 =  dua-suta
- 300 =  tea-suta
- 400 =  cua-suta
- 500 =  cia-suta
- 600 =  sea-suta
- 700 =  xoa-suta
- 800 =  oca-suta
- 900 =  nia-suta
+ 100 =  un'huta
+ 200 =  du'huta
+ 300 =  te'huta
+ 400 =  ku'huta
+ 500 =  pe'huta
+ 600 =  se'huta
+ 700 =  xo'huta
+ 800 =  ok'huta
+ 900 =  ni'huta
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = una-suta+du'tsa+cia
- 555 = cia-suta+ci'tsa+cia
- 801 = xoa-suta+nu'tsa+una
+ 125 = un'huta+du'sua+pea
+ 555 = pe'huta+pe'sua+pea
+ 801 = oc'huta+una
 ```
 
 **Thousands = ioma**
@@ -62,15 +62,15 @@ x | maj  | xx | maj          | xx | maj      |
 000 = ioma
 
 ``` 
- 1,000 = una-ioma
- 2,000 = dua-ioma
- 3,000 = tea-ioma
- 4,000 = cua-ioma
- 5,000 = cia-ioma
- 6,000 = sea-ioma
- 7,000 = xoa-ioma
- 8,000 = oca-ioma
- 9,000 = nia-ioma
+ 1,000 = un'ioma
+ 2,000 = du'ioma
+ 3,000 = te'ioma
+ 4,000 = ku'ioma
+ 5,000 = pe'ioma
+ 6,000 = se'ioma
+ 7,000 = xo'ioma
+ 8,000 = ok'ioma
+ 9,000 = ni'ioma
 ```
 
 **Millions  = mila**
@@ -78,11 +78,11 @@ x | maj  | xx | maj          | xx | maj      |
 000,000 = mila
 
 ```
-1,000.000 = una-mila
-2,000.000 = sua-mila
-3,000.000 = tea-mila
+1,000.000 = un'mila
+2,000.000 = su'mila
+3,000.000 = te'mila
 ...
-9,000.000 = nia-mila
+9,000.000 = ni'mila
 ```
 
 **Billions = bila**
@@ -90,11 +90,11 @@ x | maj  | xx | maj          | xx | maj      |
 000.000.000   = bila
 
 ```
-1,000,000.000 = una-bila
-2,000,000.000 = doa-bila
-5,000,000.000 = cia-bila
+1,000,000.000 = un'bila
+2,000,000.000 = do'bila
+5,000,000.000 = pe'bila
 ...
-9,000,000.000 = nia-bila
+9,000,000.000 = ni'bila
 ```
 
 ## Level 3
@@ -105,9 +105,9 @@ bit | maj      | description
 ----|----------|----------------------
 0/1 | bit      | one bit
 8   | bin      | one word
-16  | dubin    | short integer
-32  | cubin    | integer
-64  | ocbin    | long integer
+16  | du'bin   | short integer
+32  | cu'bin   | integer
+64  | oc'bin   | long integer
 
 ## Counting:
 
