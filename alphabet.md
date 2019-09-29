@@ -78,9 +78,6 @@ tz | ţ        | t͡s
 ch | ce, ci   | t͡ɕ  
 ce | ce       | t͡ɕe  
 ci | ci       | t͡ɕi 
-co | ceo      | t͡ɕo
-cu | ciu      | t͡ɕu 
-cy | ciă      | t͡ɕə
 ge | ge       | dʒe 
 gi | gi       | dʒi
 

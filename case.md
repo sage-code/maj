@@ -23,20 +23,24 @@ We shorten the words and we reduce cost of pronunciation. So then Maj become fas
 
 **design:**
 
-* we re-purpose some redundant letters: { J, K, Q, X },
+* we re-purpose some redundant letters: { K, Q, X, Y },
 * we do not use cedilla and weird letters found in Franch, Romanian or German,
 * we try to make the language very articulate and less annoying,
 * we create strong and simple grammar rules to reduce complexity,
-* we optimize the language using programming algorithms.
+* we try to find best match for word to be short and easy to pronounce,
+* for Maj we will create short words, 
+* for Maj we will have a reduced vocabulary under 1000 words.
 
 **rules:**
 
 * maj do not use "s" rule for plural: { English, Spanish, French } 
 * maj is using "e" rule to make plural like in: { Italian, Romanian };
-* we use suffix for main word elements: adjective, verbs, nouns;
-* we use fixed length words, determined by average frequency of word category;
+* we use a suffix for word elements: adjective, adverb, verbs, nouns;
+* we use short words, determined by average frequency of word category;
 * we use invariant forms of nouns and verbs. there are no irregular verbs;
-* we eliminate synonyms the best we can and we prefer one meaning for one word.
+* we eliminate synonyms the best we can and we prefer one meaning for one word;
+* word pronunciation is original to Maj and do not follow the origin of word.
+
 
 # but why
 
@@ -53,11 +57,9 @@ a constructed language can have good use-cases.
 once the language is stabilized it can be usable for:
 
 * for making video games,
-* for making movies with aliens that do not speak Earth,
-* for chat with friends that do not speak English,
-* for teaching other languages, science or other skills,
-* for storing world knowledge and wisdom,
-* for making translation between languages,
+* for making fantastic movies,
+* for chat with friends,
+* for storing knowledge and wisdom,
 * for making computer thinking AI.
 
 the last use-case is actually the most valuable of all. we think usually in a language. it takes decades to master a language until you can use it to make rational thinking. having an efficient language will enable you to think better when making AI for computers.
@@ -65,8 +67,6 @@ the last use-case is actually the most valuable of all. we think usually in a la
 # For peace
 
 Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and soul purity. this will influence you in a good way make you a better person.
-
-reducing the time necessary to learn new thing, and storing these thing more efficient in your memory you can be much more useful to yourself and to society surrounding you. you can explain better your feelings and Thoth to your friends or students in case you are a teacher.
 
 # For making
 
