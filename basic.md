@@ -109,7 +109,6 @@ it = it     | ite = these, ise = those
 **Possessive**
 
 haru = to have
-ha   = short form of haru.
 
 singular        | plural
 ----------------|--------------------------------

@@ -14,7 +14,9 @@ sa se si so su
 ta te ti to tu
 va ve vi vo vu
 za ze zi zo zu
-
+xa xe xi xo xu
+qa qe qi qo qu
+ka ke ki ko ku
 
 ~ka ke ki ko ku~
 ~xa xe xi xo xu~

@@ -6,36 +6,29 @@ Verb: "cotu" = counting
 
 All numerals are created from base of 3 letters.
 
-
-1. only "zero" numeral start with a vowel "act",
-1. even number are ending with "t"  "eva, evas" = "even",
-1. odd numbers are ending with "n"  "oda, odas" = "odd",
-1. first letter is derived from alphabet, a < b ... < z,
-1. for hundreds "00" we use "act" + "ea" suffix => "actea",
-1. for 10..90 you could use long form "bin-act" or short form  "binea"
-1. for hundreds, thousands, millions and billions we use "e" suffix.
-
 ## Level 1
 
 **Note** 
 
 * Numerals to not have genre, past or future
-* Termination "e" is representing plural 
+* The numbers do not have plural form
+* Two numbers are composite using apostrophe 
+* Two numerals are combined using `et` symbol `+`
 
 **Then = tsa**
 
 x | maj  | xx | maj          | xx | maj      |
 --|------|----|--------------|----|----------|
-0 | nul  | 10 | una-tsa      | 00 | nul-tsa  |
-1 | una  | 11 | una-tsa+una  | 10 | una-tsa  |
-2 | dua  | 12 | una-tsa+dua  | 20 | dua-tsa  |
-3 | tea  | 13 | una-tsa+tea  | 30 | tea-tsa  |
-4 | qua  | 14 | una-tsa+qua  | 40 | qua-tsa  |
-5 | cia  | 15 | una-tsa+cia  | 50 | cia-tsa  |
-6 | sea  | 16 | una-tsa+sea  | 60 | sea-tsa  |
-7 | xoa  | 17 | una-tsa+xoa  | 70 | xoa-tsa  |
-8 | oca  | 18 | una-tsa+oca  | 80 | oca-tsa  |
-9 | nia  | 19 | una-tsa+nia  | 90 | nia-tsa  | 
+0 | nul  | 10 | un'tsa       | 00 | nu'tsa   |
+1 | una  | 11 | un'tsa+una   | 10 | un'tsa   |
+2 | dua  | 12 | un'tsa+dua   | 20 | du'tsa   |
+3 | tea  | 13 | un'tsa+tea   | 30 | te'tsa   |
+4 | qua  | 14 | un'tsa+qua   | 40 | qu'tsa   |
+5 | cia  | 15 | un'tsa+cia   | 50 | ci'tsa   |
+6 | sea  | 16 | un'tsa+sea   | 60 | se'tsa   |
+7 | xoa  | 17 | un'tsa+xoa   | 70 | xo'tsa   |
+8 | oca  | 18 | un'tsa+oca   | 80 | oc'tsa   |
+9 | nia  | 19 | un'tsa+nia   | 90 | ni'tsa   | 
 
 ## Level 2
 
@@ -51,7 +44,7 @@ x | maj  | xx | maj          | xx | maj      |
  500 =  cia-suta
  600 =  sea-suta
  700 =  xoa-suta
- 800 =  xoa-suta
+ 800 =  oca-suta
  900 =  nia-suta
 ```
 
@@ -59,9 +52,9 @@ x | maj  | xx | maj          | xx | maj      |
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = una-suta+dua-tsa+chn
- 555 = cia-suta+cia-tsa+tsa
- 801 = xoa-suta+nul-tza+una
+ 125 = una-suta+du'tsa+cia
+ 555 = cia-suta+ci'tsa+cia
+ 801 = xoa-suta+nu'tsa+una
 ```
 
 **Thousands = ioma**
@@ -76,7 +69,7 @@ x | maj  | xx | maj          | xx | maj      |
  5,000 = cia-ioma
  6,000 = sea-ioma
  7,000 = xoa-ioma
- 8,000 = xoa-ioma
+ 8,000 = oca-ioma
  9,000 = nia-ioma
 ```
 
