@@ -75,7 +75,7 @@ R is a difficult letter of the Maj language. It is like double "rr" in English. 
 
 **Trilled J**
 
-Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must try to produce "h" and a fricative "s" with the middle of your tongue touching the mouth roof. The best symbol for this sound is "ʒ".
+Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ".
 
 * Digraphs
 
@@ -85,14 +85,19 @@ maj| romanian | phonetic(*)
 ---|----------|--------------
 sh | ş        | ʃ 
 ts | ţ        | t͡s
-tz | ţ        | t͡s
-ch | ce, ci   | t͡ʃ
-   
+ce | ce       | t͡ʃe
+ci | ci       | t͡ʃi
+ge | ge       | dʒe 
+gi | gi       | dʒi
+  
 **notes:**
 
-* sound "sh"  is `ʃ`   like `s`   in "she" 
-* sound "ts"  is `t͡s` like `z`   in German "zuruck"
-* sound "ch"  is `t͡ɕ` like `ch`  in "cheese", "peach" or "speech"
+* sound "sh"  is `ʃ`     like `s`   in "she" 
+* sound "ts"  is `t͡s`   like `z`   in German "zuruck"
+* sound "ce"  is `t͡ʃe`  like `ch`  in "cheese", 
+* sound "ci"  is `t͡ʃi`  like `ch`  in "peach" or "speech"
+* sound "ge"  is `dʒe`   like `ge`  in "generator"
+* sound "gi"  is `dʒi`   like `gi`  in "giraffe"
 
 ## Not used
 
@@ -118,12 +123,11 @@ Maj do not use cedilla found in other Languages:
 **Q** 
 
 * is similar to `q` from Latin alphabet, can be follow by `ue`, `ui`,
-* `q` is used used to avoid whistle sound instead of `ce` and `ci`
-* `q` is used in questions: `que`, `qui` and some words from Latin like "aqua"
+* letter `q` is used in questions: `que`, `qui` and some words from Latin like "aqua"
 
 **X**
 * In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for "sh",
-* The romantic X is converted into"cs" to avoid `ʃ` pronunciation.
+* The romantic X is converted into"cs" when is the case to avoid `ʃ` pronunciation.
 
 **Y**
 * `y` is pronounced as `ə` like last `a` in "chocolate".
@@ -131,7 +135,7 @@ Maj do not use cedilla found in other Languages:
 
 **K**
 * `k` and `q` are pronounced almost the same, `q` is softer,
-* `k` is used to avoid group `cc`, it can be replaced by `kc`
+* `k` is used to avoid group `cc`, it can be replaced by `ck`
 
 **examples**
 
@@ -271,7 +275,9 @@ Cost   |Sounds
   2    |l, m, n, h, y
   3    |b, c, d, p, t, q, f, s 
   4    |v, j, g, k, x, z, r, w 
-  5    |ts, sh, ch, ce, ci, co, cu, cy, ge, gi
+  5    |ts, ce, ci 
+
+With 30 distinct sounds, you must admit that Maj is very simple language. 
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.

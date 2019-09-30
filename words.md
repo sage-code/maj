@@ -1,15 +1,18 @@
 # Classification of words
 
 
-In Maj a word have a root and a final vocal or consonant called "coda".
+In Maj a word have a root. To this root you can add a prefix and a suffix.
 
-**classes*
+After prefix you use a dash `-` to connect with the root.
+After root you can use apostrophe to connect with a suffix.
 
-Most words are bi-syllabic, some words are bi-syllabic and some are tree-syllabic.
+**word role*
 
-* Nouns are finalized with "a" or "e" or consonant
-* Adjectives are finalized with "o"
-* Verbs are finalized in "u" + suffix "re", "fu", "pa", "so"
+A word can have a specialized role in a sentence. 
+
+* Nouns are finalized with {"a","o","e"} or consonant
+* Adjectives are finalized with suffix "sa"
+* Verbs are finalized with suffix "re", "fu", "pa", "so"
 * Adverbs are finalized with a consonant
 * Prepositions are just monosyllabic, and do not have coda.
 
@@ -17,25 +20,24 @@ There are no other parts of propositions. Any word will fall into one of these c
 
 ## Nouns
 
-Person nouns are starting with uppercase.
+Nouns representing persons are starting with uppercase letter.
 
-maj   | english            | romanian
-------|--------------------|-----------------
-Mama  | mother             | mama
-Tata  | father             | tata
-Lola  | baby sitter        | ingrijitoare
-Nana  | grand mother       | bunica
-Sona  | grand father       | bunicu
-Efera | nurse              | doctorita
-Docta | doctor             | doctor
-Homyna| men                | bărbat
-Femyna| women              | femeie
-
+Maj   | English        | Romanian
+------|----------------|-----------------
+Mama  | mother         | mama
+Tata  | father         | tata
+Lola  | baby sitter    | ingrijitoare
+Loro  | worker         | ingrijitor
+Nana  | grand mother   | bunica
+Naso  | grand father   | bunicu
+Efera | nurse          | doctorita
+Docto | doctor         | doctor
+Homo  | men            | bărbat
+Fema  | women          | femeie
 
 **notes:** 
 
-* Nouns have variable length from 3 up to 7 character long
-* Nouns are are ending with "a" for singular, "e" plural
+* Nouns have variable length from 1 up to 3 syllables long
 * Nouns representing leaving beings are starting with uppercase,
 * Person names are written with all capital letters,
 
@@ -48,7 +50,10 @@ Femyna| women              | femeie
 
 **rules**
 
-1. nouns with "a" coda can change it into "e" to become plural,
+1. nouns terminated with "a" are feminine,
+1. nouns terminated with "o" are masculine,
+1. nouns terminated with "e" are genderless,
+1. only persons and animals can have gender.
 
 ```
 uva   -> uve = grape / grape seed 
@@ -58,11 +63,11 @@ manza -> manse = apple / apples
 2. for distinguish between male and female creatures we use adjectives: 
 
 * maso  = male    (latin: masculum)
-* femo  = female  (latin: feminam)
+* fema  = female  (latin: feminam)
 
 ```
-maso canya  = dog male
-femo canya  = dog female
+maso canyo  = dog male
+fema canya  = dog female
 ```
 
 **extra**
@@ -71,7 +76,7 @@ femo canya  = dog female
 
 ## Diminutives
 
-Maj enable diminutives using suffix: 'uca. Whe a noun is uses suffix, it looses letter "a" that is replaced by apostroph, making the word short and easy to pronounce. Proper nouns (names of places or persons) do not support diminutives.
+Maj enable diminutives using suffix: 'uca. Whe a noun is uses suffix, it looses letter "a" that is replaced by apostrophe, making the word short and easy to pronounce. Proper nouns (names of places or persons) do not support diminutives.
 
 **examples**
 
@@ -95,6 +100,7 @@ There are two different types of articles: definite and indefinite articles.
 
 singular     | plural
 -------------|-------------
+ica = the    | ice = the (many)
 ita = this   | ite = these
 isa = that   | ise = those
 
@@ -120,6 +126,17 @@ In Maj, this situation is resolved by using numeral "one" as article.
 * one Mercedes ...TODO
 * one event    ...TODO 
 
+**Numeral Articles**
+The numeral article specify exactly how many or quantity of a thing.
+
+oru = any
+omi = every
+alu = all
+mot = many
+poc = few
+van = several
+som = some 
+non = none
 
 **Article Usage**
 

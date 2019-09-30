@@ -6,7 +6,7 @@ Maj is an artificial language for chat and games:
 ------------------------------------------------------------------------------------------------
 1. Articulated,
 2. Efficient, 
-3. Easy to learn.
+3. Easy to type.
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
@@ -22,27 +22,32 @@ Basic rules for new language:
 
 1. Maj is not for encryption,
 1. Maj is not for poetry,
+1. Maj is not for writing books,
 1. Maj is not a secret language,
 1. Maj is not for education,
 1. Maj is not an auxiliary language,
+1. Maj is not a superior language,
+1. Maj is not an academic language,
 1. Maj do not have intonation,
 1. Maj do not have synonyms,
+1. Maj do not have a polite form,
 1. Maj words have a single meaning.
 
 
 **Punctuation:**
 ------------------------------------------------------------------------------------------------
 1. A word that start with uppercase represent a person or animals or a robot or an AI device,
-1. A thing that can not talk or move or do anything cab have a name that is starting with lowercase,
-1. A interrogative sentences start with prepositions: "qi,qe,qu,ud,ut" and end with a question mark,
-1. A imperative sentence end with exclamation mark, wile a declarative sentence with "."
+1. A word for a thing that can not talk or move or do anything start with lowercase,
+1. A interrogative sentences can start with a preposition and end with a question mark,
+1. A imperative sentence end with exclamation mark, while a declarative sentence with "."
 1. Dialog is mark with bullet point "*" and end with ";","?" or "!",
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent,
 1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44},
 1. An enumeration of numbers is enclosed in square brackets [1,24,3],
-1. You can use decimal numbers and math symbols only in parenthesis, otherwise you must quote them
+1. You can use decimal numbers and math symbols only in round parenthesis, otherwise you must quote them,
 1. You can use double quotes like: "no" to suggest this is representing a foreign word,
-1. You can use single apostrophe symbol: `'` to alter a word meaning.
+1. You can use single apostrophe symbol: `'` to add a suffix to a word,
+1. You can use dash "-" to concatenate a prefix to a root to create a composite word,
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code.
 
 
@@ -60,7 +65,8 @@ Basic rules for new language:
 1. Symbol `#` is header, `##` sub-header (enlarged font);
 1. Commented text HTML notation: <!-- .... --> is supported;
 1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
-1. Use \`\`\` to create a block of code, that is tipical to wiki notation.
+1. Use \`\`\` to create a block of code, that is typical to wiki notation;
+1. Use triple back-quotes for inclusion of any foreign language text; 
 
 
 ## Constructing

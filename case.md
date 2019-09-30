@@ -25,24 +25,19 @@ We shorten the words to reduce cost of pronunciation. So Maj can be faster and e
 
 **design:**
 
-* we re-purpose some redundant letters: { K, Q, X, Y },
-* we do not use cedilla and weird letters found in Franch, Romanian or German,
-* we try to make the language very articulate and less annoying,
-* we create strong and simple grammar rules to reduce complexity,
-* we try to find best match for word to be short and easy to pronounce,
-* for Maj we will create short words, 
-* for Maj we will have a reduced vocabulary under 1000 words.
+* Maj re-purpose some redundant letters: { K, Q, X, Y },
+* Maj do not use cedilla letters: Franch, Romanian or German,
+* Maj try to use root words and avoid composite long words,
+* Maj try to find best word roots, short and easy to pronounce,
+* Maj create strong and simple grammar rules to reduce complexity,
+* Maj will have a reduced vocabulary under 1000 root words.
 
 **rules:**
 
-* maj do not use "s" rule for plural: { English, Spanish, French } 
-* maj is using "e" rule to make plural like in: { Italian, Romanian };
-* we use a suffix for word elements: adjective, adverb, verbs, nouns;
-* we use short words, determined by average frequency of word category;
-* we use invariant forms of nouns and verbs. there are no irregular verbs;
-* we eliminate synonyms the best we can and we prefer one meaning for one word;
-* word pronunciation is original to Maj and do not follow the origin of word.
-
+* Maj can use prefixes and suffixes to make a new word from a root word,
+* Maj use invariant root words for nouns and regular verbs,
+* Maj eliminate synonyms and prefer to use one single meaning for each root word,
+* Maj most frequent words are shorter than less popular words,
 
 # but why
 
