@@ -4,18 +4,14 @@ Maj is using: [ISO Basic Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic
 
 **uppercase**
 ```
--------------------------------------------------
 A   B   C   D   E   F   G   H   I   J   K   L   M
 N   O   P   Q   R   S   T   U   V   X   Y   Z   W
--------------------------------------------------
 ```
 
 **lowercase**
 ```
--------------------------------------------------
 a   b   c   d   e   f   g   h   i   j   K   l   m
 n   o   p   q   r   s   t   u   v   x   y   z   w
---------------------------------------------------
 ```
 
 **Notes**
@@ -27,7 +23,7 @@ There are 26 letters in Maj alphabet.
 ```
 -------------------------------------------------------
 a    b   c   d    e   f   g   h   i   j   K   l  m
-a    b   c   d    e   f   ɢ   h   j   ʒ   k   l  m
+a    b   c   d    e   f   ɢ   h   i   ʒ   k   l  m
 -------------------------------------------------------
 n    o   p   q    r   s   t   u   v   x   y   z  w
 n    o   p   q    r   s   t   u   v   ʃ   ə   z  u
@@ -38,9 +34,9 @@ n    o   p   q    r   s   t   u   v   ʃ   ə   z  u
 Reading the alphabet is different from other Romantic Languages:
 
 * Vouls are read like in Latin ISO alphabet,
-* You can add a short "ɨ" sound after consonants like "eo" from "pitgeon",
+* You can add a short `ɨ` sound after consonants like "eo" from "pitgeon",
 * The above rule is active only when a consonant letter is standing alone,
-* In English alphabet you add an open sound "e" after consonants, not like in Maj.
+* In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`.
 
 * Sound  `a`  is open  vowel, like `a` in "car",
 * Sound  `y`  is close vowel like `a` follow by `r` in "spare"
@@ -62,13 +58,6 @@ Reading the alphabet is different from other Romantic Languages:
 I have try to use: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
 notation to represent special Maj sounds.
 
-**modified letters**
-
-Most letters sound like ISO Latin alphabet from English but some letters are modified to realize a reach pronunciation that is specific to original Latin and Romantinco languages like: Italian, Franch and Romanian.
-
-* `x` is `ʃ` that is like `sh` in "fashion".
-* `y` is `ə` close `a` like `io` in "fashion".
-
 **Trilled R**
 
 R is a difficult letter of the Maj language. It is like double "rr" in English. To make the trilled R, your tongue is relaxed and the tip of the tongue taps the roof of the mouth once or several times.
@@ -77,7 +66,7 @@ R is a difficult letter of the Maj language. It is like double "rr" in English. 
 
 Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ".
 
-* Digraphs
+## Digraphs
 
 Some sounds are created using two letters that produce a different sound than the two combined letters. 
 
@@ -89,19 +78,50 @@ ce | ce       | t͡ʃe
 ci | ci       | t͡ʃi
 ge | ge       | dʒe 
 gi | gi       | dʒi
-  
+gh | ghe, chi | ɢe, gi
+ch | che, chi | ke, ki
+ay | ă        | ə
+ey | â, î     | ɨ
+
+   
 **notes:**
 
-* sound "sh"  is `ʃ`     like `s`   in "she" 
-* sound "ts"  is `t͡s`   like `z`   in German "zuruck"
-* sound "ce"  is `t͡ʃe`  like `ch`  in "cheese", 
-* sound "ci"  is `t͡ʃi`  like `ch`  in "peach" or "speech"
-* sound "ge"  is `dʒe`   like `ge`  in "generator"
-* sound "gi"  is `dʒi`   like `gi`  in "giraffe"
+* sound `sh`  is `ʃ`     like `s`   in "she" 
+* sound `ts`  is `t͡s`   like `t's` in "let's", "cats"
+* sound `ce`  is `t͡ʃe`  like `ch`  in "chase"
+* sound `ci`  is `t͡ʃi`  like `ch`  in "peach" or "speech"
+* sound `ge`  is `dʒe`   like `ge`  in "generator"
+* sound `gi`  is `dʒi`   like `gi`  in "giraffe"
+* sound `gh`  is `ɢ`     like `ge`  in "gees"
+* sound `ay`  is `ə`     like `io`  in "fashion"
+* sound `ey`  is `ɨ`     like `eo`  in "pigeon"   
+
+## Silent letter `h`
+
+* Letter `h` is not voiced when is following a consonant,
+* It is used to prevent digraph formation in groups "che", "chi",
+
+**Examples**
+
+If we were to use Maj alphabet we could write English words like this:
+
+she       => xe
+generator => generetayr
+fusion    => fujayn
+guitar    => ghitar
+gees      => ghis
+cheese    => ciz
+accident  => akciday 
+chocolate => cioclayt
+peach     => pici
+speech    => spici
+initial   => inixayl  
+fashion   => faxayn
+pigeon    => pigeyn
 
 ## Not used
 
-Maj do not use cedilla found in other Languages:
+Though elegant and useful in other Languages, Maj do not use cedilla:
 
 * { î â ă ö ü é è ç ş ţ ...}
 
@@ -113,8 +133,7 @@ Maj do not use cedilla found in other Languages:
 
 ## Rarely used: 
 
-{W, Q, X, Y, K}
-
+{W, Q, K, X, Y}
 
 **W**
 * can be present only at beginning of words: for example: "whiskey".
@@ -126,22 +145,18 @@ Maj do not use cedilla found in other Languages:
 * letter `q` is used in questions: `que`, `qui` and some words from Latin like "aqua"
 
 **X**
-* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for "sh",
-* The romantic X is converted into"cs" when is the case to avoid `ʃ` pronunciation.
+* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for English: `sh`,
+* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation.
 
 **Y**
-* `y` is pronounced as `ə` like last `a` in "chocolate".
 * `y` at the beginning of words is pronounced "Y" like in New York.
+* `ay` is pronounced as `ə` like `a`  in "chocolate"
+* `ey` is pronounced as `ɨ` like `eo` in "pigeon"   
 
 **K**
 * `k` and `q` are pronounced almost the same, `q` is softer,
-* `k` is used to avoid group `cc`, it can be replaced by `ck`
-
-**examples**
-
-* word `accident` can be `akcida` 
-* word `cocos` can be `kokos`
-* word `chocolate` can be `cokla` or `cokle`
+* `k` is used to avoid supplicate group `cc`, it is replaced by `ck`
+* `k` can be used to prevent formation of diphthongs `ce` and `ci`
 
 **note:**
 
@@ -151,11 +166,6 @@ Q is not present in following alphabets:
 * Irish, Latvian, Lithuanian, 
 * Polish, Serbo-Croatian, Scottish Gaelic, 
 * Slovenian, Turkish, or Welsh. 
-
-## Vowels
-
-Maj has 6 vowels: { a e i o u y } 
-One semivowel: { w } 
 
 ## Consonants
 
@@ -167,17 +177,9 @@ Not all consonants are equal. Maj is dividing consonants in 4 categories:
 * labial  :  l, r
 * fricative: f, s, c, h, q, x
 
-**combination:** 
+**combinations**
 
-Some CC combinations can produce a different sound (digraphs):
-
-* "ts" is a single sound: ţ 
-* "sh" is a single sound: ş 
-* "ch" is a whistled sound like "Ch" in "Chicago"
-
-Other two consonants can be pronounced together but some restrictions apply:
-
-* is not allowed to have two plosive constants together
+* a single letter is never duplicated,
 * combinations that can not be pronounced are not used
 
 **Examples**
@@ -189,13 +191,18 @@ cl cm cn cr cs ct cv cz
 dl dj dm dr dv gr tl tm tr 
 pl pr ps pt  
 mf mn mp ms mz
-nb nc nd nf ng nh nj nl nm np nq ns nt nv nz
+nb nc nd nf ng nh nj nl nm nq ns nt nv nz
 lb lc ld lf lg lj lm ln lp lq ls lt lv lz
 rb rc rd rf rg rh rl rm rn rq rp rs rt rz
 fl fr ft fj
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
-zq 
+ 
+
+## Vowels
+
+Maj has 6 vowels: { a e i o u y } 
+One semivowel: { w } 
 
 ## Diphthong
 
@@ -205,19 +212,12 @@ Two vowels combined together into one are called diphthongs
 
 x |a  |e  |i  |o  |u | y  
 --|---|---|---|---|--|--
-a | · |ae |ai |ao |au| ·  
-e |ea | · |ei |eo |eu| ·  
-i |ia |ie | · |io |iu|iy  
-o |oa |oe |oi | · |ou| ·  
-u |ua |ue |ui |uo | ·|uy 
-y | · | · |yi | · |yu| .  
-w |wa |we |wi |wo | ·|wy 
-
-**notes**
-
-* One letter is never duplicated in Maj,
-* W is used only at beginning of words,
-* Combinations difficult to pronounce are excluded.
+a | · |ae |ai |ao |au|ay
+e |ea | · |ei |eo |eu|ey  
+i |ia |ie | · |io |iu| ·  
+o |oa |oe |oi | · |ou| ·
+u |ua |ue |ui |uo | ·| · 
+w |wa |we |wi |wo |wu| . 
 
 ## Syllable
 
@@ -246,7 +246,6 @@ medial   ::= {h s} present in digraphs
 nucleus + coda
 nucleus  ::= V | CV
 coda     ::= C | CC
-# 
 ```
 
 **Description:**
@@ -261,21 +260,21 @@ A syllable ...:
 ## Word connectivity
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
-2. Diphtongs, starting with semi-vocals can be used at beginning of words: { y j l }
+2. Diphtongs, starting with semi-vocals can be used at beginning of words: { y w }
 3. Syllable that have "coda" present are used only for end of words,
-4. Composite words using two words must be separated by dash: "bon-acta"
+4. Composite words using two words must be separated by apostrophe: `'`
 
 # Complexity
 
-Letters and sounds are more or less expensive to make. This can be used to give a Const for complexity of a word. So less expensive words can be learned faster. Gradualy we can introduce more more complex words for advanced speakers.
+Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster. Gradualy one can assimilate more more complex words.
 
 Cost   |Sounds
 -------|----------------------------------------
   1    |a, e, i, o, u
-  2    |l, m, n, h, y
+  2    |l, m, n, h, y, ai,  ei  
   3    |b, c, d, p, t, q, f, s 
   4    |v, j, g, k, x, z, r, w 
-  5    |ts, ce, ci 
+  5    |ts, ce, ci, 
 
 With 30 distinct sounds, you must admit that Maj is very simple language. 
 
