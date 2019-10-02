@@ -69,21 +69,21 @@ When used in text some symbols are read out loud:
 
 **Interrogative:**
 
-Interrogation is created with { ci, ce, co } from Italian: {chi, che, como}
+Interrogation is created with { qui, que, quo }:
  
-maj   | english  | spanish | romanian
-------|----------|---------|---------
-qui?  | who?     | que     | cine
-que?  | what?    | qué     | ce
-quo?  | how?     | como    | cumi
-ubi?  | where?   | donde   | unde
-uta?  | when?    | cuando  | când
-      
-* qui seru'pa?  = who was ?
+maj     | english  | spanish | romanian
+--------|----------|---------|---------
+qui     | who?     | quien   | cine
+que     | what?    | qué     | ce
+quo     | how?     | como    | cum
+
+**using verb**
+
+Most questions are using verbs:
+
+* qui seru're?  = who is ?
 * que magu're?  = what are you eating ?
-* quo bebu're?  = how is your drink ?
-* ubi seru're?  = where are you?
-* uta magu'fu?  = when are we going to eat?
+* quo bebu'pa?  = how was your drink ?   
 
 ## Articles
 
@@ -241,8 +241,8 @@ abo	| above	    |encima   | German
 unt	| under	    |debajo   | German
 sus	| up	    |arriba   | Romanian
 jos	| down	    |abajo    | Romanian
-hir | here      |         | English
-der | there     |         | English  
+hir | here      |aqui     | English
+der | there     |ahi      | English  
       
 ## Directions
 
@@ -271,7 +271,7 @@ Preposition "ubi" can be used for questions about location:
 
 **expressions**
   
-* da ubi   la ubi?      = from where to where!
-* da hir   la der!      = from here to there!
-* da loca  que tu picu!  = from where you like!
+* de ubi la ubi? = from where to where!
+* de hir la der! = from here to there!
+* de loca que tu picu!  = from where you like!
 

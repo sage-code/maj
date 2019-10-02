@@ -23,10 +23,10 @@ There are 26 letters in Maj alphabet.
 ```
 ---------------------------------------------------
 a    b   c   d   e   f   g   h   i   j   K   l  m
-a    b   c   d   e   f   ɢ   h   i   ʒ   k   l  m
+a    b   c   d   e   f  dʒ   h   i   ʒ   k   l  m
 ---------------------------------------------------
 n    o   p   q   r   s   t   u   v   x   y   z  w
-n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
+n    o   p   ɢ   r   s   t   u   v   ʃ   ə   z  u
 ---------------------------------------------------
 ```
 
@@ -39,19 +39,19 @@ Reading the alphabet is different from other Romantic Languages:
 * In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`.
 
 * Sound  `a`  is open  vowel, like `a` in "car",
-* Sound  `y`  is close vowel like `io` in "fashion"
 * Sound  `i`  is close vowel, like first `i` in "initial"
 * Sound  `e`  is close mid, like `e`  in "melon",
-* Symbol `e`  is occasional pronounced `i` in names,
+* Sound  `y`  is close vowel like `io` in "fashion" in the middle of words
 * Sound  `j`  is trilled, similar to sound `si` in "fusion",
 * Sound  `s`  is fricative alveolar like `s` in "snake",
 * Sound  `z`  is trilled similar to `z` in "zoo",
 * Sound  `r`  is trilled similar to `rr` in "Africa",
 * Sound  `v`  is trilled like `v` in "vehicle",
-* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get"
+* Sound  `g`  is trilled like `ge`  in "generator"
+* Sound  `q`  is plosive uvular like `g` in "gees", "guitar", "get"
 * Sound  `k`  is fricative `c` like `k` in "sky",
-* Sound  `x`  is fricative post-alveolar `sh` in "she" or `sh` in "fashion",
-* Sound  `w`  is voiced labial-velar like `w in "whiskey".
+* Sound  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion",
+* Sound  `w`  is voiced labial-velar like `w in "whiskey",
 
 **Notation**
 
@@ -66,46 +66,43 @@ R is a difficult letter of the Maj language. It is like double "rr" in English. 
 
 Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ".
 
+**Whistled C**
+
+Letter "C", "c" is whistled when followed by a vowel. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative "ch". The best symbol for this sound is "t͡ʃ"
+
+**Trilled G**
+
+Leter "G", "g" is trilled when followed by a vowel. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative voiced "dje". The best symbol for this sound is "d͡ʒ"
+
+**Fricative Q**
+
+Letter "Q", "q" is followed by a vowel and is pronounced "ɢ". To pronounce this sound you must press the back of your tongue on the back roof and produce a fricative voiced "gu". The best symbol for this sound is "ɢ"
+
+
 ## Digraphs
 
-Some sounds are created using two letters that produce a different sound than the two combined letters. 
+Some sounds are created using two letters creating a new sounds. 
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-sh | ş        | ʃ
+iy | â,  î    | i͡î
+uy | ă        | u͡ə
 ts | ţ        | t͡s
-dj | ge, gi   | dʒ
-ch | ce, ci   | t͡ʃ          
+ch | ch       | t͡ʃ
+sh | sh       | ʃ    
    
 **notes:**
 
-* sound `sh`  is `ʃ`     like `sh`  in "she" 
 * sound `ts`  is `t͡s`   like `t's` in "let's", "cats"
+* sound `ey`  is `e͡ə`   like `io`  in "fusion"
 * sound `ch`  is `t͡ʃ`   like `ch`  in "chase", "peach" or "speech"
+* sound `sh`  is `ʃ`     like `sh`  in "fashion"
 * sound `dj`  is `dʒ`    like `ge`  in "generator"
 
 ## Silent letter `h`
 
 * Letter `h` is not voiced when is following a consonant,
-* It is used to cause digraph formation in groups "sh", "ch"
-
-**Examples**
-
-If we were to use Maj alphabet we could write English words like this:
-
-she       => xe
-generator => jeneretyr
-fusion    => fujyn
-guitar    => gitar
-gees      => gis
-cheese    => chiz
-accident  => akchidynt 
-chocolate => choclyt
-peach     => pich
-speech    => spich
-initial   => inixyl  
-fashion   => faxyn
-pigeon    => pidjyn
+* It is used to force digraph formation in groups "sh", "ch"
 
 ## Not used
 
@@ -119,32 +116,18 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 * New York, Chicago or Washington are acceptable names in Maj.
 * France is accepted but "française" should be translated to "franchez"
 
-## Rarely used: 
+## Modified Letters
 
 {W, Q, K, X, Y}
 
 **W**
 * can be present only at beginning of words: for example: "whiskey".
-* inside or at end of words we always use "u" follow by "i" or "e".
+* inside or at end of words we always use "u" not "w".
 
 **Q** 
 
-* is similar pronounced like `kiu` is some words derived from Latin 
-* must be followed by `u` like in `que`, `qui`, `quo`, `aqua`
-
-**X**
-* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for `sh` in long words,
-* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation.
-
-**Y**
-* `y` at the beginning of words is pronounced "Y" like in New York,
-* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon",
-* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate"
-
-
-**K**
-* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`
-* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`
+* Is similar pronounced like `G` in Latin alphabet,
+* Maj is using `Q` to reduce length of some words: "qitar" instead of "guitar"
 
 **note:**
 
@@ -154,6 +137,40 @@ Q is not present in following alphabets:
 * Irish, Latvian, Lithuanian, 
 * Polish, Serbo-Croatian, Scottish Gaelic, 
 * Slovenian, Turkish, or Welsh. 
+
+**X**
+* In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words,
+* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation.
+
+**Y**
+* `y` at the beginning of words is pronounced "Y" like in New York, yes, yacht
+* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon",
+* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate"
+
+
+**K**
+* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`
+* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`
+
+
+**Examples**
+
+If we were to use Maj alphabet we could write English words like this:
+
+she       => xe
+generator => generetyr
+fusion    => fujyn
+guitar    => qitar
+gees      => qis
+cheese    => ciz
+accident  => akcidynt 
+chocolate => coclyt
+peach     => pici
+speech    => spici
+initial   => inixyl  
+fashion   => faxyn
+pigeon    => pigyn
+yacht     => yaht
 
 ## Consonants
 
@@ -167,7 +184,7 @@ Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
 **combinations**
 
-* a single letter is never duplicated,
+* a single letter is never duplicated in maj,
 * combinations that can not be pronounced are not used
 
 **Examples**
@@ -203,9 +220,8 @@ x |a  |e  |i  |o  |u | y
 a | · |ae |ai |ao |au| ·
 e |ea | · |ei |eo |eu|ey  
 i |ia |ie | · |io |iu|iy
-o |oa |oe |oi | · |ou|oy
+o |oa |oe |oi | · |ou| .
 u |ua |ue |ui |uo | ·|uy 
-w |wa |we |wi |wo | ·| ·
 
 
 ## Syllable
@@ -239,14 +255,21 @@ coda     ::= C | CC
 
 **Description:**
 
-A syllable ...:
+A syllable can ...:
 
-* can start with vowel or consonant
-* can be a single vowel or a diphthong
+* can be a single vowel only at beginning of words
+* can start with one consonant 
 * can have a nucleus formed from one or two vowels
 * can have a coda formed with one or two consonants
+
+A syllable can not ...;
+
+* contain `h` after a consonant
+* contain consonant after `c`
+* contain consonant after `g`
+* contain more then 3 letters
  
-## Word connectivity
+## Word composition
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
 2. Diphtongs, starting with semi-vocals can be used at beginning of words: { y w }
@@ -263,7 +286,6 @@ Cost   |Sounds
   2    |l, m, n, h, y 
   3    |b, c, d, p, t, f, s, q 
   4    |v, j, g, k, x, z, r, w 
-  5    |sh, ch, ts, dj 
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.

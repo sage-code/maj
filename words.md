@@ -99,9 +99,9 @@ femo cyn'uca  = dogy female
 
 Sometimes we use a prefix to create a new word:
 
-* no  - create antonyms
-* po  - specify purpose
-* 
+* no  = not - create antonyms
+* po  = for - specify purpose
+ 
 
 ## Article
 
