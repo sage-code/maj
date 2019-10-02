@@ -1,94 +1,107 @@
 # Classification of words
 
-
-In Maj a word have a root. To this root you can add a prefix and a suffix.
-
-After prefix you use a dash `-` to connect with the root.
-After root you can use apostrophe to connect with a suffix.
-
 **word role*
 
 A word can have a specialized role in a sentence. 
 
-* Nouns are finalized with {"a","o","e"} or consonant
+* Nouns are usually finalized with {"a","u","e"} or consonant
 * Adjectives are finalized with suffix "sa"
 * Verbs are finalized with suffix "re", "fu", "pa", "so"
-* Adverbs are finalized with a consonant
-* Prepositions are just monosyllabic, and do not have coda.
+* Adverbs are usually finalized with vowel "o" or a consonant
+* Prepositions are monosyllabic, and do not have coda.
 
 There are no other parts of propositions. Any word will fall into one of these categories.
 
 ## Nouns
 
-Nouns representing persons are starting with uppercase letter.
-
-Maj   | English        | Romanian
-------|----------------|-----------------
-Mama  | mother         | mama
-Tata  | father         | tata
-Lola  | baby sitter    | ingrijitoare
-Loro  | worker         | ingrijitor
-Nana  | grand mother   | bunica
-Naso  | grand father   | bunicu
-Efera | nurse          | doctorita
-Docto | doctor         | doctor
-Homo  | men            | bărbat
-Fema  | women          | femeie
-
-**notes:** 
-
-* Nouns have variable length from 1 up to 3 syllables long
-* Nouns representing leaving beings are starting with uppercase,
-* Person names are written with all capital letters,
+* Nouns are usually terminated with a vowel,
+* Nouns are usually from 2 up to 3 syllables long,
+* Nouns representing persons are starting with uppercase letter,
+* Names are written with capital letters,
 
 **examples:**
 
 * CHICAGO   = The city of Chicago
 * SANA      = Santa Claus
-* Cimas     = Christmas 
+* Crimys    = Christmas 
 * Maj       = Language Maj
 
-**rules**
+**2 syllables**
 
-1. nouns terminated with "a" are feminine,
-1. nouns terminated with "o" are masculine,
-1. nouns terminated with "e" are genderless,
-1. only persons and animals can have gender.
+Maj     | English        | Romanian
+--------|----------------|-----------------
+Mama    | mother         | mama
+Tata    | father         | tata
+Nana    | grand mother   | bunica
+Naxu    | grand father   | bunicu
+Homo    | men            | bărbat
+Femo    | women          | femeie
 
-```
-uva   -> uve = grape / grape seed 
-manza -> manse = apple / apples
-```
+**3 syllables**
 
-2. for distinguish between male and female creatures we use adjectives: 
+Maj     | English        | Romanian
+--------|----------------|-----------------
+Enfera  | nurse          | doctorita
+Dotora  | doctor         | doctor
+Lolita  | baby sitter    | ingrijitoare
+Locara  | worker         | ingrijitor
+
+
+2. for distinguish between male and female beings we use adjectives: 
 
 * maso  = male    (latin: masculum)
 * fema  = female  (latin: feminam)
 
 ```
-maso canyo  = dog male
-fema canya  = dog female
+maso cyne  = dog male
+fema cyne  = dog female
 ```
 
-**extra**
-* for beverage terminated with 'ola (contains alcohol),
+## Noun suffix
+
+* In Maj a word have a root. To this root you can add a suffix.
+* After root you can use apostrophe `'` to connect with a suffix.
+
+Sometimes we use suffix to create a composite word for representing nouns:
+
+**harmful content**
+
+* for beverage containing alcohol, we use suffix 'ola 
+* there is food prepared with alcohol we also use 'ola 
 * for food that contains a lot of sugar we use 'osa,  
 
-## Diminutives
+```
+* ber'ola  = bear
+* gas'osa  = sweet drink
+* xoc'osa  = sweet chocolate
+* xoc'ola  = sweet chocolate with alcohol
+```
 
-Maj enable diminutives using suffix: 'uca. Whe a noun is uses suffix, it looses letter "a" that is replaced by apostrophe, making the word short and easy to pronounce. Proper nouns (names of places or persons) do not support diminutives.
+**diminutives**
 
-**examples**
+Maj enable diminutives using suffix: 'uca. 
 
 ```
+** close persons
 Mam'uca  = mommy
 Tat'uca  = daddy
+
+** close pet
+maso cyn'uca  = dogy male
+femo cyn'uca  = dogy female
 ```
 
-```
-maso cany'uca  = dogy male
-femo cany'uca  = dogy female
-```
+**notes**
+* Whe a noun is uses suffix, it looses a vowel from last syllable that is replaced by apostrophe,
+* Proper nouns (names of places or persons) do not support diminutives.
+
+## Noun prefix
+
+Sometimes we use a prefix to create a new word:
+
+* no  - create antonyms
+* po  - specify purpose
+* 
 
 ## Article
 
@@ -96,7 +109,7 @@ An article is a word used to modify a noun, which is a person, place, object, or
 
 There are two different types of articles: definite and indefinite articles.
 
-**Definite Article**
+**Maj definite Article**
 
 singular     | plural
 -------------|-------------
@@ -113,25 +126,26 @@ Let's begin by looking at the definite article. This article is the word 'the,' 
 
 Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
 
-**Indefinite Articles**
-Indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
+**English indefinite articles**
+In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
 
 * a Mercedes from the car lot
 * an event in history
 
 In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
 
-In Maj, this situation is resolved by using numeral "one" as article. 
+**Maj indefinite article**
 
-* one Mercedes ...TODO
-* one event    ...TODO 
+In Maj, indefinite article is resolved by using _numeral articles_. 
 
-**Numeral Articles**
-The numeral article specify exactly how many or quantity of a thing.
+* uno Mercedes = a Mercedes 
+* oru Mercedes = any Mercedes 
+
+Other numeral articles:
 
 oru = any
 omi = every
-alu = all
+ale = all
 mot = many
 poc = few
 van = several
@@ -244,8 +258,8 @@ English preposition can be considered in this categories: { time, place, directi
 Location related nouns are 4 character long, they are more important.
 
 loca  = location
-data  = date
 tepa  = time
+data  = date
 hora  = hour
 anoa  = year
 mina  = minute
@@ -291,7 +305,6 @@ ove      |Over      | English
 cha      |Towards   | Spanish 
 dur      |Through   | German
 uma      |Around    | German
-aus      |Off       | German
 ruc      |Back      | German
          
          
@@ -302,9 +315,9 @@ Indicate a position of object relative to other object.
 Maj     |English             | Origin
 --------|--------------------|---------
 auf     |On                  | German
+aus     |Off                 | German
 con     |Beside , Next To    | German
 der     |Behind              | German
-aus     |Out Of              | German
 fra     |Between             | German
 ino     |Inside              | Latin
 nah     |Near                | German
@@ -316,7 +329,7 @@ top     |On Top              | English
 abo     |Above               | English
 unt     |Under,Below,Beneath | German
 via     |Via                 | Latin
-sus	    |Up	                 | Romania
+sus	    |Up	                 | Romanian
 jos	    |Down                | Romanian
 
 

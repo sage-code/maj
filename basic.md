@@ -57,6 +57,7 @@ et  | and     | conjunctive
 si  | if      | conditional
 es  | is      | short form of verb = seru
 ca  | like    | comparative preposition
+po  | for     | specify domain or purpose
 
 **symbols**
 
@@ -75,13 +76,14 @@ maj   | english  | spanish | romanian
 qui?  | who?     | que     | cine
 que?  | what?    | qué     | ce
 quo?  | how?     | como    | cumi
-udo?  | where?   | donde   | unde
+ubi?  | where?   | donde   | unde
 uta?  | when?    | cuando  | când
       
-* qui seru?  = who is ?
-* que magu?  = what are you eating ?
-* quo bebu?  = how is your drink ?
-* udo seru?  = where are you?
+* qui seru'pa?  = who was ?
+* que magu're?  = what are you eating ?
+* quo bebu're?  = how is your drink ?
+* ubi seru're?  = where are you?
+* uta magu'fu?  = when are we going to eat?
 
 ## Articles
 
@@ -89,6 +91,7 @@ The article do not alter a word, just underline the value of the word in sentenc
      
 singular    | plural
 ------------|-------------
+ica = the   | ice = the (many)
 ita = this  | ite = these
 isa = that  | ise = those
 
@@ -98,14 +101,19 @@ Is a word that can function by itself as a noun phrase and that refers either to
 
 singular       | plural
 ---------------|-----------------------------
-jo, mi = I     | ne  = we
-tu, ti = you   | ve  = you*
-zi = he        | ze  = they
-xi = she       | ite = these
-it = it        | ise = those
+je, mi = I     | ne = we
+tu, ti = you   | ve = you
+zi = he        | ze = they
+xi = she       | xe = they
+it = it        | 
 
-* English has translation only for plural: tu, ve = you
-* The ite and ise are actually determinant articles.
+**Note:**
+
+Maj is not 100% perfect:
+
+* There are two forms of singular for first and second person.
+* There is a feminine for third person, singular but not plural.
+* The "it" is for things and do not have a plural form.
 
 **Possessive**
 
@@ -154,7 +162,6 @@ re      | present (now)
 fu      | sometime in the future
 pa      | sometime in the past
 
-
 **time based greetings**
 
 * vidu  = to see
@@ -165,7 +172,7 @@ pa      | sometime in the past
 
 * tu vidu'fu suvo ita mi. = you will see me often
 * tu vidu're algo ita mi. = you can see me sometime
-* jo vidu'pa nuco ita ti. = I have never seen you before
+* je vidu'pa nuco ita ti. = I have never seen you before
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -197,7 +204,7 @@ You can transform a verb into an attribute using suffix 'xa
 jocu => jocu'xa = playful
 
 **So far:**
-* jo seru jocu'xa = I'm playful
+* je seru jocu'xa = I'm playful
 * tu seru jocu'xa = you are playful 
 * zi seru jocu'xa = he is playful
 
@@ -205,7 +212,7 @@ jocu => jocu'xa = playful
 
 Use termination "sa" to make a noun.
 
-* jo seru'pa una jocu'sa = I was a player
+* je seru'pa una jocu'sa = I was a player
 * ne seru'fu jocu'sa     = we will be players
 
 ## Locations
@@ -251,20 +258,20 @@ Examples:
 
 ## Interrogative
 
-Preposition "udo" can be used for questions about location:
+Preposition "ubi" can be used for questions about location:
 
 **short form**
-* udo tu andu're? = where you going?
-* udo tu venu're? = where you coming from?
-* udo tu seru're? = where are you from?
+* ubi tu andu're? = where you going?
+* ubi tu venu're? = where you coming from?
+* ubi tu seru're? = where are you from?
     
 **longer form**    
-* udo seru la loca que tu jocu're? = where is the place you are plaing?
-* udo seru la loca que ne andu're? = where is the place we  are going?
+* ubi seru la loca que tu jocu're? = where is the place you are plaing?
+* ubi seru la loca que ne andu're? = where is the place we  are going?
 
 **expressions**
   
-* da udo   la udo?      = from where to where!
+* da ubi   la ubi?      = from where to where!
 * da hir   la der!      = from here to there!
 * da loca  que tu picu!  = from where you like!
 

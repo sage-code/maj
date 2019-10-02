@@ -39,7 +39,7 @@ Reading the alphabet is different from other Romantic Languages:
 * In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`.
 
 * Sound  `a`  is open  vowel, like `a` in "car",
-* Sound  `y`  is close vowel like `a` follow by `r` in "spare"
+* Sound  `y`  is close vowel like `io` in "fashion"
 * Sound  `i`  is close vowel, like first `i` in "initial"
 * Sound  `e`  is close mid, like `e`  in "melon",
 * Symbol `e`  is occasional pronounced `i` in names,
@@ -80,8 +80,6 @@ ge | ge       | dʒe
 gi | gi       | dʒi
 gh | ghe, chi | ɢe, gi
 ch | che, chi | ke, ki
-ay | ă        | ə
-ey | â, î     | ɨ
 
    
 **notes:**
@@ -93,8 +91,6 @@ ey | â, î     | ɨ
 * sound `ge`  is `dʒe`   like `ge`  in "generator"
 * sound `gi`  is `dʒi`   like `gi`  in "giraffe"
 * sound `gh`  is `ɢ`     like `ge`  in "gees"
-* sound `ay`  is `ə`     like `io`  in "fashion"
-* sound `ey`  is `ɨ`     like `eo`  in "pigeon"   
 
 ## Silent letter `h`
 
@@ -106,13 +102,13 @@ ey | â, î     | ɨ
 If we were to use Maj alphabet we could write English words like this:
 
 she       => xe
-generator => generetayr
-fusion    => fujayn
+generator => generetyr
+fusion    => fujyn
 guitar    => ghitar
 gees      => ghis
 cheese    => ciz
-accident  => akciday 
-chocolate => cioclayt
+accident  => akcidynt 
+chocolate => cioclyt
 peach     => pici
 speech    => spici
 initial   => inixayl  
@@ -150,8 +146,7 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 
 **Y**
 * `y` at the beginning of words is pronounced "Y" like in New York.
-* `ay` is pronounced as `ə` like `a`  in "chocolate"
-* `ey` is pronounced as `ɨ` like `eo` in "pigeon"   
+* `y` is pronounced as `ə` like `a`  in "chocolate"
 
 **K**
 * `k` and `q` are pronounced almost the same, `q` is softer,
