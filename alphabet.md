@@ -21,13 +21,13 @@ There are 26 letters in Maj alphabet.
 ## Pronunciation
 
 ```
--------------------------------------------------------
-a    b   c   d    e   f   g   h   i   j   K   l  m
-a    b   c   d    e   f   ɢ   h   i   ʒ   k   l  m
--------------------------------------------------------
-n    o   p   q    r   s   t   u   v   x   y   z  w
-n    o   p   q    r   s   t   u   v   ʃ   ə   z  u
--------------------------------------------------------
+---------------------------------------------------
+a    b   c   d   e   f   g   h   i   j   K   l  m
+a    b   c   d   e   f   ɢ   h   i   ʒ   k   l  m
+---------------------------------------------------
+n    o   p   q   r   s   t   u   v   x   y   z  w
+n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
+---------------------------------------------------
 ```
 
 
@@ -72,48 +72,40 @@ Some sounds are created using two letters that produce a different sound than th
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-sh | ş        | ʃ 
+sh | ş        | ʃ
 ts | ţ        | t͡s
-ce | ce       | t͡ʃe
-ci | ci       | t͡ʃi
-ge | ge       | dʒe 
-gi | gi       | dʒi
-gh | ghe, chi | ɢe, gi
-ch | che, chi | ke, ki
-
+dj | ge, gi   | dʒ
+ch | ce, ci   | t͡ʃ          
    
 **notes:**
 
-* sound `sh`  is `ʃ`     like `s`   in "she" 
+* sound `sh`  is `ʃ`     like `sh`  in "she" 
 * sound `ts`  is `t͡s`   like `t's` in "let's", "cats"
-* sound `ce`  is `t͡ʃe`  like `ch`  in "chase"
-* sound `ci`  is `t͡ʃi`  like `ch`  in "peach" or "speech"
-* sound `ge`  is `dʒe`   like `ge`  in "generator"
-* sound `gi`  is `dʒi`   like `gi`  in "giraffe"
-* sound `gh`  is `ɢ`     like `ge`  in "gees"
+* sound `ch`  is `t͡ʃ`   like `ch`  in "chase", "peach" or "speech"
+* sound `dj`  is `dʒ`    like `ge`  in "generator"
 
 ## Silent letter `h`
 
 * Letter `h` is not voiced when is following a consonant,
-* It is used to prevent digraph formation in groups "che", "chi",
+* It is used to cause digraph formation in groups "sh", "ch"
 
 **Examples**
 
 If we were to use Maj alphabet we could write English words like this:
 
 she       => xe
-generator => generetyr
+generator => jeneretyr
 fusion    => fujyn
-guitar    => ghitar
-gees      => ghis
-cheese    => ciz
-accident  => akcidynt 
-chocolate => cioclyt
-peach     => pici
-speech    => spici
-initial   => inixayl  
-fashion   => faxayn
-pigeon    => pigeyn
+guitar    => gitar
+gees      => gis
+cheese    => chiz
+accident  => akchidynt 
+chocolate => choclyt
+peach     => pich
+speech    => spich
+initial   => inixyl  
+fashion   => faxyn
+pigeon    => pidjyn
 
 ## Not used
 
@@ -137,21 +129,22 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 
 **Q** 
 
-* is similar to `q` from Latin alphabet, can be follow by `ue`, `ui`,
-* letter `q` is used in questions: `que`, `qui` and some words from Latin like "aqua"
+* is similar pronounced like `kiu` is some words derived from Latin 
+* must be followed by `u` like in `que`, `qui`, `quo`, `aqua`
 
 **X**
-* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for English: `sh`,
+* In Maj, X is pronounced like in Chinese: `ʃ` and is replacement for `sh` in long words,
 * The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation.
 
 **Y**
-* `y` at the beginning of words is pronounced "Y" like in New York.
-* `y` is pronounced as `ə` like `a`  in "chocolate"
+* `y` at the beginning of words is pronounced "Y" like in New York,
+* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon",
+* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate"
+
 
 **K**
-* `k` and `q` are pronounced almost the same, `q` is softer,
-* `k` is used to avoid supplicate group `cc`, it is replaced by `ck`
-* `k` can be used to prevent formation of diphthongs `ce` and `ci`
+* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`
+* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`
 
 **note:**
 
@@ -196,8 +189,8 @@ vr zb zd zg zm zn zv
 
 ## Vowels
 
-Maj has 6 vowels: { a e i o u y } 
-One semivowel: { w } 
+Maj has 5 vowels: { a e i o u } 
+Two semivowel: { w y } 
 
 ## Diphthong
 
@@ -205,14 +198,15 @@ Two vowels combined together into one are called diphthongs
 
 **Approved:**
 
-x |a  |e  |i  |o  |u | y  
+x |a  |e  |i  |o  |u | y 
 --|---|---|---|---|--|--
-a | · |ae |ai |ao |au|ay
+a | · |ae |ai |ao |au| ·
 e |ea | · |ei |eo |eu|ey  
-i |ia |ie | · |io |iu| ·  
-o |oa |oe |oi | · |ou| ·
-u |ua |ue |ui |uo | ·| · 
-w |wa |we |wi |wo |wu| . 
+i |ia |ie | · |io |iu|iy
+o |oa |oe |oi | · |ou|oy
+u |ua |ue |ui |uo | ·|uy 
+w |wa |we |wi |wo | ·| ·
+
 
 ## Syllable
 
@@ -266,12 +260,10 @@ Letters and sounds are more or less expensive to make. This can be used to give 
 Cost   |Sounds
 -------|----------------------------------------
   1    |a, e, i, o, u
-  2    |l, m, n, h, y, ai,  ei  
-  3    |b, c, d, p, t, q, f, s 
+  2    |l, m, n, h, y 
+  3    |b, c, d, p, t, f, s, q 
   4    |v, j, g, k, x, z, r, w 
-  5    |ts, ce, ci, 
-
-With 30 distinct sounds, you must admit that Maj is very simple language. 
+  5    |sh, ch, ts, dj 
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
