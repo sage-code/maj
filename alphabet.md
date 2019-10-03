@@ -33,15 +33,25 @@ n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
 
 Reading the alphabet is different from other Romantic Languages:
 
-* Vouls are read like in Latin ISO alphabet;
 * In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`;
 * In Maj you add a short `ɨ` sound after consonants like "eo" from "pigeon";
-* The above rule is active only when a consonant letter is standing alone.
+* The above rule is active only when a consonant letter is standing alone;
 
-* Sound  `a`  is open  vowel, like `a` in "car";
-* Sound  `i`  is close vowel, like first `i` in "initial";
-* Sound  `e`  is close mid, like `e`  in "melon";
-* Sound  `y`  is close vowel like `io` in "fashion";
+**Vowels**
+
+The vowels are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
+
+* Sound  `a`  is open central vowel, like `a` in "car";
+* Sound  `e`  is close-mid front, like `e`  in "melon";
+* Sound  `i`  is close front, like first `i` in "initial";
+* Sound  `o`  is close-mid back, like `o` in `document`;
+* Sound  `u`  is close back, like `oo` in `soon`;
+
+**Other sounds**
+
+Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
+
+* Sound  `y`  is close central like `io` in "fashion";
 * Sound  `j`  is trilled, similar to sound `si` in "fusion";
 * Sound  `s`  is fricative alveolar like `s` in "snake";
 * Sound  `z`  is trilled similar to `z` in "zoo";
@@ -104,6 +114,7 @@ gi | gi       | d͡ʒi
 * Letter `h` is not voiced when is following a consonant;
 * Letter `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi";
 
+
 Though elegant and useful in other Languages, Maj do not use cedilla:
 
 * { î â ă ö ü é è ç ş ţ ...}
@@ -124,17 +135,20 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 
 **Q** 
 
-* Is similar pronounced like `qu` in Latin alphabet,
-* Maj is using `Q` for interrogative prepositions and some antique words like "aqua"
-
-**note:**
-
 Q is not present in following alphabets:
 
 * Cornish, Estonian, Icelandic, 
 * Irish, Latvian, Lithuanian, 
 * Polish, Serbo-Croatian, Scottish Gaelic, 
 * Slovenian, Turkish, or Welsh. 
+
+Maj has a special use for Q:
+
+* At beginning of words `Q` is similar pronounced like `qu` in Latin alphabet,
+* In the middle of the words is pronounced "ɢ" like "g" in "rogue",
+* After `q` you can use {`e`,`i`} to prevent formation of diphthongs "ge", "gi".
+
+For example: "aqua" is going to be pronounced: "agua"
 
 **X**
 * In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words;
@@ -148,8 +162,7 @@ Q is not present in following alphabets:
 
 **K**
 * `k` is used to avoid supplicate group `cc`, it is replaced by `kc`;
-* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`;
-
+* `k` is used before vowels to prevent formation of diphthongs: {`ce`, `ci`};
 
 **Examples**
 
@@ -160,9 +173,9 @@ generator => generetyr
 pigeon    => pidjyn
 giraffe   => dgiraf
 fusion    => fujyn
-guitar    => gitar
-gees      => gis
-cheese    => chiz
+guitar    => qitar
+gees      => qis
+cheese    => ciz
 accident  => akcidynt 
 chocolate => ceoclyt
 peach     => pici
