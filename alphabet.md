@@ -77,11 +77,11 @@ Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce th
 
 **Whistled C**
 
-Letter "C", "c" is whistled when followed by a vowel. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative "ch". The best symbol for this sound is "t͡ʃ"
+Letter "C", "c" is whistled when followed by one of {`e`,`i`,`h`}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative "ch". The best symbol for this sound is "t͡ʃ"
 
 **Fricative Q**
 
-Letter "Q", "q" is followed by a vowel and is pronounced "ɢ". To pronounce this sound you must press the back of your tongue on the back roof and produce a fricative voiced "gu". The best symbol for this sound is "ɢ"
+Letter "Q", "q" is pronounced "ɢ" when used in middle of words. To pronounce this sound you must press the back of your tongue on the back roof and produce a fricative voiced "gu". The best symbol for this sound is "ɢ"
 
 
 ## Digraphs
