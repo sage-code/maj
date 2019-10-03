@@ -73,7 +73,7 @@ R is a difficult letter of the Maj language. It is like double "rr" in English. 
 
 **Trilled J**
 
-Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ". 
+Letter "J", "j" is always trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ". 
 
 **Whistled C**
 
