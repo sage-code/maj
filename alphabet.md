@@ -33,24 +33,24 @@ n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
 
 Reading the alphabet is different from other Romantic Languages:
 
-* Vouls are read like in Latin ISO alphabet,
-* You can add a short `ɨ` sound after consonants like "eo" from "pigeon",
-* The above rule is active only when a consonant letter is standing alone,
-* In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`.
+* Vouls are read like in Latin ISO alphabet;
+* In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`;
+* In Maj you add a short `ɨ` sound after consonants like "eo" from "pigeon";
+* The above rule is active only when a consonant letter is standing alone.
 
-* Sound  `a`  is open  vowel, like `a` in "car",
-* Sound  `i`  is close vowel, like first `i` in "initial"
-* Sound  `e`  is close mid, like `e`  in "melon",
-* Sound  `y`  is close vowel like `io` in "fashion" in the middle of words
-* Sound  `j`  is trilled, similar to sound `si` in "fusion",
-* Sound  `s`  is fricative alveolar like `s` in "snake",
-* Sound  `z`  is trilled similar to `z` in "zoo",
-* Sound  `r`  is trilled similar to `rr` in "Africa",
-* Sound  `v`  is trilled like `v` in "vehicle",
-* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get"
-* Sound  `k`  is fricative `c` like `k` in "sky",
-* Sound  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion",
-* Sound  `w`  is voiced labial-velar like `w in "whiskey",
+* Sound  `a`  is open  vowel, like `a` in "car";
+* Sound  `i`  is close vowel, like first `i` in "initial";
+* Sound  `e`  is close mid, like `e`  in "melon";
+* Sound  `y`  is close vowel like `io` in "fashion" in the middle of words;
+* Sound  `j`  is trilled, similar to sound `si` in "fusion";
+* Sound  `s`  is fricative alveolar like `s` in "snake";
+* Sound  `z`  is trilled similar to `z` in "zoo";
+* Sound  `r`  is trilled similar to `rr` in "Africa";
+* Sound  `v`  is trilled like `v` in "vehicle";
+* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get";
+* Sound  `k`  is fricative `c` like `k` in "sky";
+* Sound  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion";
+* Sound  `w`  is voiced labial-velar like `w in "whiskey".
 
 **Notation**
 
@@ -84,28 +84,37 @@ iy | â,  î    | i͡ɨ
 uy | ă        | u͡ə
 ts | ţ        | t͡s
 ch | ch       | t͡ʃ
-sh | sh       | ʃ    
+sh | sh       | ʃ 
+dg | ge, gi   | d͡ʒ
    
-**notes:**
+**description:**
 
-* sound `ts`  is `t͡s`   like `t's` in "let's", "cats"
-* sound `iy`  is `i͡ɨ`   like `eo`  in "pigeon"
-* sound `uy`  is `e͡ə`   like `io`  in "fusion"
-* sound `ch`  is `t͡ʃ`   like `ch`  in "chase", "peach" or "speech"
-* sound `sh`  is `ʃ`     like `sh`  in "fashion"
+* sound `ts`  is `t͡s` like `t's` in "let's", "cats";
+* sound `iy`  is `i͡ɨ` like `eo`  in "pigeon";
+* sound `uy`  is `e͡ə` like `io`  in "fusion";
+* sound `ch`  is `t͡ʃ` like `ch`  in "chase", "peach" or "speech";
+* sound `sh`  is `ʃ`   like `sh`  in "fashion";
+* sound `dg`  is `d͡ʒ` like `ge`, `gi`  in "Georgia";
 
-## Silent letter `h`
+## Letter `h`
 
-* Letter `h` is not voiced when is following a consonant,
-* It is used to force digraph formation in groups "sh", "ch"
+* Letter `h` is always voiced at beginning of words;
+* Letter `h` is voiced when is flowing pr preceding a vowel;
+* Letter `h` is not voiced when is following a consonant;
+* Letter `h` is used to force digraph formation in groups "sh", "ch";
 
 ## Not used
+
+I think some digraphs are difficult to produce so I have eliminated them:
+
+* digraphs `ge`, `gi` are pronounced "dʒ"  in English but not in Maj;
+* digraphs `ce`, `ci` are pronounced "t͡ʃ" in English but not in Maj;
 
 Though elegant and useful in other Languages, Maj do not use cedilla:
 
 * { î â ă ö ü é è ç ş ţ ...}
 
-**Notes**
+**notes**
 
 * Maj accept names from other languages without phonetic translation:  
 * New York, Chicago or Washington are acceptable names in Maj.
@@ -122,7 +131,7 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 **Q** 
 
 * Is similar pronounced like `qu` in Latin alphabet,
-* Maj is using `Q` to create questions and some antique words like "aqua"
+* Maj is using `Q` for interrogative prepositions and some antique words like "aqua"
 
 **note:**
 
@@ -134,18 +143,18 @@ Q is not present in following alphabets:
 * Slovenian, Turkish, or Welsh. 
 
 **X**
-* In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words,
-* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation.
+* In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words;
+* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation;
 
 **Y**
-* `y` at the beginning of words is pronounced "Y" like in New York, yes, yacht
-* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon",
-* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate"
+* `y` at the beginning of words is pronounced "Y" like in New York, yes, yacht;
+* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon";
+* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate";
 
 
 **K**
-* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`
-* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`
+* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`;
+* `k` is used before vowels to prevent formation of diphthongs: `ka`, `ke`, `ki`, `ko`, `ku`;
 
 
 **Examples**
@@ -153,16 +162,17 @@ Q is not present in following alphabets:
 If we were to use Maj alphabet we could write English words like this:
 
 she       => xe
-generator => jeneretyr
-pigeon    => pijyn
+generator => dgeneretyr
+pigeon    => pidgyn
+giraffe   => dgiraf
 fusion    => fujyn
 guitar    => gitar
 gees      => gis
-cheese    => ciz
-accident  => akcidynt 
-chocolate => coclyt
-peach     => pici
-speech    => spici
+cheese    => chiz
+accident  => akchidynt 
+chocolate => choclyt
+peach     => pich
+speech    => spich
 initial   => inixyl  
 fashion   => faxyn
 yacht     => yact
@@ -186,6 +196,7 @@ Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
 After a short analysis, these CC combinations are usable:
 
+```
 br bs 
 cl cm cn cr cs ct cv cz 
 dl dj dm dr dv gr tl tm tr 
@@ -197,7 +208,7 @@ rb rc rd rf rg rh rl rm rn rq rp rs rt rz
 fl fr ft fj
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
- 
+``` 
 
 ## Vowels
 
@@ -284,8 +295,4 @@ Cost   |Sounds
 
 **calculation**  
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
-
-
-  
-
 
