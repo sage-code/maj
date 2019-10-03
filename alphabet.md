@@ -41,7 +41,7 @@ Reading the alphabet is different from other Romantic Languages:
 * Sound  `a`  is open  vowel, like `a` in "car";
 * Sound  `i`  is close vowel, like first `i` in "initial";
 * Sound  `e`  is close mid, like `e`  in "melon";
-* Sound  `y`  is close vowel like `io` in "fashion" in the middle of words;
+* Sound  `y`  is close vowel like `io` in "fashion";
 * Sound  `j`  is trilled, similar to sound `si` in "fusion";
 * Sound  `s`  is fricative alveolar like `s` in "snake";
 * Sound  `z`  is trilled similar to `z` in "zoo";
@@ -81,34 +81,28 @@ Some sounds are created using two letters creating a new sounds.
 maj| romanian | phonetic(*)  
 ---|----------|--------------
 iy | â,  î    | i͡ɨ
-uy | ă        | u͡ə
 ts | ţ        | t͡s
-ch | ch       | t͡ʃ
-sh | sh       | ʃ 
-dg | ge, gi   | d͡ʒ
+ce | ce       | t͡ʃe
+ci | ci       | t͡ʃi
+ge | ge       | d͡ʒe
+gi | gi       | d͡ʒi
    
 **description:**
 
-* sound `ts`  is `t͡s` like `t's` in "let's", "cats";
+* sound `ts`  is `t͡s` like `t's` in "cats";
 * sound `iy`  is `i͡ɨ` like `eo`  in "pigeon";
-* sound `uy`  is `e͡ə` like `io`  in "fusion";
-* sound `ch`  is `t͡ʃ` like `ch`  in "chase", "peach" or "speech";
+* sound `ce`  is `t͡ʃ` like `ch`  in "chase"; 
+* sound `ci`  is `t͡ʃ` like `ch`  in "peach";
 * sound `sh`  is `ʃ`   like `sh`  in "fashion";
-* sound `dg`  is `d͡ʒ` like `ge`, `gi`  in "Georgia";
+* sound `ge`  is `d͡ʒ` like `ge`  in "Georgia";
+* sound `gi`  is `d͡ʒ` like `gi`  in "Georgia";
 
 ## Letter `h`
 
 * Letter `h` is always voiced at beginning of words;
-* Letter `h` is voiced when is flowing pr preceding a vowel;
+* Letter `h` is voiced when is following pr preceding a vowel;
 * Letter `h` is not voiced when is following a consonant;
-* Letter `h` is used to force digraph formation in groups "sh", "ch";
-
-## Not used
-
-I think some digraphs are difficult to produce so I have eliminated them:
-
-* digraphs `ge`, `gi` are pronounced "dʒ"  in English but not in Maj;
-* digraphs `ce`, `ci` are pronounced "t͡ʃ" in English but not in Maj;
+* Letter `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi";
 
 Though elegant and useful in other Languages, Maj do not use cedilla:
 
@@ -162,20 +156,20 @@ Q is not present in following alphabets:
 If we were to use Maj alphabet we could write English words like this:
 
 she       => xe
-generator => dgeneretyr
-pigeon    => pidgyn
+generator => generetyr
+pigeon    => pidjyn
 giraffe   => dgiraf
 fusion    => fujyn
 guitar    => gitar
 gees      => gis
 cheese    => chiz
-accident  => akchidynt 
-chocolate => choclyt
-peach     => pich
-speech    => spich
+accident  => akcidynt 
+chocolate => ceoclyt
+peach     => pici
+speech    => spici
 initial   => inixyl  
 fashion   => faxyn
-yacht     => yact
+yacht     => yaht
 
 ## Consonants
 
@@ -270,15 +264,14 @@ A syllable can ...:
 
 A syllable can not ...;
 
-* contain `h` after a consonant
-* contain consonant after `c`
-* contain consonant after `g`
-* contain more then 3 letters
+* contain `h` after a consonant, except (c, g)
+* contain more then 2 consonants,
+* contain more then 4 letters.
  
 ## Word composition
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
-2. Diphtongs, starting with semi-vocals can be used at beginning of words: { y w }
+2. Diphtongs, starting with semi-vowels can be used at beginning of words: { y w }
 3. Syllable that have "coda" present are used only for end of words,
 4. Composite words using two words must be separated by apostrophe: `'`
 
