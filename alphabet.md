@@ -23,10 +23,10 @@ There are 26 letters in Maj alphabet.
 ```
 ---------------------------------------------------
 a    b   c   d   e   f   g   h   i   j   K   l  m
-a    b   c   d   e   f  dʒ   h   i   ʒ   k   l  m
+a    b   c   d   e   f   ɢ   h   i   ʒ   k   l  m
 ---------------------------------------------------
 n    o   p   q   r   s   t   u   v   x   y   z  w
-n    o   p   ɢ   r   s   t   u   v   ʃ   ə   z  u
+n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
 ---------------------------------------------------
 ```
 
@@ -34,7 +34,7 @@ n    o   p   ɢ   r   s   t   u   v   ʃ   ə   z  u
 Reading the alphabet is different from other Romantic Languages:
 
 * Vouls are read like in Latin ISO alphabet,
-* You can add a short `ɨ` sound after consonants like "eo" from "pitgeon",
+* You can add a short `ɨ` sound after consonants like "eo" from "pigeon",
 * The above rule is active only when a consonant letter is standing alone,
 * In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`.
 
@@ -47,8 +47,7 @@ Reading the alphabet is different from other Romantic Languages:
 * Sound  `z`  is trilled similar to `z` in "zoo",
 * Sound  `r`  is trilled similar to `rr` in "Africa",
 * Sound  `v`  is trilled like `v` in "vehicle",
-* Sound  `g`  is trilled like `ge`  in "generator"
-* Sound  `q`  is plosive uvular like `g` in "gees", "guitar", "get"
+* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get"
 * Sound  `k`  is fricative `c` like `k` in "sky",
 * Sound  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion",
 * Sound  `w`  is voiced labial-velar like `w in "whiskey",
@@ -64,15 +63,11 @@ R is a difficult letter of the Maj language. It is like double "rr" in English. 
 
 **Trilled J**
 
-Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ".
+Letter "J", "j" is trilled. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a voiced "sh". The best symbol for this sound is "ʒ". 
 
 **Whistled C**
 
 Letter "C", "c" is whistled when followed by a vowel. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative "ch". The best symbol for this sound is "t͡ʃ"
-
-**Trilled G**
-
-Leter "G", "g" is trilled when followed by a vowel. To pronounce this sound you must press the middle of your tongue on the roof top and produce a fricative voiced "dje". The best symbol for this sound is "d͡ʒ"
 
 **Fricative Q**
 
@@ -85,7 +80,7 @@ Some sounds are created using two letters creating a new sounds.
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-iy | â,  î    | i͡î
+iy | â,  î    | i͡ɨ
 uy | ă        | u͡ə
 ts | ţ        | t͡s
 ch | ch       | t͡ʃ
@@ -94,10 +89,10 @@ sh | sh       | ʃ
 **notes:**
 
 * sound `ts`  is `t͡s`   like `t's` in "let's", "cats"
-* sound `ey`  is `e͡ə`   like `io`  in "fusion"
+* sound `iy`  is `i͡ɨ`   like `eo`  in "pigeon"
+* sound `uy`  is `e͡ə`   like `io`  in "fusion"
 * sound `ch`  is `t͡ʃ`   like `ch`  in "chase", "peach" or "speech"
 * sound `sh`  is `ʃ`     like `sh`  in "fashion"
-* sound `dj`  is `dʒ`    like `ge`  in "generator"
 
 ## Silent letter `h`
 
@@ -126,8 +121,8 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 
 **Q** 
 
-* Is similar pronounced like `G` in Latin alphabet,
-* Maj is using `Q` to reduce length of some words: "qitar" instead of "guitar"
+* Is similar pronounced like `qu` in Latin alphabet,
+* Maj is using `Q` to create questions and some antique words like "aqua"
 
 **note:**
 
@@ -158,10 +153,11 @@ Q is not present in following alphabets:
 If we were to use Maj alphabet we could write English words like this:
 
 she       => xe
-generator => generetyr
+generator => jeneretyr
+pigeon    => pijyn
 fusion    => fujyn
-guitar    => qitar
-gees      => qis
+guitar    => gitar
+gees      => gis
 cheese    => ciz
 accident  => akcidynt 
 chocolate => coclyt
@@ -169,8 +165,7 @@ peach     => pici
 speech    => spici
 initial   => inixyl  
 fashion   => faxyn
-pigeon    => pigyn
-yacht     => yaht
+yacht     => yact
 
 ## Consonants
 
