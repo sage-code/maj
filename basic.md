@@ -99,20 +99,42 @@ isa = that  | ise = those
 
 Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
 
-singular       | plural
----------------|-----------------------------
-je, mi = I     | ne = we
-tu, ti = you   | ve = you
-zi = he        | ze = they
-xi = she       | xe = they
-it = it        | 
+Pronouns have only 3 cases in Maj:
 
+* nominative
+* objective
+* possessive
+
+**Nominative**
+
+Is the person who perform the action.
+
+  p  |singular       | plural
+-----|---------------|-----------------------------
+  1  | je = I        | ni = we
+  2  | ve = you      | vi = you
+  3  | ze = he       | zi = they
+  3  | xe = she      | xi = all these womens
+  3  | le = it       | li = all these things
+
+**Objective**
+
+Is the person who receive the action.
+
+  p | singular  | plural
+----|-----------|-----------------------------
+ 1  | my  = me  | nus = us
+ 2  | vy  = you | vus = you all
+ 3  | zy  = he  | zus = them
+ 3  | xy  = her | xus = them
+ 3  | ly  = it  | lus = her
+ 
 **Note:**
 
-Maj is not 100% perfect:
+In other languages there may be 4 or 5 up to 15 cases. But Maj is limited and not 100% perfect:
 
-* There are two forms of singular for first and second person.
-* There is a feminine for third person, singular but not plural.
+* There are two forms of singular for first and second person;
+* There is a feminine form for third person, but not for 1'st or 2'nd person.;
 * The "it" is for things and do not have a plural form.
 
 **Possessive**
@@ -121,10 +143,11 @@ haru = to have
 
 singular        | plural
 ----------------|--------------------------------
-mia = mine      | nos = ours
-tia = yours     | vos = yours
-zia = his       | zos = theirs
-xia = hers      | 
+mio = mine      | nos = ours
+vio = yours     | vos = yours
+zio = his       | zos = theirs
+xio = hers      | xos = theirs (feminine)
+lio = its       | los = theirs (neutral)
 
 **Notes:**
 
@@ -158,21 +181,27 @@ tepa = time
 
 Maj     | English
 --------|--------------------------------
-re      | present (now)
+re      | present (in general now)
+go      | present (continuum present)
 fu      | sometime in the future
 pa      | sometime in the past
 
 **time based greetings**
 
-* vidu  = to see
-* algo  = sometime
-* nuco  = never
-* suvo  = often (French souvent)
-* moxo  = soon  (Latin mox)
+* foa   = sometime 
+* nuc   = never (Spanish nunca
+* suv   = often (French souvent)
+* mox   = soon  (Latin mox)
+* nau   = now   (English)
 
-* tu vidu'fu suvo ita mi. = you will see me often
-* tu vidu're algo ita mi. = you can see me sometime
-* je vidu'pa nuco ita ti. = I have never seen you before
+**examples**
+
+vidu  = to see
+
+* ve vidu'fu suv ita my!  = you will see me often!
+* ve vidu're foa ita my!  = you can see me sometime!
+* je vidu'pa nuc ita vy!  = I have never seen you before!
+* je vidu'go now ita vos! = I see you all now!
 
 Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
@@ -183,34 +212,31 @@ Structure of above propositions: Subject + verb + adverb + article + pronoun.
 
 **singular conjugation**
 
-* zi jocu're = he is playing right now
-* zi jocu'fu = he will play in the future 
-* zi jocu'pa = he play some time ago
+* ze jocu're = he is playing right now
+* ze jocu'fu = he will play in the future 
+* ze jocu'pa = he play some time ago
 
 **plural conjugation**
-* ne jocu algo = we play sometimes
-* ve jocu nuco = you never play
-* ze jocu suvo = they play often
+* ni jocu algo = we play sometimes
+* vi jocu nuco = you never play
+* zi jocu suvo = they play often
 
 ## Verb transformation
 
-You can transform a verb into an attribute using suffix 'xa
-
-* sha for singular
-* she for plural
+You can transform a verb into an attribute using suffix 'xo
 
 **to adjective:**
 
-jocu => jocu'xa = playful
+jocu => jocu'xo = playful
 
 **So far:**
-* je seru jocu'xa = I'm playful
-* tu seru jocu'xa = you are playful 
-* zi seru jocu'xa = he is playful
+* je seru jocu'xo = I'm playful
+* tu seru jocu'xo = you are playful 
+* zi seru jocu'xo = he is playful
 
 **to noun:**
 
-Use termination "sa" to make a noun.
+Use termination 'sa to make a noun.
 
 * je seru'pa una jocu'sa = I was a player
 * ne seru'fu jocu'sa     = we will be players

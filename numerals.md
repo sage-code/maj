@@ -10,25 +10,25 @@ All numerals are created from base of 3 letters.
 
 **Note** 
 
-* Numerals to not have genre, past or future
-* The numbers do not have plural form
-* Two numbers are composite using apostrophe 
+* The numbers do not have genre,
+* The numbers do not have plural form,
 * Two numerals are combined using `et` symbol `+`
+* Some numbers are combined using apostrophe 
 
 **Then = diz**
 
 x | maj  | xx | maj            | xx | maj      |
 --|------|----|----------------|----|----------|
-0 | nul  | 10 | diz'nul        |    |          |
-1 | una  | 11 | diz'una        | 10 | un'diz  |
-2 | dua  | 12 | diz'dua        | 20 | du'diz  |
-3 | tea  | 13 | diz'tea        | 30 | te'diz  |
-4 | kua  | 14 | diz'kua        | 40 | ku'diz  |
-5 | pea  | 15 | diz'pea        | 50 | pe'diz  |
-6 | sea  | 16 | diz'sea        | 60 | se'diz  |
-7 | xoa  | 17 | diz'xoa        | 70 | xo'diz  |
-8 | oca  | 18 | diz'oca        | 80 | oc'diz  |
-9 | nia  | 19 | diz'nia        | 90 | ni'diz  | 
+0 | nul  | 10 | uni'diz+nul    |    |          |
+1 | una  | 11 | uni'diz+una    | 10 | un'diz  |
+2 | dua  | 12 | uni'diz+dua    | 20 | du'diz  |
+3 | tua  | 13 | uni'diz+tea    | 30 | te'diz  |
+4 | kua  | 14 | uni'diz+kua    | 40 | ku'diz  |
+5 | pua  | 15 | uni'diz+pea    | 50 | pe'diz  |
+6 | sua  | 16 | uni'diz+sea    | 60 | se'diz  |
+7 | zua  | 17 | uni'diz+xoa    | 70 | so'diz  |
+8 | oca  | 18 | uni'diz+oca    | 80 | oc'diz  |
+9 | nia  | 19 | uni'diz+nia    | 90 | ni'diz  | 
 
 ## Level 2
 
@@ -75,7 +75,7 @@ x | maj  | xx | maj            | xx | maj      |
 
 **Millions  = mion**
 
-000,000  = mion
+000,000  = mon
 
 ```
 1,000.000 = un'ilon
@@ -87,7 +87,7 @@ x | maj  | xx | maj            | xx | maj      |
 
 **Billions = bion**
 
-000.000.000   = bion
+000.000.000   = bon
 
 ```
 1,000,000.000 = un'bion
