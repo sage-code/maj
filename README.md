@@ -4,53 +4,55 @@ Maj is an artificial language for chat and games:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
-1. Articulated,
-2. Efficient, 
-3. Accesible.
+1. Articulated;
+3. Accesible;
+3. Comprehensible;
+4. Logical;
+5. Efficient; 
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
 Basic rules for new language:
 
-1. one letter do not represent anything else but itself,
-1. one letter is pronounced always the same,
-1. one word must have a single meaning and is context free,
-1. numerals are unique and familiar,
-1. punctuation symbols can be read as words.
+1. one letter do not represent anything else but itself;
+1. one letter is pronounced always the same;
+1. one word must have a single meaning and is context free;
+1. numerals are unique and familiar;
+1. punctuation symbols can be read as words;
 
 **Maj do not**
 
 ------------------------------------------------------------------------------------------------
 
-1. Maj is not a secret language,
-1. Maj is not for encryption,
-1. Maj is not for poetry,
-1. Maj is not for writing books,
-1. Maj is not for education,
-1. Maj is not a superior language,
-1. Maj is not an academic language,
-1. Maj do not have synonyms,
-1. Maj do not have a polite form,
-1. Maj words have a single meaning.
+1. Maj is not a secret language;
+1. Maj is not for encryption;
+1. Maj is not for poetry;
+1. Maj is not for writing books;
+1. Maj is not for education;
+1. Maj is not a superior language;
+1. Maj is not an academic language;
+1. Maj do not have synonyms;
+1. Maj do not have a polite form;
 
 
 **Punctuation:**
 
 ------------------------------------------------------------------------------------------------
 
-1. A word that start with uppercase represent a person or animals or a robot or an AI device,
-1. A word for a thing that can not talk or move or do anything start with lowercase,
-1. A interrogative sentences can start with a preposition and end with a question mark,
-1. A imperative sentence end with exclamation mark, while a declarative sentence with "."
-1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44},
-1. An enumeration of numbers is enclosed in square brackets [1,24,3],
-1. You can use decimal numbers and math symbols only in round parenthesis, otherwise you must quote them,
-1. You can use double quotes like: "no" to suggest this is representing a foreign word,
-1. You can use single apostrophe symbol: `'` to add a suffix to a word,
-1. You can use dash "-" to concatenate a prefix to a root to create a composite word,
-1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code.
-1. Text enclosed in parenthesis (expressions) or (enumerations) are silent,
-1. Dialog is mark with bullet point "*" and end with ";","?" or "!",
+1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
+1. A word that start with uppercase represent a person or animals or a robot or an AI device;
+1. A word for a thing that can not talk or move or do anything start with lowercase;
+1. A interrogative sentences can start with a preposition and end with a question mark;
+1. A imperative sentence end with exclamation mark, while a declarative sentence with ".";
+1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44};
+1. An enumeration of numbers is enclosed in square brackets [1,24,3];
+1. You can use decimal numbers and math symbols only in round parenthesis, otherwise you must quote them;
+1. You can use double quotes like: "no" to suggest this is representing a foreign word;
+1. You can use single apostrophe symbol: `'` to add a suffix to a word;
+1. You can use dash "-" to concatenate a prefix to a root to create a composite word;
+1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
+1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
+1. Dialog is mark with bullet point "*" and end with ";","?" or "!";
 
 
 ## Symbols
@@ -77,23 +79,25 @@ Basic rules for new language:
 
 ## Constructing
 
-Words are selected from 12 different languages.
+Words are inspired from 7 different languages.
 
-1. Latin, Spanish, Italian, French, Romanian, Portuguese 
-2. English, Esperanto, German, Irish, Turkish, Greek
+1. Spanish
+2. French, Italian
+3. Latin, Romanian
+4. English, German
 
 **technology:**
 
-* Numerals are original, we have used rules to make useful numerals,
-* Most common words Verbs are created manually using a translation spreadsheet,
-* We use an algorithm to calculate a  word cost based on complexity,
+* Numerals are original, first letter is inspired from Romanic languages;
+* Most common words Verbs are created manually using a translation spreadsheet;
+* We use an algorithm to calculate a  word cost based on complexity;
 * We look for expensive words that could be simplified to improve the language.
 
 ## The sentences
 
-1. There are 3 kind of sentences: {interrogative, declarative, imperative} ,
-1. There are 3 kind of answers: { affirmative, negative, informative } ,
-1. The sentences are constructed from "language elements".
+1. There are 3 kind of sentences: {interrogative, declarative, imperative};
+1. There are 3 kind of answers: { affirmative, negative, informative };
+1. The sentences are constructed from `language elements`;
 
 **Elements:**
 
@@ -102,7 +106,8 @@ Language elements are designed in separated documents you can read one by one in
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
 * [Basic grammar](basic.md)
-* [Words](words.md)
+* [Numerals](numerals.md)
+* [Prepositions](prepositions.md)
 * [Verbs](verbs.md)
 * [Adverbs](adverbs.md)
 * [Nouns](nouns.md)

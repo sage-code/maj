@@ -15,21 +15,22 @@ All numerals are created from base of 3 letters.
 * Two numerals are combined using `et` symbol `+`
 * Some numbers are combined using apostrophe 
 
-**Then = diz**
+**Then = diz** (puo)
 
-x | maj  | xx | maj            | xx | maj      |
---|------|----|----------------|----|----------|
-0 | nul  | 10 | uni'diz+nul    |    |          |
-1 | una  | 11 | uni'diz+una    | 10 | un'diz  |
-2 | dua  | 12 | uni'diz+dua    | 20 | du'diz  |
-3 | tua  | 13 | uni'diz+tea    | 30 | te'diz  |
-4 | kua  | 14 | uni'diz+kua    | 40 | ku'diz  |
-5 | pua  | 15 | uni'diz+pea    | 50 | pe'diz  |
-6 | sua  | 16 | uni'diz+sea    | 60 | se'diz  |
-7 | zua  | 17 | uni'diz+xoa    | 70 | so'diz  |
-8 | oca  | 18 | uni'diz+oca    | 80 | oc'diz  |
-9 | nia  | 19 | uni'diz+nia    | 90 | ni'diz  | 
-
+x | maj  |      | xx | maj            | xx | maj      |
+--|------|------|----|----------------|----|----------|
+0 | nul  | buo  | 10 | uno'diz+nul    |    |          |
+1 | uno  | cuo  | 11 | uno'diz+uno    | 10 | uno'diz  |
+2 | due  | duo  | 12 | uno'diz+due    | 20 | due'diz  |
+3 | tia  | fuo  | 13 | uno'diz+tia    | 30 | tia'diz  |
+4 | cat  | guo  | 14 | uno'diz+cat    | 40 | cat'diz  |
+5 | cin  | huo  | 15 | uno'diz+cin    | 50 | cin'diz  |
+6 | sei  | juo  | 16 | uno'diz+sei    | 60 | sei'diz  |
+7 | xet  | kuo  | 17 | uno'diz+xet    | 70 | xet'diz  |
+8 | oca  | luo  | 18 | uno'diz+oca    | 80 | oca'diz  |
+9 | nov  | nuo  | 19 | uno'diz+nov    | 90 | nov'diz  | 
+           
+           
 ## Level 2
 
 **Hundreds = cen**
@@ -37,24 +38,24 @@ x | maj  | xx | maj            | xx | maj      |
 00 =  cen
 
 ```
- 100 =  un'cen
- 200 =  du'cen
- 300 =  te'cen
- 400 =  ku'cen
- 500 =  pe'cen
- 600 =  se'cen
- 700 =  xo'cen
- 800 =  ok'cen
- 900 =  ni'cen
+ 100 =  uno'cen
+ 200 =  due'cen
+ 300 =  tia'cen
+ 400 =  cat'cen
+ 500 =  cec'cen
+ 600 =  sei'cen
+ 700 =  xet'cen
+ 800 =  oca'cen
+ 900 =  nov'cen
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = un'cen+du'diz+pea
- 555 = pe'cen+pe'diz+pea
- 801 = oc'cen+una
+ 125 = uno'cen+duo'diz+cin
+ 555 = cin'cen+cin'diz+cin
+ 801 = oka'cen+una
 ```
 
 **Thousands = mil**
@@ -62,39 +63,39 @@ x | maj  | xx | maj            | xx | maj      |
 000 = mil
 
 ``` 
- 1,000 = un'mil
- 2,000 = du'mil
- 3,000 = te'mil
- 4,000 = ku'mil
- 5,000 = pe'mil
- 6,000 = se'mil
- 7,000 = xo'mil
- 8,000 = ok'mil
- 9,000 = ni'mil
+ 1,000 = uno'mil
+ 2,000 = due'mil
+ 3,000 = tia'mil
+ 4,000 = cat'mil
+ 5,000 = cin'mil
+ 6,000 = sei'mil
+ 7,000 = xet'mil
+ 8,000 = oca'mil
+ 9,000 = nov'mil
 ```
 
-**Millions  = mion**
+**Millions  = mon**
 
 000,000  = mon
 
 ```
-1,000.000 = un'ilon
-2,000.000 = su'ilon
-3,000.000 = te'ilon
+1,000.000 = una'mon
+2,000.000 = due'mon
+3,000.000 = tia'mon
 ...
-9,000.000 = ni'ilon
+9,000.000 = nov'mon
 ```
 
-**Billions = bion**
+**Billions = bil**
 
-000.000.000   = bon
+000.000.000   = bil
 
 ```
-1,000,000.000 = un'bion
-2,000,000.000 = do'bion
-5,000,000.000 = pe'bion
+1,000,000.000 = uno'bil
+2,000,000.000 = due'bil
+5,000,000.000 = cin'bil
 ...
-9,000,000.000 = ni'bion
+9,000,000.000 = nov'bil
 ```
 
 ## Level 3

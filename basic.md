@@ -1,45 +1,38 @@
 # Basic Grammar
 
-
-## Fundamental adjectives
-
-bono = good 
-malo = wrong / bad
+In this document we describe the basics of MAJ semantic.
 
 ## Greetings
 
 You can give greetings to one person or to everyone:
-
-Adverbs borrowed from Spanish:
-
-**used**
-todo  = everyone / everything
-algo  = somebody / something
-nado  = nobody   / nothing
 
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ------|----------|------------|------------|-----------|-------------|----------
 helo  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
-vale  |goodbye   | adiós      | au bientot | vale      | ramas bun   | addio
+ciao  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vediamo
 adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
-bine? |okay?     | como estas?| ça va?     | bene?     | bine?       | va bene
-vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediamo
+vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
+
+Adverbs borrowed from Spanish:
+
+**used**
+ale   = every 
+por   = for (to)
 
 **examples:**
 
-* helo ita todo  = hello everyone
-* vale ita todo  = goodbye everyone
-* vidu ita moxo  = see you soon
+* helo por ale zu = hello everyone
+* ciao por ale zu = goodbye everyone 
+* vale por ale zu = let's go everyone
 
 **note:** Some form of salut have multiple meanings
 
 * salu = bless you  (interjection: when somebody is sneezing
-* salu = bye        (when you leave you can say salu)
 * salu = healthy    (adjective: referring to a person or animal)
 
-# Logical adjectives
+# Logical prepositions
 
 * Logical values are: {vero, faso}, from French.
 
@@ -48,16 +41,16 @@ vidu  |see you   | nos vemos  | au revoir  | te videre | la revedere | ci vediam
 
 **operations**
 
-Maj | English | Description
-----|---------|------------------------------------
-ia  | yes     | affirmative
-no  | no      | negative 
-or  | or      | alternative
-et  | and     | conjunctive
-si  | if      | conditional
-es  | is      | short form of verb = seru
-ca  | like    | comparative preposition
-po  | for     | specify domain or purpose
+Maj  | English | Description
+-----|---------|------------------------------------
+ia   | yes     | affirmative
+no   | no      | negative 
+or   | or      | alternative
+et   | and     | conjunctive
+si   | if      | conditional
+es   | is      | short form of verb = seru
+ca   | like    | comparative preposition
+po   | for     | specify domain or purpose
 
 **symbols**
 
@@ -85,21 +78,82 @@ Most questions are using verbs:
 * que magu're?  = what are you eating ?
 * quo bebu'pa?  = how was your drink ?   
 
-## Articles
 
-The article do not alter a word, just underline the value of the word in sentences. It puts the word on the spot so we know exactly what are you talking about. It is improving the semantic of propositions. But in Maj it has also a role to specify the singular or plural for the subject.
-     
-singular    | plural
-------------|-------------
-ica = the   | ice = the (many)
-ita = this  | ite = these
-isa = that  | ise = those
+## Article prepositions
+
+An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to _point out_ or _refer_ nouns or a group of nouns. 
+
+There are two different types of articles: definite and indefinite articles.
+
+**Maj definite Article**
+
+singular     | plural
+-------------|-------------
+ita = this   | ite = these
+isa = that   | ise = those
+
+
+Let's begin by looking at the definite article. This article is the word 'the,' and it refers directly to a specific noun or groups of nouns. For example:
+
+* the freckles on my face
+* the alligator in the pond
+* the breakfast burrito on my plate
+
+Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
+
+**English indefinite articles**
+In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
+
+* a Mercedes from the car lot
+* an event in history
+
+In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
+
+**Maj indefinite article**
+
+In Maj, indefinite article is resolved by using _numeral articles_. 
+
+* uno Mercedes = a Mercedes 
+* oru Mercedes = any Mercedes 
+
+Other numeral articles:
+
+oru = any
+omi = every
+ale = all
+mot = many
+poc = few
+van = several
+som = some 
+non = none
+
+
+**Article Usage**
+
+Properly using a definite article is fairly straightforward, but it can be tricky when you are trying to figure out which indefinite article to use. The article choice depends on the sound at the beginning of the noun that is being modified. There is a quick and easy way to remember this.
+
+If the noun that comes after the article begins with a vowel sound, the appropriate indefinite article to use is 'an.' A vowel sound is a sound that is created by any vowel in the English language: 'a,' 'e,' 'i,' 'o,' 'u,' and sometimes 'y' if it makes an 'e' or 'i' sound. For example:
+
+* an advertisement on the radio (this noun begins with 'a,' which is a vowel)
+* an element on the periodic table (this noun begins with 'e,' which is also a vowel)
+
+**patterns** 
+
+* ita  pana    = the bread
+* ite  pana    = these breads
+* ita  acua    = the water
+* ita  bana    = the banana
+* ite  bana    = these bananas
+* ita  huga    = the juice  
+  
+* ite  cheosa  = the cookies with chocolate
+* ita  hugosa  = extra sweet juice 
+* ite  cheola  = the chocolate drops with alcohol
+* ita  hugola  = juice mixed with alcohol 
 
 ## Pronoun
 
-Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
-
-Pronouns have only 3 cases in Maj:
+Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
 
 * nominative
 * objective
@@ -111,11 +165,12 @@ Is the person who perform the action.
 
   p  |singular       | plural
 -----|---------------|-----------------------------
-  1  | je = I        | ni = we
-  2  | ve = you      | vi = you
-  3  | ze = he       | zi = they
-  3  | xe = she      | xi = all these womens
-  3  | le = it       | li = all these things
+  1  | je = I        | nu = we
+  2  | te = you      | vu = you
+  3  | hi = he       | zu = they
+  3  | xi = she      | 
+  3  | li = it       | 
+
 
 **Objective**
 
@@ -123,40 +178,27 @@ Is the person who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
- 1  | my  = me  | nus = us
- 2  | vy  = you | vus = you all
- 3  | zy  = he  | zus = them
- 3  | xy  = her | xus = them
- 3  | ly  = it  | lus = her
- 
-**Note:**
-
-In other languages there may be 4 or 5 up to 15 cases. But Maj is limited and not 100% perfect:
-
-* There are two forms of singular for first and second person;
-* There is a feminine form for third person, but not for 1'st or 2'nd person.;
-* The "it" is for things and do not have a plural form.
+ 1  | my  = me  | ny = us
+ 2  | ty  = you | vy = you all
+ 3  | hy  = he  | zy = them
+ 3  | xy  = her | 
+ 3  | ly  = it  | 
 
 **Possessive**
 
+Is a composite word for a person or object who own something or have something.
+
 haru = to have
 
-singular        | plural
-----------------|--------------------------------
-mio = mine      | nos = ours
-vio = yours     | vos = yours
-zio = his       | zos = theirs
-xio = hers      | xos = theirs (feminine)
-lio = its       | los = theirs (neutral)
+singular    | plural
+------------|--------------------------------
+meo = mine  | nuo = ours
+teo = yours | vuo = yours
+hio = his   | zuo = theirs
+xio = hers  | xuo = theirs
+lio = its   | luo = theirs
 
-**Notes:**
-
-* pronouns are always using lowercase characters,
-* pronoun can replacing the article role therefore is terminated with ,
-* pronoun will indicate plural if used with "s"
-* nue, vue, zue is pronounced "nwe, vwem zwe" but in Maj there is no "w"
-
-**Time:**
+## Time prepositions
 
 Information for time is ending with "u".
 
@@ -181,10 +223,10 @@ tepa = time
 
 Maj     | English
 --------|--------------------------------
-re      | present (in general now)
-go      | present (continuum present)
-fu      | sometime in the future
-pa      | sometime in the past
+ure     | present (in general now)
+ugo     | present (continuum present)
+ufu     | sometime in the future
+upa     | sometime in the past
 
 **time based greetings**
 
@@ -198,48 +240,49 @@ pa      | sometime in the past
 
 vidu  = to see
 
-* ve vidu'fu suv ita my!  = you will see me often!
-* ve vidu're foa ita my!  = you can see me sometime!
-* je vidu'pa nuc ita vy!  = I have never seen you before!
-* je vidu'go now ita vos! = I see you all now!
+* to vid'ufu suv ita my!  = you will see me often!
+* to vid'ure foa ita my!  = you can see me sometime!
+* jo vid'upa nuc ita ty!  = I have never seen you before!
+* jo vid'ugo nau ita vy!  = I see you all now!
 
-Structure of above propositions: Subject + verb + adverb + article + pronoun.
+Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
 
 **notes:**
 
-* In some Eglish dialects y'all is a thing, but you is already plural,
-* Pronoun "you" is the plural form of previous "Thou", that is no longer used.
+* Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
+* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
+
 
 **singular conjugation**
 
-* ze jocu're = he is playing right now
-* ze jocu'fu = he will play in the future 
-* ze jocu'pa = he play some time ago
+* zi joc'ure = he is playing right now
+* zi joc'ufu = he will play in the future 
+* zi joc'upa = he play some time ago
 
 **plural conjugation**
-* ni jocu algo = we play sometimes
-* vi jocu nuco = you never play
-* zi jocu suvo = they play often
+* ni joc algo = we play sometimes
+* vi joc nuco = you never play
+* zi joc suvo = they play often
 
 ## Verb transformation
 
-You can transform a verb into an attribute using suffix 'xo
+You can transform a verb into an attribute using suffix 'uxa
 
 **to adjective:**
 
-jocu => jocu'xo = playful
+jocu => joc'uxa = playful
 
 **So far:**
-* je seru jocu'xo = I'm playful
-* tu seru jocu'xo = you are playful 
-* zi seru jocu'xo = he is playful
+* je ser joc'uxo = I'm playful
+* ve ser joc'uxo = you are playful 
+* ze ser joc'uxo = he is playful
 
 **to noun:**
 
-Use termination 'sa to make a noun.
+Use termination 'ina to make a noun, 'ira.
 
-* je seru'pa una jocu'sa = I was a player
-* ne seru'fu jocu'sa     = we will be players
+* je ser'upa una joc'ira = I was a player
+* ne ser'ufu joc'ira     = we will be players
 
 ## Locations
 
@@ -257,10 +300,11 @@ veta | west      | oeste
       
 ## Preposition
 
-Location prepositions are 2 - 3 character long:
+Location prepositions are 3 character long:
 
 maj	| english	|spanish  | origin
 ----| ----------|---------|---------
+ubi | where     |donde    | Latin   
 ino	| inside    |en       | Latin
 auf | on the    |sobra    | German
 abo	| above	    |encima   | German
@@ -278,7 +322,7 @@ Maj   | English | German | Romanian | Franch  | Spanish
 ------|---------|--------|----------|---------|---------
 de    | from    | fon    | de       | de      | de
 la    | to      | zu     | la       | vers    | para
-in    | in      | in     | în       | en      | en
+
   
 Examples:
 
@@ -287,13 +331,13 @@ Examples:
 Preposition "ubi" can be used for questions about location:
 
 **short form**
-* ubi tu andu're? = where you going?
-* ubi tu venu're? = where you coming from?
-* ubi tu seru're? = where are you from?
+* ubi tu and'ure? = where you going?
+* ubi tu ven'ure? = where you coming from?
+* ubi tu ser'ure? = where are you from?
     
 **longer form**    
-* ubi seru la loca que tu jocu're? = where is the place you are plaing?
-* ubi seru la loca que ne andu're? = where is the place we  are going?
+* ubi ser la loca que tu joc'ure? = where is the place you are plaing?
+* ubi ser la loca que ne and'ure? = where is the place we  are going?
 
 **expressions**
   

@@ -6,6 +6,18 @@ Adjectives are 4 or 5 character long and are ending usually with:
 * semivowels - {"l","j","y"}
 * adjectives ending in consonant can be 6 character long
 
+
+# Fundamental adjectives
+
+* bono = good  (benevolent)
+* malo = bad   (malevolent)
+* vero = the truth
+* faso = the lie   
+* rito = right
+* rogo = wrong
+* nito = clean
+* salo = dirty
+
 ## Level 1
 
 
@@ -50,7 +62,7 @@ difo    |different |diferente  |différent   |diverso     |alium   |diferit
 Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
 grado   |big       |grande     |gros        |grande      |magnum  |mare
-preso   |early     |temprano de|bonne heure |presto      |mane    |din timp
+preso   |early     |temprano   |bonne heure |presto      |mane    |din timp
 primo   |first     |primero    |première    |primo       |primis  |primul
 jenio   |great     |Excelente  |génial      |grande      |magna   |Grozav
 ipero   |important |importante |important   |importante  |magna   |important

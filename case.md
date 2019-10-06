@@ -6,19 +6,19 @@ there are some good reasons to make a new language that is very much different t
 
 **as a project:**
 
-* study grammar and vocabulary of other languages,
-* experiment with different words and sounds,
-* making training software for string manipulations,
+* study grammar and vocabulary of other languages;
+* experiment with different words and sounds;
+* making training software for string manipulations;
 
 **as a product**
 
 once the language is established it can be usable for:
 
-* making video games,
-* making fantastic movies,
-* chat with friends,
-* storing knowledge,
-* artificial intelligence.
+* making video games;
+* making fantastic movies;
+* chat with friends;
+* storing knowledge;
+* artificial intelligence;
 
 the last use-case is actually the most valuable of all. we think usually in a language. it takes decades to master a language until you can use it to make rational thinking. having an efficient language will enable you to think better when making AI for computers.
 
@@ -30,20 +30,18 @@ Maj can be used on chat. It has specifics for describing computer languages and 
 
 Maj can be spoken in public but nobody will understand you. especially if you are in China, Russia or Africa, but if you are on America or Australia or Europe some words could sound familiar.
 
-Maj is designed to be learn quickly and effortless. It is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all.
-
 # but how
 
 We shorten the words to reduce cost of pronunciation. So Maj can be faster and efficient. 
 
 **design:**
 
-* Maj re-purpose some redundant letters: { K, Q, X, Y },
-* Maj do not use cedilla letters: Franch, Romanian or German,
-* Maj is using root words and avoid composite long words,
-* Maj is using simple grammar rules to reduce complexity,
-* Maj has a reduced numbers of sounds easy to produce,
-* Maj will have a reduced vocabulary under 1000 root words,
+* Maj re-purpose some redundant letters: { K, Q, X, Y };
+* Maj do not use cedilla letters: Franch, Romanian or German;
+* Maj is using root words and avoid composite long words;
+* Maj is using simple grammar rules to reduce complexity;
+* Maj has a reduced numbers of sounds easy to produce;
+* Maj will have a reduced vocabulary under 1000 root words;
 
 **rules:**
 
@@ -55,13 +53,17 @@ We shorten the words to reduce cost of pronunciation. So Maj can be faster and e
 
 a constructed language can have good use-cases.
 
-* Maj is an experimental language with a new form of writing,
+* Maj is an experimental language for Latin writing,
 * Maj writing can be used to write existing languages,
 * Maj can be used to learn other Romanic languages.
 
+**for Internet**
+
+Maj is for Internet. It is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all. Maj can enable communities of exceptional persons to improve themselves.
+
 **for peace**
 
-Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and soul purity. this will influence you in a good way make you a better person.
+Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and purity. this will influence you in a good way making you a better person.
 
 **for making**
 
@@ -69,7 +71,7 @@ Maj will enable you to make text. this reduce time to write a story or a thesis.
 
 storage is expensive. it is true that text do not take so much space, but maybe in the future AI will learn how to produce text content. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
 
-Maybe we manage to make smart. This is a text that ca do computations. By doing this, you can describe a program then "execute" the program line by line and even repeat a potion of text multiple times like a program do. So yur text can be also a running program.
+Maybe we manage to make _smart text_. This is a text that ca do computations and logical reasoning. By doing this, you can describe a program then can _execute_ like a program. So a Maj text can be also a running program.
 
 it is time to stop talking and start making.
 

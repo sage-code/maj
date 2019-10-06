@@ -113,7 +113,6 @@ There are two different types of articles: definite and indefinite articles.
 
 singular     | plural
 -------------|-------------
-ica = the    | ice = the (many)
 ita = this   | ite = these
 isa = that   | ise = those
 

@@ -90,12 +90,15 @@ Some sounds are created using two letters creating a new sounds.
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-iy | â,  î    | i͡ɨ
+iy | â, î    | i͡ɨ
 ts | ţ        | t͡s
 ce | ce       | t͡ʃe
 ci | ci       | t͡ʃi
 ge | ge       | d͡ʒe
 gi | gi       | d͡ʒi
+qe | ghe      | ɢe
+qi | ghi      | ɢi
+
    
 **description:**
 
@@ -146,7 +149,7 @@ Maj has a special use for Q:
 
 * At beginning of words `Q` is similar pronounced like `qu` in Latin alphabet,
 * In the middle of the words is pronounced "ɢ" like "g" in "rogue",
-* After `q` you can use {`e`,`i`} to prevent formation of diphthongs "ge", "gi".
+* After `q` you can use {`e`,`i`} to create diphthongs "ge", "gi".
 
 For example: "aqua" is going to be pronounced: "agua"
 
@@ -161,8 +164,8 @@ For example: "aqua" is going to be pronounced: "agua"
 
 
 **K**
-* `k` is used to avoid supplicate group `cc`, it is replaced by `kc`;
-* `k` is used before vowels to prevent formation of diphthongs: {`ce`, `ci`};
+* `k` is used to avoid duplicate letter `c` in words like `akcidy`;
+* `k` is used before {`e`,`i`} to prevent formation of diphthongs: {`ke`, `ki`};
 
 **Examples**
 
@@ -219,10 +222,10 @@ vr zb zd zg zm zn zv
 
 ## Vowels
 
-Maj has 5 vowels: { a e i o u } 
-Two semivowel: { w y } 
+* Maj has 5 vowels: { a e i o u } 
+* Two semivowel: { w y } 
 
-## Diphthong
+**diphthongs**
 
 Two vowels combined together into one are called diphthongs
 
@@ -251,42 +254,35 @@ To describe the structure of a syllable we use following convention:
 * I use + to suggest concatenation of two parts,
 
 ```python
+
 # syllable structure
-syllable ::= onset   + rhyme
-onset    ::= initial +(medial)
-rime     ::= nucleus +(coda)
-
-# onset components
-initial  ::= V | W | C
-medial   ::= {h s} present in digraphs
-
-# rime is the last part
-nucleus + coda
-nucleus  ::= V | CV
-coda     ::= C | CC
+rime     ::= initial + nucleus +(coda)
+initial  ::=  C 
+nucleus  ::=  V | VV | CV
+coda     ::=  C | CC
 ```
 
 **Description:**
 
 A syllable can ...:
 
-* can be a single vowel only at beginning of words
-* can start with one consonant 
-* can have a nucleus formed from one or two vowels
-* can have a coda formed with one or two consonants
+* be a single vowel at beginning of words
+* start with one consonant otherwise
+* have a nucleus formed by one or two vowels 
+* have a coda formed with one or two consonants
+* not all syllables have coda
 
 A syllable can not ...;
 
-* contain `h` after a consonant, except (c, g)
+* contain `h` after a consonant,
 * contain more then 2 consonants,
-* contain more then 4 letters.
+* contain more then 3 letters.
  
 ## Word composition
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
 2. Diphtongs, starting with semi-vowels can be used at beginning of words: { y w }
 3. Syllable that have "coda" present are used only for end of words,
-4. Composite words using two words must be separated by apostrophe: `'`
 
 # Complexity
 
