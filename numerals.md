@@ -15,7 +15,7 @@ All numerals are created from base of 3 letters.
 * Two numerals are combined using `et` symbol `+`
 * Some numbers are combined using apostrophe 
 
-**Then = diz** (puo)
+**Then = diz** 
 
 x | maj  |      | xx | maj            | xx | maj      |
 --|------|------|----|----------------|----|----------|
@@ -26,7 +26,7 @@ x | maj  |      | xx | maj            | xx | maj      |
 4 | cat  | guo  | 14 | uno'diz+cat    | 40 | cat'diz  |
 5 | cin  | huo  | 15 | uno'diz+cin    | 50 | cin'diz  |
 6 | sei  | juo  | 16 | uno'diz+sei    | 60 | sei'diz  |
-7 | xet  | kuo  | 17 | uno'diz+xet    | 70 | xet'diz  |
+7 | set  | kuo  | 17 | uno'diz+set    | 70 | set'diz  |
 8 | oca  | luo  | 18 | uno'diz+oca    | 80 | oca'diz  |
 9 | nov  | nuo  | 19 | uno'diz+nov    | 90 | nov'diz  | 
            
@@ -44,7 +44,7 @@ x | maj  |      | xx | maj            | xx | maj      |
  400 =  cat'cen
  500 =  cec'cen
  600 =  sei'cen
- 700 =  xet'cen
+ 700 =  set'cen
  800 =  oca'cen
  900 =  nov'cen
 ```
@@ -69,7 +69,7 @@ x | maj  |      | xx | maj            | xx | maj      |
  4,000 = cat'mil
  5,000 = cin'mil
  6,000 = sei'mil
- 7,000 = xet'mil
+ 7,000 = set'mil
  8,000 = oca'mil
  9,000 = nov'mil
 ```

@@ -15,11 +15,6 @@ ciao  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vedia
 adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 
-Adverbs borrowed from Spanish:
-
-**used**
-ale   = every 
-por   = for (to)
 
 **examples:**
 
@@ -41,16 +36,18 @@ por   = for (to)
 
 **operations**
 
-Maj  | English | Description
------|---------|------------------------------------
-ia   | yes     | affirmative
-no   | no      | negative 
-or   | or      | alternative
-et   | and     | conjunctive
-si   | if      | conditional
-es   | is      | short form of verb = seru
-ca   | like    | comparative preposition
-po   | for     | specify domain or purpose
+Maj | Alt | English | Description
+----|-----|---------|------------------------------------
+ia  |     | yes     | affirmative
+no  |     | no      | negative 
+or  |     | or      | conjunction
+et  |     | and     | conjunctive
+si  |     | if      | conditional
+es  |     | is      | short form of verb = seru
+ca  |     | like    | comparative preposition
+po  |     | for     | specify domain or purpose
+de  |     | about   | can specify a domain
+la  |     | to      | can specify a destination
 
 **symbols**
 
@@ -60,24 +57,18 @@ When used in text some symbols are read out loud:
 * symbol `/` is read or
 * symbol `:` is read con (used for pair-up or time)
 
-**Interrogative:**
+## Nouns
 
-Interrogation is created with { qui, que, quo }:
- 
-maj     | english  | spanish | romanian
---------|----------|---------|---------
-qui     | who?     | quien   | cine
-que     | what?    | qué     | ce
-quo     | how?     | como    | cum
+In Maj nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. Most nouns are ending with `a` that can change into `e`. When a noun is enind with `e` it represents plural.  
 
-**using verb**
+** examples
 
-Most questions are using verbs:
-
-* qui seru're?  = who is ?
-* que magu're?  = what are you eating ?
-* quo bebu'pa?  = how was your drink ?   
-
+* pana   = bread
+* pane   = breads
+* bana   = banana
+* bane   = bananas
+* aqua   = the water
+* huga   = the juice  
 
 ## Article prepositions
 
@@ -141,7 +132,7 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 
 * ita  pana    = the bread
 * ite  pana    = these breads
-* ita  acua    = the water
+* ita  aqua    = the water
 * ita  bana    = the banana
 * ite  bana    = these bananas
 * ita  huga    = the juice  
@@ -153,7 +144,7 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 
 ## Pronoun
 
-Is a word that can function by itself as a noun phrase and that refers either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
+Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
 
 * nominative
 * objective
@@ -188,8 +179,6 @@ Is the person who receive the action.
 
 Is a composite word for a person or object who own something or have something.
 
-haru = to have
-
 singular    | plural
 ------------|--------------------------------
 meo = mine  | nuo = ours
@@ -198,25 +187,58 @@ hio = his   | zuo = theirs
 xio = hers  | xuo = theirs
 lio = its   | luo = theirs
 
+## Verbs & conjugation
+
+The verbs have a root of 4 - 5 character long and is terminated with `u`. Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 6 to 4. There are plenty of possible combinations that do not sound so bad if we put some work into it.
+
+**rules:**
+
+1. A verb is referring to somebody or something that is the subject of the discussion. The verb is used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
+
+2. The verb do not change its root with the case or number. However, a verb root can change `u` in `a` or `e` to becomes a noun. If "u" is changed to "o" it becomes adjective. 
+
+**Some popular verbs:**
+
+ Maj     |Spanish      | English
+---------|-------------|---------------
+ andu    |             | to go
+ aidu    |ayudar       | to help
+ artu    |crear        | to create
+ bebu    |             | to drink
+ cibu    |escribir     | to write
+ ganu    |ganar        | to earn/win
+ haru    |             | to have
+ magu    |             | to eat 
+ orsu    |correr       | to run 
+ oidu    |oír          | to hear 
+ picu    |             | to like 
+ uscu    |buscar       | to look for
+ liru    |leer         | to read
+ pezu    |empezar      | to start
+ jocu    |jugar        | to play
+ vivu    |vivir        | to be alive 
+ vidu    |             | to see
+ venu    |             | to come 
+ seru    |             | to will
+ sanu    |             | to get healthy
+
 ## Time prepositions
 
-Information for time is ending with "u".
-
-tepa = time
-
 * Verbs can be followed by time but the verb remain unchanged,
-* Composite words are using "-" to link two words close together,
-* Linked words are pronounced almost as a single word
+* Composite words are using "'" to link two words close together,
+* Linked words are pronounced as a single word
+
 
 **nouns:**
 
+* tepa  = time
 * futa  = future
 * resa  = present  
 * pasa  = past
 
 **examples:**
 
-* nara de futa = a story from future
+* nara de futa = story from future
 * dica de pasa = talk about the past
 
 **sufix:**
@@ -228,7 +250,7 @@ ugo     | present (continuum present)
 ufu     | sometime in the future
 upa     | sometime in the past
 
-**time based greetings**
+**time prepositions**
 
 * foa   = sometime 
 * nuc   = never (Spanish nunca
@@ -240,10 +262,10 @@ upa     | sometime in the past
 
 vidu  = to see
 
-* to vid'ufu suv ita my!  = you will see me often!
-* to vid'ure foa ita my!  = you can see me sometime!
-* jo vid'upa nuc ita ty!  = I have never seen you before!
-* jo vid'ugo nau ita vy!  = I see you all now!
+* te vid'ufu suv ita my!  = you will see me often!
+* te vid'ure foa ita my!  = you can see me sometime!
+* je vid'upa nuc ita ty!  = I have never seen you before!
+* je vid'ugo nau ita vy!  = I see you all now!
 
 Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
 
@@ -252,37 +274,38 @@ Structure of above propositions: Subject + verb'time + adverb + article + pronou
 * Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
 
-
 **singular conjugation**
 
-* zi joc'ure = he is playing right now
-* zi joc'ufu = he will play in the future 
-* zi joc'upa = he play some time ago
+jocu = to play
+
+* hi joc'ure = he is playing right now
+* hi joc'ufu = he will play in the future 
+* hi joc'upa = he play some time ago
 
 **plural conjugation**
-* ni joc algo = we play sometimes
-* vi joc nuco = you never play
-* zi joc suvo = they play often
+* nu jocu foa  = we play sometime
+* vu jocu nuc  = you never play
+* zu jocu suv  = they play often
 
 ## Verb transformation
 
-You can transform a verb into an attribute using suffix 'uxa
+Basic for of Wee verb into an attribute using suffix 'uxo
 
 **to adjective:**
 
-jocu => joc'uxa = playful
+jocu => joc'uxo = playful
 
 **So far:**
 * je ser joc'uxo = I'm playful
-* ve ser joc'uxo = you are playful 
-* ze ser joc'uxo = he is playful
+* te ser joc'uxo = you are playful 
+* hi ser joc'uxo = he is playful
 
 **to noun:**
 
-Use termination 'ina to make a noun, 'ira.
+Use termination 'era to make a noun.
 
-* je ser'upa una joc'ira = I was a player
-* ne ser'ufu joc'ira     = we will be players
+* je ser'upa una joc'era = I was a player
+* nu ser'ufu joc'era     = we will be players
 
 ## Locations
 
@@ -320,15 +343,37 @@ These three directions are very important prepositions:
 
 Maj   | English | German | Romanian | Franch  | Spanish
 ------|---------|--------|----------|---------|---------
-de    | from    | fon    | de       | de      | de
-la    | to      | zu     | la       | vers    | para
+von   | from    | von    | de       | de      | de
+tsu   | to      | zu     | la       | vers    | para
+via   | by      | durch  | prin     | por     | par
+aus   | off     | aus    | de       | de      | apagado
 
+We use German words, written with Maj alphabet:
+
+von = from
+tsu = toward
   
 Examples:
 
-## Interrogative
+**Interrogative:**
 
-Preposition "ubi" can be used for questions about location:
+Interrogation is created with { qui, que, quo }:
+ 
+maj     | english  | spanish | romanian
+--------|----------|---------|---------
+qui     | who?     | quien   | cine
+que     | what?    | qué     | ce
+quo     | how?     | como    | cum
+
+**using verb**
+
+Most questions are using verbs:
+
+* qui ser'ure?  = who is ?
+* que mag'ure?  = what are you eating ?
+* quo beb'upa?  = how was your drink ?   
+
+Preposition ubi can be used for questions about location:
 
 **short form**
 * ubi tu and'ure? = where you going?
@@ -336,12 +381,12 @@ Preposition "ubi" can be used for questions about location:
 * ubi tu ser'ure? = where are you from?
     
 **longer form**    
-* ubi ser la loca que tu joc'ure? = where is the place you are plaing?
-* ubi ser la loca que ne and'ure? = where is the place we  are going?
+* ubi ser tsu loca que ty joc'ure? = where is the place you are plaing?
+* ubi ser tsu loca que ny and'ure? = where is the place we  are going?
 
 **expressions**
   
-* de ubi la ubi? = from where to where!
-* de hir la der! = from here to there!
-* de loca que tu picu!  = from where you like!
+* von ubi tsu ubi? = from where to where!
+* von hir tsu der! = from here to there!
+* von loca que ty picu!  = from where you like!
 

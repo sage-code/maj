@@ -27,9 +27,9 @@ Maj     | English        | Romanian
 Mama    | mother         | mama
 Tata    | father         | tata
 Nana    | grand mother   | bunica
-Naxu    | grand father   | bunicu
-Homo    | men            | bărbat
-Femo    | women          | femeie
+Naxa    | grand father   | bunicu
+Homa    | men            | bărbat
+Fema    | women          | femeie
 
 **3 syllables**
 
@@ -44,11 +44,11 @@ Locara  | worker         | ingrijitor
 2. for distinguish between male and female beings we use adjectives: 
 
 * maso  = male    (latin: masculum)
-* fema  = female  (latin: feminam)
+* femo  = female  (latin: feminam)
 
 ```
 maso cyne  = dog male
-fema cyne  = dog female
+femo cyne  = dog female
 ```
 
 ## Noun suffix
@@ -91,7 +91,14 @@ femo cyn'uca  = dogy female
 
 ## Noun prefix
 
-Sometimes we use a prefix to create a new word:
+Sometimes we use a preposition determinant to create a new meaning for words:
 
-* no  = not - create antonyms
-* po  = for - specify purpose
+* non  = not - create antonyms
+* por  = for - specify purpose
+
+```
+por'bebo aqua = drinking water
+non'bebo aqua = industrial water
+non'bola beba = non alcoholic drink
+```
+
