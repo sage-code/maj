@@ -34,15 +34,13 @@ vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 * vero = the truth
 * faso = the opposite of truth   
 
-**conjunction*
+**symbols**
 
-A word used to connect clauses or sentences or to coordinate words in the same clause.
+When used in text some symbols are read out loud:
 
-Conjunction is used when...
-
-* you have two ideas and you want to connect them in a sentence;
-* an idea you have, depends on another idea;
-* you want to add a new idea into an existing one;
+* symbol `+` is read et
+* symbol `/` is read or
+* symbol `:` is read con (used for pair-up or time)
 
 
 Maj  | Alt | English | Description
@@ -66,34 +64,61 @@ ma   | abe | but     | specify an alternative
  ·   |  ·  | thus    | therefore
  ·   |  ·  | same    | the same as
     
-    
-    
-Maj  | Franch | English | Example
------|--------|---------|------------------------------------
-  ·  | mais   | but	    | * C’est cher mais de très bonne qualité
-  ·  |   ·    |   ·     | * It’s expensive, but very good quality
-  ·  | ou     | or      | * Nous allons au cinéma ou nous allons au supermarché
-  ·  |  ·     |  ·      | * We go to the cinema or we go to the supermarket
-  ·  | et     | and     | * Marc et Alice vont à la plage
-  ·  |   ·    |  ·      | * Marc and Alice go to the beach
-  ·  | donc   |so,      | * C’est donc toi!
-  ·  |  ·     |therefore| * So it was you!
-  ·  | or     |now,     | * Il faut tenir les délais, or, ce n’est pas possible
-  ·  |  ·     |yet      | * The deadlines must be met, now this is not possible
-  ·  | ni     |neither  | * Il ne veut ni l’argent ni les cadeaux
-  ·  |  ·     |nor      | * He doesn’t want neither money nor gifts
-  ·  | car    |because  | * Il reste calme car il est gentil
-  ·  |  ·     |   ·     | * He stays calm because he is nice    
- 
-    
-    
-**symbols**
 
-When used in text some symbols are read out loud:
+**conjunction*
 
-* symbol `+` is read et
-* symbol `/` is read or
-* symbol `:` is read con (used for pair-up or time)
+A word used to connect clauses or sentences or to coordinate words in the same clause.
+
+Conjunction is used when...
+
+* you have two ideas and you want to connect them in a sentence;
+* an idea you have, depends on another idea;
+* you want to add a new idea into an existing one;
+  
+    
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | mais   | C’est cher mais de très bonne qualité
+English | but    | It’s expensive, but very good quality
+Spanish | pero   | Es caro, pero de muy buena calidad.
+
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
+English | or     | We go to the cinema or we go to the supermarket
+Spanish | o      | Vamos al cine o vamos al supermercado        
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | et     | Marc et Alice vont à la plage
+English | and    | Marc and Alice go to the beach
+Spanish | y      | Marc y Alice van a la playa
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | donc   | C’est donc toi!
+English | so     | So it was you!
+Spanish | entonce| ¡Entonces fuiste tú!
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
+English | now,yet| The deadlines must be met, yet this is not possible
+Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
+English | nor    | He doesn’t want neither money nor gifts
+Spanish | ni     | No quiere ni dinero ni regalos.
+
+Lang    | Word    |  Example
+--------|---------|----------------------------------------------
+Franch  | car     | Il reste calme car il est gentil
+English | because | He stays calm because he is nice    
+Spanish | porque  | Se mantiene tranquilo porque es agradable.   
+    
 
 ## Nouns
 
