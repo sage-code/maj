@@ -115,6 +115,6 @@ bit | maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... tea dua una et razu aus !!! 
+* ... tia due uno et razu aus !!! 
 
 Great!
