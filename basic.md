@@ -53,43 +53,43 @@ or   | vel | or      | conjunction
 et   | ety | and     | conjunctive
 si   | sif | if      | conditional
 es   | esu | is      | short form of verb = seru
-ca   |     | like    | comparative preposition
+ca   |  ·  | like    | comparative preposition
 po   | por | for     | specify domain or purpose
-de   |     | about   | can specify a domain
-la   |     | to      | can specify a destination
+de   |  ·  | about   | can specify a domain
+la   |  ·  | to      | can specify a destination
 ma   | abe | but     | specify an alternative
-     |     | then    | consequence
-     |     | case    | when is the case
-     |     | when    | establish event
-     |     | if      | is possible
-     |     | if      | is mandatory
-     |     | thus    | therefore
-     |     | same    | the same as
+ ·   |  ·  | then    | consequence
+ ·   |  ·  | case    | when is the case
+ ·   |  ·  | when    | establish event
+ ·   |  ·  | if      | is possible
+ ·   |  ·  | if      | is mandatory
+ ·   |  ·  | thus    | therefore
+ ·   |  ·  | same    | the same as
     
     
     
 Maj  | Franch | English | Example
 -----|--------|---------|------------------------------------
-     | mais   | but	    | * C’est cher mais de très bonne qualité
-     |        |         | * It’s expensive, but very good quality
+  ·  | mais   | but	    | * C’est cher mais de très bonne qualité
+  ·  |   ·    |   ·     | * It’s expensive, but very good quality
 -----|--------|---------|------------------------------------
-     | ou     | or      | * Nous allons au cinéma ou nous allons au supermarché
-     |        |         | * We go to the cinema or we go to the supermarket
+  ·  | ou     | or      | * Nous allons au cinéma ou nous allons au supermarché
+  ·  |  ·     |  ·      | * We go to the cinema or we go to the supermarket
 -----|--------|---------|------------------------------------
-     | et     | and     | * Marc et Alice vont à la plage
-     |        |         | * Marc and Alice go to the beach
+ ·   | et     | and     | * Marc et Alice vont à la plage
+ ·   |   ·    |  ·      | * Marc and Alice go to the beach
 -----|--------|---------|------------------------------------
-     | donc   |so,      | * C’est donc toi!
-     |        |therefore| * So it was you!
+  ·  | donc   |so,      | * C’est donc toi!
+  ·  |  ·     |therefore| * So it was you!
 -----|--------|---------|------------------------------------
-     | or     |now,yet  | * Il faut tenir les délais, or, ce n’est pas possible
-     |        |         | * The deadlines must be met, now this is not possible
+  ·  | or     |now,yet  | * Il faut tenir les délais, or, ce n’est pas possible
+  ·  |  ·     |         | * The deadlines must be met, now this is not possible
 -----|--------|---------|------------------------------------
-     | ni     |neither  | * Il ne veut ni l’argent ni les cadeaux
-     |        |nor      | * He doesn’t want neither money nor gifts
+  ·  | ni     |neither  | * Il ne veut ni l’argent ni les cadeaux
+  ·  |  ·     |nor      | * He doesn’t want neither money nor gifts
 -----|--------|---------|------------------------------------
-     | car    |because  | * Il reste calme car il est gentil
-     |        |         | * He stays calm because he is nice    
+  ·  | car    |because  | * Il reste calme car il est gentil
+  ·  |  ·     |   ·     | * He stays calm because he is nice    
  
     
     
