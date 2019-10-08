@@ -106,9 +106,9 @@ bit | maj      | description
 ----|----------|----------------------
 0/1 | bit      | one bit
 8   | bin      | one word
-16  | du'bin   | short integer
-32  | ku'bin   | integer
-64  | oc'bin   | long integer
+16  | due'bin  | short integer
+32  | cat'bin  | integer
+64  | oca'bin  | long integer
 
 ## Counting:
 

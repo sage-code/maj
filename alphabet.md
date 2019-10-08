@@ -81,8 +81,9 @@ Letter "C", "c" is whistled when followed by one of {`e`,`i`,`h`}. To pronounce 
 
 **Fricative Q**
 
-Letter "Q", "q" is pronounced "ɢ" when used in middle of words. To pronounce this sound you must press the back of your tongue on the back roof and produce a fricative voiced "gu". The best symbol for this sound is "ɢ"
+Letter "Q", "q" is pronounced "ɢ" when followed by {`e`, `i`}. To pronounce this sound you must press the back of your tongue on the back roof and produce a fricative voiced "gue" or "gui". The best symbol for this sound is "ɢ".
 
+Letter "Q" follow by "u" is pronounced "k". So the "que" or "qui" is read "ke" and "ki" instead of "gue" and "gui". That is inconvenient bu no writing is perfect so we have this exception.
 
 ## Digraphs
 
@@ -90,7 +91,8 @@ Some sounds are created using two letters creating a new sounds.
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-iy | â, î    | i͡ɨ
+yi | â, î     | ɨ͡i
+iy | â, î     | i͡ɨ
 ts | ţ        | t͡s
 ce | ce       | t͡ʃe
 ci | ci       | t͡ʃi
@@ -103,20 +105,36 @@ qi | ghi      | ɢi
 **description:**
 
 * sound `ts`  is `t͡s` like `t's` in "cats";
-* sound `iy`  is `i͡ɨ` like `eo`  in "pigeon";
+* sound `yi`  is `i͡ɨ` like `eo`  in "pigeon";
 * sound `ce`  is `t͡ʃ` like `ch`  in "chase"; 
 * sound `ci`  is `t͡ʃ` like `ch`  in "peach";
 * sound `sh`  is `ʃ`   like `sh`  in "fashion";
 * sound `ge`  is `d͡ʒ` like `ge`  in "Georgia";
 * sound `gi`  is `d͡ʒ` like `gi`  in "Georgia";
 
-## Letter `h`
+## Silent `h`
+
+Sometimes letter `h` is silent, some other times is voiced:
 
 * Letter `h` is always voiced at beginning of words;
-* Letter `h` is voiced when is following pr preceding a vowel;
+* Letter `h` is voiced when is following or preceding a vowel;
 * Letter `h` is not voiced when is following a consonant;
-* Letter `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi";
 
+**Notes** 
+
+* Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `pitch`.
+* Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
+
+In Romanian, `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi", this convention can not be used in Maj since it enters in conflict with English convention which is more popular. However Maj has 2 digraphs not available in English:
+
+For Romanians:
+
+* sound `qe` = sound `ghe`
+* sound `gi` = sound `ghi`
+* sound `ke` = sound `che`
+* sound `ki` = sound `chi`
+
+## Cedilla
 
 Though elegant and useful in other Languages, Maj do not use cedilla:
 
@@ -124,26 +142,19 @@ Though elegant and useful in other Languages, Maj do not use cedilla:
 
 **notes**
 
-* Maj accept names from other languages without phonetic translation:  
-* New York, Chicago or Washington are acceptable names in Maj.
-* France is accepted but "française" should be translated to "franchez"
+* Most names from other Romanic languages do not need phonetic translation
+* New York, Chicago or Washington are read correctly in Maj
+* France is accepted but "française" should be translated to "francez"
 
 ## Modified Letters
 
 {W, Q, K, X, Y}
 
-**W**
+**Rarely used: W**
 * can be present only at beginning of words: for example: "whiskey".
 * inside or at end of words we always use "u" not "w".
 
-**Q** 
-
-Q is not present in following alphabets:
-
-* Cornish, Estonian, Icelandic, 
-* Irish, Latvian, Lithuanian, 
-* Polish, Serbo-Croatian, Scottish Gaelic, 
-* Slovenian, Turkish, or Welsh. 
+**Modified: Q** 
 
 Maj has a special use for Q:
 
@@ -153,34 +164,39 @@ Maj has a special use for Q:
 
 For example: "aqua" is going to be pronounced: "agua"
 
-**X**
+Note: Q is not present in following alphabets:
+
+* Cornish, Estonian, Icelandic, 
+* Irish, Latvian, Lithuanian, 
+* Polish, Serbo-Croatian, Scottish Gaelic, 
+* Slovenian, Turkish, or Welsh. 
+
+**Modified: X**
 * In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words;
 * The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation;
 
-**Y**
-* `y` at the beginning of words is pronounced "Y" like in New York, yes, yacht;
-* `y` after vowel {'i'} is pronounced `ɨ` like ` in "pigeon";
-* `y` after vowel {'a', 'e','o','u'} or consonant is pronounced `ə` like `a`  in "chocolate";
+**Modified: Y**
+* `y` at the beginning of words is pronounced "Y" like in New York, Yes, Yacht;
+* `y` can be pronounced both `ɨ` like `eo` in "pigeon" or `ə` like `a`  in "chocolate";
 
-
-**K**
+**Modified: K**
 * `k` is used to avoid duplicate letter `c` in words like `akcidy`;
 * `k` is used before {`e`,`i`} to prevent formation of diphthongs: {`ke`, `ki`};
 
-**Examples**
+## Phonetic examples
 
-If we were to use Maj alphabet we could write English words like this:
+If we were to use Maj alphabet we could write some English words like this:
 
 she       => xe
 generator => generetyr
-pigeon    => pidjyn
-giraffe   => dgiraf
+pigeon    => pigiyn
+giraffe   => giraf
 fusion    => fujyn
 guitar    => qitar
 gees      => qis
 cheese    => ciz
 accident  => akcidynt 
-chocolate => ceoclyt
+chocolate => cioclyt
 peach     => pici
 speech    => spici
 initial   => inixyl  

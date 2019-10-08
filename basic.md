@@ -18,9 +18,9 @@ vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 
 **examples:**
 
-* helo por ale zu = hello everyone
-* ciao por ale zu = goodbye everyone 
-* vale por ale zu = let's go everyone
+* helo pro ale zu = hello everyone
+* ciao pro ale zu = goodbye everyone 
+* vale pro ale zu = let's go everyone
 
 **note:** Some form of salut have multiple meanings
 
@@ -34,112 +34,137 @@ vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 * vero = the truth
 * faso = the opposite of truth   
 
-**symbols**
+## Symbols
 
 When used in text some symbols are read out loud:
 
-* symbol `+` is read et
-* symbol `/` is read or
-* symbol `:` is read con (used for pair-up or time)
+* symbol `+`  is read et
+* symbol `/`  is read or
+* symbol `.`  is read pu
+* symbol `,`  is read co
+* symbol `:`  is read ot
+* symbol `;`  is read ut
+* symbol `?`  is read di
+* symbol `!`  is read si
+* symbol `\*` is read ti
 
+## Prepositions
 
-Maj  | Alt | English | Description
+Following random prepositions may be used in logical arguments.
+
+Alt  | Maj | English | Description
 -----|-----|---------|------------------------------------
 ia   | oga | yes     | affirmative
 no   | net | no      | negative 
 or   | vel | or      | conjunction
 et   | ety | and     | conjunctive
-si   | sif | if      | conditional
-es   | esu | is      | short form of verb = seru
-ca   |  ·  | like    | comparative preposition
-po   | por | for     | specify domain or purpose
-de   |  ·  | about   | can specify a domain
-la   |  ·  | to      | can specify a destination
+es   | ser | is      | short form of verb seru = to be
+ha   | har | have    | short form of verb haru = to have
+po   | pro | for     | specify domain or purpose
+de   | von | from    | can specify a domain (belonging)
+la   | tsu | to      | can specify a destination (into)
 ma   | abe | but     | specify an alternative
- ·   |  ·  | then    | consequence
- ·   |  ·  | case    | when is the case
- ·   |  ·  | when    | establish event
- ·   |  ·  | if      | is possible
- ·   |  ·  | if      | is mandatory
- ·   |  ·  | thus    | therefore
- ·   |  ·  | same    | the same as
-    
+si   | sif | if      | conditional
+ ·   | tal | maybe   | possible
+ ·   | puo | can     | has the capability
+ut   | dot | must    | mandatory
+ ·   | mei | may     | is permitted
+fo   | fob | may not | is forbidden
+va   | eto | then    | consequence
+is   | cas | case    | when is the case
+iv   | cud | when    | establish event
+so   | asi | thus    | therefore
+ca   | ecu | like    | comparative
+id   | mem | same    | identical
+ .   | vir | while   | while condition
+ .   | cyz | because | cause of a consequence
+ 
 
-**conjunction*
-
-A word used to connect clauses or sentences or to coordinate words in the same clause.
-
-Conjunction is used when...
-
-* you have two ideas and you want to connect them in a sentence;
-* an idea you have, depends on another idea;
-* you want to add a new idea into an existing one;
-  
-    
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | mais   | C’est cher mais de très bonne qualité
-English | but    | It’s expensive, but very good quality
-Spanish | pero   | Es caro, pero de muy buena calidad.
-
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
-English | or     | We go to the cinema or we go to the supermarket
-Spanish | o      | Vamos al cine o vamos al supermercado        
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | et     | Marc et Alice vont à la plage
-English | and    | Marc and Alice go to the beach
-Spanish | y      | Marc y Alice van a la playa
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | donc   | C’est donc toi!
-English | so     | So it was you!
-Spanish | entonce| ¡Entonces fuiste tú!
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
-English | now,yet| The deadlines must be met, yet this is not possible
-Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
-English | nor    | He doesn’t want neither money nor gifts
-Spanish | ni     | No quiere ni dinero ni regalos.
-
-Lang    | Word    |  Example
---------|---------|----------------------------------------------
-Franch  | car     | Il reste calme car il est gentil
-English | because | He stays calm because he is nice    
-Spanish | porque  | Se mantiene tranquilo porque es agradable.   
-    
+**Note:** "·" not yet establish
 
 ## Nouns
 
-In Maj nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. Most nouns are ending with `a` that can change into `e`. When a noun is enind with `e` it represents plural.  
+Nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. Most nouns are ending with `a` that can change into `e`. When a noun is ending with `e` it represents plural.  
 
-** examples
+**examples:**
 
 * pana   = bread
 * pane   = breads
 * bana   = banana
 * bane   = bananas
-* aqua   = the water
-* huga   = the juice  
+* aqua   = water
+* huga   = juice  
 
-## Article prepositions
+**gender**
+
+For distinguish between male and female beings we use adjectives: 
+
+* maso  = male    (latin: masculum)
+* femo  = female  (latin: feminam)
+
+```
+maso cana = dog male
+femo cana = dog female
+```
+
+## Noun suffix
+
+* You can add a suffix to a noun to add information about the noun properties.
+* After root you can use apostrophe `'` to connect with a suffix.
+
+Sometimes we use suffix to create a composite word for representing nouns:
+
+**harmful content**
+
+* for beverage containing alcohol, we use suffix 'ola 
+* there is food prepared with alcohol we also use 'ola 
+* for food that contains a lot of sugar we use 'osa,  
+
+```
+* ber'ola  = bear
+* gas'osa  = sweet drink
+* xoc'osa  = sweet chocolate
+* xoc'ola  = sweet chocolate with alcohol
+```
+
+**diminutives**
+
+Maj enable diminutives using suffix: 'uca. 
+
+
+** close persons
+* Mam'uca  = mommy
+* Tat'uca  = daddy
+
+** close pet
+* maso can'uca  = dogy male
+* femo can'uca  = dogy female
+
+
+**notes**
+* Whe a noun is uses suffix, it looses a vowel from last syllable that is replaced by apostrophe,
+* Proper nouns (names of places or persons) do not support diminutives.
+
+## Determinant
+
+Sometimes we use a preposition determinant to create a new meaning for words:
+
+* non  = not - create antonyms
+* pro  = for - specify purpose
+
+```
+pro'bebo aqua = drinking water
+non'bebo aqua = industrial water
+non'bola beba = non alcoholic drink
+```
+
+## Article
 
 An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to _point out_ or _refer_ nouns or a group of nouns. 
 
 There are two different types of articles: definite and indefinite articles.
 
-**Maj definite Article**
+**Maj definite article**
 
 singular     | plural
 -------------|-------------
@@ -180,6 +205,7 @@ poc = few
 van = several
 som = some 
 non = none
+pro = for
 
 
 **Article Usage**
@@ -219,11 +245,11 @@ Is the person who perform the action.
 
   p  |singular       | plural
 -----|---------------|-----------------------------
-  1  | je = I        | nu = we
-  2  | te = you      | vu = you
-  3  | hi = he       | zu = they
-  3  | xi = she      | 
-  3  | li = it       | 
+  1  | ja = I        | na = we
+  2  | ta = you      | va = you
+  3  | ha = he       | za = they
+  3  | xa = she      | 
+  3  | la = it       | 
 
 
 **Objective**
@@ -232,11 +258,11 @@ Is the person who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
- 1  | my  = me  | ny = us
- 2  | ty  = you | vy = you all
- 3  | hy  = he  | zy = them
- 3  | xy  = her | 
- 3  | ly  = it  | 
+ 1  | mi  = me  | ni = us
+ 2  | ti  = you | vi = you all
+ 3  | hi  = he  | zi = them
+ 3  | xi  = her | 
+ 3  | li  = it  | 
 
 **Possessive**
 
@@ -246,9 +272,9 @@ singular    | plural
 ------------|--------------------------------
 meo = mine  | nuo = ours
 teo = yours | vuo = yours
-hio = his   | zuo = theirs
-xio = hers  | xuo = theirs
-lio = its   | luo = theirs
+heo = his   | zuo = theirs
+xeo = hers  | xuo = theirs
+leo = its   | luo = theirs
 
 ## Verbs & conjugation
 
@@ -262,28 +288,28 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`. Verbs 
 
 **Some popular verbs:**
 
- Maj     |Spanish      | English
----------|-------------|---------------
- andu    |             | to go
- aidu    |ayudar       | to help
- artu    |crear        | to create
- bebu    |             | to drink
- cibu    |escribir     | to write
- ganu    |ganar        | to earn/win
- haru    |             | to have
- magu    |             | to eat 
- orsu    |correr       | to run 
- oidu    |oír          | to hear 
- picu    |             | to like 
- uscu    |buscar       | to look for
- liru    |leer         | to read
- pezu    |empezar      | to start
- jocu    |jugar        | to play
- vivu    |vivir        | to be alive 
- vidu    |             | to see
- venu    |             | to come 
- seru    |             | to will
- sanu    |             | to get healthy
+ Maj     |Spanish       | English
+---------|--------------|---------------
+ andu    |ir            | to go
+ aidu    |ayudar        | to help
+ artu    |crear         | to create
+ bebu    |beber         | to drink
+ cibu    |escribir      | to write
+ ganu    |ganar / ganar | to earn/win
+ haru    |tener         | to have
+ magu    |comer         | to eat 
+ orsu    |correr        | to run 
+ oidu    |escuchar      | to hear 
+ picu    |gustar        | to like 
+ uscu    |buscar        | to look for
+ liru    |leer          | to read
+ jocu    |jugar         | to play
+ vivu    |estar vivo    | to be alive 
+ vidu    |para ver      | to see
+ venu    |venir         | to come 
+ volu    |a voluntad    | to will 
+ seru    |ser           | to be   
+ sanu    |saludable     | to get healthy
 
 ## Time prepositions
 
@@ -404,12 +430,12 @@ der | there     |ahi      | English
 
 These three directions are very important prepositions:
 
-Maj   | English | German | Romanian | Franch  | Spanish
-------|---------|--------|----------|---------|---------
-von   | from    | von    | de       | de      | de
-tsu   | to      | zu     | la       | vers    | para
-via   | by      | durch  | prin     | por     | par
-aus   | off     | aus    | de       | de      | apagado
+Maj |Maj   | English | German | Romanian | Franch  | Spanish
+----|------|---------|--------|----------|---------|---------
+de  |von   | from    | von    | de       | de      | de
+la  |tsu   | to      | zu     | la       | vers    | para
+vi  |via   | by      | durch  | prin     | por     | par
+di  |aus   | off     | aus    | din      | de      | apagado
 
 We use German words, written with Maj alphabet:
 
@@ -453,3 +479,74 @@ Preposition ubi can be used for questions about location:
 * von hir tsu der! = from here to there!
 * von loca que ty picu!  = from where you like!
 
+
+## Logic conjunction
+
+A word used to connect clauses or sentences or to coordinate words in the same clause.
+
+Conjunction is used when...
+
+* you have two ideas and you want to connect them in a sentence;
+* an idea you have, depends on another idea;
+* you want to add a new idea into an existing one;
+  
+**Maj:** abe 
+    
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | mais   | C’est cher mais de très bonne qualité
+English | but    | It’s expensive, but very good quality
+Spanish | pero   | Es caro, pero de muy buena calidad.
+
+**Maj:** ory
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
+English | or     | We go to the cinema or we go to the supermarket
+Spanish | o      | Vamos al cine o vamos al supermercado        
+
+**Maj:** vel
+
+Marc vel Alice and'upa la plaia 
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | et     | Marc et Alice vont à la plage
+English | and    | Marc and Alice go to the beach
+Spanish | y      | Marc y Alice van a la playa
+
+**Maj:** so
+
+So ita ser'ufu ty!
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | donc   | C’est donc toi!
+English | so     | So it was you!
+Spanish | entonce| ¡Entonces fuiste tú!
+
+**Maj:** ica
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
+English | now,yet| The deadlines must be met, yet this is not possible
+Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
+
+**Maj:** nic
+
+Lang    | Word   |  Example
+--------|--------|----------------------------------------------
+Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
+English | nor    | He doesn’t want neither money nor gifts
+Spanish | ni     | No quiere ni dinero ni regalos.
+
+**Maj:** cyz
+
+Lang    | Word    |  Example
+--------|---------|----------------------------------------------
+Franch  | car     | Il reste calme car il est gentil
+English | because | He stays calm because he is nice    
+Spanish | porque  | Se mantiene tranquilo porque es agradable.   
+    
