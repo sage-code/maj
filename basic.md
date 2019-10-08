@@ -52,35 +52,34 @@ When used in text some symbols are read out loud:
 
 Following random prepositions may be used in logical arguments.
 
-Alt  | Maj | English | Description
------|-----|---------|------------------------------------
-ia   | oga | yes     | affirmative
-no   | net | no      | negative 
-or   | vel | or      | conjunction
-et   | ety | and     | conjunctive
-es   | ser | is      | short form of verb seru = to be
-ha   | har | have    | short form of verb haru = to have
-po   | pro | for     | specify domain or purpose
-de   | von | from    | can specify a domain (belonging)
-la   | tsu | to      | can specify a destination (into)
-ma   | abe | but     | specify an alternative
-si   | sif | if      | conditional
- ·   | tal | maybe   | possible
- ·   | puo | can     | has the capability
-ut   | dot | must    | mandatory
- ·   | mei | may     | is permitted
-fo   | fob | may not | is forbidden
-va   | eto | then    | consequence
-is   | cas | case    | when is the case
-iv   | cud | when    | establish event
-so   | asi | thus    | therefore
-ca   | ecu | like    | comparative
-id   | mem | same    | identical
- .   | vir | while   | while condition
- .   | cyz | because | cause of a consequence
- 
+ Maj | English | Description
+-----|---------|------------------------------------
+ oga | yes     | affirmative
+ net | no      | negative 
+ vel | or      | conjunction
+ ety | and     | conjunctive
+ ser | is      | short form of verb seru = to be
+ har | have    | short form of verb haru = to have
+ pro | for     | specify domain or purpose
+ von | from    | can specify a domain (belonging)
+ tsu | to      | can specify a destination (into)
+ abe | but     | specify an alternative
+ sif | if      | conditional
+ tal | maybe   | possible
+ puo | can     | has the capability
+ dot | must    | mandatory
+ mei | may     | is permitted
+ fob | may not | is forbidden
+ eto | then    | time consequence
+ don | so      | reasoning conclusion
+ cas | case    | when is the case
+ cud | when    | establish event
+ asi | thus    | therefore
+ ecu | like    | comparative
+ mem | same    | identical
+ vir | while   | while condition
+ cyz | because | cause of a consequence
 
-**Note:** "·" not yet establish
 
 ## Nouns
 
@@ -153,9 +152,9 @@ Sometimes we use a preposition determinant to create a new meaning for words:
 * pro  = for - specify purpose
 
 ```
-pro'bebo aqua = drinking water
-non'bebo aqua = industrial water
-non'bola beba = non alcoholic drink
+pro bebo aqua = drinking water
+non bebo aqua = industrial water
+non bola beba = non alcoholic drink
 ```
 
 ## Article
@@ -351,10 +350,10 @@ upa     | sometime in the past
 
 vidu  = to see
 
-* te vid'ufu suv ita my!  = you will see me often!
-* te vid'ure foa ita my!  = you can see me sometime!
-* je vid'upa nuc ita ty!  = I have never seen you before!
-* je vid'ugo nau ita vy!  = I see you all now!
+* te vid'ufu suv ita mi!  = you will see me often!
+* te vid'ure foa ita mi!  = you can see me sometime!
+* je vid'upa nuc ita ti!  = I have never seen you before!
+* je vid'ugo nau ita vi!  = I see you all now!
 
 Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
 
@@ -372,9 +371,9 @@ jocu = to play
 * hi joc'upa = he play some time ago
 
 **plural conjugation**
-* nu jocu foa  = we play sometime
-* vu jocu nuc  = you never play
-* zu jocu suv  = they play often
+* na jocu foa  = we play sometime
+* va jocu nuc  = you never play
+* za jocu suv  = they play often
 
 ## Verb transformation
 
@@ -385,16 +384,16 @@ Basic for of Wee verb into an attribute using suffix 'uxo
 jocu => joc'uxo = playful
 
 **So far:**
-* je ser joc'uxo = I'm playful
-* te ser joc'uxo = you are playful 
-* hi ser joc'uxo = he is playful
+* ja seru joc'uxo = I'm playful
+* ta seru joc'uxo = you are playful 
+* ha seru joc'uxo = he is playful
 
 **to noun:**
 
 Use termination 'era to make a noun.
 
-* je ser'upa una joc'era = I was a player
-* nu ser'ufu joc'era     = we will be players
+* je ser'upa uno joc'era = I was a player
+* nu ser'ufu ale joc'era = we will be all players
 
 ## Locations
 
@@ -412,37 +411,125 @@ veta | west      | oeste
       
 ## Preposition
 
-Location prepositions are 3 character long:
+A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for ?”.
 
-maj	| english	|spanish  | origin
-----| ----------|---------|---------
-ubi | where     |donde    | Latin   
-ino	| inside    |en       | Latin
-auf | on the    |sobra    | German
-abo	| above	    |encima   | German
-unt	| under	    |debajo   | German
-sus	| up	    |arriba   | Romanian
-jos	| down	    |abajo    | Romanian
-hir | here      |aqui     | English
-der | there     |ahi      | English  
-      
+* Prepositions are usually single syllable words.
+* Prepositiobs are invariant and have the same meaning. 
+
+**Rationale**
+
+Prepositions are very often used in Maj. Therefore they are the most important elements of the language. So we use Syllables of only 2 characters to create the prepositions. These are the shortest words in Maj.
+
+**Category of prepositions**
+
+English preposition can be considered in this categories: { time, place, direction, movement, agent, instrument }
+
+**Time & Place**
+
+* In English, time and place are differentiated with 3 prepositions { in > on > at}. 
+* Maj is using prepositions: { en, la, de } with signification: { en, to, from }
+
+**related nouns**
+
+Location related nouns are 4 character long, they are more important.
+
+loca  = location
+tepa  = time
+data  = date
+hora  = hour
+anoa  = year
+mina  = minute
+seda  = second
+asra  = the address
+seza  = season
+
+**Location examples**
+
+* in London  = de London
+* on Oxford Street = la locta Oxford Street de London
+* at 203 Oxford Street = la locta 203 Oxford Street de London
+
+**Time examples**
+
+* in 2005 = en anoa 2005
+* on Spring = en seza Spring 
+* at 21 of September 2005 = la data 21 de Septeber 2005
+* at 2:45 = la hora 2:45 (cut et pata-rin)
+
+**Agent & Tools**
+
+bai  = by    ( from English )
+con  = with  ( from Italian )
+
+**examples**
+
+von Mark Twain   = by Mark Twain
+con mia cut mane = with my two hand
+
+**movement**
+
+Movement prepositions indicating a direction of movement. 
+
+Maj      | English  | Origin
+---------|----------|--------
+cos      |Across    | Emglish
+log      |Along     | English
+veg      |Away From | German
+ito      |Into      | English
+oto      |Onto      | English
+ove      |Over      | English
+cha      |Towards   | Spanish 
+dur      |Through   | German
+uma      |Around    | German
+ruc      |Back      | German
+         
+         
+**positions**
+
+Indicate a position of object relative to other object.
+
+Maj     |English             | Spanish         | Origin
+--------|--------------------|-----------------|---------
+auf     |On                  |en               | German
+aus     |Off                 |apagado          | German
+con     |Beside , Next To    |junto, al lado de| German
+der     |Behind              |detrás           | German
+fra     |Between             |entre            | German
+ino     |Inside              |dentro           | Latin
+nah     |Near                |cerca            | German
+out     |Out                 |fuera            | English
+out     |Outside             |fuera de         | English
+pre     |Close By            |cerca de, por    | Franch
+pri     |Prior               |anterior         | English
+top     |On Top              |encima           | English
+abo     |Above               |encima           | English
+unt     |Under,Below,Beneath |debajo           | German
+via     |Via, By             |vía              | Latin
+sus	    |Up	                 |arriba           | Romanian
+jos	    |Down                |abajo            | Romanian
+ubi     |where               |donde            | Latin   
+abo	    |above	             |encima           | German
+hir     |here                |aqui             | English
+der     |there               |ahi              | English  
+
 ## Directions
 
 These three directions are very important prepositions:
 
-Maj |Maj   | English | German | Romanian | Franch  | Spanish
-----|------|---------|--------|----------|---------|---------
-de  |von   | from    | von    | de       | de      | de
-la  |tsu   | to      | zu     | la       | vers    | para
-vi  |via   | by      | durch  | prin     | por     | par
-di  |aus   | off     | aus    | din      | de      | apagado
+Maj   | English | German | Romanian | Franch  | Spanish
+------|---------|--------|----------|---------|---------
+von   | from    | von    | de       | de      | de
+tsu   | to      | zu     | la       | vers    | para
+via   | by      | durch  | prin     | por     | par
+aus   | off     | aus    | din      | de      | apagado
 
 We use German words, written with Maj alphabet:
 
 von = from
 tsu = toward
   
-Examples:
+
+
 
 **Interrogative:**
 
@@ -516,9 +603,9 @@ Franch  | et     | Marc et Alice vont à la plage
 English | and    | Marc and Alice go to the beach
 Spanish | y      | Marc y Alice van a la playa
 
-**Maj:** so
+**Maj:** don
 
-So ita ser'ufu ty!
+don ita ser'ufu ty!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

@@ -12,23 +12,23 @@ All numerals are created from base of 3 letters.
 
 * The numbers do not have genre,
 * The numbers do not have plural form,
-* Two numerals are combined using `et` symbol `+`
+* Two numerals are combined using `ety` symbol `+`
 * Some numbers are combined using apostrophe 
 
 **Then = diz** 
 
-x | maj  |      | xx | maj            | xx | maj      |
---|------|------|----|----------------|----|----------|
-0 | nul  | buo  | 10 | uno'diz+nul    |    |          |
-1 | uno  | cuo  | 11 | uno'diz+uno    | 10 | uno'diz  |
-2 | due  | duo  | 12 | uno'diz+due    | 20 | due'diz  |
-3 | tia  | fuo  | 13 | uno'diz+tia    | 30 | tia'diz  |
-4 | cat  | guo  | 14 | uno'diz+cat    | 40 | cat'diz  |
-5 | cin  | huo  | 15 | uno'diz+cin    | 50 | cin'diz  |
-6 | sei  | juo  | 16 | uno'diz+sei    | 60 | sei'diz  |
-7 | set  | kuo  | 17 | uno'diz+set    | 70 | set'diz  |
-8 | oca  | luo  | 18 | uno'diz+oca    | 80 | oca'diz  |
-9 | nov  | nuo  | 19 | uno'diz+nov    | 90 | nov'diz  | 
+x | maj  | xx | maj            | xx | maj      |
+--|------|----|----------------|----|----------|
+0 | nul  | 10 | uno'diz+nul    |    |          |
+1 | uno  | 11 | uno'diz+uno    | 10 | uno'diz  |
+2 | due  | 12 | uno'diz+due    | 20 | due'diz  |
+3 | tia  | 13 | uno'diz+tia    | 30 | tia'diz  |
+4 | cat  | 14 | uno'diz+cat    | 40 | cat'diz  |
+5 | cin  | 15 | uno'diz+cin    | 50 | cin'diz  |
+6 | sei  | 16 | uno'diz+sei    | 60 | sei'diz  |
+7 | set  | 17 | uno'diz+set    | 70 | set'diz  |
+8 | oca  | 18 | uno'diz+oca    | 80 | oca'diz  |
+9 | nov  | 19 | uno'diz+nov    | 90 | nov'diz  | 
            
            
 ## Level 2
@@ -42,7 +42,7 @@ x | maj  |      | xx | maj            | xx | maj      |
  200 =  due'cen
  300 =  tia'cen
  400 =  cat'cen
- 500 =  cec'cen
+ 500 =  cin'cen
  600 =  sei'cen
  700 =  set'cen
  800 =  oca'cen
@@ -53,9 +53,9 @@ x | maj  |      | xx | maj            | xx | maj      |
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = uno'cen+duo'diz+cin
+ 125 = uno'cen+due'diz+cin
  555 = cin'cen+cin'diz+cin
- 801 = oka'cen+una
+ 801 = oca'cen+uno
 ```
 
 **Thousands = mil**
@@ -79,7 +79,7 @@ x | maj  |      | xx | maj            | xx | maj      |
 000,000  = mon
 
 ```
-1,000.000 = una'mon
+1,000.000 = uno'mon
 2,000.000 = due'mon
 3,000.000 = tia'mon
 ...
