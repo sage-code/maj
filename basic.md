@@ -244,9 +244,9 @@ Is the person who perform the action.
 
   p  |singular       | plural
 -----|---------------|-----------------------------
-  1  | ja = I        | na = we
-  2  | ta = you      | va = you
-  3  | ha = he       | za = they
+  1  | ja = I        | ny = we
+  2  | ta = you      | vy = you
+  3  | ha = he       | zy = they
   3  | xa = she      | 
   3  | la = it       | 
 
@@ -257,11 +257,11 @@ Is the person who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
- 1  | mi  = me  | ni = us
- 2  | ti  = you | vi = you all
- 3  | hi  = he  | zi = them
- 3  | xi  = her | 
- 3  | li  = it  | 
+ 1  | me  = me  | ne = us
+ 2  | te  = you | ve = you all
+ 3  | he  = he  | ze = them
+ 3  | xe  = her | 
+ 3  | le  = it  | 
 
 **Possessive**
 
@@ -269,11 +269,11 @@ Is a composite word for a person or object who own something or have something.
 
 singular    | plural
 ------------|--------------------------------
-meo = mine  | nuo = ours
-teo = yours | vuo = yours
-heo = his   | zuo = theirs
-xeo = hers  | xuo = theirs
-leo = its   | luo = theirs
+mia = mine  | nue = ours
+tia = yours | vue = yours
+hia = his   | zue = theirs
+xia = hers  | xue = theirs
+lia = its   | lue = theirs
 
 ## Verbs & conjugation
 
@@ -352,8 +352,8 @@ vidu  = to see
 
 * te vid'ufu suv ita mi!  = you will see me often!
 * te vid'ure foa ita mi!  = you can see me sometime!
-* je vid'upa nuc ita ti!  = I have never seen you before!
-* je vid'ugo nau ita vi!  = I see you all now!
+* ja vid'upa nuc ita ti!  = I have never seen you before!
+* ja vid'ugo nau ita vi!  = I see you all now!
 
 Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
 
@@ -366,14 +366,15 @@ Structure of above propositions: Subject + verb'time + adverb + article + pronou
 
 jocu = to play
 
-* hi joc'ure = he is playing right now
-* hi joc'ufu = he will play in the future 
-* hi joc'upa = he play some time ago
+* he joc'ure = he play
+* he joc'ugo = he is playin
+* he joc'ufu = he will play
+* he joc'upa = he plaid
 
 **plural conjugation**
-* na jocu foa  = we play sometime
-* va jocu nuc  = you never play
-* za jocu suv  = they play often
+* ny jocu foa  = we play sometime
+* vy jocu nuc  = you never play
+* zy jocu suv  = they play often
 
 ## Verb transformation
 
@@ -527,13 +528,13 @@ We use German words, written with Maj alphabet:
 
 von = from
 tsu = toward
-  
+
 
 
 
 **Interrogative:**
 
-Interrogation is created with { qui, que, quo }:
+Interrogation is created with words: { qui, que, quo }:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
@@ -541,30 +542,32 @@ qui     | who?     | quien   | cine
 que     | what?    | qué     | ce
 quo     | how?     | como    | cum
 
+Notice `u` after, `qu` is silent, so you should say: `ki`, `ke` or `ko`.
+
 **using verb**
 
 Most questions are using verbs:
 
-* qui ser'ure?  = who is ?
-* que mag'ure?  = what are you eating ?
-* quo beb'upa?  = how was your drink ?   
+* qui ser'ure der?  = who is there?
+* que mag'ugo ti ?  = what are you eating ?
+* quo ser'upa teo beba ?  = how was your drink ?   
 
 Preposition ubi can be used for questions about location:
 
 **short form**
-* ubi tu and'ure? = where you going?
-* ubi tu ven'ure? = where you coming from?
-* ubi tu ser'ure? = where are you from?
+* ubi and'ure ti? = where are you going?
+* ubi ven'ure ti? = where are you coming from?
+* ubi ser'ure ti? = where are you from?
     
 **longer form**    
-* ubi ser tsu loca que ty joc'ure? = where is the place you are plaing?
-* ubi ser tsu loca que ny and'ure? = where is the place we  are going?
+* ubi seru isa loca que ti joc'ugo? = where is the place you are plaing?
+* ubi seru isa loca que ni and'ugo? = where is the place we  are going?
 
 **expressions**
   
 * von ubi tsu ubi? = from where to where!
 * von hir tsu der! = from here to there!
-* von loca que ty picu!  = from where you like!
+* von loca que ti picu!  = from where you like!
 
 
 ## Logic conjunction

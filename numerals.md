@@ -22,7 +22,7 @@ x | maj  | xx | maj            | xx | maj      |
 0 | nul  | 10 | uno'diz+nul    |    |          |
 1 | uno  | 11 | uno'diz+uno    | 10 | uno'diz  |
 2 | due  | 12 | uno'diz+due    | 20 | due'diz  |
-3 | tia  | 13 | uno'diz+tia    | 30 | tia'diz  |
+3 | rea  | 13 | uno'diz+rea    | 30 | rea'diz  |
 4 | cat  | 14 | uno'diz+cat    | 40 | cat'diz  |
 5 | cin  | 15 | uno'diz+cin    | 50 | cin'diz  |
 6 | sei  | 16 | uno'diz+sei    | 60 | sei'diz  |
@@ -40,7 +40,7 @@ x | maj  | xx | maj            | xx | maj      |
 ```
  100 =  uno'cen
  200 =  due'cen
- 300 =  tia'cen
+ 300 =  rea'cen
  400 =  cat'cen
  500 =  cin'cen
  600 =  sei'cen
@@ -65,7 +65,7 @@ x | maj  | xx | maj            | xx | maj      |
 ``` 
  1,000 = uno'mil
  2,000 = due'mil
- 3,000 = tia'mil
+ 3,000 = rea'mil
  4,000 = cat'mil
  5,000 = cin'mil
  6,000 = sei'mil
@@ -81,7 +81,7 @@ x | maj  | xx | maj            | xx | maj      |
 ```
 1,000.000 = uno'mon
 2,000.000 = due'mon
-3,000.000 = tia'mon
+3,000.000 = rea'mon
 ...
 9,000.000 = nov'mon
 ```
@@ -115,6 +115,6 @@ bit | maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... tia due uno et razu aus !!! 
+* ... rea due uno et razu aus !!! 
 
 Great!
