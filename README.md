@@ -8,7 +8,8 @@ Maj is an artificial language for chat and games:
 3. Accesible;
 3. Comprehensible;
 4. Logical;
-5. Efficient; 
+5. Efficient;
+6. Entertaining. 
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
@@ -17,23 +18,18 @@ Basic rules for new language:
 1. one letter do not represent anything else but itself;
 1. one letter is pronounced always the same;
 1. one word must have a single meaning and is context free;
-1. numerals are unique and familiar;
-1. punctuation symbols can be read as words;
+1. punctuation symbols and numerals can be read as words;
 
 **Maj do not**
 
 ------------------------------------------------------------------------------------------------
 
+1. Maj is not an academic language;
+1. Maj is not a scripting language;
 1. Maj is not a secret language;
+1. Maj is not for writing books;
 1. Maj is not for encryption;
 1. Maj is not for poetry;
-1. Maj is not for writing books;
-1. Maj is not for education;
-1. Maj is not a superior language;
-1. Maj is not an academic language;
-1. Maj do not have synonyms;
-1. Maj do not have a polite form;
-
 
 **Punctuation:**
 
@@ -89,15 +85,14 @@ Words are inspired from 7 different languages.
 **technology:**
 
 * Numerals are original, first letter is inspired from Romanic languages;
-* Most common words Verbs are created manually using a translation spreadsheet;
-* We use an algorithm to calculate a  word cost based on complexity;
-* We look for expensive words that could be simplified to improve the language.
+* All words are created manually using a translation spreadsheet;
+* We use a computer algorithm to evaluate language complexity;
 
 ## The sentences
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
-1. The sentences are constructed from `language elements`;
+
 
 **Elements:**
 
@@ -106,11 +101,10 @@ Language elements are designed in separated documents you can read one by one in
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
 * [Basic grammar](basic.md)
-* [Numerals](numerals.md)
 * [Prepositions](prepositions.md)
+* [Nouns](nouns.md)
 * [Verbs](verbs.md)
 * [Adverbs](adverbs.md)
-* [Nouns](nouns.md)
 * [Adjectives](adjectives.md)
 
 **Read more:** 

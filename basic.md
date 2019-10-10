@@ -18,21 +18,14 @@ vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 
 **examples:**
 
-* helo pro ale zu = hello everyone
-* ciao pro ale zu = goodbye everyone 
-* vale pro ale zu = let's go everyone
+* helo ale zu = hello everyone
+* ciao ale zu = goodbye everyone 
+* vale ale zu = let's go everyone
 
-**note:** Some form of salut have multiple meanings
+**note:** Some form of salute have multiple meanings
 
 * salu = bless you  (interjection: when somebody is sneezing
-* salu = healthy    (adjective: referring to a person or animal)
-
-# Logical prepositions
-
-* Logical values are: {vero, faso}, from French.
-
-* vero = the truth
-* faso = the opposite of truth   
+* salo = health     (adjective: referring to a person or animal)
 
 ## Symbols
 
@@ -48,120 +41,111 @@ When used in text some symbols are read out loud:
 * symbol `!`  is read si
 * symbol `\*` is read ti
 
-## Prepositions
+## Pronoun
 
-Following random prepositions may be used in logical arguments.
+Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
 
- Maj | English | Description
------|---------|------------------------------------
- oga | yes     | affirmative
- net | no      | negative 
- vel | or      | conjunction
- ety | and     | conjunctive
- ser | is      | short form of verb seru = to be
- har | have    | short form of verb haru = to have
- pro | for     | specify domain or purpose
- von | from    | can specify a domain (belonging)
- tsu | to      | can specify a destination (into)
- abe | but     | specify an alternative
- sif | if      | conditional
- tal | maybe   | possible
- puo | can     | has the capability
- dot | must    | mandatory
- mei | may     | is permitted
- fob | may not | is forbidden
- eto | then    | time consequence
- don | so      | reasoning conclusion
- cas | case    | when is the case
- cud | when    | establish event
- asi | thus    | therefore
- ecu | like    | comparative
- mem | same    | identical
- vir | while   | while condition
- cyz | because | cause of a consequence
+* nominative
+* objective
+* possessive
 
+**Nominative**
 
-## Nouns
+Is the person who perform the action.
 
-Nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. Most nouns are ending with `a` that can change into `e`. When a noun is ending with `e` it represents plural.  
+  p  |singular       | plural
+-----|---------------|-----------------------------
+  1  | jo = I        | nu = we
+  2  | tu = you      | vu = you
+  3  | hi = he       | zu = they
+  3  | xi = she      | 
+  3  | la = it       | 
 
-**examples:**
+**Objective**
 
-* pana   = bread
-* pane   = breads
-* bana   = banana
-* bane   = bananas
-* aqua   = water
-* huga   = juice  
+Is the person who receive the action.
 
-**gender**
+  p | singular  | plural
+----|-----------|-----------------------------
+ 1  | me  = me  | ne = us
+ 2  | te  = you | ve = you all
+ 3  | he  = he  | ze = them
+ 3  | xe  = her | 
+ 3  | le  = it  | 
 
-For distinguish between male and female beings we use adjectives: 
+**Possessive**
 
-* maso  = male    (latin: masculum)
-* femo  = female  (latin: feminam)
+Is a composite word for a person or object who own something or have something.
 
-```
-maso cana = dog male
-femo cana = dog female
-```
+singular    | plural
+------------|--------------------------------
+mia = mine  | nue = ours
+tia = yours | vue = yours
+hia = his   | zue = theirs
+xia = hers  | xue = theirs
+lia = its   | lue = theirs
 
-## Noun suffix
+**notes:**
 
-* You can add a suffix to a noun to add information about the noun properties.
-* After root you can use apostrophe `'` to connect with a suffix.
+* Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
+* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
 
-Sometimes we use suffix to create a composite word for representing nouns:
+## Interrogative
 
-**harmful content**
+Interrogation is created with prepositions: { qui, que, quo }:
+ 
+maj     | english  | spanish | romanian
+--------|----------|---------|---------
+qui     | who?     | quien   | cine
+que     | what?    | qué     | ce
+quo     | how?     | como    | cum
 
-* for beverage containing alcohol, we use suffix 'ola 
-* there is food prepared with alcohol we also use 'ola 
-* for food that contains a lot of sugar we use 'osa,  
+Notice `u` after, `qu` is silent, so you should say: `ki`, `ke` or `ko`.
 
-```
-* ber'ola  = bear
-* gas'osa  = sweet drink
-* xoc'osa  = sweet chocolate
-* xoc'ola  = sweet chocolate with alcohol
-```
+**examples**
 
-**diminutives**
+Next examples show how to use interrogative prepositions:
 
-Maj enable diminutives using suffix: 'uca. 
+* qui ser'ure der?  = who is there?
+* que mag'ugo te ?  = what are you eating ?
+* quo ser'upa tia beba ?  = how was your drink ?   
 
+Preposition ubi can be used for questions about location:
 
-** close persons
-* Mam'uca  = mommy
-* Tat'uca  = daddy
+**short form**
+* ubi and'ure ti? = where are you going?
+* ubi ven'ure ti? = where are you coming from?
+* ubi ser'ure ti? = where are you from?
+    
+**longer form**    
+* ubi seru isa loca que ti joc'ugo? = where is the place you are plaing?
+* ubi seru isa loca que ni and'ugo? = where is the place we  are going?
 
-** close pet
-* maso can'uca  = dogy male
-* femo can'uca  = dogy female
+**expressions**
+  
+* von ubi tsu ubi? = from where to where!
+* von hir tsu der! = from here to there!
+* von loca que ti picu!  = from where you like!
 
 
-**notes**
-* Whe a noun is uses suffix, it looses a vowel from last syllable that is replaced by apostrophe,
-* Proper nouns (names of places or persons) do not support diminutives.
+## Noun
 
-## Determinant
+A noun a person, place, object, or idea. Some nouns we are going to use as examples:
 
-Sometimes we use a preposition determinant to create a new meaning for words:
+* pana  = bread
+* aqua  = water
+* bane  = bananas
+* huga  = juice  
+* peca  = freckles
+* cara  = face
 
-* non  = not - create antonyms
-* pro  = for - specify purpose
-
-```
-pro bebo aqua = drinking water
-non bebo aqua = industrial water
-non bola beba = non alcoholic drink
-```
+You can learn more about nouns in a separate document:
+[nouns](nouns.md)
 
 ## Article
 
-An article is a word used to modify a noun, which is a person, place, object, or idea. Technically, an article is an adjective, which is any word that modifies a noun. Usually adjectives modify nouns through description, but articles are used instead to _point out_ or _refer_ nouns or a group of nouns. 
-
-There are two different types of articles: definite and indefinite articles.
+* Articles are used to _point out_ or _refer_ nouns or a group of nouns. 
+* There are two different types of articles: definite and indefinite articles.
 
 **Maj definite article**
 
@@ -170,12 +154,11 @@ singular     | plural
 ita = this   | ite = these
 isa = that   | ise = those
 
+Let's begin by looking at the definite article. This article is the word `the`, and it refers directly to a noun or groups of nouns. For example:
 
-Let's begin by looking at the definite article. This article is the word 'the,' and it refers directly to a specific noun or groups of nouns. For example:
-
-* the freckles on my face
-* the alligator in the pond
-* the breakfast burrito on my plate
+* Maj: ita peca auf mia cara => 
+* English: the freckles on my face
+* Spanish: las pecas en mi cara
 
 Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
 
@@ -203,9 +186,19 @@ mot = many
 poc = few
 van = several
 som = some 
-non = none
-pro = for
 
+## Determinant
+
+Sometimes we use a preposition determinant to create a new meaning for words:
+
+* non  = not - create antonyms
+* pro  = for - specify purpose
+
+```
+pro bebo aqua = drinking water
+non bebo aqua = industrial water
+non bola beba = non alcoholic drink
+```
 
 **Article Usage**
 
@@ -229,346 +222,6 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 * ita  hugosa  = extra sweet juice 
 * ite  cheola  = the chocolate drops with alcohol
 * ita  hugola  = juice mixed with alcohol 
-
-## Pronoun
-
-Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
-
-* nominative
-* objective
-* possessive
-
-**Nominative**
-
-Is the person who perform the action.
-
-  p  |singular       | plural
------|---------------|-----------------------------
-  1  | ja = I        | ny = we
-  2  | ta = you      | vy = you
-  3  | ha = he       | zy = they
-  3  | xa = she      | 
-  3  | la = it       | 
-
-
-**Objective**
-
-Is the person who receive the action.
-
-  p | singular  | plural
-----|-----------|-----------------------------
- 1  | me  = me  | ne = us
- 2  | te  = you | ve = you all
- 3  | he  = he  | ze = them
- 3  | xe  = her | 
- 3  | le  = it  | 
-
-**Possessive**
-
-Is a composite word for a person or object who own something or have something.
-
-singular    | plural
-------------|--------------------------------
-mia = mine  | nue = ours
-tia = yours | vue = yours
-hia = his   | zue = theirs
-xia = hers  | xue = theirs
-lia = its   | lue = theirs
-
-## Verbs & conjugation
-
-The verbs have a root of 4 - 5 character long and is terminated with `u`. Verbs are more often used than nouns, and are therefore more valuable so we reduce the number of characters from 6 to 4. There are plenty of possible combinations that do not sound so bad if we put some work into it.
-
-**rules:**
-
-1. A verb is referring to somebody or something that is the subject of the discussion. The verb is used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
-
-2. The verb do not change its root with the case or number. However, a verb root can change `u` in `a` or `e` to becomes a noun. If "u" is changed to "o" it becomes adjective. 
-
-**Some popular verbs:**
-
- Maj     |Spanish       | English
----------|--------------|---------------
- andu    |ir            | to go
- aidu    |ayudar        | to help
- artu    |crear         | to create
- bebu    |beber         | to drink
- cibu    |escribir      | to write
- ganu    |ganar / ganar | to earn/win
- haru    |tener         | to have
- magu    |comer         | to eat 
- orsu    |correr        | to run 
- oidu    |escuchar      | to hear 
- picu    |gustar        | to like 
- uscu    |buscar        | to look for
- liru    |leer          | to read
- jocu    |jugar         | to play
- vivu    |estar vivo    | to be alive 
- vidu    |para ver      | to see
- venu    |venir         | to come 
- volu    |a voluntad    | to will 
- seru    |ser           | to be   
- sanu    |saludable     | to get healthy
-
-## Time prepositions
-
-* Verbs can be followed by time but the verb remain unchanged,
-* Composite words are using "'" to link two words close together,
-* Linked words are pronounced as a single word
-
-
-**nouns:**
-
-* tepa  = time
-* futa  = future
-* resa  = present  
-* pasa  = past
-
-**examples:**
-
-* nara de futa = story from future
-* dica de pasa = talk about the past
-
-**sufix:**
-
-Maj     | English
---------|--------------------------------
-ure     | present (in general now)
-ugo     | present (continuum present)
-ufu     | sometime in the future
-upa     | sometime in the past
-
-**time prepositions**
-
-* foa   = sometime 
-* nuc   = never (Spanish nunca
-* suv   = often (French souvent)
-* mox   = soon  (Latin mox)
-* nau   = now   (English)
-
-**examples**
-
-vidu  = to see
-
-* te vid'ufu suv ita mi!  = you will see me often!
-* te vid'ure foa ita mi!  = you can see me sometime!
-* ja vid'upa nuc ita ti!  = I have never seen you before!
-* ja vid'ugo nau ita vi!  = I see you all now!
-
-Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
-
-**notes:**
-
-* Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
-* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
-
-**singular conjugation**
-
-jocu = to play
-
-* he joc'ure = he play
-* he joc'ugo = he is playin
-* he joc'ufu = he will play
-* he joc'upa = he plaid
-
-**plural conjugation**
-* ny jocu foa  = we play sometime
-* vy jocu nuc  = you never play
-* zy jocu suv  = they play often
-
-## Verb transformation
-
-Basic for of Wee verb into an attribute using suffix 'uxo
-
-**to adjective:**
-
-jocu => joc'uxo = playful
-
-**So far:**
-* ja seru joc'uxo = I'm playful
-* ta seru joc'uxo = you are playful 
-* ha seru joc'uxo = he is playful
-
-**to noun:**
-
-Use termination 'era to make a noun.
-
-* je ser'upa uno joc'era = I was a player
-* nu ser'ufu ale joc'era = we will be all players
-
-## Locations
-
-* Locations are very important in Maj.
-* Common locations are nouns so they are terminated in "a".
-
-loca = location (noun)
-
-maj  | english   | Spanish
------|-----------|-----------------
-nora | north     | norte
-sura | south     | sur
-esta | est       | este
-veta | west      | oeste
-      
-## Preposition
-
-A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for ?”.
-
-* Prepositions are usually single syllable words.
-* Prepositiobs are invariant and have the same meaning. 
-
-**Rationale**
-
-Prepositions are very often used in Maj. Therefore they are the most important elements of the language. So we use Syllables of only 2 characters to create the prepositions. These are the shortest words in Maj.
-
-**Category of prepositions**
-
-English preposition can be considered in this categories: { time, place, direction, movement, agent, instrument }
-
-**Time & Place**
-
-* In English, time and place are differentiated with 3 prepositions { in > on > at}. 
-* Maj is using prepositions: { en, la, de } with signification: { en, to, from }
-
-**related nouns**
-
-Location related nouns are 4 character long, they are more important.
-
-loca  = location
-tepa  = time
-data  = date
-hora  = hour
-anoa  = year
-mina  = minute
-seda  = second
-asra  = the address
-seza  = season
-
-**Location examples**
-
-* in London  = de London
-* on Oxford Street = la locta Oxford Street de London
-* at 203 Oxford Street = la locta 203 Oxford Street de London
-
-**Time examples**
-
-* in 2005 = en anoa 2005
-* on Spring = en seza Spring 
-* at 21 of September 2005 = la data 21 de Septeber 2005
-* at 2:45 = la hora 2:45 (cut et pata-rin)
-
-**Agent & Tools**
-
-bai  = by    ( from English )
-con  = with  ( from Italian )
-
-**examples**
-
-von Mark Twain   = by Mark Twain
-con mia cut mane = with my two hand
-
-**movement**
-
-Movement prepositions indicating a direction of movement. 
-
-Maj      | English  | Origin
----------|----------|--------
-cos      |Across    | Emglish
-log      |Along     | English
-veg      |Away From | German
-ito      |Into      | English
-oto      |Onto      | English
-ove      |Over      | English
-cha      |Towards   | Spanish 
-dur      |Through   | German
-uma      |Around    | German
-ruc      |Back      | German
-         
-         
-**positions**
-
-Indicate a position of object relative to other object.
-
-Maj     |English             | Spanish         | Origin
---------|--------------------|-----------------|---------
-auf     |On                  |en               | German
-aus     |Off                 |apagado          | German
-con     |Beside , Next To    |junto, al lado de| German
-der     |Behind              |detrás           | German
-fra     |Between             |entre            | German
-ino     |Inside              |dentro           | Latin
-nah     |Near                |cerca            | German
-out     |Out                 |fuera            | English
-out     |Outside             |fuera de         | English
-pre     |Close By            |cerca de, por    | Franch
-pri     |Prior               |anterior         | English
-top     |On Top              |encima           | English
-abo     |Above               |encima           | English
-unt     |Under,Below,Beneath |debajo           | German
-via     |Via, By             |vía              | Latin
-sus	    |Up	                 |arriba           | Romanian
-jos	    |Down                |abajo            | Romanian
-ubi     |where               |donde            | Latin   
-abo	    |above	             |encima           | German
-hir     |here                |aqui             | English
-der     |there               |ahi              | English  
-
-## Directions
-
-These three directions are very important prepositions:
-
-Maj   | English | German | Romanian | Franch  | Spanish
-------|---------|--------|----------|---------|---------
-von   | from    | von    | de       | de      | de
-tsu   | to      | zu     | la       | vers    | para
-via   | by      | durch  | prin     | por     | par
-aus   | off     | aus    | din      | de      | apagado
-
-We use German words, written with Maj alphabet:
-
-von = from
-tsu = toward
-
-
-
-
-**Interrogative:**
-
-Interrogation is created with words: { qui, que, quo }:
- 
-maj     | english  | spanish | romanian
---------|----------|---------|---------
-qui     | who?     | quien   | cine
-que     | what?    | qué     | ce
-quo     | how?     | como    | cum
-
-Notice `u` after, `qu` is silent, so you should say: `ki`, `ke` or `ko`.
-
-**using verb**
-
-Most questions are using verbs:
-
-* qui ser'ure der?  = who is there?
-* que mag'ugo ti ?  = what are you eating ?
-* quo ser'upa teo beba ?  = how was your drink ?   
-
-Preposition ubi can be used for questions about location:
-
-**short form**
-* ubi and'ure ti? = where are you going?
-* ubi ven'ure ti? = where are you coming from?
-* ubi ser'ure ti? = where are you from?
-    
-**longer form**    
-* ubi seru isa loca que ti joc'ugo? = where is the place you are plaing?
-* ubi seru isa loca que ni and'ugo? = where is the place we  are going?
-
-**expressions**
-  
-* von ubi tsu ubi? = from where to where!
-* von hir tsu der! = from here to there!
-* von loca que ti picu!  = from where you like!
-
 
 ## Logic conjunction
 
@@ -608,7 +261,7 @@ Spanish | y      | Marc y Alice van a la playa
 
 **Maj:** don
 
-don ita ser'ufu ty!
+don ita ser'ufu te!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -640,3 +293,11 @@ Franch  | car     | Il reste calme car il est gentil
 English | because | He stays calm because he is nice    
 Spanish | porque  | Se mantiene tranquilo porque es agradable.   
     
+**read next:**
+
+* [prepositions](prepositions.md)
+* [nouns](nouns.md)
+* [verbs](verbs.md)
+* [adjectives](adjectives.md)
+* [adverbs](adverbs.md)
+

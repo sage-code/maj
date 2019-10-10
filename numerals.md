@@ -10,7 +10,7 @@ All numerals are created from base of 3 letters.
 
 **Note** 
 
-* The numbers do not have genre,
+* The numbers do not have gender,
 * The numbers do not have plural form,
 * Two numerals are combined using `ety` symbol `+`
 * Some numbers are combined using apostrophe 
