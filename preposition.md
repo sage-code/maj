@@ -7,7 +7,7 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 
 **Rationale**
 
-Prepositions are very often used in Maj. Therefore they are the most important elements of the language. So we use Syllables of only 2 characters to create the prepositions. These are the shortest words in Maj.
+Prepositions are very often used in Maj. Therefore they are the most important elements of the language. So we use Syllables of only 2-3 characters to create the prepositions. These are the shortest words in Maj.
 
 **Category of prepositions**
 
@@ -76,17 +76,18 @@ Movement prepositions indicating a direction of movement.
 
 Maj      | English  | Origin
 ---------|----------|--------
-cos      |Across    | Emglish
-log      |Along     | English
+per      |Across    | Latin
+lag      |Along     | English
 veg      |Away From | German
-ito      |Into      | English
+ino      |Into      | English
 oto      |Onto      | English
 ozo      |Over the  | Original
 cha      |Towards   | Spanish 
 dur      |Through   | German
 uma      |Around    | German
 ruc      |Back      | German
-end      |End, Over | English
+ovy      |End, Over | English
+sop      |Stop      | English
          
          
 ## Position
@@ -96,7 +97,7 @@ Indicate a position of object relative to other object.
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|--------------
 afo     |On                  |en               | in
-cot     |Beside , Next To    |al lado, cerca   | nebenan
+cot     |Beside, Next To     |al lado, cerca   | nebenan
 der     |Behind              |detrás           | dahinter
 fra     |Between             |entre            | zwischen
 ino     |Inside              |dentro           | drinnen
@@ -142,12 +143,9 @@ Following prepositions may be used in logical arguments.
  Maj | English | Description
 -----|---------|------------------------------------
  oga | yes     | affirmative
- net | no      | negative 
+ nea | no      | negative 
  vel | or      | conjunction
  ety | and     | conjunctive
- ser | is      | short form of verb seru = to be
- har | have    | short form of verb haru = to have
- pro | for     | specify domain or purpose
  abe | but     | specify an alternative
  sif | if      | conditional
  tal | maybe   | possible
@@ -155,7 +153,7 @@ Following prepositions may be used in logical arguments.
  dot | must    | mandatory
  mei | may     | is permitted
  fob | may not | is forbidden
- eto | then    | time consequence
+ edo | then    | time consequence
  don | so      | reasoning conclusion
  cas | case    | when is the case
  cud | when    | establish event

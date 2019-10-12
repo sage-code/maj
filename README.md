@@ -1,24 +1,22 @@
 # Maj
 
-Maj is an artificial language for chat and games:
+Maj is an artificial language for chat:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
 1. Articulated;
-3. Accesible;
-3. Comprehensible;
-4. Logical;
-5. Efficient;
-6. Entertaining. 
+2. Accesible;
+3. Logical;
+4. Efficient;
+5. Entertaining. 
 
 **Technical:**
 ------------------------------------------------------------------------------------------------
 Basic rules for new language:
 
 1. one letter do not represent anything else but itself;
-1. one letter is pronounced always the same;
-1. one word must have a single meaning and is context free;
-1. punctuation symbols and numerals can be read as words;
+1. one letter is pronounced always the same in all wards;
+1. one word have the same meaning in all propositions;
 
 **Maj do not**
 
@@ -30,6 +28,7 @@ Basic rules for new language:
 1. Maj is not for writing books;
 1. Maj is not for encryption;
 1. Maj is not for poetry;
+1. Maj is not for romance;
 
 **Punctuation:**
 
@@ -38,8 +37,8 @@ Basic rules for new language:
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
 1. A word that start with uppercase represent a person or animals or a robot or an AI device;
 1. A word for a thing that can not talk or move or do anything start with lowercase;
-1. A interrogative sentences can start with a preposition and end with a question mark;
-1. A imperative sentence end with exclamation mark, while a declarative sentence with ".";
+1. A interrogative sentences can start with a specific preposition and end with a question mark;
+1. A imperative sentence end with exclamation mark, while a declarative sentence with dot ".";
 1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44};
 1. An enumeration of numbers is enclosed in square brackets [1,24,3];
 1. You can use decimal numbers and math symbols only in round parenthesis, otherwise you must quote them;
@@ -48,14 +47,14 @@ Basic rules for new language:
 1. You can use dash "-" to concatenate a prefix to a root to create a composite word;
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
-1. Dialog is mark with bullet point "*" and end with ";","?" or "!";
+1. Dialog is start with bullet point "*" and end with ";","?" or "!";
 
 
 ## Symbols
 
 ------------------------------------------------------------------------------------------------
 
-{ + - / ? ! . : * ; }
+{ + - / ? ! . : * ; # ` _ ~ [ ] ( )}
 
 ------------------------------------------------------------------------------------------------
 
@@ -93,6 +92,8 @@ Words are inspired from 7 different languages.
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 
+**Read more:** 
+[The use cases](case.md)
 
 **Elements:**
 
@@ -107,8 +108,7 @@ Language elements are designed in separated documents you can read one by one in
 * [Adverbs](adverbs.md)
 * [Adjectives](adjectives.md)
 
-**Read more:** 
-[The use cases](case.md)
-
 **Community:**
 [discord invitation](https://discord.gg/SRX3tse)
+
+**vale**

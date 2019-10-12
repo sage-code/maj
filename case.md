@@ -2,22 +2,22 @@
 
 **note:** in this document I use Maj capitalization!
 
-there are some good reasons to make a new language that is very much different than current languages:
+there are some good reasons to make a new and different language:
 
 **as a project:**
 
 * study grammar and vocabulary of other languages;
 * experiment with different words and sounds;
-* making training software for string manipulations;
+* making new software for string manipulations;
 
 **as a product**
 
 once the language is established it can be usable for:
 
-* making video games;
-* making fantastic movies;
 * chat with friends;
+* making fantastic movies;
 * storing knowledge;
+* making video games;
 * artificial intelligence;
 
 the last use-case is actually the most valuable of all. we think usually in a language. it takes decades to master a language until you can use it to make rational thinking. having an efficient language will enable you to think better when making AI for computers.
@@ -32,16 +32,16 @@ Maj can be spoken in public but nobody will understand you. especially if you ar
 
 # but how
 
-We shorten the words to reduce cost of pronunciation. So Maj can be faster and efficient. 
+We shorten the longer words to reduce cost of pronunciation. We use mono syllabic words for most frequent words and bi-syllabic or tree-syllabic words for less frequent words. So Maj can be faster and more efficient than other Romanic languages. 
 
 **design:**
 
 * Maj re-purpose some redundant letters: { K, Q, X, Y };
-* Maj do not use cedilla letters: Franch, Romanian or German;
+* Maj do not use cedilla letters like: Franch, Romanian or German;
 * Maj is using root words and avoid composite long words;
 * Maj is using simple grammar rules to reduce complexity;
 * Maj has a reduced numbers of sounds easy to produce;
-* Maj will have a reduced vocabulary under 1000 root words;
+* Maj will have a reduced vocabulary under 1000 words;
 
 **rules:**
 
@@ -69,11 +69,13 @@ Maj is a language of peace. While you learn this language you also learn peace. 
 
 Maj will enable you to make text. this reduce time to write a story or a thesis. multiply this with millions and you will change the world. so writers as well as readers will reduce time to communicate.
 
-storage is expensive. it is true that text do not take so much space, but maybe in the future AI will learn how to produce text content. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
+time and storage space both are expensive. it is true that text do not take much space, but maybe in the future AI will learn how to produce text. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
 
-Maybe we manage to make _smart text_. This is a text that ca do computations and logical reasoning. By doing this, you can describe a program then can _execute_ like a program. So a Maj text can be also a running program.
+Maj will have executable _script_ capability. This is a _smarter text_ that ca do logical reasoning and can be _executed_ by a Maj interpretor. By doing this, you can describe an algorithm. So a Maj _text_ can be a running program.
 
 it is time to stop talking and start making.
 
-**vale!**
+**Red next:** [basic](basic.md)
+
+**vale**
 

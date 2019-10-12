@@ -15,31 +15,10 @@ ciao  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vedia
 adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 
-
-**examples:**
-
-* helo ale zu = hello everyone
-* ciao ale zu = goodbye everyone 
-* vale ale zu = let's go everyone
-
 **note:** Some form of salute have multiple meanings
 
 * salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
-
-## Symbols
-
-When used in text some symbols are read out loud:
-
-* symbol `+`  is read et
-* symbol `/`  is read or
-* symbol `.`  is read pu
-* symbol `,`  is read co
-* symbol `:`  is read ot
-* symbol `;`  is read ut
-* symbol `?`  is read di
-* symbol `!`  is read si
-* symbol `\*` is read ti
 
 ## Pronoun
 
@@ -89,6 +68,7 @@ lia = its   | lue = theirs
 
 * Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
+
 
 ## Interrogative
 
@@ -183,7 +163,7 @@ oru = any
 omi = every
 ale = all
 mot = many
-poc = few
+pau = few
 van = several
 som = some 
 
@@ -301,3 +281,4 @@ Spanish | porque  | Se mantiene tranquilo porque es agradable.
 * [adjectives](adjectives.md)
 * [adverbs](adverbs.md)
 
+**vale**

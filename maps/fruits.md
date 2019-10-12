@@ -10,7 +10,7 @@ All fruits are nouns, and have an invariable form.
 maj    |  english   | spanish     |  franch      |  romanian
 -------|------------|-------------|--------------|-------------------
 leme   |  lemon     | limón       |  citron      |  lămâie
-mere   |  apple     | manzana     |  pomme       |  măr
+pome   |  apple     | manzana     |  pomme       |  măr
 mure   |  blackberry| mora        |  la mûre     |  mure
 pere   |  pear      | pera        |  poire       |  pară
 pine   |  pineapple | piña        |  ananas      |  ananas
@@ -24,7 +24,7 @@ maj    |  english   | spanish     |  franch      |  romanian
 frute  |  fruit     | fruta       |  fruit       |  fruct
 arade  |  cranberry | arándano    |  canneberge  |  merisor
 plume  |  plum      | ciruela     |  prune       |  prună
-secos  |  prune     | ciruela     |  (seca)      |  prună uscata
+secos  |  prune     | ciruela     |  seca        |  prună uscata
 cocos  |  coconut   | coco        |  coco noix   |  nuca de cocos
 piche  |  peach     | durazno     |  pêche       |  piersică
 frese  |  strawberry| fresa       |  fraise      |  căpșună

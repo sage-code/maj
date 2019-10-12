@@ -1,10 +1,24 @@
 ## Numerals 
 
-{ "numa", "nume" }
-
+Noun: "numa" = numbers
 Verb: "cotu" = counting
 
-All numerals are created from base of 3 letters.
+## Symbols
+
+When used in text or expressions, symbols are read out loud:
+
+symbol | Maj
+-------|---------------------------
+* `+`  | ety
+* `-`  | ifa
+* `/`  | ory
+* `.`  | pyi
+* `:`  | dyi
+* `,`  | cus
+* `;`  | puc
+* `?`  | kim
+* `!`  | rym
+* `*`  | syr
 
 ## Level 1
 
@@ -24,10 +38,10 @@ x | maj  | xx | maj            | xx | maj      |
 2 | due  | 12 | uno'diz+due    | 20 | due'diz  |
 3 | rea  | 13 | uno'diz+rea    | 30 | rea'diz  |
 4 | cat  | 14 | uno'diz+cat    | 40 | cat'diz  |
-5 | cin  | 15 | uno'diz+cin    | 50 | cin'diz  |
-6 | sei  | 16 | uno'diz+sei    | 60 | sei'diz  |
-7 | set  | 17 | uno'diz+set    | 70 | set'diz  |
-8 | oca  | 18 | uno'diz+oca    | 80 | oca'diz  |
+5 | pif  | 15 | uno'diz+pif    | 50 | pif'diz  |
+6 | zen  | 16 | uno'diz+zen    | 60 | zen'diz  |
+7 | xec  | 17 | uno'diz+xec    | 70 | xec'diz  |
+8 | opa  | 18 | uno'diz+opa    | 80 | opa'diz  |
 9 | nov  | 19 | uno'diz+nov    | 90 | nov'diz  | 
            
            
@@ -42,10 +56,10 @@ x | maj  | xx | maj            | xx | maj      |
  200 =  due'cen
  300 =  rea'cen
  400 =  cat'cen
- 500 =  cin'cen
- 600 =  sei'cen
- 700 =  set'cen
- 800 =  oca'cen
+ 500 =  pif'cen
+ 600 =  zen'cen
+ 700 =  xec'cen
+ 800 =  opa'cen
  900 =  nov'cen
 ```
 
@@ -53,9 +67,9 @@ x | maj  | xx | maj            | xx | maj      |
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = uno'cen+due'diz+cin
- 555 = cin'cen+cin'diz+cin
- 801 = oca'cen+uno
+ 125 = uno'cen+due'diz+pif
+ 555 = pif'cen+pif'diz+pif
+ 801 = opa'cen+uno
 ```
 
 **Thousands = mil**
@@ -67,10 +81,10 @@ x | maj  | xx | maj            | xx | maj      |
  2,000 = due'mil
  3,000 = rea'mil
  4,000 = cat'mil
- 5,000 = cin'mil
- 6,000 = sei'mil
- 7,000 = set'mil
- 8,000 = oca'mil
+ 5,000 = pif'mil
+ 6,000 = zen'mil
+ 7,000 = xec'mil
+ 8,000 = opa'mil
  9,000 = nov'mil
 ```
 
@@ -93,7 +107,7 @@ x | maj  | xx | maj            | xx | maj      |
 ```
 1,000,000.000 = uno'bil
 2,000,000.000 = due'bil
-5,000,000.000 = cin'bil
+5,000,000.000 = pif'bil
 ...
 9,000,000.000 = nov'bil
 ```
@@ -108,13 +122,13 @@ bit | maj      | description
 8   | bin      | one word
 16  | due'bin  | short integer
 32  | cat'bin  | integer
-64  | oca'bin  | long integer
+64  | opa'bin  | long integer
 
 ## Counting:
 
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea due uno et razu aus !!! 
+* ... rea due uno ety razu aus !!! 
 
 Great!
