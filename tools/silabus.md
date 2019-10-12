@@ -47,6 +47,7 @@ vb vc vd vf vg vh vl vm vn vp vr vs vt vz vx
 zb zc zd zf zg zh zl zm zn zp zr zs zt zv zx
 xb xc xd xf xg xh xl xm xn xp xr xs xt xv xx
 
+
 bae cae dae fae gae hae iae jae kae lae mae nae pae rae sae tae vae xae yae zae
 bai cai dai fai gai hai iai jai kai lai mai nai pai rai sai tai vai xai yai zai
 bao cao dao fao gao hao iao jao kao lao mao nao pao rao sao tao vao xao yao zao
@@ -75,6 +76,13 @@ bui cui dui fui gui hui iui jui kui lui mui nui pui rui sui tui vui xui yui zui
 buo cuo duo fuo guo huo iuo juo kuo luo muo nuo puo ruo suo tuo vuo xuo yuo zuo
 buy cuy duy fuy guy huy iuy juy kuy luy muy nuy puy ruy suy tuy vuy xuy yuy zuy
 
+--------------------------------------------------------------------------------
+
+aea aeb aec aed aef aeg aeh aei aej ael aem aen aeo aep aer aes aet aeu aea aez
+aia aib aic aid aie aif aig aih aij ail aim ain aio aip air ais ait aiu aia aiz
+aoa aob aoc aod aoe aof aog aoh aoi aoj aol aom aon aop aor aos aot aou aoa aoz
+aua aub auc aud aue auf aug auh aui auj aul aum aun auo aup aur aus aut aua auz
+
 bab bac bad bae baf bag bah bai baj bal bam ban bao bap bar bas bat bau bav baz
 bea beb bec bed bef beg beh bei bej bel bem ben beo bep ber bes bet beu bev bez
 bia bib bic bid bie bif big bih bij bil bim bin bio bip bir bis bit biu biv biz
@@ -93,6 +101,11 @@ dia dib dic did die dif dig dih dij dil dim din dio dip dir dis dit diu div diz
 doa dob doc dod doe dof dog doh doi doj dol dom don dop dor dos dot dou dov doz
 dua dub duc dud due duf dug duh dui duj dul dum dun duo dup dur dus dut duv duz
 
+eab eac ead eae eaf eag eah eai eaj eal eam ean eao eap ear eas eat eau eae eaz
+eia eib eic eid eie eif eig eih eij eil eim ein eio eip eir eis eit eiu eie eiz
+eoa eob eoc eod eoe eof eog eoh eoi eoj eol eom eon eop eor eos eot eou eoe eoz
+eua eub euc eud eue euf eug euh eui euj eul eum eun euo eup eur eus eut eue euz
+
 fab fac fad fae faf fag fah fai faj fal fam fan fao fap far fas fat fau fav faz
 fea feb fec fed fef feg feh fei fej fel fem fen feo fep fer fes fet feu fev fez
 fia fib fic fid fie fif fig fih fij fil fim fin fio fip fir fis fit fiu fiv fiz
@@ -110,6 +123,11 @@ hea heb hec hed hef heg heh hei hej hel hem hen heo hep her hes het heu hev hez
 hia hib hic hid hie hif hig hih hij hil him hin hio hip hir his hit hiu hiv hiz
 hoa hob hoc hod hoe hof hog hoh hoi hoj hol hom hon hop hor hos hot hou hov hoz
 hua hub huc hud hue huf hug huh hui huj hul hum hun huo hup hur hus hut huv huz
+
+iab iac iad iae iaf iag iah iai iaj ial iam ian iao iap iar ias iat iau iai iaz
+iea ieb iec ied ief ieg ieh iei iej iel iem ien ieo iep ier ies iet ieu iei iez
+ioa iob ioc iod ioe iof iog ioh ioi ioj iol iom ion iop ior ios iot iou ioi ioz
+iua iub iuc iud iue iuf iug iuh iui iuj iul ium iun iuo iup iur ius iut iui iuz
 
 jab jac jad jae jaf jag jah jai jaj jal jam jan jao jap jar jas jat jau jav jaz
 jea jeb jec jed jef jeg jeh jei jej jel jem jen jeo jep jer jes jet jeu jev jez
@@ -135,6 +153,11 @@ nia nib nic nid nie nif nig nih nij nil nim nin nio nip nir nis nit niu niv niz
 noa nob noc nod noe nof nog noh noi noj nol nom non nop nor nos not nou nov noz
 nua nub nuc nud nue nuf nug nuh nui nuj nul num nun nuo nup nur nus nut nuv nuz
 
+oab oac oad oae oaf oag oah oai oaj oal oam oan oao oap oar oas oat oau oao oaz
+oea oeb oec oed oef oeg oeh oei oej oel oem oen oeo oep oer oes oet oeu oeo oez
+oia oib oic oid oie oif oig oih oij oil oim oin oio oip oir ois oit oiu oio oiz
+oua oub ouc oud oue ouf oug ouh oui ouj oul oum oun ouo oup our ous out ouo ouz
+
 pab pac pad pae paf pag pah pai paj pal pam pan pao pap par pas pat pau pav paz
 pea peb pec ped pef peg peh pei pej pel pem pen peo pep per pes pet peu pev pez
 pia pib pic pid pie pif pig pih pij pil pim pin pio pip pir pis pit piu piv piz
@@ -159,6 +182,11 @@ tia tib tic tid tie tif tig tih tij til tim tin tio tip tir tis tit tiu tiv tiz
 toa tob toc tod toe tof tog toh toi toj tol tom ton top tor tos tot tou tov toz
 tua tub tuc tud tue tuf tug tuh tui tuj tul tum tun tuo tup tur tus tut tuv tuz
 
+uab uac uad uae uaf uag uah uai uaj ual uam uan uau uap uar uas uat uau uau uaz
+uea ueb uec ued uef ueg ueh uei uej uel uem uen ueu uep uer ues uet ueu ueu uez
+uia uib uic uid uie uif uig uih uij uil uim uin uiu uip uir uis uit uiu uiu uiz
+uoa uob uoc uod uoe uof uog uoh uoi uoj uol uom uon uop uor uos uot uou uou uoz
+
 vab vac vad vae vaf vag vah vai vaj val vam van vao vap var vas vat vau vav vaz
 vea veb vec ved vef veg veh vei vej vel vem ven veo vep ver ves vet veu vev vez
 via vib vic vid vie vif vig vih vij vil vim vin vio vip vir vis vit viu viv viz
@@ -170,3 +198,5 @@ zea zeb zec zed zef zeg zeh zei zej zel zem zen zeo zep zer zes zet zeu zev zez
 zia zib zic zid zie zif zig zih zij zil zim zin zio zip zir zis zit ziu ziv ziz
 zoa zob zoc zod zoe zof zog zoh zoi zoj zol zom zon zop zor zos zot zou zov zoz
 zua zub zuc zud zue zuf zug zuh zui zuj zul zum zun zuo zup zur zus zut zuv zuz
+
+

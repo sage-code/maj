@@ -1,6 +1,7 @@
 ## Numerals 
 
-Noun: "numa" = numbers
+Noun: "numa" = number
+Noun: "vala" = value
 Verb: "cotu" = counting
 
 ## Symbols
@@ -11,14 +12,14 @@ symbol | Maj
 -------|---------------------------
 * `+`  | ety
 * `-`  | ifa
-* `/`  | ory
+* `/`  | uel
 * `.`  | pyi
 * `:`  | dyi
 * `,`  | cus
 * `;`  | puc
 * `?`  | kim
-* `!`  | rym
-* `*`  | syr
+* `!`  | rim
+* `*`  | sir
 
 ## Level 1
 
@@ -116,13 +117,13 @@ x | maj  | xx | maj            | xx | maj      |
 
 **Binary**
 
-bit | maj      | description
+bits| maj      | description
 ----|----------|----------------------
-0/1 | bit      | one bit
-8   | bin      | one word
-16  | due'bin  | short integer
-32  | cat'bin  | integer
-64  | opa'bin  | long integer
+0/1 | dva      | one bit  (due vala)
+8   | ova      | one word (opa vala)
+16  | due'ova  | short integer
+32  | cat'ova  | integer
+64  | opa'ova  | long integer
 
 ## Counting:
 

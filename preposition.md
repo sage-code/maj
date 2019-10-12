@@ -89,33 +89,6 @@ ruc      |Back      | German
 ovy      |End, Over | English
 sop      |Stop      | English
          
-         
-## Position
-
-Indicate a position of object relative to other object.
-
-Maj     |English             | Spanish         | German
---------|--------------------|-----------------|--------------
-afo     |On                  |en               | in
-cot     |Beside, Next To     |al lado, cerca   | nebenan
-der     |Behind              |detrás           | dahinter
-fra     |Between             |entre            | zwischen
-ino     |Inside              |dentro           | drinnen
-nah     |Near                |cerca            | schließen
-aut     |Out                 |fuera            | raus
-avo     |Outside             |fuera de         | raus aus
-pre     |Close By            |cerca de, por    | in der Nähe
-pri     |Prior               |anterior         | vorher
-top     |On Top              |encima           | oben drauf
-abo     |Above               |encima           | oben drauf
-unt     |Under,Below,Beneath |debajo           | unter
-sus	    |Up	                 |arriba           | oben
-jos	    |Down                |abajo            | runter
-ubi     |where               |donde            | wo
-abo	    |above	             |encima           | oben drauf
-hir     |here                |aqui             | hier
-der     |there               |ahi              | dort
-
 ## Direction
 
 These three directions are very important prepositions:
@@ -126,6 +99,33 @@ von   | from     | von    | de       | de      | de
 tsu   | to,toward| zu     | la       | vers    | para
 via   | by       | durch  | prin     | por     | par
 aus   | off      | aus    | din      | de      | apagado
+
+         
+## Position
+
+Indicate a position of object relative to other object.
+
+Maj     |English             | Spanish         | German
+--------|--------------------|-----------------|-------------- 
+auf     |on                  |en               | auf
+cot     |beside, next to     |al lado, cerca   | daneben, neben
+der     |behind              |detrás           | hinter
+fra     |between             |entre            | zwischen
+ina     |inside              |dentro           | innerhalb
+nah     |near, close by      |cerca            | in der nähe
+fua     |outside             |fuera de         | draußen
+pri     |prior               |anterior         | vor
+top     |on top              |encima           | oben drauf
+abo     |above               |encima           | über
+unt     |under,below,beneath |debajo           | unter, unter, unter
+sus	    |up	                 |arriba           | nach oben
+jos	    |down                |abajo            | nieder
+ubi     |where               |donde            | wo
+abo	    |above	             |encima           | über
+hir     |here                |aqui             | hier
+der     |there               |ahi              | dort                 
+     
+       
 
 
 # Logical prepositions
@@ -143,8 +143,8 @@ Following prepositions may be used in logical arguments.
  Maj | English | Description
 -----|---------|------------------------------------
  oga | yes     | affirmative
- nea | no      | negative 
- vel | or      | conjunction
+ noc | no      | negative 
+ uel | or      | conjunction
  ety | and     | conjunctive
  abe | but     | specify an alternative
  sif | if      | conditional

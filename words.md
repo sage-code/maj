@@ -31,7 +31,7 @@ There are no other parts of propositions. Any word will fall into one of these c
 Maj     | English        | Romanian
 --------|----------------|-----------------
 Mama    | mother         | mama
-Tata    | father         | tata
+Papa    | father         | tata
 Nana    | grand mother   | bunica
 Naxu    | grand father   | bunicu
 Homo    | men            | bărbat
@@ -295,16 +295,16 @@ Movement prepositions indicating a direction of movement.
 
 Maj      | English  | Origin
 ---------|----------|--------
-cos      |Across    | Emglish
-log      |Along     | English
-veg      |Away From | German
-ito      |Into      | English
-oto      |Onto      | English
-ove      |Over      | English
-cha      |Towards   | Spanish 
-dur      |Through   | German
-uma      |Around    | German
-ruc      |Back      | German
+per      |across    | Latin
+log      |along     | English
+veg      |away from | German
+ito      |into      | English
+oto      |onto      | English
+ozo      |over      | Original
+cha      |towards   | Spanish 
+dur      |through   | German
+uma      |around    | German
+ruc      |back      | German
          
          
 **positions**
@@ -313,23 +313,21 @@ Indicate a position of object relative to other object.
 
 Maj     |English             | Origin
 --------|--------------------|---------
-auf     |On                  | German
-aus     |Off                 | German
-con     |Beside , Next To    | German
-der     |Behind              | German
-fra     |Between             | German
-ino     |Inside              | Latin
-nah     |Near                | German
-out     |Out                 | English
-out     |Outside             | English
-par     |Close To, By        | Spanish
-pri     |Prior               | English
-top     |On Top              | English
-abo     |Above               | English
-unt     |Under,Below,Beneath | German
-via     |Via                 | Latin
-sus	    |Up	                 | Romanian
-jos	    |Down                | Romanian
+auf     |on top              | German
+aus     |off the             | German
+con     |beside , next to    | German
+der     |behind              | German
+fra     |between             | German
+ino     |inside              | Latin
+nah     |near                | German
+out     |out, outside        | English
+nah     |close by            | German
+pri     |prior               | English
+abo     |above               | English
+unt     |under,below,beneath | German
+via     |via, by             | Latin
+sus	    |up	                 | Romanian
+jos	    |down                | Romanian
 
 
 ## Adverbs

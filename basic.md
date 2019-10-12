@@ -13,7 +13,6 @@ helo  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
 ciao  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vediamo
 adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
-vale  |see you   | nos vemos  | au revoir  | salve     | la revedere | ciao
 
 **note:** Some form of salute have multiple meanings
 
@@ -46,9 +45,9 @@ Is the person who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
- 1  | me  = me  | ne = us
- 2  | te  = you | ve = you all
- 3  | he  = he  | ze = them
+ 1  | me  = me  | nu = us
+ 2  | te  = you | vu = you all
+ 3  | he  = he  | zu = them
  3  | xe  = her | 
  3  | le  = it  | 
 
@@ -58,11 +57,11 @@ Is a composite word for a person or object who own something or have something.
 
 singular    | plural
 ------------|--------------------------------
-mia = mine  | nue = ours
-tia = yours | vue = yours
-hia = his   | zue = theirs
-xia = hers  | xue = theirs
-lia = its   | lue = theirs
+meo = mine  | nue = ours
+teo = yours | vue = yours
+hio = his   | zue = theirs
+xio = hers  | xue = theirs
+lao = its   | lue = theirs
 
 **notes:**
 
@@ -221,7 +220,7 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:** ory
+**Maj:** uel
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -229,9 +228,9 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to the cinema or we go to the supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:** vel
+**Maj:** ety 
 
-Marc vel Alice and'upa la plaia 
+Marc ety Alice and'upa la plaia 
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -241,7 +240,7 @@ Spanish | y      | Marc y Alice van a la playa
 
 **Maj:** don
 
-don ita ser'ufu te!
+don ser'ufu te!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -281,4 +280,4 @@ Spanish | porque  | Se mantiene tranquilo porque es agradable.
 * [adjectives](adjectives.md)
 * [adverbs](adverbs.md)
 
-**vale**
+Great!

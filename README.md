@@ -111,4 +111,4 @@ Language elements are designed in separated documents you can read one by one in
 **Community:**
 [discord invitation](https://discord.gg/SRX3tse)
 
-**vale**
+Great!

@@ -9,28 +9,28 @@ All fruits are nouns, and have an invariable form.
 
 maj    |  english   | spanish     |  franch      |  romanian
 -------|------------|-------------|--------------|-------------------
-leme   |  lemon     | limón       |  citron      |  lămâie
-pome   |  apple     | manzana     |  pomme       |  măr
-mure   |  blackberry| mora        |  la mûre     |  mure
-pere   |  pear      | pera        |  poire       |  pară
-pine   |  pineapple | piña        |  ananas      |  ananas
-bane   |  banana    | plátano     |  banane      |  banană
+lema   |  lemon     | limón       |  citron      |  lămâie
+poma   |  apple     | manzana     |  pomme       |  măr
+mura   |  blackberry| mora        |  la mûre     |  mure
+pera   |  pear      | pera        |  poire       |  pară
+pina   |  pineapple | piña        |  ananas      |  ananas
+bana   |  banana    | plátano     |  banane      |  banană
 uvas   |  grape     | uva         |  grain       |  strugure
 
 **Level 2**
 
 maj    |  english   | spanish     |  franch      |  romanian
 -------|------------|-------------|--------------|-------------------
-frute  |  fruit     | fruta       |  fruit       |  fruct
-arade  |  cranberry | arándano    |  canneberge  |  merisor
-plume  |  plum      | ciruela     |  prune       |  prună
+fruta  |  fruit     | fruta       |  fruit       |  fruct
+arada  |  cranberry | arándano    |  canneberge  |  merisor
+pluma  |  plum      | ciruela     |  prune       |  prună
 secos  |  prune     | ciruela     |  seca        |  prună uscata
 cocos  |  coconut   | coco        |  coco noix   |  nuca de cocos
-piche  |  peach     | durazno     |  pêche       |  piersică
-frese  |  strawberry| fresa       |  fraise      |  căpșună
-guves  |  guava     | guayaba     |  goyave      |  guava
-figes  |  fig       | higo        |  fig         |  fig
-citre  |  lime      | lima        |  citron vert |  lămâie verde
+picha  |  peach     | durazno     |  pêche       |  piersică
+fresa  |  strawberry| fresa       |  fraise      |  căpșună
+guvea  |  guava     | guayaba     |  goyave      |  guava
+figea  |  fig       | higo        |  fig         |  fig
+citra  |  lime      | lima        |  citron vert |  lămâie verde
 pepes  |  melon     | melón       |  melon       |  pepenele galben
 orehs  |  orange    | naranja     |  orange      |  portocale
 rasin  |  raisin    | pasa de uva |  raisin      |  stafidă

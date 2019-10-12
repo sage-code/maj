@@ -77,5 +77,5 @@ it is time to stop talking and start making.
 
 **Red next:** [basic](basic.md)
 
-**vale**
+Great!
 
