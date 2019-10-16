@@ -36,7 +36,7 @@ English preposition can be considered in this categories: { time, place, directi
 Location related nouns are 4 character long, they are more important.
 
 loca  = location
-tepa  = time
+topa  = time
 data  = date
 hora  = hour
 anoa  = year
@@ -50,10 +50,12 @@ seza  = season
 von  = by    ( from German )
 con  = with  ( from Italian )
 
+
 **examples**
 
 von Mark Twain   = by Mark Twain
 con mia due mane = with my two hand
+
 
 ## Locations
 
@@ -101,18 +103,21 @@ via   | by       | durch  | prin     | por     | par
 aus   | off      | aus    | din      | de      | apagado
 
          
-## Position
+## Relation
 
-Indicate a position of object relative to other object.
+Indicate a relation of one object relative to other objects.
 
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 
-auf     |on                  |en               | auf
+des     |of the              |de               | des / der
+auf     |on the              |en               | auf
+bei     |at the              |la               | bei
 cot     |beside, next to     |al lado, cerca   | daneben, neben
-der     |behind              |detrás           | hinter
+pos     |behind              |detrás           | hinter
+vor     |in front of         |Al frente de     | vor
+dan     |in the, into        |dans             | im der
 fra     |between             |entre            | zwischen
-ina     |inside              |dentro           | innerhalb
-nah     |near, close by      |cerca            | in der nähe
+iny     |inside              |dentro           | innerhalb
 fua     |outside             |fuera de         | draußen
 pri     |prior               |anterior         | vor
 top     |on top              |encima           | oben drauf
@@ -123,18 +128,26 @@ jos	    |down                |abajo            | nieder
 ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
-der     |there               |ahi              | dort                 
-     
-       
+dor     |there               |ahi              | dort
+lej     |far                 |lejos            | weit
+nah     |near, close by      |cerca            | in der nähe, nah bei
 
 
-# Logical prepositions
+**examples**
+
+* 24 des Novre 2007 = 24 of November 207
+* auf des TV   = 
+* dan ita casa = in the house
+* vor ita casa = in front of the hause
+
+# Logical
 
 * Logical values are: {vero, faso}, from French.
 
 * vero = the truth
 * faso = the opposite of truth   
-    
+* bono = right, good
+* malo = wrong, bad
 
 ## Conjunction
 
@@ -143,7 +156,7 @@ Following prepositions may be used in logical arguments.
  Maj | English | Description
 -----|---------|------------------------------------
  oga | yes     | affirmative
- noc | no      | negative 
+ nok | no      | negative 
  uel | or      | conjunction
  ety | and     | conjunctive
  abe | but     | specify an alternative

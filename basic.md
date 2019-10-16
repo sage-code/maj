@@ -19,6 +19,19 @@ adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 * salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
 
+
+## Words
+
+A word can have a specialized role in a sentence. 
+
+* Nouns are finalized with {"a","e","u"} or a consonant;
+* Verbs are finalized with suffix "u", "ure", "ufu", "upa", "ugo";
+* Adjectives are finalized with "o" or consonant;
+* Adverbs are usually finalized with vowel "o" or a consonant;
+* Pronouns are monosyllabic, 2 or 3 letter long;
+* Prepositions are monosyllabic, 2 or 3 letter long;
+* Determinants are monosyllabic prepositions, 2 - 3 letter long;
+
 ## Pronoun
 
 Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
@@ -37,7 +50,7 @@ Is the person who perform the action.
   2  | tu = you      | vu = you
   3  | hi = he       | zu = they
   3  | xi = she      | 
-  3  | la = it       | 
+  3  | li = it       | 
 
 **Objective**
 
@@ -45,9 +58,9 @@ Is the person who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
- 1  | me  = me  | nu = us
- 2  | te  = you | vu = you all
- 3  | he  = he  | zu = them
+ 1  | me  = me  | ne = us
+ 2  | te  = you | ve = you all
+ 3  | he  = he  | ze = them
  3  | xe  = her | 
  3  | le  = it  | 
 
@@ -55,57 +68,122 @@ Is the person who receive the action.
 
 Is a composite word for a person or object who own something or have something.
 
+verb: haru = to have
+
 singular    | plural
 ------------|--------------------------------
-meo = mine  | nue = ours
-teo = yours | vue = yours
-hio = his   | zue = theirs
-xio = hers  | xue = theirs
-lao = its   | lue = theirs
+mea = mine  | nue = ours
+tea = your  | vue = yours
+hia = his   | zue = their
+xia = her   | xue = their
+lia = its   | lue = their
 
 **notes:**
 
 * Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
 
+## Time of Verbs
+
+There are 4 time suffixes in Maj:
+
+Maj     | English
+--------|--------------------------------
+ure     | present 
+ufu     | future
+upa     | past
+
+
+**singular conjugation**
+
+verb: jocu = to play
+
+* jo jocu    = I play
+* tu jocu    = you play
+* xi joc'ure = she is playing
+* hi joc'ufu = he will play
+* hi joc'upa = he plaid
+
+**plural conjugation**
+* nu jocu foa  = we play sometime
+* vu jocu nuc  = you never play
+* zu jocu suv  = they play often
+
+## Adverb
+
+* foa   = sometime (Franch quelquefois)
+* nuc   = never (Spanish nunca
+* suv   = often (French souvent)
+* mox   = soon  (Latin mox)
+* nau   = now   (English)
+
+**examples**
+
+verb: vidu  = to see
+
+* tu vid'ufu me suv!  = you will see me often!
+* tu vid'ure me foa!  = you can see me sometime!
+* jo vid'upa te nuc!  = I have never seen you!
+* jo vid'ure ve nau!  = I see you all now!
+
+Structure of above propositions: Subject + verb'time + objective + adverb.
+
+Read more about: [verbs](verbs.md)
 
 ## Interrogative
 
-Interrogation is created with prepositions: { qui, que, quo }:
+Interrogation is created with 4 interrogative prepositions:
+
+* que = what?
+* qui = who?
+* quo = how?
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-qui     | who?     | quien   | cine
 que     | what?    | qué     | ce
+qui     | who?     | quien   | cine
 quo     | how?     | como    | cum
+ubi     | where?   | donde   | unde
+uzo     | when?    | cuando  | când
+uxa     | why?     | por qué | de ce 
 
-Notice `u` after, `qu` is silent, so you should say: `ki`, `ke` or `ko`.
+Notice 
+
+* `u` after `q` is silent, so you say: `ke`, `ki` or `ko`.
+* `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `kud`}
 
 **examples**
 
 Next examples show how to use interrogative prepositions:
 
-* qui ser'ure der?  = who is there?
-* que mag'ugo te ?  = what are you eating ?
-* quo ser'upa tia beba ?  = how was your drink ?   
+* qui ser'upa der?  = who whas there?
+* que mag'ufu te ?  = what are you going to eat ?
+* quo ser'ure tea beba ?  = how is your drink ?   
 
-Preposition ubi can be used for questions about location:
+Asking about location can be explicit using que:
 
-**short form**
-* ubi and'ure ti? = where are you going?
-* ubi ven'ure ti? = where are you coming from?
-* ubi ser'ure ti? = where are you from?
+* que loca te and'ure? = where are you going?
+* que loca te ven'ure? = where are you coming from?
+* que loca te ser'ure? = where are you from?
     
-**longer form**    
-* ubi seru isa loca que ti joc'ugo? = where is the place you are plaing?
-* ubi seru isa loca que ni and'ugo? = where is the place we  are going?
+You can ask about location isomg `ubi` or time isomg `cud`:
+
+* ubi seru isa loca que tu jocu? = where is the place you play?
+* uzo seru isa topa que zu venu? = when  is the time they come?
 
 **expressions**
   
+You can use `von ubi`, or `tsu ubi` instead of `loca`.
+  
 * von ubi tsu ubi? = from where to where!
-* von hir tsu der! = from here to there!
-* von loca que ti picu!  = from where you like!
 
+Possible answers:
+
+* von hir tsu dor! = from here to there!
+* von loca que te picu!  = from a place you like!
+* von topa que ne ovi'upa!  = from a forgotten time!
+
+verb: oveu = to forget
 
 ## Noun
 
@@ -123,6 +201,8 @@ You can learn more about nouns in a separate document:
 
 ## Article
 
+In maj, article is a short word you add in front of the noun.
+
 * Articles are used to _point out_ or _refer_ nouns or a group of nouns. 
 * There are two different types of articles: definite and indefinite articles.
 
@@ -135,9 +215,10 @@ isa = that   | ise = those
 
 Let's begin by looking at the definite article. This article is the word `the`, and it refers directly to a noun or groups of nouns. For example:
 
-* Maj: ita peca auf mia cara => 
 * English: the freckles on my face
 * Spanish: las pecas en mi cara
+* Maj: ita pece auf mia cara
+
 
 Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
 
@@ -151,20 +232,37 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 **Maj indefinite article**
 
-In Maj, indefinite article is resolved by using _numeral articles_. 
+In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* uno Mercedes = a Mercedes 
-* oru Mercedes = any Mercedes 
+* uno = one
+* tum = both
+* oru = any
+* omi = every
+* ale = all
+* mot = many
+* pau = few
+* van = several
+* som = some 
 
-Other numeral articles:
 
-oru = any
-omi = every
-ale = all
-mot = many
-pau = few
-van = several
-som = some 
+Common noun is using plural "e" or singular "a" with different articles:
+
+```
+uno mela = one apple
+omi apla = every apple
+oru apla = any apple
+som mele = some aples
+due mele = two apples
+ale mele = all apples
+```
+
+Invariant noun:
+
+```
+pau Mercedes = few Mercedes 
+oru Mercedes = any Mercedes 
+```
+
 
 ## Determinant
 
@@ -176,7 +274,7 @@ Sometimes we use a preposition determinant to create a new meaning for words:
 ```
 pro bebo aqua = drinking water
 non bebo aqua = industrial water
-non bola beba = non alcoholic drink
+non bolo beba = non alcoholic drink
 ```
 
 **Article Usage**
@@ -202,6 +300,7 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 * ite  cheola  = the chocolate drops with alcohol
 * ita  hugola  = juice mixed with alcohol 
 
+
 ## Logic conjunction
 
 A word used to connect clauses or sentences or to coordinate words in the same clause.
@@ -212,7 +311,7 @@ Conjunction is used when...
 * an idea you have, depends on another idea;
 * you want to add a new idea into an existing one;
   
-**Maj:** abe 
+**Maj:** abe = but
     
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -220,7 +319,7 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:** uel
+**Maj:** uel = or
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -228,7 +327,7 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to the cinema or we go to the supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:** ety 
+**Maj:**  ety  = and
 
 Marc ety Alice and'upa la plaia 
 
@@ -238,7 +337,7 @@ Franch  | et     | Marc et Alice vont à la plage
 English | and    | Marc and Alice go to the beach
 Spanish | y      | Marc y Alice van a la playa
 
-**Maj:** don
+**Maj:** don = so
 
 don ser'ufu te!
 
@@ -248,7 +347,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** ica
+**Maj:** ica = now/yet
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -256,7 +355,7 @@ Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
 English | now,yet| The deadlines must be met, yet this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
-**Maj:** nic
+**Maj:** nic = nor
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -264,7 +363,7 @@ Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
 English | nor    | He doesn’t want neither money nor gifts
 Spanish | ni     | No quiere ni dinero ni regalos.
 
-**Maj:** cyz
+**Maj:** cyz = because
 
 Lang    | Word    |  Example
 --------|---------|----------------------------------------------

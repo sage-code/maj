@@ -23,6 +23,13 @@ maso cana = dog male
 femo cana = dog female
 ```
 
+## Proper nouns
+
+* CHICAGO   = The city of Chicago
+* SANA      = Santa Claus
+* Crimys    = Christmas 
+* Maj       = Language Maj
+
 ## Noun suffix
 
 * You can add a suffix to a noun to add information about the noun properties.
@@ -60,5 +67,25 @@ Maj enable diminutives using suffix: 'uca.
 **notes**
 * Whe a noun is uses suffix, it looses a vowel from last syllable that is replaced by apostrophe,
 * Proper nouns (names of places or persons) do not support diminutives.
+
+**2 syllables**
+
+Maj     | English        | Romanian
+--------|----------------|-----------------
+Mama    | mother         | mama
+Papa    | father         | tata
+Nana    | grand mother   | bunica
+Naxu    | grand father   | bunicu
+Homo    | men            | bărbat
+Femo    | women          | femeie
+
+**3 syllables**
+
+Maj     | English        | Romanian
+--------|----------------|-----------------
+Enfera  | nurse          | doctorita
+Dotora  | doctor         | doctor
+Lolita  | baby sitter    | ingrijitoare
+Locara  | worker         | ingrijitor
 
 

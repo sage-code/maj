@@ -21,21 +21,21 @@ There are 26 letters in Maj alphabet.
 ## Pronunciation
 
 ```
----------------------------------------------------
-a    b   c   d   e   f   g   h   i   j   K   l  m
-a    b   c   d   e   f   ɢ   h   i   ʒ   k   l  m
----------------------------------------------------
-n    o   p   q   r   s   t   u   v   x   y   z  w
-n    o   p   q   r   s   t   u   v   ʃ   ə   z  u
----------------------------------------------------
+----------------------------------------------------
+a    b   c   d   e   f   g   h   i   j   K   l   m
+a    bɨ  cɨ  dɨ  e   fɨ  ɢɨ  hɨ  i   ʒɨ  ka  lɨ  mɨ
+----------------------------------------------------
+n    o   p   q   r   s   t   u   v   x   y   z   w
+nɨ   o   pɨ  kiu rɨ  sɨ  tɨ  u   vɨ  ʃɨ  ɨ   zɨ  uɨ
+----------------------------------------------------
 ```
-
 
 Reading the alphabet is different from other Romantic Languages:
 
-* In English alphabet you add an open sound "e" after consonants, but in Maj `ɨ`;
+* In English alphabet you add an open sound "e" after consonants, 
 * In Maj you add a short `ɨ` sound after consonants like "eo" from "pigeon";
 * The above rule is active only when a consonant letter is standing alone;
+* Exceptions: `k`, is pronounced `ka` and `q` is pronounced `kiu`
 
 **Vowels**
 
@@ -46,12 +46,12 @@ The vowels are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
 * Sound  `i`  is close front, like first `i` in "initial";
 * Sound  `o`  is close-mid back, like `o` in `document`;
 * Sound  `u`  is close back, like `oo` in `soon`;
+* Sound  `y`  is can be pronounced: `i`, `ɨ` or `ə` depending on position;
 
 **Other sounds**
 
 Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
 
-* Sound  `y`  is close central like `io` in "fashion";
 * Sound  `j`  is trilled, similar to sound `si` in "fusion";
 * Sound  `s`  is fricative alveolar like `s` in "snake";
 * Sound  `z`  is trilled similar to `z` in "zoo";
@@ -87,13 +87,13 @@ Letter "Q" follow by "u" is pronounced "k". So the "que" or "qui" is read "ke" a
 
 ## Digraphs
 
-Some sounds are created using two letters creating a new sounds. 
+Some sounds are created using two letters different than both. 
 
 maj| romanian | phonetic(*)  
 ---|----------|--------------
-yi | â, î     | ɨ͡i
-iy | â, î     | i͡ɨ
 ts | ţ        | t͡s
+sh | ş        | ʃ
+ch | ce,ci    | t͡ʃ
 ce | ce       | t͡ʃe
 ci | ci       | t͡ʃi
 ge | ge       | d͡ʒe
@@ -101,13 +101,15 @@ gi | gi       | d͡ʒi
 qe | ghe      | ɢe
 qi | ghi      | ɢi
 
+
+Note: These sounds are rarely used in Maj
    
 **description:**
 
 * sound `ts`  is `t͡s` like `t's` in "cats";
-* sound `yi`  is `i͡ɨ` like `eo`  in "pigeon";
 * sound `ce`  is `t͡ʃ` like `ch`  in "chase"; 
 * sound `ci`  is `t͡ʃ` like `ch`  in "peach";
+* sound `ch`  is `t͡ʃ` like `ch`  in "chocolate";
 * sound `sh`  is `ʃ`   like `sh`  in "fashion";
 * sound `ge`  is `d͡ʒ` like `ge`  in "Georgia";
 * sound `gi`  is `d͡ʒ` like `gi`  in "Georgia";
@@ -118,11 +120,11 @@ Sometimes letter `h` is silent, some other times is voiced:
 
 * Letter `h` is always voiced at beginning of words;
 * Letter `h` is voiced when is following or preceding a vowel;
-* Letter `h` is not voiced when is following a consonant;
+* Letter `h` is not voiced when is following after a consonant;
 
 **Notes** 
 
-* Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `pitch`.
+* Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
 * Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
 
 In Romanian, `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi", this convention can not be used in Maj since it enters in conflict with English convention which is more popular. However Maj has 2 digraphs not available in English:
@@ -176,8 +178,10 @@ Note: Q is not present in following alphabets:
 * The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation;
 
 **Modified: Y**
-* `y` at the beginning of words is pronounced "Y" like in New York, Yes, Yacht;
-* `y` can be pronounced both `ɨ` like `eo` in "pigeon" or `ə` like `a`  in "chocolate";
+* `y` at the beginning of words is pronounced "i" like in New York, Yes, Yacht;
+* `y` can be pronounced `ɨ` like `eo` in "pigeon" or `io` in "fashion";   
+* `y` at end of words is pronounced `ə` like `a` in "chocolate";
+* `y` is converted to `a` when a noun is articulated;
 
 **Modified: K**
 * `k` is used to avoid duplicate letter `c` in words like `akcidy`;

@@ -8,7 +8,9 @@ Maj is an artificial language for chat:
 2. Accesible;
 3. Logical;
 4. Efficient;
-5. Entertaining. 
+5. Minimal;
+6. Popular;
+7. Entertaining. 
 
 **Technical:**
 ------------------------------------------------------------------------------------------------

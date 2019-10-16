@@ -42,7 +42,7 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 **related nouns:**
 
-* tepa  = time
+* topa  = time
 * futa  = future
 * resa  = present  
 * pasa  = past
@@ -51,50 +51,6 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 * nara de futa = story from future
 * dica de pasa = talk about the past
-
-## Time suffix
-
-There are 4 time suffixes in Maj:
-
-Maj     | English
---------|--------------------------------
-ure     | present (infinitive present)
-ugo     | present (continuum present)
-ufu     | sometime in the future
-upa     | sometime in the past
-
-**prepositions**
-
-* foa   = sometime 
-* nuc   = never (Spanish nunca
-* suv   = often (French souvent)
-* mox   = soon  (Latin mox)
-* nau   = now   (English)
-
-**examples**
-
-vidu  = to see
-
-* te vid'ufu suv ita mi!  = you will see me often!
-* te vid'ure foa ita mi!  = you can see me sometime!
-* ja vid'upa nuc ita ti!  = I have never seen you before!
-* ja vid'ugo nau ita vi!  = I see you all now!
-
-Structure of above propositions: Subject + verb'time + adverb + article + pronoun.
-
-**singular conjugation**
-
-jocu = to play
-
-* he joc'ure = he play
-* he joc'ugo = he is playin
-* he joc'ufu = he will play
-* he joc'upa = he plaid
-
-**plural conjugation**
-* ny jocu foa  = we play sometime
-* vy jocu nuc  = you never play
-* zy jocu suv  = they play often
 
 ## Verb transformation
 
