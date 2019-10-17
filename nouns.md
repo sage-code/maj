@@ -59,14 +59,14 @@ Sometimes we use suffix to create a composite word for representing nouns:
 
 **beverage**
 ```
-* ber'ola  = bear
-* xoc'ola  = sweet chocolate with alcohol
+ber'ola  = bear
+xoc'ola  = sweet chocolate with alcohol
 ```
 
 **sweets**
 ```
-* gas'osa  = sweet drink
-* xoc'osa  = sweet chocolate
+gas'osa  = sweet drink
+xoc'osa  = sweet chocolate
 ```
 
 ## Diminutives
