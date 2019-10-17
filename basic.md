@@ -24,17 +24,19 @@ adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 
 A word can have a specialized role in a sentence. 
 
-* Nouns are finalized with {"a","e","u"} or a consonant;
+* Nouns are finalized with {"a","e","y"} or any consonant;
 * Verbs are finalized with suffix "u", "ure", "ufu", "upa", "ugo";
-* Adjectives are finalized with "o" or consonant;
-* Adverbs are usually finalized with vowel "o" or a consonant;
+* Adjectives are finalized with "o" or any consonant;
+* Adverbs are finalized with vowel "o" or any consonant;
 * Pronouns are monosyllabic, 2 or 3 letter long;
 * Prepositions are monosyllabic, 2 or 3 letter long;
 * Determinants are monosyllabic prepositions, 2 - 3 letter long;
 
 ## Pronoun
 
-Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Pronouns have 3 cases in Maj:
+Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
+
+**Pronouns cases:**
 
 * nominative
 * objective
@@ -80,18 +82,18 @@ lia = its   | lue = their
 
 **notes:**
 
-* Pronoun "you" is the plural form of previous "Thou", that was singular but is no longer used.
+* Pronoun "you" is the plural form of previous "thou", that was singular but is no longer used.
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
 
 ## Time of Verbs
 
 There are 4 time suffixes in Maj:
 
-Maj     | English
---------|--------------------------------
-ure     | present 
-ufu     | future
-upa     | past
+suffix  | Maj        |   English
+--------|------------|-------------------------------
+ure     | resa       |  present 
+ufu     | futa       |  future
+upa     | pasa       |  past
 
 
 **singular conjugation**
@@ -100,9 +102,13 @@ verb: jocu = to play
 
 * jo jocu    = I play
 * tu jocu    = you play
+* xi jocu    = she play
+
+**using time suffix**
+
 * xi joc'ure = she is playing
 * hi joc'ufu = he will play
-* hi joc'upa = he plaid
+* hi joc'upa = he has plaid
 
 **plural conjugation**
 * nu jocu foa  = we play sometime
@@ -111,7 +117,7 @@ verb: jocu = to play
 
 ## Adverb
 
-* foa   = sometime (Franch quelquefois)
+* foa   = sometime (Franch fois)
 * nuc   = never (Spanish nunca)
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
@@ -132,11 +138,7 @@ Read more about: [verbs](verbs.md)
 
 ## Interrogative
 
-Interrogation is created with 4 interrogative prepositions:
-
-* que = what?
-* qui = who?
-* quo = how?
+Interrogation is created with interrogative prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
@@ -147,7 +149,7 @@ ubi     | where?   | donde   | unde
 uzo     | when?    | cuando  | când
 uxa     | why?     | por qué | de ce 
 
-Notice 
+**Notice **
 
 * `u` after `q` is silent, so you say: `ke`, `ki` or `ko`.
 * `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `kud`}
