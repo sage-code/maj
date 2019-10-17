@@ -25,12 +25,11 @@ Basic rules for new language:
 ------------------------------------------------------------------------------------------------
 
 1. Maj is not an academic language;
+1. Maj id not a historic language;
 1. Maj is not a scripting language;
 1. Maj is not a secret language;
 1. Maj is not for writing books;
 1. Maj is not for encryption;
-1. Maj is not for poetry;
-1. Maj is not for romance;
 
 **Punctuation:**
 
