@@ -112,7 +112,7 @@ verb: jocu = to play
 ## Adverb
 
 * foa   = sometime (Franch quelquefois)
-* nuc   = never (Spanish nunca
+* nuc   = never (Spanish nunca)
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
 * nau   = now   (English)
@@ -373,7 +373,7 @@ Spanish | porque  | Se mantiene tranquilo porque es agradable.
     
 **read next:**
 
-* [prepositions](prepositions.md)
+* [preposition](preposition.md)
 * [nouns](nouns.md)
 * [verbs](verbs.md)
 * [adjectives](adjectives.md)

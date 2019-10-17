@@ -98,30 +98,32 @@ These three directions are very important prepositions:
 Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
 von   | from     | von    | de       | de      | de
-tsu   | to,toward| zu     | la       | vers    | para
+tsu   | toward   | zu     | la       | vers    | para
 via   | by       | durch  | prin     | por     | par
 aus   | off      | aus    | din      | de      | apagado
-
          
 ## Relation
 
 Indicate a relation of one object relative to other objects.
 
+de ita = of the
+la ita = to the
+
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 
-des     |of the              |de               | des / der
-auf     |on the              |en               | auf
-bei     |at the              |la               | bei
-cot     |beside, next to     |al lado, cerca   | daneben, neben
-pos     |behind              |detrás           | hinter
-vor     |in front of         |Al frente de     | vor
-dan     |in the, into        |dans             | im der
-fra     |between             |entre            | zwischen
-iny     |inside              |dentro           | innerhalb
-fua     |outside             |fuera de         | draußen
-pri     |prior               |anterior         | vor
-top     |on top              |encima           | oben drauf
-abo     |above               |encima           | über
+aus de  |of the              |de               | des
+auf de  |on the              |en               | auf
+bei de  |at the              |la               | bei
+cot la  |beside, next to     |al lado, cerca   | daneben, neben
+pos de  |behind the          |detrás           | hinter
+vor de  |in front of         |Al frente de     | vor
+dan la  |in the, into        |dans             | im der
+fra la  |between the         |entre            | zwischen
+iny de  |inside the          |dentro           | innerhalb
+fua de  |outside of          |fuera de         | draußen
+pri de  |prior of            |anterior         | vor
+top de  |on top of           |encima           | oben drauf
+abo de  |above or            |encima           | über
 unt     |under,below,beneath |debajo           | unter, unter, unter
 sus	    |up	                 |arriba           | nach oben
 jos	    |down                |abajo            | nieder
@@ -129,16 +131,16 @@ ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
 dor     |there               |ahi              | dort
-lej     |far                 |lejos            | weit
-nah     |near, close by      |cerca            | in der nähe, nah bei
+lej de  |far from            |lejos            | weit
+nah de  |near, close by      |cerca            | in der nähe, nah bei
 
 
 **examples**
 
-* 24 des Novre 2007 = 24 of November 207
-* auf des TV   = 
-* dan ita casa = in the house
-* vor ita casa = in front of the hause
+* 24  de Novre 2007 = 24 of November 207
+* auf de TV   = 
+* dan la casa = in the house
+* vor la casa = in front of the hause
 
 # Logical
 
