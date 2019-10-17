@@ -8,31 +8,6 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 2. The verb do not change its root with the case or number. However, a verb root can change `u` in `a` or `e` to becomes a noun. If "u" is changed to "o" it becomes adjective. 
 
-**Some verbs:**
-
- Maj     |Spanish       | English
----------|--------------|---------------
- andu    |ir            | to go
- aidu    |ayudar        | to help
- artu    |crear         | to create
- bebu    |beber         | to drink
- cibu    |escribir      | to write
- ganu    |ganar / ganar | to earn/win
- haru    |tener         | to have
- magu    |comer         | to eat 
- orsu    |correr        | to run 
- oidu    |escuchar      | to hear 
- picu    |gustar        | to like 
- uscu    |buscar        | to look for
- liru    |leer          | to read
- jocu    |jugar         | to play
- vivu    |estar vivo    | to be alive 
- vidu    |para ver      | to see
- venu    |venir         | to come 
- volu    |a voluntad    | to will 
- seru    |ser           | to be   
- sanu    |saludable     | to get healthy
- 
 ## Time prepositions
 
 * Verbs can be followed by time preposition to form a composite word,
@@ -72,162 +47,279 @@ Use termination 'era to make a noun.
 * je ser'upa uno joc'era = I was a player
 * nu ser'ufu ale joc'era = we will be all players
 
+## Top 10 verbs
+
+These are most common verbs:
+
+* estu = is (to be)
+* haru = to have
+* faru = to do
+* dicu = to say (to answer)
+* andu = to go
+* vezu = to see
+* civu = to know
+* pavu = can (to be able)
+* keru = to want
+* dovu = must to, have to
 
 ## Verb dictionary 
 
-**Level 1**
+Top verbs in alphabetical order:
 
-Some original Maj verbs for personal care:
+Maj    |English            |Spanish            |Franch     
+-------|-------------------|-------------------|------------
+aclu   | call              | llamar            | appel 
+aidu   | help              | ayudar            | aider
+aivu   | arrive            | llegar            | arriver
+andu   | go, goes          | ir                | aller
+apru   | appear            | aparecer          | apparaître
+arbu   | work              | trabajo           | travailler
+asku   | ask for           | pedir             | demander
+auzu   | listen            | escuchar          | écoute
+axtu   | buy               | comprar           | acheter
+bebu   | drink             | bebida            | boisson
+bezu   | need              | necesitar         | avoir besoin
+busu   | lookfor           | buscar            | chercher
+cagu   | change            | cambiar           | changer
+cagu   | convert           | convertir         | convertir
+capu   | understand        | entender          | comprendre
+cetu   | accept            | aceptar           | accepter
+cevo   | receive           | recibir           | recevoir
+civu   | know              | saber             | savoir
+coru   | run               | correr            | courir
+cotu   | count             | contar            | raconter
+creu   | create            | crear             | créer
+cydu   | fall              | caer              | tomber
+cytu   | sing              | canta             | chanter
+debu   | owe               | deber             | devoir
+dehu   | leave/allow       | dejar             | laisser
+desu   | draw              | dibujar           | dessiner
+dibu   | start             | comienzo          | début
+dicu   | tell, say         | contar            | dire
+diru   | direct            | dirigir           | conduire
+domu   | sleep             | dormir            | dormir
+donu   | gave              | dio               | a donné
+dove   | must              | debe              | doit
+entu   | enter             | entrar            | entrer
+escu   | exist             | existir           | exister
+estu   | be                | estar             | être
+faru   | do                | hacer             | faire
+fatu   | made              | hecho             | fabriqué
+fixu   | end, finish       | terminar          | finir
+foma   | form/make         | formar            | forme
+ganu   | earn/win          | ganar             | gagner
+givu   | give              | dar               | donner
+goxu   | grow              | crecer            | grandir
+habu   | speak, talk       | hablar            | parler
+hacu   | make              | hacer             | faire
+haru   | have              | haber             | avoir
+inzu   | begin, start      | comenzar, empezar | commencer
+iveu   | discover          | descubrir         | à découvrir
+joku   | play              | jugar             | jouer
+jupu   | jump              | saltar            | saut
+kedu   | believe           | creer             | croire
+keru   | want              | querer            | vouloir
+kitu   | maintain/keep     | mantener          | continue
+lavu   | wash              | lavar             | laver
+lesu   | let               | dejar             | laisser
+liru   | read              | leer              | lire
+livu   | live              | vivir             | vivre
+loru   | achieve           | lograr            | atteindre
+lozu   | lose              | perder            | perdre
+magu   | eat               | comer             | manger
+maxu   | walk              | caminar           | marche
+miru   | watch/lookat      | mirar             | regarde
+moru   | die               | morir             | mourir
+mosu   | show              | espectáculo       | spectacle
+motu   | ride              | montar            | monter
+moxu   | fly               | volar             | mouche
+naxu   | born              | nacer             | naître
+nitu   | clean             | limpiar           | nettoyer
+obiu   | get               | conseguir         | obtenir
+ocru   | occur/happen      | ocurrir           | se produire
+ofru   | offer             | ofrecer           | offre
+oiru   | hear              | oír               | entendre
+oviu   | forget            | olvida            | oublier
+ovru   | open              | abrir             | ouvrir
+pagu   | pay               | pagar             | payer
+paru   | stop              | parar             | arrêter
+pasu   | happen/pass       | pasar             | passer
+patu   | leave             | partir            | scission
+pavu   | be able to        | poder             | pouvoir
+pegu   | explain           | explicar          | expliquer
+pemu   | permit/allow      | permitir          | permettre
+pesu   | think             | pensar            | pense
+pezu   | introduce/present | presentar         | présenter
+picu   | like              | gustar            | aimer
+pobu   | try               | intentar          | essayer
+podu   | produce           | producir          | produire
+ponu   | put               | poner             | mettre
+poru   | carry             | portar            | porter
+posu   | has               | tiene             | possède
+razu   | getup/raise       | levantar          | soulever
+recu   | achieve           | cumplir           | rencontrer
+redu   | return/comeback   | volver            | revenir
+reju   | reach             | alcanzar          | atteindre
+rezu   | turnout           | resultar          | résulter
+rigu   | recognize         | reconocer         | reconnaître
+rimu   | remember          | recordar          | rappeler
+rovu   | find              | encontrar         | trouver
+rydu   | laugh             | risa              | rire
+sabu   | write             | escribir          | Écrire
+sacu   | takeout           | sacar             | enlever
+saru   | goout             | salir             | sortir
+sciu   | know/meet         | conocer           | faire connaissance
+segu   | achieve           | realizar          | effectuer
+semu   | seem              | parecer           | paraître
+senu   | feel              | sentir            | sentir
+sevu   | serve/function    | servir            | servir
+sigu   | follow            | seguir            | suivre
+sipu   | suppose           | suponer           | assumer
+situ   | sit               | sentar            | asseoir
+sodu   | consider          | considerar        | considérer
+sonu   | am                | soy               | je suis
+tagu   | cut               | cortar            | couper
+taru   | bring             | traer             | apporter
+tenu   | hold              | sostener          | tenir
+tiru   | pull              | halar             | tirer
+tizu   | use               | utilizar          | utiliser
+tocu   | touch/play        | tocar             | toucher
+tomu   | take              | tomar             | prendre
+toru   | treat             | tratar            | traiter
+tudu   | study             | estudiar          | étudier
+varu   | wait              | esperar           | attendre à
+venu   | come              | venir             | venir
+vezu   | see               | ver               | regarder
+vivu   | live              | en vivo           | vivre
+vohu   | wish              | deseo             | souhait
+volu   | will              | será              | volonté
+xedu   | stay, sit         | quedar            | rester
+xosu   | pick              | recoger           | choisir
 
-maj     | english   | spanish   | romanian 
---------|-----------|-----------|----------------
-comu    | eating    | comer     | mâncat
-bebu    | drinking  | bebida    | băut
-jocu    | play      | jugar     | joaca
-lahu    | laughing  | riendo    | râde
-besu    | kissing   | besos     | sărutat
-banu    | bath      | baño      | baie
-dibu    | drawings  | dibujos   | deseneaza
-pinu    | painting  | pintura   | picteaza
-varu    | writing   | escritura | scrie
-laiu    | reading   | leyendo   | citesc  
-casu    | poop      | mierda    | căca
-pisu    | pee       | pipí      | pişa
-huhu    | diapers   | pañales   | scutece
-copu    | swing     | columpio  | leagănă
-sigu    | sing      | cantar    | cântat
-balu    | dancing   | bailando  | dansul
-
-**Note** 
-
-* huhu translate to: change diapers and make child happy
-* lahu is similar to huhu: making the child happy
-
-**Level 2** 
-
-Infinitiv form of verbs is invariant:
-
-maj     |english   |spanish    |franch    |latin
---------|----------|-----------|----------|---------------
-povu    |to be able|poder      |pouvoir   |possit
-lesu    |to let    |dejar      |laisser   |dimittere
-movu    |to move   |mover      |bouger    |movere
-mosu    |to show   |mostrar    |montrer   |ostendere
-dicu    |to talk   |hablar     |parler    |dicere
-naru    |to tell   |decir      |dire      |narrat
-velu    |to will   |voluntad   |vouloir   |velle
-incu    |to begin  |empezar    |commencer |incipere
-pesu    |to think  |pensar     |penser    |cogitare
-divu    |to become |convertirse|devenir   |facti sunt
-hutu    |it should |debería    |devrait   |ut
 
 
-**Level 3**
-
-Top 25 verbs in alphabetical order
-
-Maj    |English   |Spanish   |Franch     |Italian   |Latin
--------|----------|----------|-----------|----------|---------
-apeu   |call      |llamada   |appel      |chiamata  |voca
-aseu   |do        |hacer     |faire      |fare      |facite
-ceru   |want      |querer    |vouloir    |volere    |cupio
-conu   |know      |saber     |savoir     |conoscere |scio
-dicu   |say       |decir     |dire       |dire      |dicere
-estu   |be        |ser       |être       |essere    |quod
-fomu   |make      |hacer     |faire      |rendere   |facere
-givu   |give      |dar       |donner     |dare      |dare
-getu   |get       |obtener   |obtenir    |ottenere  |ut
-habu   |have      |tener     |avoir      |avere     |habet
-iusu   |use       |utilizar  |utilisation|uso       |usus
-miru   |look      |mira      |regardez   |guarda    |quaerere
-cotu   |count     |contar    |décompte   |contare   |computat
-pegu   |ask       |pedir     |demander   |chiedi    |quaerere
-tovu   |find      |encontrar |trouver    |trova     |inveniet
-tabu   |work      |trabajo   |travail    |lavoro    |opus
-relu   |leave     |salir     |partir     |partire   |relinquo
-semu   |seem      |parecer   |sembler    |sembrare  |videtur
-sesu   |feel      |sensación |ressentir  |sentire   |sentire
-teru   |try       |tratar    |essayer    |provare   |tentant
-tomu   |take      |tomar     |prendre    |prendere  |accipere
-venu   |come      |ven       |viens      |venire    |veni
-vidu   |see       |ver       |voir       |vedere    |videre
-vasu   |go        |ir,vas    |aller,vas  |partire   |vade
 
 
-**Level 4**
 
-Some 70-ish more verbs, ordered by Spanish with diverse origins:
 
-Origin    | Maj     |Spanish      | English
-----------|---------|-------------|---------------
-french    | ovru    |abrir        | to open
-spanish   | acbu    |acabar       | to finish/end
-spanish   | agru    |agarrar      | to grab
-spanish   | cetu    |aceptar      | to accept
-spanish   | aczu    |alcanzar     | to reach
-spanish   | apru    |aparecer     | to appear
-portugese | aidu    |ayudar       | to help
-spanish   | uscu    |buscar       | to look for
-italian   | cadu    |caer         | to fall
-italian   | mutu    |cambiar      | to change
-italian   | capu    |entender     | to understand
-arabic    | zaru    |considerar   | to consider
-arabic    | hulu    |convertir    | to convert/change
-italian   | orsu    |correr       | to run
-latin     | artu    |crear        | to create
-spanish   | creu    |creer        | to believe
-german    | rafu    |cumplir      | to achieve
-italian   | dovu    |deber        | to owe
-spanish   | desu    |descubrir    | to discover
-french    | ondu    |dirigir      | to direct
-spanish   | pezu    |empezar      | to start
-spanish   | etru    |entrar       | to enter
-spanish   | cibu    |escribir     | to write
-latin     | audu    |escuchar     | to listen
-english   | hopu    |esperar      | to hope
-esperanto | tudu    |estudiar     | to study
-italian   | pigu    |explicar     | to explain
-spanish   | ganu    |ganar        | to earn/win
-italian   | picu    |gustar       | to like
-romanian  | pobu    |intentar     | to try
-spanish   | jocu    |jugar        | to play
-french    | liru    |leer         | to read
-english   | razu    |levantar     | to get up/raise
-french    | arvu    |llegar       | to arrive
-french    | ortu    |llevar       | to carry
-spanish   | ogru    |lograr       | to achieve/manage to
-english   | antu    |mantener     | to maintain/keep
-italian   | motu    |morir        | to die
-portugese | ascu    |nacer        | to be born
-french    | isnu    |necesitar    | to need
-spanish   | curu    |ocurrir      | to occur/happen
-latin     | ofru    |ofrecer      | to offer
-latin     | audu    |oír          | to hear
-spanish   | pagu    |pagar        | to pay
-spanish   | paru    |parar        | to stop
-original  | ecsu    |partir       | to leave
-spanish   | pasu    |pasar        | to happen/pass
-english   | losu    |perder       | to lose
-spanish   | pomu    |permitir     | to permit/allow
-esperanto | pavu    |poder        | to be able to
-spanish   | ponu    |poner        | to put
-english   | itru    |presentar    | to introduce/present
-latin     | podu    |producir     | to produce
-latin     | cudu    |quedar       | to stay / rest
-original  | pefu    |realizar     | to achieve
-spanish   | recu    |reconocer    | to recognize
-french    | repu    |recordar     | to remember
-esperanto | rezu    |resultar     | to turn out
-spanish   | sacu    |sacar        | to take out
-spanish   | segu    |seguir       | to follow
-spanish   | seru    |ser          | to be / to exist
-spanish   | sevu    |servir       | to serve/function
-spanish   | supu    |suponer      | to suppose
-german    | feru    |terminar     | to finish
-spanish   | tocu    |tocar        | to touch/play
-original  | adru    |traer        | to bring
-original  | ratu    |tratar       | to treat
-original  | vivu    |vivir        | to be alive 
-latin     | vicu    |conquer      | to to conquerer
-latin     | revu    |volver       | to return/come back
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
