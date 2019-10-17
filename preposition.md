@@ -108,6 +108,7 @@ Indicate a relation of one object relative to other objects.
 
 de ita = of the
 la ita = to the
+es ita = is the 
 
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 

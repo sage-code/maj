@@ -78,32 +78,42 @@ Basic rules for new language:
 
 Words are inspired from 7 different languages.
 
-1. Spanish
-2. French, Italian
-3. Latin, Romanian
-4. English, German
+* **More:** Spanish, Italian, 
+* **Less:** Latin, Romanian, 
+* **Some:** French, English, German.
 
 **technology:**
 
-* Numerals are original, first letter is inspired from Romanic languages;
+* Maj alphabet is similar to English alphabet and use standard QWERTY keyboard;
+* Numerals are unique but first letter is inspired from Romanic languages;
 * All words are created manually using a translation spreadsheet;
-* We use a computer algorithm to evaluate language complexity;
+* Words are abbreviated as much as possible not translated 1:1;
+* We preserve significant syllables to create short root words;
+* Sometimes we invert letters, to improve pronunciation;
+* We dismiss letter `r` sometimes we loose other letters that are not significant;
+* Not all words are translated, some words are invented in Maj;
 
-## The sentences
+**Read more:** 
+
+* [The use cases](case.md)
+* [The alphabet](alphabet.md)
+* [The numerals](numerals.md)
+
+## The basics
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
+1. There are 3 time periods for verbs: {past, present, future};
+1. There are 3 cases for pronouns: {nominative, objective, possessive};
 
-**Read more:** 
-[The use cases](case.md)
+**Read more:**
 
-**Elements:**
-
-Language elements are designed in separated documents you can read one by one in this order:
-
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
 * [Basic grammar](basic.md)
+
+**Dictionary:**
+
+Language words are described in separated documents:
+
 * [Prepositions](prepositions.md)
 * [Nouns](nouns.md)
 * [Verbs](verbs.md)

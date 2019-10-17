@@ -288,17 +288,17 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 
 **patterns** 
 
-* ita  pana    = the bread
-* ite  pana    = these breads
-* ita  aqua    = the water
-* ita  bana    = the banana
-* ite  bana    = these bananas
-* ita  huga    = the juice  
+* ita pana = the bread
+* ite pana = these breads
+* ita aqua = the water
+* ita bana = the banana
+* ite bana = these bananas
+* ita huga = the juice  
   
-* ite  cheosa  = the cookies with chocolate
-* ita  hugosa  = extra sweet juice 
-* ite  cheola  = the chocolate drops with alcohol
-* ita  hugola  = juice mixed with alcohol 
+* ite cheosa  = the cookies with chocolate
+* ita hugosa  = extra sweet juice 
+* ite cheola  = the chocolate drops with alcohol
+* ita hugola  = juice mixed with alcohol 
 
 
 ## Logic conjunction
