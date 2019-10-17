@@ -1,9 +1,12 @@
 # Maj
 
-Maj is an artificial language for chat:
+Imagine a happy world, where everyone can speack with everyone else:
 
 **Goals:**
 ------------------------------------------------------------------------------------------------
+
+Maj is an artificial language for chat:
+
 1. Articulated;
 2. Accesible;
 3. Logical;
@@ -21,7 +24,6 @@ Basic rules for new language:
 1. one word have the same meaning in all propositions;
 
 **Maj do not**
-
 ------------------------------------------------------------------------------------------------
 
 1. Maj is not an academic language;
@@ -32,7 +34,6 @@ Basic rules for new language:
 1. Maj is not for encryption;
 
 **Punctuation:**
-
 ------------------------------------------------------------------------------------------------
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
@@ -74,6 +75,7 @@ Basic rules for new language:
 
 
 ## Constructing
+------------------------------------------------------------------------------------------------
 
 Words are inspired from 7 different languages.
 
