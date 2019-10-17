@@ -3,7 +3,7 @@
 Imagine a happy world, where everyone can speack with everyone else:
 
 **Goals:**
-------------------------------------------------------------------------------------------------
+
 
 Maj is an artificial language for chat:
 
@@ -16,7 +16,7 @@ Maj is an artificial language for chat:
 7. Entertaining. 
 
 **Technical:**
-------------------------------------------------------------------------------------------------
+
 Basic rules for new language:
 
 1. one letter do not represent anything else but itself;
@@ -24,7 +24,7 @@ Basic rules for new language:
 1. one word have the same meaning in all propositions;
 
 **Maj do not**
-------------------------------------------------------------------------------------------------
+
 
 1. Maj is not an academic language;
 1. Maj id not a historic language;
@@ -34,7 +34,7 @@ Basic rules for new language:
 1. Maj is not for encryption;
 
 **Punctuation:**
-------------------------------------------------------------------------------------------------
+
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
 1. A word that start with uppercase represent a person or animals or a robot or an AI device;
@@ -54,11 +54,9 @@ Basic rules for new language:
 
 ## Symbols
 
-------------------------------------------------------------------------------------------------
 
 { + - / ? ! . : * ; # ` _ ~ [ ] ( )}
 
-------------------------------------------------------------------------------------------------
 
 1. One star `* ` follow by one space at the beginning of line start a bullet list;
 1. Number `1. `  follow by dot that at beginning of line start a numbered list;
@@ -75,7 +73,7 @@ Basic rules for new language:
 
 
 ## Constructing
-------------------------------------------------------------------------------------------------
+
 
 Words are inspired from 7 different languages.
 
