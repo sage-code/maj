@@ -133,3 +133,5 @@ Let's count a rocket lifting off:
 * ... rea due uno ety razu aus !!! 
 
 Great!
+
+Read next: [basic](basic.md)

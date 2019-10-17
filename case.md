@@ -1,6 +1,10 @@
 # Use case
 
-**note:** in this document I use Maj capitalization!
+**notes:** 
+
+* in this document I use Maj capitalization!
+* sentences start with lowercase letters!
+* names start with capital letters!
 
 there are some good reasons to make a new and different language:
 
@@ -59,11 +63,11 @@ a constructed language can have good use-cases.
 
 **for Internet**
 
-Maj is for Internet. It is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all. Maj can enable communities of exceptional persons to improve themselves.
+Maj is for Internet. it is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all. Maj can enable communities of exceptional persons to improve themselves.
 
 **for peace**
 
-Maj is a language of peace. While you learn this language you also learn peace. the language is used to create ideas of serenity and purity. this will influence you in a good way making you a better person.
+Maj is a language of peace. while you learn this language you also learn peace. the language is used to create ideas of serenity and purity. this will influence you in a good way making you a better person.
 
 **for making**
 
@@ -71,7 +75,7 @@ Maj will enable you to make text. this reduce time to write a story or a thesis.
 
 time and storage space both are expensive. it is true that text do not take much space, but maybe in the future AI will learn how to produce text. in this case, the repository knowledge will grow exponential. improving efficiency should be always a goal.
 
-Maj will have executable _script_ capability. This is a _smarter text_ that ca do logical reasoning and can be _executed_ by a Maj interpretor. By doing this, you can describe an algorithm. So a Maj _text_ can be a running program.
+Maj is a descriptive language. a Maj interpretor can read _Maj text_ and do computations to calculate values in tables using functions similar to a spreadsheet. you can describe input/output forms, data tables and algorithms.
 
 it is time to stop talking and start making.
 

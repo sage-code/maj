@@ -16,9 +16,18 @@ n   o   p   q   r   s   t   u   v   x   y   z   w
 
 **Notes**
 
-There are 26 letters in Maj alphabet.
+* There are 26 letters in Maj alphabet;
 
 ## Pronunciation
+
+Reading the alphabet is different from other Romantic Languages:
+
+* In Maj you add a short `ɨ` sound after consonants like "eo" from "pigeon";
+* Exceptions: `k`, is pronounced `ka` and `q` is pronounced `kiu`;
+* Completly unrelated words can differ by just one letter;
+* Most letters are pronounced the same in all words with some exceptions;
+* Most letters are voiced in Maj words except `h` that can be sometime silent;
+
 
 ```
 ----------------------------------------------------
@@ -30,37 +39,45 @@ nɨ   o   pɨ  kiu rɨ  sɨ  tɨ  u   vɨ  ʃɨ  ɨ   zɨ  uɨ
 ----------------------------------------------------
 ```
 
-Reading the alphabet is different from other Romantic Languages:
+## Cedilla
 
-* In English alphabet you add an open sound "e" after consonants, 
-* In Maj you add a short `ɨ` sound after consonants like "eo" from "pigeon";
-* The above rule is active only when a consonant letter is standing alone;
-* Exceptions: `k`, is pronounced `ka` and `q` is pronounced `kiu`
+Though elegant and useful in other languages, Maj do not use cedilla:
 
-**Vowels**
+* { î â ă ö ü é è ç ş ţ ...}
 
-The vowels are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
+**notes**
 
-* Sound  `a`  is open central vowel, like `a` in "car";
-* Sound  `e`  is close-mid front, like `e`  in "melon";
-* Sound  `i`  is close front, like first `i` in "initial";
-* Sound  `o`  is close-mid back, like `o` in `document`;
-* Sound  `u`  is close back, like `oo` in `soon`;
-* Sound  `y`  is can be pronounced: `i`, `ɨ` or `ə` depending on position;
+* Most names from other Romanic languages do not need phonetic translation,
+* New York, Chicago or Washington are read correctly in Maj,
+* France is accepted but "française" should be translated to "francez".
 
-**Other sounds**
+## Vowels
+
+The vowels are read like in Italian. Romanian and Spanish not English or German;
+
+* Letter `a`  is open central vowel, like `a` in "car";
+* Letter `e`  is close-mid front, like `e`  in "melon";
+* Letter `i`  is close front, like first `i` in "initial";
+* Letter `o`  is close-mid back, like `o` in `document`;
+* Letter `u`  is close back, like `oo` in `soon`;
+* Letter `y`  is pronounced: `i`, `ɨ` or `ə` depending on position;
+
+## Consonants
 
 Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
 
-* Sound  `j`  is trilled, similar to sound `si` in "fusion";
-* Sound  `s`  is fricative alveolar like `s` in "snake";
-* Sound  `z`  is trilled similar to `z` in "zoo";
-* Sound  `r`  is trilled similar to `rr` in "Africa";
-* Sound  `v`  is trilled like `v` in "vehicle";
-* Sound  `g`  is plosive uvular like `g` in "gees", "guitar", "get";
-* Sound  `k`  is fricative `c` like `k` in "sky";
-* Sound  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion";
-* Sound  `w`  is voiced labial-velar like `w in "whiskey".
+* Letter  `j`  is trilled, similar to sound `si` in "fusion";
+* Letter  `s`  is fricative alveolar like `s` in "snake";
+* Letter  `z`  is trilled similar to `z` in "zoo";
+* Letter  `r`  is trilled similar to `rr` in "Africa";
+* Letter  `v`  is trilled like `v` in "vehicle";
+* Letter  `g`  is plosive uvular like `g` in "gees", "guitar", "get";
+* Letter  `k`  is fricative `c` like `k` in "sky";
+* Letter  `x`  is fricative post-alveolar like `sh` in "she" or `sh` in "fashion";
+* Letter  `y`  is pronounced `i`, `ɨ` or `ə` depending on position in the word;
+* Letter  `q`  is pronounced `k` or `G` depending on position in the word;
+* Letter  `w`  is voiced labial-velar like `w in "whiskey" but is very rare.
+
 
 **Notation**
 
@@ -101,9 +118,7 @@ gi | gi       | d͡ʒi
 qe | ghe      | ɢe
 qi | ghi      | ɢi
 
-
-Note: These sounds are rarely used in Maj
-   
+ 
 **description:**
 
 * sound `ts`  is `t͡s` like `t's` in "cats";
@@ -113,6 +128,8 @@ Note: These sounds are rarely used in Maj
 * sound `sh`  is `ʃ`   like `sh`  in "fashion";
 * sound `ge`  is `d͡ʒ` like `ge`  in "Georgia";
 * sound `gi`  is `d͡ʒ` like `gi`  in "Georgia";
+
+**Note:** Digraphs are rarely used in Maj!
 
 ## Silent `h`
 
@@ -135,18 +152,6 @@ For Romanians:
 * sound `gi` = sound `ghi`
 * sound `ke` = sound `che`
 * sound `ki` = sound `chi`
-
-## Cedilla
-
-Though elegant and useful in other Languages, Maj do not use cedilla:
-
-* { î â ă ö ü é è ç ş ţ ...}
-
-**notes**
-
-* Most names from other Romanic languages do not need phonetic translation
-* New York, Chicago or Washington are read correctly in Maj
-* France is accepted but "française" should be translated to "francez"
 
 ## Modified Letters
 
@@ -181,7 +186,7 @@ Note: Q is not present in following alphabets:
 * `y` at the beginning of words is pronounced "i" like in New York, Yes, Yacht;
 * `y` can be pronounced `ɨ` like `eo` in "pigeon" or `io` in "fashion";   
 * `y` at end of words is pronounced `ə` like `a` in "chocolate";
-* `y` is converted to `a` when a noun is articulated;
+* `y` at end of nouns is converted to `a` or `e` to make articulated nouns;
 
 **Modified: K**
 * `k` is used to avoid duplicate letter `c` in words like `akcidy`;
@@ -207,7 +212,7 @@ initial   => inixyl
 fashion   => faxyn
 yacht     => yaht
 
-## Consonants
+## Two consonants
 
 Not all consonants are equal. Maj is dividing consonants in 4 categories:
 
@@ -240,7 +245,7 @@ sc sf sl sm sn sp sr st sv
 vr zb zd zg zm zn zv
 ``` 
 
-## Vowels
+## Two vowels
 
 * Maj has 5 vowels: { a e i o u } 
 * Two semivowel: { w y } 
@@ -304,7 +309,7 @@ A syllable can not ...;
 2. Diphtongs, starting with semi-vowels can be used at beginning of words: { y w }
 3. Syllable that have "coda" present are used only for end of words,
 
-# Complexity
+**weight:**
 
 Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster. Gradualy one can assimilate more more complex words.
 
@@ -315,6 +320,9 @@ Cost   |Sounds
   3    |b, c, d, p, t, f, s, q 
   4    |v, j, g, k, x, z, r, w 
 
-**calculation**  
+**cost:**  
+
 Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
+
+Read next: [numerals](numerals.md)
 
