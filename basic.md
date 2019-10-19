@@ -44,19 +44,18 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 
 **Nominative**
 
-Is the person who perform the action.
+Is the person or the thing who perform the action.
 
   p  |singular       | plural
 -----|---------------|-----------------------------
   1  | jo = I        | nu = we
   2  | tu = you      | vu = you
-  3  | hi = he       | zu = they
+  3  | hi = he, it   | zu = they
   3  | xi = she      | 
-  3  | li = it       | 
 
 **Objective**
 
-Is the person who receive the action.
+Is the person or the thing who receive the action.
 
   p | singular  | plural
 ----|-----------|-----------------------------
@@ -64,7 +63,6 @@ Is the person who receive the action.
  2  | te  = you | ve = you all
  3  | he  = he  | ze = them
  3  | xe  = her | 
- 3  | le  = it  | 
 
 **Possessive**
 
@@ -74,22 +72,22 @@ verb: haru = to have
 
 singular    | plural
 ------------|--------------------------------
-mea = mine  | nue = ours
-tea = your  | vue = yours
+mia = mine  | nue = ours
+tia = your  | vue = yours
 hia = his   | zue = their
 xia = her   | xue = their
-lia = its   | lue = their
 
 **notes:**
 
-* Pronoun "you" is the plural form of previous "thou", that was singular but is no longer used.
-* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant.
+* Maj language do not have form for "it". You can use "he" to talk about a thing or a person;
+* Pronoun "you" is the plural form of previous "thou", that was singular but is no longer used;
+* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant;
 
 ## Time of Verbs
 
 There are 4 time suffixes in Maj:
 
-suffix  | Maj        |   English
+Suffix  | Maj        |   English
 --------|------------|-------------------------------
 ure     | resa       |  present 
 ufu     | futa       |  future
@@ -102,6 +100,7 @@ verb: jocu = to play
 
 * jo jocu    = I play
 * tu jocu    = you play
+* hi jocu    = he  play
 * xi jocu    = she play
 
 **using time suffix**
@@ -110,12 +109,7 @@ verb: jocu = to play
 * hi joc'ufu = he will play
 * hi joc'upa = he has plaid
 
-**plural conjugation**
-* nu jocu foa  = we play sometime
-* vu jocu nuc  = you never play
-* zu jocu suv  = they play often
-
-## Adverb
+## Using adverb
 
 * foa   = sometime (Franch fois)
 * nuc   = never (Spanish nunca)
@@ -170,8 +164,8 @@ Asking about location can be explicit using que:
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* ubi seru isa loca que tu jocu? = where is the place you play?
-* uzo seru isa topa que zu venu? = when  is the time they come?
+* ubi seru la loca que tu jocu? = where is the place you play?
+* uzo seru la topa que zu venu? = when  is the time they come?
 
 **expressions**
   
@@ -210,17 +204,25 @@ In maj, article is a short word you add in front of the noun.
 
 **Maj definite article**
 
-singular     | plural
--------------|-------------
-ita = this   | ite = these
-isa = that   | ise = those
+Definite article indicative form:
+
+es  = is
+de  = of
+la  = the (singular)
+le  = the (plural)
+
+Definite article determinant form:
+
+Singular   |  Plural
+-----------|--------------
+esa = this |  ese = these 
+ela = that |  ele = those
 
 Let's begin by looking at the definite article. This article is the word `the`, and it refers directly to a noun or groups of nouns. For example:
 
 * English: the freckles on my face
 * Spanish: las pecas en mi cara
-* Maj: ita pece auf mia cara
-
+* Maj: le pece auf mia cara
 
 Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
 
@@ -288,20 +290,19 @@ If the noun that comes after the article begins with a vowel sound, the appropri
 * an advertisement on the radio (this noun begins with 'a,' which is a vowel)
 * an element on the periodic table (this noun begins with 'e,' which is also a vowel)
 
-**patterns** 
+**normal** 
 
-* ita pana = the bread
-* ite pana = these breads
-* ita aqua = the water
-* ita bana = the banana
-* ite bana = these bananas
-* ita huga = the juice  
-  
-* ite cheosa  = the cookies with chocolate
-* ita hugosa  = extra sweet juice 
-* ite cheola  = the chocolate drops with alcohol
-* ita hugola  = juice mixed with alcohol 
+* la pana = the bread
+* la aqua = the water
+* la bana = the banana
+* la huga = the juice  
 
+**harmful**
+
+* la cheosa  = the cookies with chocolate
+* la cheola  = the chocolate drops with alcohol
+* la hugosa  = extra sweet juice 
+* la hugola  = juice mixed with alcohol 
 
 ## Logic conjunction
 
@@ -369,9 +370,9 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 
 Lang    | Word    |  Example
 --------|---------|----------------------------------------------
-Franch  | car     | Il reste calme car il est gentil
-English | because | He stays calm because he is nice    
-Spanish | porque  | Se mantiene tranquilo porque es agradable.   
+Franch  | car     | Il reste calme _car_ il est gentil
+English | because | He stays calm _because_ he is nice    
+Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.   
     
 **read next:**
 

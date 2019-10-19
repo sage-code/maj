@@ -42,7 +42,7 @@ x | maj  | xx | maj            | xx | maj      |
 5 | pif  | 15 | uno'diz+pif    | 50 | pif'diz  |
 6 | zen  | 16 | uno'diz+zen    | 60 | zen'diz  |
 7 | xec  | 17 | uno'diz+xec    | 70 | xec'diz  |
-8 | opa  | 18 | uno'diz+opa    | 80 | opa'diz  |
+8 | oka  | 18 | uno'diz+oka    | 80 | oka'diz  |
 9 | nov  | 19 | uno'diz+nov    | 90 | nov'diz  | 
            
            
@@ -60,7 +60,7 @@ x | maj  | xx | maj            | xx | maj      |
  500 =  pif'cen
  600 =  zen'cen
  700 =  xec'cen
- 800 =  opa'cen
+ 800 =  oka'cen
  900 =  nov'cen
 ```
 
@@ -70,7 +70,7 @@ x | maj  | xx | maj            | xx | maj      |
 ```
  125 = uno'cen+due'diz+pif
  555 = pif'cen+pif'diz+pif
- 801 = opa'cen+uno
+ 801 = oka'cen+uno
 ```
 
 **Thousands = mil**
@@ -85,7 +85,7 @@ x | maj  | xx | maj            | xx | maj      |
  5,000 = pif'mil
  6,000 = zen'mil
  7,000 = xec'mil
- 8,000 = opa'mil
+ 8,000 = oka'mil
  9,000 = nov'mil
 ```
 
@@ -120,10 +120,10 @@ x | maj  | xx | maj            | xx | maj      |
 bits| maj      | description
 ----|----------|----------------------
 0/1 | dva      | one bit  (due vala)
-8   | ova      | one word (opa vala)
+8   | ova      | one word (oka vala)
 16  | due'ova  | short integer
 32  | cat'ova  | integer
-64  | opa'ova  | long integer
+64  | oka'ova  | long integer
 
 ## Counting:
 

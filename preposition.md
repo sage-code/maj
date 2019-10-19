@@ -126,6 +126,7 @@ pri de  |prior of            |anterior         | vor
 top de  |on top of           |encima           | oben drauf
 abo de  |above or            |encima           | über
 unt     |under,below,beneath |debajo           | unter, unter, unter
+sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
 jos	    |down                |abajo            | nieder
 ubi     |where               |donde            | wo
