@@ -40,12 +40,19 @@ jocu => joc'uxo = playful
 * ta seru joc'uxo = you are playful 
 * ha seru joc'uxo = he is playful
 
+**to result**
+
+jocu => joco
+
+* tu ser'ufu joco = You have been played
+* tu ser'ufu 
+
 **to noun:**
 
-Use termination 'era to make a noun.
+Use termination 'uxa to make a noun.
 
-* jo ser'upa uno joc'era = I was a player
-* nu ser'ufu ale joc'era = we will be all players
+* jo ser'upa uno jocu'xa = I was a player
+* nu ser'ufu ale jocu'xa = we will be all players
 
 ## Top 10 verbs
 

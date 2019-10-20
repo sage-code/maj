@@ -106,9 +106,9 @@ aus   | off      | aus    | din      | de      | apagado
 
 Indicate a relation of one object relative to other objects.
 
-de ita = of the
-la ita = to the
-es ita = is the 
+la = the
+de = of
+es = is
 
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 
@@ -132,7 +132,7 @@ jos	    |down                |abajo            | nieder
 ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
-dor     |there               |ahi              | dort
+der     |there               |ahi              | dort
 lej de  |far from            |lejos            | weit
 nah de  |near, close by      |cerca            | in der nähe, nah bei
 

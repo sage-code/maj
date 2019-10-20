@@ -303,26 +303,106 @@ A syllable can not ...;
 * contain more then 2 consonants,
 * contain more then 3 letters.
  
-## Word composition
+## Word formation
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
 2. Diphtongs, starting with semi-vowels can be used at beginning of words: { y w }
-3. Syllable that have "coda" present are used only for end of words,
+3. Syllable that have "coda" present are used only for end of words
+4. Two words that have more then one syllable must sound different
+
+**Sound alike:**
+
+Some people may pronounce the letters in a wrong way that is not very clear. Therefore word composition must consider to replace these letters when these letters are the only difference between two words so that words can be more distinctive from each other.
+
+sound | alike
+------|----------
+v     | b
+r     | l
+i     | y
+e     | y
+e     | i
+x     | s
 
 **weight:**
 
-Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster. Gradualy one can assimilate more more complex words.
+Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are more rarely used.
 
 Cost   |Sounds
 -------|----------------------------------------
-  1    |a, e, i, o, u
-  2    |l, m, n, h, y 
-  3    |b, c, d, p, t, f, s, q 
-  4    |v, j, g, k, x, z, r, w 
+  1    |a, e, i, o, u, y
+  2    |l, m, n, f, s, h
+  2    |b, c, d, p, t, g  
+  3    |v, j, r, z, x, k 
+  4    |q, w 
 
 **cost:**  
 
-Words with higher cost will be analyzed to reduce total cost of the language. The better the cost, the better the language is and more easy to understand. We can generalize this algorithm for other languages not only for Maj.
+Words with higher cost will be analyzed to reduce cost. The better the cost, the better the language is and more easy to use. We can generalize this algorithm for other languages, to analyze a language complexity and compare other languages with Maj.
+
+**algorithm**
+
+We use this algorithm to compute cost of words:
+
+* for double consonants we add extra cost of 5
+* for double vowel we add extra cost of 2
+
+```basic
+REM  *****  BASIC  *****
+
+sub main
+   let x = wcost("barca")
+   print x
+end sub
+
+function belong(x, target)
+  belong = InStr(target, x) <> 0
+end function
+
+function wcost(w as string)
+  let r = 0     
+  let c = 0
+  let consonant = "bcdfghjklmnprstvxzw"  
+  let vowel = "aeiouy"
+  let prev  = "none"
+  rem compute cost
+  for i = 1 to len(w)
+     x = mid(w,i,1)
+     rem basic cost
+     if belong(x,"aeiouy") then let c = 1
+     if belong(x,"lmnfsh") then let c = 2 
+     if belong(x,"bcdptg") then let c = 2 
+     if belong(x,"vjrzxk") then let c = 3 
+     if belong(x,"qw")     then let c = 4 
+     let r = r + c
+     rem extra cost
+     if belong(x, consonant) then        
+        if prev = "consonant" then
+           let r = r + 5 rem double consonant
+        else
+           prev = "consonant"   
+        end if   
+     else
+        if prev = "vowel" then
+           let r = r + 2 rem double vowel
+        else   
+           let prev = "vowel"      
+        end if   
+     end if            
+  next
+  wcost = r 
+end function```
+
+## Total cost
+
+Using this algorithm total cost for current: 542 word dictionary
+
+* 4085  in Maj 
+* 7231  in English 
+* 7642  in Spanish
+* 8793  in Franch
+* 7696  in Romanian
+* 9423  in German
+
 
 Read next: [numerals](numerals.md)
 

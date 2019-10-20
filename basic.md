@@ -25,7 +25,7 @@ adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 A word can have a specialized role in a sentence. 
 
 * Nouns are finalized with {"a","e","y"} or any consonant;
-* Verbs are finalized with suffix "u", "ure", "ufu", "upa", "ugo";
+* Verbs are finalized with suffix "u", "ure", "ufu", "upa";
 * Adjectives are finalized with "o" or any consonant;
 * Adverbs are finalized with vowel "o" or any consonant;
 * Pronouns are monosyllabic, 2 or 3 letter long;
@@ -140,8 +140,8 @@ que     | what?    | qué     | ce
 qui     | who?     | quien   | cine
 quo     | how?     | como    | cum
 ubi     | where?   | donde   | unde
-uzo     | when?    | cuando  | când
-uxa     | why?     | por qué | de ce 
+uta     | when?    | cuando  | când
+uro     | why?     | por qué | de ce 
 
 **Notice **
 
@@ -165,7 +165,7 @@ Asking about location can be explicit using que:
 You can ask about location isomg `ubi` or time isomg `cud`:
 
 * ubi seru la loca que tu jocu? = where is the place you play?
-* uzo seru la topa que zu venu? = when  is the time they come?
+* uta seru la topa que zu venu? = when  is the time they come?
 
 **expressions**
   
