@@ -143,7 +143,7 @@ ubi     | where?   | donde   | unde
 uta     | when?    | cuando  | când
 uro     | why?     | por qué | de ce 
 
-**Notice **
+**Notice:**
 
 * `u` after `q` is silent, so you say: `ke`, `ki` or `ko`.
 * `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `kud`}
@@ -385,6 +385,25 @@ Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.
 
 Maj text can be "rendered" or executed using a Maj interpretor.
 
+**Symbols**
+
+{ + - / ? ! . : = * ; # ` _ ~ [ ] ( )}
+
+1. One star `* ` follow by one space at the beginning of line start a bullet list;
+1. Number `1. `  follow by dot that at beginning of line start a numbered list;
+1. Use `;` to separate propositions and lists;
+1. Text enclosed with `**` becomes **bold** and represents comment;
+1. Any text that start with `_` becomes _italic_;
+1. Any text that start with `~` becomes ~strike~;
+1. Notation `[Text](URL)` is used to create hyper-links;
+1. Symbol `#` is header, `##` sub-header (enlarged font);
+1. Commented text HTML notation: <!-- .... --> is supported;
+1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
+1. Use triple back-quotes for inclusion of any foreign language text; 
+1. Use `$` to declare input in a form, variable or constant;
+1. Use `@` to output a variable in a form, or anywhere in text;
+1. Use `&` to concatenate variables in expressions;
+
 **variables**
 
 You can create a variable anywhere in the Maj text
@@ -416,14 +435,23 @@ Use 3 back-quotes \`\`\` to create a block of code:
 
 **markup**
 
-Maj enable markup code. That can be HTML, SCRIPT or XML
+Maj enable markup code. That can be HTML, or XML
 
 <html>
-  <h1> This code is rendered as HTML code </h1>  
+  <h1>Static HTML </h1>  
+  <p> Maj interpreter will not touch the HTML code, 
+      so it can be used only for static content. </p>
+  <p> For dynamic content you can use only expressions </p>    
 </html>
 
-<script>
-  The script is hidden.
-</script>
+**input**
+
+To create an input form you can use a table notation:
+
++----------------------+
+| Label        | input |
+|--------------|-------|
+|first variable| $VAR1 | 
++----------------------+
 
 Great!
