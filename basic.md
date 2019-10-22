@@ -400,26 +400,27 @@ Maj text can be "rendered" or executed using a Maj interpretor.
 1. Commented text HTML notation: <!-- .... --> is supported;
 1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
 1. Use triple back-quotes for inclusion of any foreign language text; 
-1. Use `$` to declare input in a form, variable or constant;
-1. Use `@` to output a variable in a form, or anywhere in text;
+1. Use `$` to declare variable in code or in form;
+1. Use `@` to declare vector column or row;
 1. Use `&` to concatenate variables in expressions;
 
 **variables**
 
 You can create a variable anywhere in the Maj text
 
-```
 @PI   = 3.14 ** constant
-@var1 = 24, @var2 = 35  ** two variables
-@var2 = {1,2,3} ** a set of variables
-@var3 = [1,1,1] ** a list of variables
+
+```
+$var1 = 24, $var2 = 35  ** two variables
+$var2 = {1,2,3} ** a set of variables
+$var3 = [1,1,1] ** a list of variables
 ```
 
 **expressions**
 
 Use round parentheses for expressions like in following example:
 
-This expression "@var1 + 2" has value (@var1+2);
+This expression "var1 + PI" has value ($var1 + @PI);
 
 **code block**
 
@@ -450,10 +451,12 @@ Maj enable markup code. That can be HTML, or XML
 
 To create an input form you can use a table notation:
 
-------------------------
-| Label        | input |
-|--------------|-------|
-|first variable| $VAR1 | 
-------------------------
+ Label        | @input 
+--------------|---------------
+first input   | $var1 = 0   
+second input  | $var2 = 0  
+TOTAL         | sum(@input)
+
+You can specify initial value using "=".
 
 Great!
