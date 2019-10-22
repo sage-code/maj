@@ -383,7 +383,7 @@ Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.
 
 ## Coding
 
-Maj text can be "rendered" or executed using a Maj interpretor.
+Maj text can be "rendered" or executed using a Maj hosting service;
 
 **Symbols**
 
@@ -447,16 +447,46 @@ Maj enable markup code. That can be HTML, or XML
   <p> For dynamic content you can use only expressions </p>    
 </html>
 
-**input**
+## Input form
 
-To create an input form you can use a table notation:
+To create an input form you can use a input:
 
- Label        | @input 
---------------|---------------
-first input   | $var1 = 0   
-second input  | $var2 = 0  
-TOTAL         | sum(@input)
+input:
 
-You can specify initial value using "=".
+ Label        | Values      
+--------------|--------------------------------
+first input   | $var1 = 0    
+second input  | $var2 = 0    
+TOTAL         | $var1 + $var2
+
+* first input  = ($var1)
+* second input = ($var2)
+
+**notes**
+
+* You can specify initial value using "=";
+* You can use functions or expressions to output text;
+ 
+## Dynamic form
+
+You can create a dynamic form using multiple rows:
+
+input: 20/5
+
+ Index        | Values      
+--------------|--------------------------------
+ ...          | @values
+ TOTAL        | 0 + @values
+
+* "@values(1) =" @values(1)
+* "@values(2) =" @values(2)
+
+**notes**
+
+* You can specify index number using ...
+* You can specify multiple values using @values
+* Using 20 you specify 20 active rows for @values
+* Using /5 you can create a form with 5 active rows and scroll bar
+
 
 Great!
