@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an artificial language for chat:
+Maj is an artificial language for chat with AI:
 
 1. Articulated;
 2. Accesible;
@@ -8,9 +8,12 @@ Maj is an artificial language for chat:
 4. Efficient;
 5. Minimal;
 6. Popular;
-7. Entertaining. 
+7. Entertaining.
 
-Imagine a happy world, where everyone can speack with everyone else:
+***Imagine a world...**
+
+* when everyone can speak Maj;
+* when computers will speak Maj;
 
 **Technical:**
 
@@ -22,12 +25,10 @@ Basic rules for this new language:
 
 **Maj do not**
 
-1. Maj is not an academic language;
 1. Maj is not a secret language;
-1. Maj is not a historic language;
-1. Maj is not a scripting language;
-1. Maj is not for writing books;
 1. Maj is not for encryption;
+1. Maj is not a historic language;
+1. Maj is not an academic language;
 
 **Punctuation:**
 
@@ -45,28 +46,6 @@ Basic rules for this new language:
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
 1. Dialog is start with bullet point "*" and end with ";","?" or "!";
-
-
-## Symbols
-
-
-{ + - / ? ! . : = * ; # ` _ ~ [ ] ( )}
-
-
-1. One star `* ` follow by one space at the beginning of line start a bullet list;
-1. Number `1. `  follow by dot that at beginning of line start a numbered list;
-1. Use `;` to separate propositions and lists;
-1. Text enclosed with `**` becomes **bold** and represents comment;
-1. Any text that start with `_` becomes _italic_;
-1. Any text that start with `~` becomes ~strike~;
-1. Notation `[Text](URL)` is used to create hyper-links;
-1. Symbol `#` is header, `##` sub-header (enlarged font);
-1. Commented text HTML notation: <!-- .... --> is supported;
-1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
-1. Use triple back-quotes for inclusion of any foreign language text; 
-1. Use `@` to create a named variable, or constant;
-1. Use `&` to declare a table name;
-1. Use `$` to refer to a cell in a table;
 
 ## Words
 
