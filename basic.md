@@ -408,10 +408,12 @@ Maj text can be "rendered" or executed using a Maj interpretor.
 
 You can create a variable anywhere in the Maj text
 
+```
 @PI   = 3.14 ** constant
 @var1 = 24, @var2 = 35  ** two variables
 @var2 = {1,2,3} ** a set of variables
 @var3 = [1,1,1] ** a list of variables
+```
 
 **expressions**
 
@@ -448,10 +450,10 @@ Maj enable markup code. That can be HTML, or XML
 
 To create an input form you can use a table notation:
 
-+----------------------+
+------------------------
 | Label        | input |
 |--------------|-------|
 |first variable| $VAR1 | 
-+----------------------+
+------------------------
 
 Great!
