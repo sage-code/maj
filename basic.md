@@ -418,12 +418,12 @@ Use 3 back-quotes \`\`\` to create a block of code:
 
 Maj enable markup code. That can be HTML, SCRIPT or XML
 
-<HTML>
-  <h1> This code is rendered as HTML code </h1>
-  
-</HTML>
+<html>
+  <h1> This code is rendered as HTML code </h1>  
+</html>
 
-<SCRIPT>
+<script>
   The script is hidden.
-<SCRIPT>
+</script>
+
 Great!
