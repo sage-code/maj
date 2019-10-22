@@ -10,7 +10,7 @@ When used in text or expressions, symbols are read out loud:
 
 symbol | Maj
 -------|---------------------------
-* `+`  | ety
+* `+`  | und
 * `-`  | ifa
 * `/`  | uel
 * `.`  | pyi
@@ -27,7 +27,7 @@ symbol | Maj
 
 * The numbers do not have gender,
 * The numbers do not have plural form,
-* Two numerals are combined using `ety` symbol `+`
+* Two numerals are combined using `und` symbol `+`
 * Some numbers are combined using apostrophe 
 
 **Then = diz** 
@@ -130,7 +130,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea due uno ety razu aus !!! 
+* ... rea due uno und razu aus !!! 
 
 Great!
 

@@ -16,20 +16,20 @@ English preposition can be considered in this categories: { time, place, directi
 ## Time & Place
 
 * In English, time and place are differentiated with 3 prepositions { in > on > at}. 
-* Maj is using prepositions: { en, la, de } with signification: { en, to, from }
+* Maj is using prepositions: { auf > > bei }
 
 **Location examples**
 
-* in London  = de London
-* on Oxford Street = la locta Oxford Street de London
-* at 203 Oxford Street = la locta 203 Oxford Street de London
+* in London  = auf London
+* on Oxford Street = la Oxford Street en London
+* at 203 Oxford Street = en 203 la Oxford Street de London
 
 **Time examples**
 
-* in 2005 = en anoa 2005
-* on Spring = en seza Spring 
-* at 21 of September 2005 = la data 21 de Septeber 2005
-* at 2:45 = la hora 2:45 (cut et pata-rin)
+* in 2005   = en anoa 2005
+* on Spring = la seza Spring 
+* at 21 of September 2005 =  en 21 de Septeber 2005
+* at 2:45 = bei 2:45 (cut und pata-rin)
 
 **Related nouns**
 
@@ -102,30 +102,34 @@ tsu   | toward   | zu     | la       | vers    | para
 via   | by       | durch  | prin     | por     | par
 aus   | off      | aus    | din      | de      | apagado
          
+         
+**Examples**         
+
+von apota = from airport
+aus trena = off the train
+tsu Paris     = to Paris
+via Luxemburg = by Luxemburg
+         
 ## Relation
 
 Indicate a relation of one object relative to other objects.
 
-la = the
-de = of
-es = is
-
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 
-aus de  |of the              |de               | des
-auf de  |on the              |en               | auf
-bei de  |at the              |la               | bei
-cot la  |beside, next to     |al lado, cerca   | daneben, neben
-pos de  |behind the          |detrás           | hinter
-vor de  |in front of         |Al frente de     | vor
-dan la  |in the, into        |dans             | im der
-fra la  |between the         |entre            | zwischen
-iny de  |inside the          |dentro           | innerhalb
-fua de  |outside of          |fuera de         | draußen
-pri de  |prior of            |anterior         | vor
-top de  |on top of           |encima           | oben drauf
-abo de  |above or            |encima           | über
-unt     |under,below,beneath |debajo           | unter, unter, unter
+des     |of                  |de               | des
+auf     |on                  |en               | im, auf
+bei     |at                  |la               | bei
+dan     |in                  |en               | in
+iny     |inside the          |dentro           | innerhalb
+fua     |out                 |fuera            | draußen
+cot     |beside, next to     |al lado, cerca   | neben
+pos     |behind the          |detrás           | hinter
+vor     |in front            |Al frente        | vor
+pri     |prior               |anterior         | vor
+fra     |between             |entre            | zwischen
+top     |on top              |encima           | oben drauf
+abo     |above               |encima           | über
+unt     |under,beneath,below |debajo           | unter
 sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
 jos	    |down                |abajo            | nieder
@@ -133,14 +137,14 @@ ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
 der     |there               |ahi              | dort
-lej de  |far from            |lejos            | weit
-nah de  |near, close by      |cerca            | in der nähe, nah bei
+lej     |far from            |lejos            | weit
+nah     |near, close by      |cerca            | in der nähe, nah bei
 
 
 **examples**
 
-* 24  de Novre 2007 = 24 of November 207
-* auf de TV   = 
+* bei 24 aus Novre 2007 = at 24 of November 207
+* auf la mesa = on the table
 * dan la casa = in the house
 * vor la casa = in front of the hause
 
@@ -161,11 +165,12 @@ Following prepositions may be used in logical arguments.
 -----|---------|------------------------------------
  oga | yes     | affirmative
  nok | no      | negative 
- uel | or      | conjunction
- ety | and     | conjunctive
+ ody | or      | conjunction
+ und | and     | conjunctive
  abe | but     | specify an alternative
  sif | if      | conditional
  tal | maybe   | possible
+ axa | so      | comparative
  puo | can     | has the capability
  dot | must    | mandatory
  mei | may     | is permitted

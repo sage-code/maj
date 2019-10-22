@@ -62,8 +62,8 @@ These are most common verbs:
 * haru = to have
 * faru = to do
 * dicu = to say (to answer)
-* andu = to go
-* vezu = to see
+* vadu = to go
+* vyzu = to see
 * civu = to know
 * pavu = can (to be able)
 * keru = to want
@@ -78,7 +78,7 @@ Maj    |English            |Spanish            |Franch
 aclu   | call              | llamar            | appel 
 aidu   | help              | ayudar            | aider
 aivu   | arrive            | llegar            | arriver
-andu   | go, goes          | ir                | aller
+vadu   | go, goes          | ir                | aller
 apru   | appear            | aparecer          | apparaître
 arbu   | work              | trabajo           | travailler
 asku   | ask for           | pedir             | demander
@@ -196,7 +196,7 @@ toru   | treat             | tratar            | traiter
 tudu   | study             | estudiar          | étudier
 varu   | wait              | esperar           | attendre à
 venu   | come              | venir             | venir
-vezu   | see               | ver               | regarder
+vyzu   | see               | ver               | regarder
 vivu   | live              | en vivo           | vivre
 vohu   | wish              | deseo             | souhait
 volu   | will              | será              | volonté

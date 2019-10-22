@@ -1,10 +1,5 @@
 # Maj
 
-Imagine a happy world, where everyone can speack with everyone else:
-
-**Goals:**
-
-
 Maj is an artificial language for chat:
 
 1. Articulated;
@@ -15,9 +10,11 @@ Maj is an artificial language for chat:
 6. Popular;
 7. Entertaining. 
 
+Imagine a happy world, where everyone can speack with everyone else:
+
 **Technical:**
 
-Basic rules for new language:
+Basic rules for this new language:
 
 1. one letter do not represent anything else but itself;
 1. one letter is pronounced always the same in all wards;
@@ -25,16 +22,14 @@ Basic rules for new language:
 
 **Maj do not**
 
-
 1. Maj is not an academic language;
-1. Maj id not a historic language;
-1. Maj is not a scripting language;
 1. Maj is not a secret language;
+1. Maj is not a historic language;
+1. Maj is not a scripting language;
 1. Maj is not for writing books;
 1. Maj is not for encryption;
 
 **Punctuation:**
-
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
 1. A word that start with uppercase represent a person or animals or a robot or an AI device;
@@ -43,8 +38,8 @@ Basic rules for new language:
 1. A imperative sentence end with exclamation mark, while a declarative sentence with dot ".";
 1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44};
 1. An enumeration of numbers is enclosed in square brackets [1,24,3];
-1. You can use decimal numbers and math symbols only in round parenthesis, otherwise you must quote them;
-1. You can use double quotes like: "no" to suggest this is representing a foreign word;
+1. You can use round parenthesis for math expressions and complex numbers;
+1. You can use double quotes like: "no" to representing a foreign language words;
 1. You can use single apostrophe symbol: `'` to add a suffix to a word;
 1. You can use dash "-" to concatenate a prefix to a root to create a composite word;
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
@@ -55,25 +50,25 @@ Basic rules for new language:
 ## Symbols
 
 
-{ + - / ? ! . : * ; # ` _ ~ [ ] ( )}
+{ + - / ? ! . : = * ; # ` _ ~ [ ] ( )}
 
 
 1. One star `* ` follow by one space at the beginning of line start a bullet list;
 1. Number `1. `  follow by dot that at beginning of line start a numbered list;
-1. Lists lines are separated by semicolon `;` at end of line;
-1. Two text enclosed with `**` becomes **bold**;
-1. Any text that start and end with `_` is _italic_;
-1. Any text that start and end with `~` is ~strike~;
+1. Use `;` to separate propositions and lists;
+1. Text enclosed with `**` becomes **bold** and represents comment;
+1. Any text that start with `_` becomes _italic_;
+1. Any text that start with `~` becomes ~strike~;
 1. Notation `[Text](URL)` is used to create hyper-links;
 1. Symbol `#` is header, `##` sub-header (enlarged font);
 1. Commented text HTML notation: <!-- .... --> is supported;
 1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
-1. Use \`\`\` to create a block of code, that is typical to wiki notation;
 1. Use triple back-quotes for inclusion of any foreign language text; 
+1. Use `@` to create a named variable, or constant;
+1. Use `&` to declare a table name;
+1. Use `$` to refer to a cell in a table;
 
-
-## Constructing
-
+## Words
 
 Words are inspired from 7 different languages.
 
@@ -86,11 +81,11 @@ Words are inspired from 7 different languages.
 * Maj alphabet is similar to English alphabet and use standard QWERTY keyboard;
 * Numerals are unique but first letter is inspired from Romanic languages;
 * All words are created manually using a translation spreadsheet;
-* Words are abbreviated as much as possible not translated 1:1;
-* We preserve significant syllables to create short root words;
-* Sometimes we invert letters, to improve pronunciation;
+* Words are abbreviated as much as possible not translated one to one;
+* We preserve significant syllables from origin to create a shorter word;
+* Sometimes we add letters or coda, to improve pronunciation;
 * We dismiss letter `r` sometimes we loose other letters that are not significant;
-* Not all words are translated, some words are invented in Maj;
+* When there is divergence between languages, Maj words can be original;
 
 **Read more:** 
 

@@ -179,8 +179,10 @@ Note: Q is not present in following alphabets:
 * Slovenian, Turkish, or Welsh. 
 
 **Modified: X**
-* In Maj, X is pronounced like Chinese: `ʃ` and is replacement for `sh` in long words;
-* The romantic X is converted into `cs` when is the case, to avoid `ʃ` pronunciation;
+* In names `x` is pronounced `cs` like in all other Romanic languages: Luxemburg = Lucsemburg
+* In maj words, `x` is pronounced like: `ʃ` and is replacement for `sh` in long words;
+* In some words, letter `x` is replaced by `cs`, to avoid `ʃ` pronunciation if this is the case;
+
 
 **Modified: Y**
 * `y` at the beginning of words is pronounced "i" like in New York, Yes, Yacht;

@@ -206,12 +206,12 @@ In maj, article is a short word you add in front of the noun.
 
 Definite article indicative form:
 
-es  = is
-de  = of
 la  = the (singular)
 le  = the (plural)
 
 Definite article determinant form:
+
+es = it 
 
 Singular   |  Plural
 -----------|--------------
@@ -247,7 +247,6 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 * pau = few
 * van = several
 * som = some 
-
 
 Common noun is using plural "e" or singular "a" with different articles:
 
@@ -322,7 +321,7 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:** uel = or
+**Maj:**  ody = or
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -330,9 +329,9 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to the cinema or we go to the supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:**  ety  = and
+**Maj:**  und  = and
 
-Marc ety Alice and'upa la plaia 
+Marc und Alice and'upa la plaia 
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -350,7 +349,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** ica = now/yet
+**Maj:** noh = now/yet
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -382,4 +381,49 @@ Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.
 * [adjectives](adjectives.md)
 * [adverbs](adverbs.md)
 
+## Coding
+
+Maj text can be "rendered" or executed using a Maj interpretor.
+
+**variables**
+
+You can create a variable anywhere in the Maj text
+
+@PI   = 3.14 ** constant
+@var1 = 24, @var2 = 35  ** two variables
+@var2 = {1,2,3} ** a set of variables
+@var3 = [1,1,1] ** a list of variables
+
+**expressions**
+
+Use round parentheses for expressions like in following example:
+
+This expression "@var1 + 2" has value (@var1+2);
+
+**code block**
+
+You can create code in Maj using notation `maj:`
+
+maj: _code-name_
+
+Use 3 back-quotes \`\`\` to create a block of code:
+
+```
+** This is a block of code
+```
+
+**Read more:** [code](code.md)
+
+**markup**
+
+Maj enable markup code. That can be HTML, SCRIPT or XML
+
+<HTML>
+  <h1> This code is rendered as HTML code </h1>
+  
+</HTML>
+
+<SCRIPT>
+  The script is hidden.
+<SCRIPT>
 Great!
