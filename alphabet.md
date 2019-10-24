@@ -397,7 +397,8 @@ function wcost(w as string)
      end if            
   next
   wcost = r 
-end function```
+end function
+```
 
 ## Total cost
 
