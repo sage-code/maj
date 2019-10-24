@@ -18,13 +18,13 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 **related nouns:**
 
 * topa  = time
-* futa  = future
+* fusa  = future
 * resa  = present  
 * pasa  = past
 
 **examples:**
 
-* nara de futa = story from future
+* nara de fusa = story from future
 * dica de pasa = talk about the past
 
 ## Verb transformation

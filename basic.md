@@ -49,8 +49,8 @@ Is the person or the thing who perform the action.
   ps |singular       | plural
 -----|---------------|-----------------------------
   1  | jo = I        | noi  = we
-  2  | tu = you      | voi  = you
-  3  | hi = he, it   | zyi  = they
+  2  | tu = you      | voi  = y'all
+  3  | hi = he, it   | zoi  = they
   3  | xi = she      | 
 
 **Objective**
@@ -63,8 +63,10 @@ Is the person or the thing who receive the action.
  2  | ty              | voy
  3  | zy              | zoy
  
-* nor used: (hy, xy) 
-* nor used: (hoy, xoy) 
+**not used:** 
+
+* hy, xy 
+* hoy, xoy
  
 **Possessive**
 
@@ -81,9 +83,11 @@ xia = her   | xue = their
 
 **notes:**
 
-* Maj language do not have form for "it". You can use "he" to talk about a thing or a person;
-* Pronoun "you" is the plural form of previous "thou", that was singular but is no longer used;
+* Maj language do not have form for "it". You can use "hi" to talk about a thing or a person;
+* Pronoun "y'all" is the plural form of previous "thou", that was replaced by "you";
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant;
+* In English objective case is also using you so Objective can not be translated in English;
+
 
 ## Time of Verbs
 
@@ -92,7 +96,7 @@ There are 4 time suffixes in Maj:
 Suffix  | Maj        |   English
 --------|------------|-------------------------------
 ure     | resa       |  present 
-ufu     | futa       |  future
+ufu     | fusa       |  future
 upa     | pasa       |  past
 
 
