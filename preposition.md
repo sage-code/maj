@@ -76,20 +76,20 @@ veta | west      | oeste
 
 Movement prepositions indicating a direction of movement. 
 
-Maj      | English  | Origin
----------|----------|--------
-per      |Across    | Latin
-lag      |Along     | English
-veg      |Away From | German
-ino      |Into      | English
-oto      |Onto      | English
-ozo      |Over the  | Original
-cha      |Towards   | Spanish 
-dur      |Through   | German
-uma      |Around    | German
-ruc      |Back      | German
-ovy      |End, Over | English
-sop      |Stop      | English
+Maj      | English  
+---------|----------
+per      |Across    
+lag      |Along     
+veg      |Away From 
+ino      |Into      
+oto      |Onto      
+ozo      |Over the  
+cha      |Towards   
+par      |Through   
+uma      |Around    
+ruc      |Back      
+ovy      |End, Over 
+sop      |Stop      
          
 ## Direction
 
@@ -99,7 +99,7 @@ Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
 von   | from     | von    | de       | de      | de
 tsu   | toward   | zu     | la       | vers    | para
-via   | by       | durch  | prin     | por     | par
+par   | by       | durch  | prin     | por     | par
 aus   | off      | aus    | din      | de      | apagado
          
          
@@ -108,7 +108,7 @@ aus   | off      | aus    | din      | de      | apagado
 von apota = from airport
 aus trena = off the train
 tsu Paris     = to Paris
-via Luxemburg = by Luxemburg
+par Luxemburg = by Luxemburg
          
 ## Relation
 

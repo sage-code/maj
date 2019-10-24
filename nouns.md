@@ -135,7 +135,7 @@ Cana       | dog          | perro
 capa       | coat         | Saco               
 casa       | house        | casa               
 cata       | song         | canción               
-Ceda       | pig          | cerdo               
+Xvin       | pig          | cerdo               
 cica       | boy          | chico               
 Cira       | squirrel     | ardilla               
 cola       | school       | colegio               

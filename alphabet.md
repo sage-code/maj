@@ -179,9 +179,14 @@ Note: Q is not present in following alphabets:
 * Slovenian, Turkish, or Welsh. 
 
 **Modified: X**
-* In names `x` is pronounced `cs` like in all other Romanic languages: Luxemburg = Lucsemburg
-* In maj words, `x` is pronounced like: `ʃ` and is replacement for `sh` in long words;
-* In some words, letter `x` is replaced by `cs`, to avoid `ʃ` pronunciation if this is the case;
+
+* In maj words, `x` is pronounced like: `ʃ` or `ş`. It is replacement for `sh`;
+* In some words, letter `x` is replaced by `cs`, to avoid `ş` pronunciation;
+
+**Example:**
+
+* Xue is pronounced /şue/
+* Luxemburg is pronounced /Luşemburg/
 
 
 **Modified: Y**
@@ -341,7 +346,7 @@ Cost   |Sounds
 
 Words with higher cost will be analyzed to reduce cost. The better the cost, the better the language is and more easy to use. We can generalize this algorithm for other languages, to analyze a language complexity and compare other languages with Maj.
 
-**algorithm**
+## Algorithm
 
 We use this algorithm to compute cost of words:
 

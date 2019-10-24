@@ -46,24 +46,26 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 
 Is the person or the thing who perform the action.
 
-  p  |singular       | plural
+  ps |singular       | plural
 -----|---------------|-----------------------------
-  1  | jo = I        | nu = we
-  2  | tu = you      | vu = you
-  3  | hi = he, it   | zu = they
+  1  | jo = I        | noi  = we
+  2  | tu = you      | voi  = you
+  3  | hi = he, it   | zyi  = they
   3  | xi = she      | 
 
 **Objective**
 
 Is the person or the thing who receive the action.
 
-  p | singular  | plural
-----|-----------|-----------------------------
- 1  | me  = me  | ne = us
- 2  | te  = you | ve = you all
- 3  | he  = he  | ze = them
- 3  | xe  = her | 
-
+ ps | singular        | plural
+----|-----------------|-----------------------------
+ 1  | my              | noy
+ 2  | ty              | voy
+ 3  | zy              | zoy
+ 
+* nor used: (hy, xy) 
+* nor used: (hoy, xoy) 
+ 
 **Possessive**
 
 Is a composite word for a person or object who own something or have something.
@@ -181,9 +183,28 @@ Possible answers:
 
 verb: oveu = to forget
 
+## Response
+
+The interogative question can be answered with affirmative or negative:
+
+* oga = yes, affirmative
+* nok = no,  negative 
+
+For stronger assurance answer you can specify the logical values:
+
+* vero = true, affirmative 
+* faso = false, negative
+
 ## Noun
 
-A noun a person, place, object, or idea. Some nouns we are going to use as examples:
+Noun is a word terminated with coda:
+
+* coda "a" = singular
+* coda "e" = plural
+
+A noun represents person, place, object, or idea. 
+
+**examples:**
 
 * pana  = bread
 * aqua  = water
@@ -211,12 +232,12 @@ le  = the (plural)
 
 Definite article determinant form:
 
-es = it 
+es / el = it 
 
 Singular   |  Plural
 -----------|--------------
-esa = this |  ese = these 
-ela = that |  ele = those
+eso = this |  ese = these 
+elo = that |  ele = those
 
 Let's begin by looking at the definite article. This article is the word `the`, and it refers directly to a noun or groups of nouns. For example:
 
@@ -451,12 +472,12 @@ Maj enable markup code. That can be HTML, or XML
 
 To create an input form you can use a input:
 
-input:
+input: 
 
  Label        | Values      
 --------------|--------------------------------
-first input   | $var1 = 0    
-second input  | $var2 = 0    
+"$var1"       | $var1 = 0    
+"$var2"       | $var2 = 0    
 TOTAL         | $var1 + $var2
 
 * first input  = ($var1)
@@ -471,15 +492,30 @@ TOTAL         | $var1 + $var2
 
 You can create a dynamic form using multiple rows:
 
-input: 20/5
+input: 10/5
 
- Index        | Values      
+ "@values()"  | Values      
 --------------|--------------------------------
  ...          | @values
  TOTAL        | 0 + @values
 
 * "@values(1) =" @values(1)
 * "@values(2) =" @values(2)
+
+## Matrix form
+
+You can create a dynamic form using multiple columns:
+
+input: 3,3/5 
+
+ Index        | Values         | Total
+--------------|----------------|----------------
+ ...          | @values        | +@values
+ TOTAL        |+@values        | +@values
+
+* "@values(1,1) =" @values (1,1)
+* "@values(2,2) =" @values (2,2)
+
 
 **notes**
 

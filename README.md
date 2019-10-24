@@ -25,18 +25,17 @@ Basic rules for this new language:
 
 **Maj do not**
 
-1. Maj is not a secret language;
 1. Maj is not for encryption;
-1. Maj is not a historic language;
+1. Maj is not a secret language;
 1. Maj is not an academic language;
 
 **Punctuation:**
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
-1. A word that start with uppercase represent a person or animals or a robot or an AI device;
+1. A word that start with uppercase represent a person or animal or a robot or an AI device;
 1. A word for a thing that can not talk or move or do anything start with lowercase;
 1. A interrogative sentences can start with a specific preposition and end with a question mark;
-1. A imperative sentence end with exclamation mark, while a declarative sentence with dot ".";
+1. A imperative sentence end with exclamation mark, while a declarative sentence with ";"
 1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44};
 1. An enumeration of numbers is enclosed in square brackets [1,24,3];
 1. You can use round parenthesis for math expressions and complex numbers;
@@ -46,6 +45,10 @@ Basic rules for this new language:
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
 1. Dialog is start with bullet point "*" and end with ";","?" or "!";
+
+**Notes:**
+* In Maj "." is not used for end of propositions but is a decimal separator for fractional numbers;
+* When you compare someone with an animal, the animal is written with lowercase;
 
 ## Words
 
