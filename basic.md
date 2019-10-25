@@ -50,8 +50,8 @@ Is the person or the thing who perform the action.
 -----|---------------|-----------------------------
   1  | jo = I        | noi  = we
   2  | tu = you      | voi  = y'all
-  3  | hi = he, it   | zoi  = they
-  3  | xi = she      | 
+  3  | zi = he, it   | zoi  = they (masculine) 
+  3  | xi = she      | xoi  = they (feminine)
 
 **Objective**
 
@@ -59,14 +59,11 @@ Is the person or the thing who receive the action.
 
  ps | singular        | plural
 ----|-----------------|-----------------------------
- 1  | my              | noy
- 2  | ty              | voy
- 3  | zy              | zoy
- 
-**not used:** 
+ 1  | my = me         | noy = us
+ 2  | ty = you        | voy = you
+ 3  | zy = him        | zoy = them (masculine)
+ 4  | xy = her        | xoy = them (feminine)   
 
-* hy, xy 
-* hoy, xoy
  
 **Possessive**
 
@@ -78,7 +75,7 @@ singular    | plural
 ------------|--------------------------------
 mia = mine  | nue = ours
 tia = your  | vue = yours
-hia = his   | zue = their
+zia = his   | zue = their
 xia = her   | xue = their
 
 **notes:**
@@ -88,6 +85,18 @@ xia = her   | xue = their
 * In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant;
 * In English objective case is also using you so Objective can not be translated in English;
 
+**Reflexive**
+
+To make reflexive we use coda "sy"
+
+* misy = myself;
+* tisy = yourself; 
+* zisy = himself; 
+* xisy = herself; 
+* lasy = itself; 
+* busy = ourselves; 
+* vusy = yourselves; 
+* zusy = themselves.
 
 ## Time of Verbs
 
@@ -106,14 +115,14 @@ verb: jocu = to play
 
 * jo jocu    = I play
 * tu jocu    = you play
-* hi jocu    = he  play
+* zi jocu    = he  play
 * xi jocu    = she play
 
 **using time suffix**
 
 * xi joc'ure = she is playing
-* hi joc'ufu = he will play
-* hi joc'upa = he has plaid
+* zi joc'ufu = he will play
+* zi joc'upa = he has plaid
 
 ## Using adverb
 
@@ -264,7 +273,7 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
 * uno = one
-* tum = both
+* abo = both
 * oru = any
 * omi = every
 * ale = all

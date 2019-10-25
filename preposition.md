@@ -127,9 +127,10 @@ pos     |behind the          |detrás           | hinter
 vor     |in front            |Al frente        | vor
 pri     |prior               |anterior         | vor
 fra     |between             |entre            | zwischen
+pue     |after               |despue           | nach  
 top     |on top              |encima           | oben drauf
-abo     |above               |encima           | über
-unt     |under,beneath,below |debajo           | unter
+avo     |above               |encima           | über
+sub     |under,beneath,below |debajo           | unter
 sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
 jos	    |down                |abajo            | nieder
@@ -138,7 +139,7 @@ abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
 der     |there               |ahi              | dort
 lej     |far from            |lejos            | weit
-nah     |near, close by      |cerca            | in der nähe, nah bei
+nah     |near, close by      |cerca            | in der nähe
 
 
 **examples**
