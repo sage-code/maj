@@ -1,3 +1,8 @@
+# Lojban Reference:
+
+https://lojban.github.io/cll/
+https://en.wiktionary.org/wiki/Appendix:Lojban
+
 # Lojban Thesaurus
 
 Translated to Markdown from [this ancient TeX file](https://mw.lojban.org/images/3/3b/119.sip). I’m not sure who made the original.
