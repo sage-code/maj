@@ -199,7 +199,7 @@ pati       | party        | partido
 Pata       | duck         | Pato               
 Pexa       | fish         | pescado               
 pide       | feet         | pies               
-plue       | rain         | lluvia               
+luva       | rain         | lluvia               
 Poia       | chicken      | pollo               
 popa       | doll         | muñeca               
 rata       | return       | vuelta               

@@ -187,12 +187,16 @@ Following prepositions may be used in logical arguments.
  cyz | because | cause of a consequence
  
 ## Ordinals
+
+nuc = never
+uco = one single time
            
 **derivative**
 
 Repeting time is created using `foa suffix
 
 foa    = times
+
 no'foa = never
 un'foa = once
 du'foa = twice

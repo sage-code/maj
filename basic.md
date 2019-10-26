@@ -126,11 +126,13 @@ verb: jocu = to play
 
 ## Using adverb
 
+* uco   = one single time
 * foa   = sometime (Franch fois)
 * nuc   = never (Spanish nunca)
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
 * nau   = now   (English)
+
 
 **examples**
 
@@ -288,21 +290,21 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 Common noun is using plural "e" or singular "a" with different articles:
 
-```
-uno mela = one apple
-omi apla = every apple
-oru apla = any apple
-som mele = some aples
-due mele = two apples
-ale mele = all apples
-```
 
-Invariant noun:
+* uno mela = one apple
+* omi apla = every apple
+* oru apla = any apple
+* som mele = some aples
+* due mele = two apples
+* ale mele = all apples
 
-```
-pau Mercedes = few Mercedes 
-oru Mercedes = any Mercedes 
-```
+
+Invariant noun is terminated in "s" or other consonant:
+
+
+* pau Mercedes = few Mercedes 
+* oru Mercedes = any Mercedes 
+
 
 ## Determinant
 
@@ -535,7 +537,7 @@ input: 3,3/5
 
 **notes**
 
-* You can specify index number using ...
+* You can specify index number using `...`
 * You can specify multiple values using @values
 * Using 20 you specify 20 active rows for @values
 * Using /5 you can create a form with 5 active rows and scroll bar
