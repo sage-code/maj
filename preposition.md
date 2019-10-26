@@ -121,7 +121,7 @@ auf     |on                  |en               | im, auf
 bei     |at                  |la               | bei
 dan     |in                  |en               | in
 iny     |inside the          |dentro           | innerhalb
-fua     |out                 |fuera            | draußen
+aut     |out                 |fuera            | draußen
 cot     |beside, next to     |al lado, cerca   | neben
 pos     |behind the          |detrás           | hinter
 vor     |in front            |Al frente        | vor
@@ -168,7 +168,7 @@ Following prepositions may be used in logical arguments.
  nok | no      | negative 
  ody | or      | conjunction
  und | and     | conjunctive
- abe | but     | specify an alternative
+ dar | but     | specify an alternative
  sif | if      | conditional
  tal | maybe   | possible
  axa | so      | comparative
@@ -185,3 +185,28 @@ Following prepositions may be used in logical arguments.
  mem | same    | identical
  vir | while   | while condition
  cyz | because | cause of a consequence
+ 
+## Ordinals
+           
+**derivative**
+
+Repeting time is created using `foa suffix
+
+foa    = times
+no'foa = never
+un'foa = once
+du'foa = twice
+al'foa = forever
+          
+**positional**
+
+Position in a series or enumeration: lio
+
+English: place, order, position
+Italian: posto, ordine, posizione
+Franch:  lieu,  ordre, position
+
+un'lio = first place
+du'lio = second place
+re'lio = third place
+                     

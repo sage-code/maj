@@ -58,12 +58,12 @@ Use termination 'uxa to make a noun.
 
 These are most common verbs:
 
-* estu = is (to be)
+* seru = is (to be)
 * haru = to have
 * faru = to do
 * dicu = to say (to answer)
 * vadu = to go
-* vyzu = to see
+* veru = to see
 * civu = to know
 * pavu = can (to be able)
 * keru = to want
@@ -78,7 +78,6 @@ Maj    |English            |Spanish            |Franch
 aclu   | call              | llamar            | appel 
 aidu   | help              | ayudar            | aider
 aivu   | arrive            | llegar            | arriver
-vadu   | go, goes          | ir                | aller
 apru   | appear            | aparecer          | apparaître
 arbu   | work              | trabajo           | travailler
 asku   | ask for           | pedir             | demander
@@ -86,7 +85,7 @@ auzu   | listen            | escuchar          | écoute
 axtu   | buy               | comprar           | acheter
 bebu   | drink             | bebida            | boisson
 bezu   | need              | necesitar         | avoir besoin
-busu   | lookfor           | buscar            | chercher
+bosu   | look for          | buscar            | chercher
 cagu   | change            | cambiar           | changer
 cagu   | convert           | convertir         | convertir
 capu   | understand        | entender          | comprendre
@@ -103,13 +102,13 @@ dehu   | leave/allow       | dejar             | laisser
 desu   | draw              | dibujar           | dessiner
 dibu   | start             | comienzo          | début
 dicu   | tell, say         | contar            | dire
-diru   | direct            | dirigir           | conduire
+codu   | direct            | dirigir           | conduire
 domu   | sleep             | dormir            | dormir
 donu   | gave              | dio               | a donné
 dove   | must              | debe              | doit
 entu   | enter             | entrar            | entrer
 escu   | exist             | existir           | exister
-estu   | be                | estar             | être
+seru   | be                | estar             | être
 faru   | do                | hacer             | faire
 fatu   | made              | hecho             | fabriqué
 fixu   | end, finish       | terminar          | finir
@@ -120,7 +119,6 @@ goxu   | grow              | crecer            | grandir
 habu   | speak, talk       | hablar            | parler
 hacu   | make              | hacer             | faire
 haru   | have              | haber             | avoir
-inzu   | begin, start      | comenzar, empezar | commencer
 iveu   | discover          | descubrir         | à découvrir
 joku   | play              | jugar             | jouer
 jupu   | jump              | saltar            | saut
@@ -156,8 +154,9 @@ pavu   | be able to        | poder             | pouvoir
 pegu   | explain           | explicar          | expliquer
 pemu   | permit/allow      | permitir          | permettre
 pesu   | think             | pensar            | pense
-pezu   | introduce/present | presentar         | présenter
+zetu   | introduce/present | presentar         | présenter
 picu   | like              | gustar            | aimer
+pizu   | begin, start      | comenzar, empezar | commencer
 pobu   | try               | intentar          | essayer
 podu   | produce           | producir          | produire
 ponu   | put               | poner             | mettre
@@ -171,7 +170,7 @@ rezu   | turnout           | resultar          | résulter
 rigu   | recognize         | reconocer         | reconnaître
 rimu   | remember          | recordar          | rappeler
 rovu   | find              | encontrar         | trouver
-rydu   | laugh             | risa              | rire
+ryzu   | laugh             | risa              | rire
 sabu   | write             | escribir          | Écrire
 sacu   | takeout           | sacar             | enlever
 saru   | goout             | salir             | sortir
@@ -194,12 +193,13 @@ tocu   | touch/play        | tocar             | toucher
 tomu   | take              | tomar             | prendre
 toru   | treat             | tratar            | traiter
 tudu   | study             | estudiar          | étudier
+vadu   | go, goes          | ir                | aller
 varu   | wait              | esperar           | attendre à
 venu   | come              | venir             | venir
-vyzu   | see               | ver               | regarder
 vivu   | live              | en vivo           | vivre
 vohu   | wish              | deseo             | souhait
 volu   | will              | será              | volonté
+veru   | see               | ver               | regarder
 xedu   | stay, sit         | quedar            | rester
 xosu   | pick              | recoger           | choisir
 

@@ -7,7 +7,7 @@ Adjectives are 4 or 5 character long and are ending usually with:
 * adjectives ending in consonant can be 6 character long
 
 
-# Fundamental adjectives
+## Fundamental adjectives
 
 * bono = good  (benevolent)
 * malo = bad   (malevolent)
@@ -17,6 +17,12 @@ Adjectives are 4 or 5 character long and are ending usually with:
 * rogo = wrong
 * nito = clean
 * salo = dirty
+
+## Positional adjectives
+
+* fiso = first
+* meso = median 
+* laso = last
 
 ## Level 1
 

@@ -14,6 +14,13 @@ Nouns are words representing objects, persons or places.  Nouns have a root form
 * aqua   = water
 * huga   = juice  
 
+**exceptions:**
+
+There are nouns terminated with `ch` that can change to `ce` for plural.
+
+* wach   = watch
+* wace   = watches
+
 **gender**
 
 For distinguish between male and female beings we use adjectives: 
@@ -128,7 +135,7 @@ baca       | boat         | barco
 bobo       | baby         | bebé               
 bora       | tree         | árbol               
 byta       | stick        | palo               
-caga       | box          | caja               
+caja       | box          | caja               
 caia       | street       | calle               
 cama       | bed          | cama               
 Cana       | dog          | perro               
@@ -156,23 +163,23 @@ hepa       | paper        | papel
 hoja       | today        | hoy               
 Huma       | man          | hombre               
 Hume       | men          | hombres               
-imja       | picture      | imagen               
+ijma       | picture      | imagen               
 jara       | garden       | jardín               
 joca       | game         | juego               
 juna       | day          | día               
 juga       | toy          | juguete               
 Lapa       | rabbit       | Conejo               
 lece       | milk         | Leche               
-lega       | wood         | madera               
+lena       | wood         | madera               
 leta       | letter       | letra               
-luca       | light        | ligero               
+lima       | light        | ligero               
 Mama       | mother       | madre               
 mana       | hand         | mano               
 maza       | corn         | maíz               
 mela       | apple        | manzana               
 mesa       | table        | mesa               
 moga       | morning      | Mañana               
-motra      | watch        | reloj               
+wach       | watch        | reloj               
 nata       | birthday     | cumpleaños               
 nela       | ring         | anillo               
 nida       | nest         | nido               
@@ -206,7 +213,7 @@ tera       | ground       | suelo
 teta       | head         | cabeza               
 tola       | cake         | pastel               
 Ursa       | bear         | oso               
-urta       | door         | puerta               
+tura       | door         | puerta               
 Vaca       | cow          | vaca               
 venta      | wind         | viento               
 Xava       | horse        | caballo               

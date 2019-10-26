@@ -45,7 +45,7 @@ x | maj  | xx | maj            | xx | maj      |
 8 | oka  | 18 | uno'diz+oka    | 80 | oka'diz  |
 9 | nov  | 19 | uno'diz+nov    | 90 | nov'diz  | 
            
-           
+
 ## Level 2
 
 **Hundreds = cen**

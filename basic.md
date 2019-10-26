@@ -154,6 +154,7 @@ maj     | english  | spanish | romanian
 que     | what?    | qué     | ce
 qui     | who?     | quien   | cine
 quo     | how?     | como    | cum
+qua     | which?   | cual    | care
 ubi     | where?   | donde   | unde
 uta     | when?    | cuando  | când
 uro     | why?     | por qué | de ce 
@@ -161,7 +162,7 @@ uro     | why?     | por qué | de ce
 **Notice:**
 
 * `u` after `q` is silent, so you say: `ke`, `ki` or `ko`.
-* `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `kud`}
+* `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `uta`, `uro`}
 
 **examples**
 
@@ -240,8 +241,8 @@ In maj, article is a short word you add in front of the noun.
 
 Definite article indicative form:
 
-la  = the (singular)
-le  = the (plural)
+la  = the   (singular)
+le  = the   (plural)
 
 Definite article determinant form:
 
@@ -252,13 +253,16 @@ Singular   |  Plural
 eso = this |  ese = these 
 elo = that |  ele = those
 
-Let's begin by looking at the definite article. This article is the word `the`, and it refers directly to a noun or groups of nouns. For example:
+Definite article descriptive form:
+
+da  = about one
+de  = about many
+
+**example:**
 
 * English: the freckles on my face
 * Spanish: las pecas en mi cara
-* Maj: le pece auf mia cara
-
-Each noun or group of nouns being referred to - in these cases freckles, alligator, and breakfast burrito - is direct and specific.
+* Maj: le pece da mia cara
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
@@ -299,7 +303,6 @@ Invariant noun:
 pau Mercedes = few Mercedes 
 oru Mercedes = any Mercedes 
 ```
-
 
 ## Determinant
 
@@ -347,7 +350,7 @@ Conjunction is used when...
 * an idea you have, depends on another idea;
 * you want to add a new idea into an existing one;
   
-**Maj:** abe = but
+**Maj:** dar = but
     
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
