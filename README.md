@@ -90,7 +90,7 @@ Words are inspired from 7 different languages.
 
 Language words are described in separated documents:
 
-* [Prepositions](prepositions.md)
+* [Prepositions](preposition.md)
 * [Nouns](nouns.md)
 * [Verbs](verbs.md)
 * [Adverbs](adverbs.md)

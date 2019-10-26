@@ -65,8 +65,8 @@ in other languages, some writers are using abbreviations. in Maj all the words a
 a constructed language can have good _use-cases_.
 
 * Maj is using an experimental notation for Latin writing;
-* Maj writing can be used to write existing languages;
-* Maj can be used to learn other Romanic languages;
+* Maj ideas can be used for some other languages;
+* Maj can be used to learn other Romantic languages;
 
 **for Internet**
 
