@@ -18,8 +18,8 @@ symbol | Maj
 * `,`  | cus
 * `;`  | puc
 * `?`  | kim
-* `!`  | rim
-* `*`  | sir
+* `!`  | nim
+* `\*` | sar
 
 ## Level 1
 
@@ -32,19 +32,47 @@ symbol | Maj
 
 **Then = diz** 
 
-x | maj  | xx | maj            | xx | maj      |
---|------|----|----------------|----|----------|
-0 | nul  | 10 | uno'diz+nul    |    |          |
-1 | uno  | 11 | uno'diz+uno    | 10 | uno'diz  |
-2 | due  | 12 | uno'diz+due    | 20 | due'diz  |
-3 | rea  | 13 | uno'diz+rea    | 30 | rea'diz  |
-4 | cat  | 14 | uno'diz+cat    | 40 | cat'diz  |
-5 | pif  | 15 | uno'diz+pif    | 50 | pif'diz  |
-6 | zen  | 16 | uno'diz+zen    | 60 | zen'diz  |
-7 | xec  | 17 | uno'diz+xec    | 70 | xec'diz  |
-8 | oka  | 18 | uno'diz+oka    | 80 | oka'diz  |
-9 | nov  | 19 | uno'diz+nov    | 90 | nov'diz  | 
+x | maj  | xx | maj           | xx | maj     |
+--|------|----|---------------|----|---------|
+0 | nul  | 10 | un'diz+nul    |    |         |
+1 | uno  | 11 | un'diz+uno    | 10 | un'diz  |
+2 | due  | 12 | un'diz+due    | 20 | du'diz  |
+3 | rea  | 13 | un'diz+rea    | 30 | re'diz  |
+4 | cat  | 14 | un'diz+cat    | 40 | ca'diz  |
+5 | pif  | 15 | un'diz+pif    | 50 | pi'diz  |
+6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
+7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
+8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
+9 | nov  | 19 | un'diz+nov    | 90 | no'diz  | 
            
+## Ordinals
+         
+Repeting time is created using `foa suffix
+
+foa = times
+
+* no'foa = never
+* al'foa = forever
+
+Formin ordinals with numeral prefix can be done from (1..10)
+
+* un'foa = once
+* du'foa = twice
+* re'foa = three times
+...
+* di'foa = then thens
+          
+**positional**
+
+Position in a series or enumeration: lio
+
+English: place, order, position
+Italian: posto, ordine, posizione
+Franch:  lieu,  ordre, position
+
+* un'lio = first place
+* du'lio = second place
+* re'lio = third place
 
 ## Level 2
 
@@ -53,24 +81,24 @@ x | maj  | xx | maj            | xx | maj      |
 00 =  cen
 
 ```
- 100 =  uno'cen
- 200 =  due'cen
- 300 =  rea'cen
- 400 =  cat'cen
- 500 =  pif'cen
- 600 =  zen'cen
- 700 =  xec'cen
- 800 =  oka'cen
- 900 =  nov'cen
+ 100 =  un'cen
+ 200 =  du'cen
+ 300 =  re'cen
+ 400 =  ca'cen
+ 500 =  pi'cen
+ 600 =  ze'cen
+ 700 =  xe'cen
+ 800 =  ok'cen
+ 900 =  no'cen
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is never read, it is a "legato", (you do not pause)
 
 ```
- 125 = uno'cen+due'diz+pif
- 555 = pif'cen+pif'diz+pif
- 801 = oka'cen+uno
+ 125 = un'cen+due'diz+pif
+ 555 = pi'cen+pif'diz+pif
+ 801 = ok'cen+uno
 ```
 
 **Thousands = mil**
@@ -78,15 +106,15 @@ x | maj  | xx | maj            | xx | maj      |
 000 = mil
 
 ``` 
- 1,000 = uno'mil
- 2,000 = due'mil
- 3,000 = rea'mil
- 4,000 = cat'mil
- 5,000 = pif'mil
- 6,000 = zen'mil
- 7,000 = xec'mil
- 8,000 = oka'mil
- 9,000 = nov'mil
+ 1,000 = un'mil
+ 2,000 = du'mil
+ 3,000 = re'mil
+ 4,000 = ca'mil
+ 5,000 = pi'mil
+ 6,000 = ze'mil
+ 7,000 = xe'mil
+ 8,000 = ok'mil
+ 9,000 = no'mil
 ```
 
 **Millions  = mon**
@@ -94,11 +122,11 @@ x | maj  | xx | maj            | xx | maj      |
 000,000  = mon
 
 ```
-1,000.000 = uno'mon
-2,000.000 = due'mon
-3,000.000 = rea'mon
+1,000.000 = un'mon
+2,000.000 = du'mon
+3,000.000 = re'mon
 ...
-9,000.000 = nov'mon
+9,000.000 = no'mon
 ```
 
 **Billions = bil**
@@ -106,11 +134,11 @@ x | maj  | xx | maj            | xx | maj      |
 000.000.000   = bil
 
 ```
-1,000,000.000 = uno'bil
-2,000,000.000 = due'bil
-5,000,000.000 = pif'bil
+1,000,000.000 = un'bil
+2,000,000.000 = du'bil
+3,000,000.000 = re'bil
 ...
-9,000,000.000 = nov'bil
+9,000,000.000 = no'bil
 ```
 
 ## Level 3

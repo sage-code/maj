@@ -8,7 +8,6 @@ ga ge gi go gu
 ia ie ii io iu
 ha he hi ho hu
 ja je ji jo ju
-ka ke ki ko ku
 la le li lo lu
 ma me mi mo mu
 na ne ni no nu
@@ -21,7 +20,8 @@ va ve vi vo vu
 xa xe xi xo xu
 za ze zi zo zu
 qa qe qi qo qu
-~ya ye yi yo yu~
+ka ke ki ko ku
+ya ye yi yo yu
 
 ab ac ad ae af ag ah ai aj ak al am an ao ap ar as at au av ax ay az
 eb ec ed ee ef eg eh ei ej ek el em en eo ep er es et eu ev ex ey ez

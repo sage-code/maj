@@ -163,7 +163,7 @@ uro     | why?     | por qué | de ce
 
 **Notice:**
 
-* `u` after `q` is silent, so you say: `ke`, `ki` or `ko`.
+* `u` after `q` is silent, so you say: `ke`, `ki`, `ko`, `ka`.
 * `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `uta`, `uro`}
 
 **examples**

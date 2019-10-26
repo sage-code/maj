@@ -31,6 +31,11 @@ English preposition can be considered in this categories: { time, place, directi
 * at 21 of September 2005 =  en 21 de Septeber 2005
 * at 2:45 = bei 2:45 (cut und pata-rin)
 
+**Time adjectives**
+
+* nuc = never
+* uco = one single time
+
 **Related nouns**
 
 Location related nouns are 4 character long, they are more important.
@@ -186,31 +191,4 @@ Following prepositions may be used in logical arguments.
  vir | while   | while condition
  cyz | because | cause of a consequence
  
-## Ordinals
-
-nuc = never
-uco = one single time
-           
-**derivative**
-
-Repeting time is created using `foa suffix
-
-foa    = times
-
-no'foa = never
-un'foa = once
-du'foa = twice
-al'foa = forever
-          
-**positional**
-
-Position in a series or enumeration: lio
-
-English: place, order, position
-Italian: posto, ordine, posizione
-Franch:  lieu,  ordre, position
-
-un'lio = first place
-du'lio = second place
-re'lio = third place
                      
