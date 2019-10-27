@@ -237,6 +237,8 @@ sc sf sl sm sn sp sr st sv
 vr zb zd zg zm zn zv
 ``` 
 
+Combination of 2 consonants is expensive in a word. Therefore the total cost receive a penalty of "2".
+
 ## Two vowels
 
 * Maj has 5 vowels: { a e i o u } 
@@ -256,6 +258,7 @@ i |ia |ie | · |io |iu|iy
 o |oa |oe |oi | · |ou| .
 u |ua |ue |ui |uo | ·|uy 
 
+Combination of 2 vowels is expensive in a word. Therefore the total cost receive a penalty of "1".
 
 ## Syllable
 
@@ -311,8 +314,8 @@ Cost   |Sounds
   1    |a, e, i, o, u, y
   2    |l, m, n, f, s, h
   2    |b, c, d, p, t, g  
-  3    |v, j, r, z, x, k 
-  4    |q, w, x 
+  3    |v, j, r, z, k, x
+  4    |q, w
 
 **cost:**  
 
