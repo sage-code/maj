@@ -23,10 +23,10 @@ n   o   p   q   r   s   t   u   v   x   y   w   z
 Sounds: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
 
 ``` 
--------------------------------------
- Maj: â  ă  ş  j  q  ţ  ç   g   
+----------------------------------
+ Maj: î  ă  ş  j  q  ţ  ç   g   
  IPA: ɨ  ə  ʃ  ʒ  ɢ  t͡s t͡ʃ  d͡ʒ 
--------------------------------------
+----------------------------------
 ```
 
 **Examples:**
@@ -63,10 +63,10 @@ Maj alphabet is enhanced to maximize number of sounds you can make with Latin le
 ```
 ----------------------------------------------------
 a  b   c   d   e   f   g   h   i   j   K   l   m
-a  bâ  câ  dâ  e   fâ  gâ  hâ  i   jâ  ka  lâ  mâ
+a  bî  cî  dî  e   fî  gî  hî  i   jî  ka  lî  mî
 ----------------------------------------------------
 n  o   p   q   r   s   t   u   v   x   y   w   z   
-nâ o   pâ  kiu râ  sâ  tâ  u   vâ  şâ  ă   iu  zâ  
+nî o   pî  kiu rî  sî  tî  u   vî  şî  ă   iu  zî  
 ----------------------------------------------------
 ```
 
@@ -302,19 +302,6 @@ A syllable can not ...;
 3. Syllable that have "coda" present are used only for end of words
 4. Two words that have more then one syllable must sound different
 
-**Sound alike:**
-
-Some people may pronounce the letters in a wrong way that is not very clear. Therefore word composition must consider to replace these letters when these letters are the only difference between two words so that words can be more distinctive from each other.
-
-sound | alike
-------|----------
-v     | b
-r     | l
-i     | y
-e     | y
-e     | i
-x     | s
-
 **weight:**
 
 Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are more rarely used.
@@ -325,11 +312,25 @@ Cost   |Sounds
   2    |l, m, n, f, s, h
   2    |b, c, d, p, t, g  
   3    |v, j, r, z, x, k 
-  4    |q, w 
+  4    |q, w, x 
 
 **cost:**  
 
 Words with higher cost will be analyzed to reduce cost. The better the cost, the better the language is and more easy to use. We can generalize this algorithm for other languages, to analyze a language complexity and compare other languages with Maj.
+
+**Sound alike:**
+
+Some people may pronounce letters in the wrong way. Therefore word composition must consider to replace these letters to make the language lighter. When two words have these letters in same position one other letter must be different, otherwise the words are in conflict, one must be modified.
+
+light | heavy
+------|----------
+b     | v
+l     | r
+a     | y
+e     | i
+j     | x
+
+The sound alike function is not yet created.
 
 ## Algorithm
 
