@@ -26,11 +26,11 @@ There are nouns terminated with `ch` that can change to `ce` for plural.
 For distinguish between male and female beings we use adjectives: 
 
 * maso  = male    (latin: masculum)
-* femo  = female  (latin: feminam)
+* fimo  = female  (latin: feminam)
 
 ```
 maso Cana = dog male
-femo Cana = dog female
+fimo Cana = dog female
 ```
 
 Animal nouns and person nouns start with uppercase.
@@ -87,7 +87,7 @@ Maj enable diminutives using suffix: 'uca.
 
 **close pets**
 * maso can'uca  = dogy male
-* femo gat'uca  = kity female
+* fimo gat'uca  = kity female
 
 
 **notes**
@@ -107,7 +107,7 @@ Papa    | father         | tata
 Nana    | grand mother   | bunica
 Naxu    | grand father   | bunicu
 Homo    | men            | bărbat
-Femo    | women          | femeie
+Famo    | women          | femeie
 Frea    | brother        | frate
 Sora    | sister         | soră
 
@@ -149,7 +149,7 @@ cola       | school       | colegio
 cona       | hill         | colina               
 cosa       | thing        | cosa               
 coxa       | bell         | campana               
-fama       | farm         | granja               
+femy       | farm         | granja               
 faxa       | way          | camino               
 fesa       | window       | ventana               
 flea       | flower       | flor               

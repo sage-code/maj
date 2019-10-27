@@ -43,7 +43,7 @@ x | maj  | xx | maj           | xx | maj     |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
-9 | nev  | 19 | un'diz+nev    | 90 | ne'diz  | 
+9 | new  | 19 | un'diz+new    | 90 | ne'diz  | 
            
 ## Ordinals
          
@@ -51,7 +51,7 @@ Repeting time is created using `foa suffix
 
 foa = times
 
-* ni'foa = never
+* ni'foa = newer
 * al'foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
@@ -93,7 +93,7 @@ Franch:  lieu,  ordre, position
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
-* Symbol "-" is never read, it is a "legato", (you do not pause)
+* Symbol "-" is newer read, it is a "legato", (you do not pause)
 
 ```
  125 = un'cen+due'diz+pif

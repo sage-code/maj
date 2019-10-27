@@ -162,8 +162,8 @@ Rarely used only to replace `c` before a vowel or to avoid duplicate `c`.
 
 Letter W is used at beginning of words and rarely used in the middle of the words.
 
-* can be present at beginning of words: for example: "wisol" (whiskey).
-* inside of words we always use "ui" and not "wi".
+* is pronounced "u" at beginning of words: wisol:"uisol";
+* inside of words can modify "e" that will be read "i" like in new:"niu" ;
 
 ## Digraphs
 
@@ -313,9 +313,9 @@ Cost   |Sounds
 -------|----------------------------------------
   1    |a, e, i, o, u, y
   2    |l, m, n, f, s, h
-  2    |b, c, d, p, t, g  
-  3    |v, j, r, z, k, x
-  4    |q, w
+  3    |b, c, d, p, t, g  
+  4    |v, j, r, z, k, x
+  5    |q, w
 
 **cost:**  
 

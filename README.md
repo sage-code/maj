@@ -41,21 +41,21 @@ Basic principles for Maj language construction:
 1. A word that represent a person, animal or insect start with uppercase;
 1. A word for a thing that can do anything but exist will start with lowercase;
 1. A interrogative sentences start with a specific preposition and end with a question mark;
-1. A imperative sentence end with exclamation mark, while a declarative sentence with ";"
+1. A imperative sentence end with exclamation mark, while a declarative sentence with `;`
 1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c};
 1. An enumeration of numbers is enclosed in square brackets [1,24,3];
 1. You can use round parenthesis for math expressions and complex numbers;
-1. You can use double quotes like: "no" to representing a foreign word or a new word;
+1. You can use double quotes like new:"niu" to representing _Maj Phonetic_ for reading `new` word;
 1. You can use single apostrophe symbol: `'` to add a suffix and create a composite word;
-1. You can use dash "-" to concatenate a prefix to a root and create a composite word;
-1. You can use plus "+" to concatenate numerals and form a large numeral;
-1. You can use ":","," and "." with numbers to create time, large and small numbers with decimals;
+1. You can use dash `-` to concatenate a prefix to a root and create a composite word;
+1. You can use plus `+` to concatenate numerals and form a large numeral;
+1. You can use `:`,`,` and `.` with numbers to create time, large and small numbers with decimals;
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
-1. Dialog is start with bullet point "*" and end with ";","?" or "!";
+1. Dialog is start with bullet point `*` and end with `;`,`?` or `!`;
 
 **Notes:**
-* In Maj "." is not used for end of propositions but is a decimal separator for fractional numbers;
+* In Maj `.` is not used for end of propositions but is a decimal separator for fractional numbers;
 * When you compare someone with an animal, the animal is written with lowercase;
 
 ## Words
