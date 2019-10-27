@@ -13,7 +13,7 @@ symbol | Maj
 * `+`  | und
 * `-`  | ifa
 * `/`  | uel
-* `.`  | pyi
+* `.`  | pui
 * `:`  | con
 * `,`  | cus
 * `;`  | puc
@@ -34,7 +34,7 @@ symbol | Maj
 
 x | maj  | xx | maj           | xx | maj     |
 --|------|----|---------------|----|---------|
-0 | nul  | 10 | un'diz+nul    |    |         |
+0 | nil  | 10 | un'diz+nul    |    |         |
 1 | uno  | 11 | un'diz+uno    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | rea  | 13 | un'diz+rea    | 30 | re'diz  |
@@ -43,7 +43,7 @@ x | maj  | xx | maj           | xx | maj     |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
-9 | nov  | 19 | un'diz+nov    | 90 | no'diz  | 
+9 | nev  | 19 | un'diz+nev    | 90 | ne'diz  | 
            
 ## Ordinals
          
@@ -51,7 +51,7 @@ Repeting time is created using `foa suffix
 
 foa = times
 
-* no'foa = never
+* ni'foa = never
 * al'foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
@@ -89,7 +89,7 @@ Franch:  lieu,  ordre, position
  600 =  ze'cen
  700 =  xe'cen
  800 =  ok'cen
- 900 =  no'cen
+ 900 =  ne'cen
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
@@ -114,7 +114,7 @@ Franch:  lieu,  ordre, position
  6,000 = ze'mil
  7,000 = xe'mil
  8,000 = ok'mil
- 9,000 = no'mil
+ 9,000 = ne'mil
 ```
 
 **Millions  = mon**
@@ -126,7 +126,7 @@ Franch:  lieu,  ordre, position
 2,000.000 = du'mon
 3,000.000 = re'mon
 ...
-9,000.000 = no'mon
+9,000.000 = ne'mon
 ```
 
 **Billions = bil**
@@ -138,7 +138,7 @@ Franch:  lieu,  ordre, position
 2,000,000.000 = du'bil
 3,000,000.000 = re'bil
 ...
-9,000,000.000 = no'bil
+9,000,000.000 = ne'bil
 ```
 
 ## Level 3

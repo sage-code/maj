@@ -24,8 +24,8 @@ Sounds: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-
 
 ``` 
 -------------------------------------
- Maj: â  ă  ş  j  q  ţ   ç    g    ç   
- IPA: ɨ  ə  ʃ  ʒ  ɢ  t͡s t͡ʃ  d͡ʒ  s     
+ Maj: â  ă  ş  j  q  ţ  ç   g   
+ IPA: ɨ  ə  ʃ  ʒ  ɢ  t͡s t͡ʃ  d͡ʒ 
 -------------------------------------
 ```
 

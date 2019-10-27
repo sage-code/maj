@@ -50,7 +50,7 @@ Is the person or the thing who perform the action.
 -----|-----------------|-----------------------------
   1  | jo = I          | noi  = we
   2  | tu = you        | voi  = y'all
-  3  | zi = he, she, it| zoi  = they (masculine) 
+  3  | zu = he, she, it| zoi  = they (masculine) 
 
 **Objective**
 
@@ -82,16 +82,15 @@ zia = his, hers| zue = theirs
 
 **Reflexive**
 
-To make reflexive we use coda "sy"
+To make reflexive we use coda "sy" = "self"
 
-* misy = myself;
-* tisy = yourself; 
-* zisy = himself; 
-* xisy = herself; 
-* lasy = itself; 
-* busy = ourselves; 
-* vusy = yourselves; 
-* zusy = themselves.
+* mi'sy = myself;
+* ti'sy = yourself; 
+* zi'sy = himself/ itself; 
+
+* no'sy = ourselves; 
+* vo'sy = yourselves; 
+* zo'sy = themselves.
 
 ## Time of Verbs
 
