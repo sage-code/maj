@@ -14,7 +14,7 @@ symbol | Maj
 * `-`  | ifa
 * `/`  | uel
 * `.`  | pyi
-* `:`  | dyi
+* `:`  | con
 * `,`  | cus
 * `;`  | puc
 * `?`  | kim

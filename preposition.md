@@ -29,7 +29,7 @@ English preposition can be considered in this categories: { time, place, directi
 * in 2005   = en anoa 2005
 * on Spring = la seza Spring 
 * at 21 of September 2005 =  en 21 de Septeber 2005
-* at 2:45 = bei 2:45 (cut und pata-rin)
+* at 2:45 = bei hora due col ca'diz und rea
 
 **Time adjectives**
 
@@ -55,6 +55,7 @@ seza  = season
 von  = by    ( from German )
 con  = with  ( from Italian )
 
+note: Symbol ":" is read "con"
 
 **examples**
 
@@ -90,7 +91,7 @@ ino      |Into
 oto      |Onto      
 ozo      |Over the  
 cha      |Towards   
-par      |Through   
+par      |Through / by  
 uma      |Around    
 ruc      |Back      
 ovy      |End, Over 
@@ -98,7 +99,7 @@ sop      |Stop
          
 ## Direction
 
-These three directions are very important prepositions:
+Next directions are very important:
 
 Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
@@ -149,10 +150,10 @@ nah     |near, close by      |cerca            | in der nähe
 
 **examples**
 
-* bei 24 aus Novre 2007 = at 24 of November 207
+* bei 24 aus Nove 2007 = at 24 of November 207
 * auf la mesa = on the table
 * dan la casa = in the house
-* vor la casa = in front of the hause
+* vor la casa = in front of the house
 
 # Logical
 
@@ -184,11 +185,16 @@ Following prepositions may be used in logical arguments.
  edo | then    | time consequence
  don | so      | reasoning conclusion
  cas | case    | when is the case
- cud | when    | establish event
+ uta | when    | establish event
  asi | thus    | therefore
  ecu | like    | comparative
  mem | same    | identical
  vir | while   | while condition
  cyz | because | cause of a consequence
  
+Note: Some words represent also symbols:
+
+ody = "/"
+und = "+"
+dar = "|"
                      

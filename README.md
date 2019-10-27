@@ -10,38 +10,47 @@ Maj is an artificial language for chat with AI:
 6. Popular;
 7. Entertaining.
 
-***Imagine a world...**
+**Imagine a world...**
 
 * when everyone can speak Maj;
 * when computers will speak Maj;
+* when men and women are all equal; 
 
 **Technical:**
 
-Basic rules for this new language:
+Basic principles for Maj language construction:
 
 1. one letter do not represent anything else but itself;
 1. one letter is pronounced always the same in all wards;
 1. one word have the same meaning in all propositions;
+1. the frequent words are shorter than other words;
+1. the order of the words in proposition is significant;
 
 **Maj do not**
 
 1. Maj is not for encryption;
+1. Maj is not a scripting language;
 1. Maj is not a secret language;
 1. Maj is not an academic language;
+1. Maj is not for literature;
+1. Maj is not for trading nor business;
+1. Maj do not use gender and racist words;
 
 **Punctuation:**
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
-1. A word that start with uppercase represent a person or animal or a robot or an AI device;
-1. A word for a thing that can not talk or move or do anything start with lowercase;
-1. A interrogative sentences can start with a specific preposition and end with a question mark;
+1. A word that represent a person, animal or insect start with uppercase;
+1. A word for a thing that can do anything but exist will start with lowercase;
+1. A interrogative sentences start with a specific preposition and end with a question mark;
 1. A imperative sentence end with exclamation mark, while a declarative sentence with ";"
-1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c,44};
+1. An enumeration of symbols or things is enclosed in squiggly brackets {a,b,c};
 1. An enumeration of numbers is enclosed in square brackets [1,24,3];
 1. You can use round parenthesis for math expressions and complex numbers;
-1. You can use double quotes like: "no" to representing a foreign language words;
-1. You can use single apostrophe symbol: `'` to add a suffix to a word;
-1. You can use dash "-" to concatenate a prefix to a root to create a composite word;
+1. You can use double quotes like: "no" to representing a foreign word or a new word;
+1. You can use single apostrophe symbol: `'` to add a suffix and create a composite word;
+1. You can use dash "-" to concatenate a prefix to a root and create a composite word;
+1. You can use plus "+" to concatenate numerals and form a large numeral;
+1. You can use ":","," and "." with numbers to create time, large and small numbers with decimals;
 1. You can use single back-quote: `4+4` to enclose an mathematical expression or in-line code;
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
 1. Dialog is start with bullet point "*" and end with ";","?" or "!";
