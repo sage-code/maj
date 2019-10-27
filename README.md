@@ -33,7 +33,7 @@ Basic principles for Maj language construction:
 1. Maj is not an academic language;
 1. Maj is not for literature;
 1. Maj is not for trading nor business;
-1. Maj do not use gender and racist words;
+1. Maj do not use gender for nouns;
 
 **Punctuation:**
 

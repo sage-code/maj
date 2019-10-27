@@ -46,12 +46,11 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 
 Is the person or the thing who perform the action.
 
-  ps |singular       | plural
------|---------------|-----------------------------
-  1  | jo = I        | noi  = we
-  2  | tu = you      | voi  = y'all
-  3  | zi = he, it   | zoi  = they (masculine) 
-  3  | xi = she      | xoi  = they (feminine)
+  ps |singular         | plural
+-----|-----------------|-----------------------------
+  1  | jo = I          | noi  = we
+  2  | tu = you        | voi  = y'all
+  3  | zi = he, she, it| zoi  = they (masculine) 
 
 **Objective**
 
@@ -61,8 +60,7 @@ Is the person or the thing who receive the action.
 ----|-----------------|-----------------------------
  1  | my = me         | noy = us
  2  | ty = you        | voy = you
- 3  | zy = him        | zoy = them (masculine)
- 4  | xy = her        | xoy = them (feminine)   
+ 3  | zy = him, her   | zoy = them 
 
  
 **Possessive**
@@ -71,19 +69,16 @@ Is a composite word for a person or object who own something or have something.
 
 verb: haru = to have
 
-singular    | plural
-------------|--------------------------------
-mia = mine  | nue = ours
-tia = your  | vue = yours
-zia = his   | zue = their
-xia = her   | xue = their
+singular       | plural
+---------------|--------------------------------
+mia = mine     | nue = ours
+tia = your     | vue = yours
+zia = his, hers| zue = theirs
 
 **notes:**
 
-* Maj language do not have form for "it". You can use "hi" to talk about a thing or a person;
-* Pronoun "y'all" is the plural form of previous "thou", that was replaced by "you";
-* In some Eglish dialects y'all is a thing, but you is already plural, so y'all is redundant;
-* In English objective case is also using you so Objective can not be translated in English;
+* Maj language do not have gender. You can use "zi" to talk about a thing or a person;
+* Pronoun "y'all" is the plural form of singular "thou", that was replaced by "you";
 
 **Reflexive**
 
@@ -116,11 +111,10 @@ verb: jocu = to play
 * jo jocu    = I play
 * tu jocu    = you play
 * zi jocu    = he  play
-* xi jocu    = she play
 
 **using time suffix**
 
-* xi joc'ure = she is playing
+* zi joc'ure = he is playing
 * zi joc'ufu = he will play
 * zi joc'upa = he has plaid
 
