@@ -12,9 +12,8 @@ Maj is an artificial language for chat with AI:
 
 **Imagine a world...**
 
-* when everyone can speak Maj;
-* when computers will speak Maj;
-* when men and women are all equal; 
+* when everyone can chat using Maj;
+* when computer can chat using Maj;
 
 **Technical:**
 
