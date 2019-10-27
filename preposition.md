@@ -41,7 +41,7 @@ English preposition can be considered in this categories: { time, place, directi
 Location related nouns are 4 character long, they are more important.
 
 loca  = location
-tepa  = time
+tesa  = time
 data  = date
 hora  = hour
 anoa  = year

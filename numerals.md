@@ -64,7 +64,7 @@ Formin ordinals with numeral prefix can be done from (1..10)
           
 **positional**
 
-Position in a series or enumeration: lio
+Position in a series or enumeration: lio (place)
 
 English: place, order, position
 Italian: posto, ordine, posizione

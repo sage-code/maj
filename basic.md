@@ -97,7 +97,7 @@ To make reflexive we use coda "sy" = "self"
 
 There are 4 time suffixes in Maj:
 
-tepa = time
+tesa = time
 
 Suffix  | Maj     | English
 --------|---------|----------------------------
@@ -122,13 +122,19 @@ verb: jocu = to play
 
 ## Using adverb
 
-* uco   = one single time
-* foa   = sometime (Franch fois)
 * nuc   = never (Spanish nunca)
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
-* nau   = now   (English)
+* aku   = now   (Romanian acuma)
+* lio   = place (Franch lieu)
 
+**composite**
+
+foa   = times (French fois)
+
+* un'foa = once
+* du'foa = twice
+* re'foa = three times
 
 **examples**
 
@@ -137,7 +143,7 @@ verb: vidu  = to see
 * tu vidu'fu me suv!  = you will see me often!
 * tu vidu'se me foa!  = you can see me sometime!
 * jo vidu'pa te nuc!  = I have never seen you!
-* jo vidu'se ve nau!  = I see you all now!
+* jo vidu'se ve aku!  = I see you all now!
 
 Structure of above propositions: Subject + verb'time + objective + adverb.
 
@@ -158,7 +164,7 @@ Composite interogations
 
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-ke tepa | when?    | cuando  | când
+ke tesa | when?    | cuando  | când
 ke loca | where?   | donde   | unde
 po ke   | why?     | por qué | de ce 
 
@@ -184,7 +190,7 @@ Asking about location can be explicit using que:
 You can ask about location isomg `ubi` or time isomg `cud`:
 
 * do seru la loca ke tu jocu? = where is the place you play?
-* ku seru la tepa ke zu venu? = when  is the time they come?
+* ku seru la tesa ke zu venu? = when  is the time they come?
 
 **expressions**
   
@@ -196,7 +202,7 @@ Possible answers:
 
 * von hir tsu dor! = from here to there!
 * von loca que te picu!  = from a place you like!
-* von tepa que ne ovi'upa!  = from a forgotten time!
+* von tesa que ne ovi'upa!  = from a forgotten time!
 
 verb: oveu = to forget
 
