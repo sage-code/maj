@@ -41,7 +41,7 @@ English preposition can be considered in this categories: { time, place, directi
 Location related nouns are 4 character long, they are more important.
 
 loca  = location
-topa  = time
+tepa  = time
 data  = date
 hora  = hour
 anoa  = year
@@ -146,6 +146,7 @@ hir     |here                |aqui             | hier
 der     |there               |ahi              | dort
 lej     |far from            |lejos            | weit
 nah     |near, close by      |cerca            | in der nähe
+noh     |yet                 |todavía          | noch 
 
 
 **examples**
@@ -170,11 +171,13 @@ Following prepositions may be used in logical arguments.
 
  Maj | English | Description
 -----|---------|------------------------------------
+ aja | correct | agree with
  oga | yes     | affirmative
- nok | no      | negative 
- ody | or      | conjunction
+ uka | not     | negative 
+ uel | or      | conjunction
  und | and     | conjunctive
- dar | but     | specify an alternative
+ dar | but     | positive alternative
+ nor | neither | negative alternative 
  sif | if      | conditional
  tal | maybe   | possible
  axa | so      | comparative
@@ -183,18 +186,11 @@ Following prepositions may be used in logical arguments.
  mei | may     | is permitted
  fob | may not | is forbidden
  edo | then    | time consequence
- don | so      | reasoning conclusion
+ tan | so      | to such a great extent.
  cas | case    | when is the case
  uta | when    | establish event
- asi | thus    | therefore
+ asi | thus    | therefore, hence, so, then, thus 
  ecu | like    | comparative
  mem | same    | identical
  vir | while   | while condition
  cyz | because | cause of a consequence
- 
-Note: Some words represent also symbols:
-
-ody = "/"
-und = "+"
-dar = "|"
-                     

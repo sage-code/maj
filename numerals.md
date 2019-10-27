@@ -30,15 +30,15 @@ symbol | Maj
 * Two numerals are combined using `und` symbol `+`
 * Some numbers are combined using apostrophe 
 
-**Then = diz** 
+**Ten = diz** 
 
 x | maj  | xx | maj           | xx | maj     |
 --|------|----|---------------|----|---------|
-0 | nil  | 10 | un'diz+nul    |    |         |
+0 | nil  | 10 | un'diz+nil    |    |         |
 1 | uno  | 11 | un'diz+uno    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | rea  | 13 | un'diz+rea    | 30 | re'diz  |
-4 | cat  | 14 | un'diz+cat    | 40 | ca'diz  |
+4 | kat  | 14 | un'diz+kat    | 40 | ca'diz  |
 5 | pif  | 15 | un'diz+pif    | 50 | pi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
@@ -150,7 +150,7 @@ bits| maj      | description
 0/1 | dva      | one bit  (due vala)
 8   | ova      | one word (oka vala)
 16  | due'ova  | short integer
-32  | cat'ova  | integer
+32  | kat'ova  | integer
 64  | oka'ova  | long integer
 
 ## Counting:

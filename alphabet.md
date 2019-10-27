@@ -33,23 +33,25 @@ Sounds: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-
 
 If we were to use Maj phonetic we could write some English words like this:
 
-its       = "iţ"
-she       = "şe"
-generator = "generetăr"
-pigeon    = "pigăn"
-giraffe   = "giraf"
-fusion    = "fujăn"
-guitar    = "qitar"
-gees      = "qis"
-cheese    = "ciz"
-accident  = "acsidă" 
-chocolate = "coclăt"
-peach     = "pici"
-speech    = "spici"
-initial   = "inişăl"
-fashion   = "faşăn"
-yacht     = "iat"
-français  = "fronse"
+its       :"iţ"
+she       :"şe"
+generator :"generetăr"
+pigeon    :"pigăn"
+giraffe   :"giraf"
+fusion    :"fujăn"
+guitar    :"qitar"
+gees      :"qis"
+cheese    :"ciz"
+accident  :"acsidă" 
+chocolate :"coclăt"
+peach     :"pici"
+speech    :"spici"
+initial   :"inişăl"
+fashion   :"faşăn"
+yacht     :"iat"
+français  :"fronse"
+
+**Note:** Maj phonetic is using notation :"...", it is one of Maj punctuation rules.
 
 ## Pronunciation
 

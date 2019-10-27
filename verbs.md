@@ -17,7 +17,7 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 **related nouns:**
 
-* topa  = time
+* tepa  = time
 * fusa  = future
 * resa  = present  
 * pasa  = past
@@ -36,9 +36,9 @@ Basic for of Wee verb into an attribute using suffix 'uxo
 jocu => joc'uxo = playful
 
 **So far:**
-* ja seru joc'uxo = I'm playful
-* ta seru joc'uxo = you are playful 
-* ha seru joc'uxo = he is playful
+* jo seru joc'uxo = I'm playful
+* tu seru joc'uxo = you are playful 
+* zu seru joc'uxo = he is playful
 
 **to result**
 
@@ -51,8 +51,8 @@ jocu => joco
 
 Use termination 'uxa to make a noun.
 
-* jo ser'upa uno jocu'xa = I was a player
-* nu ser'ufu ale jocu'xa = we will be all players
+* jo  ser'upa uno jocu'xa = I was a player
+* noi ser'ufu ale jocu'xa = we will be all players
 
 ## Top 10 verbs
 

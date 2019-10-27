@@ -34,7 +34,7 @@ A word can have a specialized role in a sentence.
 
 ## Pronoun
 
-Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. 
+Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is very regular, it has 3 persons, 3 cases, singular and plural.
 
 **Pronouns cases:**
 
@@ -58,10 +58,9 @@ Is the person or the thing who receive the action.
 
  ps | singular        | plural
 ----|-----------------|-----------------------------
- 1  | my = me         | noy = us
- 2  | ty = you        | voy = you
- 3  | zy = him, her   | zoy = them 
-
+ 1  | mi = me         | noy = us
+ 2  | ti = you        | voy = y'all
+ 3  | zi = him, her   | zoy = them 
  
 **Possessive**
 
@@ -77,8 +76,10 @@ zia = his, hers| zue = theirs
 
 **notes:**
 
-* Maj language do not have gender. You can use "zi" to talk about a thing or a person;
-* Pronoun "y'all" is the plural form of singular "thou", that was replaced by "you";
+* In total there are 9 pronouns;
+* There is no gender for third person;
+* Pronoun "y'all" is rarely used in US
+* The singular form of "you" use to be "thou";
 
 **Reflexive**
 
@@ -96,11 +97,13 @@ To make reflexive we use coda "sy" = "self"
 
 There are 4 time suffixes in Maj:
 
-Suffix  | Maj        |   English
---------|------------|-------------------------------
-ure     | resa       |  present 
-ufu     | fusa       |  future
-upa     | pasa       |  past
+tepa = time
+
+Suffix  | Maj     | English
+--------|---------|----------------------------
+se      | sesa    | present 
+fu      | fusa    | future
+pa      | pasa    | past
 
 
 **singular conjugation**
@@ -113,9 +116,9 @@ verb: jocu = to play
 
 **using time suffix**
 
-* zi joc'ure = he is playing
-* zi joc'ufu = he will play
-* zi joc'upa = he has plaid
+* zi jocu'se = he is playing
+* zi jocu'fu = he will play
+* zi jocu'pa = he has plaid
 
 ## Using adverb
 
@@ -131,10 +134,10 @@ verb: jocu = to play
 
 verb: vidu  = to see
 
-* tu vid'ufu me suv!  = you will see me often!
-* tu vid'ure me foa!  = you can see me sometime!
-* jo vid'upa te nuc!  = I have never seen you!
-* jo vid'ure ve nau!  = I see you all now!
+* tu vidu'fu me suv!  = you will see me often!
+* tu vidu'se me foa!  = you can see me sometime!
+* jo vidu'pa te nuc!  = I have never seen you!
+* jo vidu'se ve nau!  = I see you all now!
 
 Structure of above propositions: Subject + verb'time + objective + adverb.
 
@@ -142,17 +145,22 @@ Read more about: [verbs](verbs.md)
 
 ## Interrogative
 
-Interrogation is created with interrogative prepositions:
+Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-que     | what?    | qué     | ce
-qui     | who?     | quien   | cine
-quo     | how?     | como    | cum
-qua     | which?   | cual    | care
-ubi     | where?   | donde   | unde
-uta     | when?    | cuando  | când
-uro     | why?     | por qué | de ce 
+ke      | what?    | qué     | ce
+ki      | who?     | quien   | cine
+ko      | how?     | como    | cum
+ku      | which?   | cual    | care
+
+Composite interogations
+
+maj     | english  | spanish | romanian
+--------|----------|---------|---------
+ke tepa | when?    | cuando  | când
+ke loca | where?   | donde   | unde
+po ke   | why?     | por qué | de ce 
 
 **Notice:**
 
@@ -163,20 +171,20 @@ uro     | why?     | por qué | de ce
 
 Next examples show how to use interrogative prepositions:
 
-* qui ser'upa der?  = who whas there?
-* que mag'ufu te ?  = what are you going to eat ?
-* quo ser'ure tea beba ?  = how is your drink ?   
+* ke mag'ufu te ?  = what are you going to eat ?
+* ki ser'upa der?  = who whas there?
+* ko ser'ure tea beba ?  = how is your drink ?   
 
 Asking about location can be explicit using que:
 
-* que loca te and'ure? = where are you going?
-* que loca te ven'ure? = where are you coming from?
-* que loca te ser'ure? = where are you from?
+* ke loca te and'ure? = where are you going?
+* ke loca te ven'ure? = where are you coming from?
+* ke loca te ser'ure? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* ubi seru la loca que tu jocu? = where is the place you play?
-* uta seru la topa que zu venu? = when  is the time they come?
+* do seru la loca ke tu jocu? = where is the place you play?
+* ku seru la tepa ke zu venu? = when  is the time they come?
 
 **expressions**
   
@@ -188,26 +196,54 @@ Possible answers:
 
 * von hir tsu dor! = from here to there!
 * von loca que te picu!  = from a place you like!
-* von topa que ne ovi'upa!  = from a forgotten time!
+* von tepa que ne ovi'upa!  = from a forgotten time!
 
 verb: oveu = to forget
 
-## Response
+## Responses
 
 The interogative question can be answered with affirmative or negative:
 
-* oga = yes, affirmative
-* nok = no,  negative 
+**familiar**
 
+* ia! / iep! = yes / affirmative
+* na! / nop! = not / negative
+* hy? / hop! = unclear/ wish
+
+**polite**
+
+* aja! = right
+* uka! = wrong
+* oga! = okey
+
+**logical**
+
+* vero! = true, affirmative
+* faso! = false, negative, 
+* naso! = unknown
+
+**scientific**
 For stronger assurance answer you can specify the logical values:
 
-* vero = true, affirmative 
-* faso = false, negative
+* bono! = good, tasteful
+* malo! = bad, repulsive
+
+**official**
+
+* juso = justified
+* cero = indeed
+
+**composite**
+
+* non-juso = incorrect, not justified
+* pro-juso = to be justified
+
 
 ## Noun
 
 Noun is a word terminated with coda:
 
+* coda "y" = indefinite
 * coda "a" = singular
 * coda "e" = plural
 
@@ -215,12 +251,9 @@ A noun represents person, place, object, or idea.
 
 **examples:**
 
+* pany  = bread
 * pana  = bread
-* aqua  = water
-* bane  = bananas
-* huga  = juice  
-* peca  = freckles
-* cara  = face
+* pane  = breads
 
 You can learn more about nouns in a separate document:
 [nouns](nouns.md)
@@ -234,12 +267,16 @@ In maj, article is a short word you add in front of the noun.
 
 **Maj definite article**
 
-Definite article indicative form:
+1. Definite article _indicative form:_
 
-la  = the   (singular)
-le  = the   (plural)
+la  = the (singular)
+le  = the (plural)
 
-Definite article determinant form:
+**example**
+
+la pana = the bread
+
+2. Definite article _determinant form:_
 
 es / el = it 
 
@@ -248,7 +285,13 @@ Singular   |  Plural
 eso = this |  ese = these 
 elo = that |  ele = those
 
-Definite article descriptive form:
+
+**example:**
+
+eso pana = this bred
+ese pane = these breads
+
+3. Definite article _descriptive form:_
 
 da  = about one
 de  = about many
@@ -272,7 +315,7 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
 * uno = one
-* abo = both
+* amo = both
 * oru = any
 * omi = every
 * ale = all
@@ -283,61 +326,51 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 Common noun is using plural "e" or singular "a" with different articles:
 
-
 * uno mela = one apple
-* omi apla = every apple
-* oru apla = any apple
-* som mele = some aples
 * due mele = two apples
+* omi mela = every apple
+* oru mela = any apple
+* som mele = some apples
 * ale mele = all apples
 
-
 Invariant noun is terminated in "s" or other consonant:
-
 
 * pau Mercedes = few Mercedes 
 * oru Mercedes = any Mercedes 
 
+## Determinant prefix
 
-## Determinant
-
-Sometimes we use a preposition determinant to create a new meaning for words:
+Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
 * non  = not - create antonyms
 * pro  = for - specify purpose
 
-```
-pro bebo aqua = drinking water
-non bebo aqua = industrial water
-non bolo beba = non alcoholic drink
-```
+**examples:**
 
-**Article Usage**
+* pro-bebo aqua = drinking water
+* non-bebo aqua = industrial water
+* non-bolo beba = non alcoholic drink
 
-Properly using a definite article is fairly straightforward, but it can be tricky when you are trying to figure out which indefinite article to use. The article choice depends on the sound at the beginning of the noun that is being modified. There is a quick and easy way to remember this.
 
-If the noun that comes after the article begins with a vowel sound, the appropriate indefinite article to use is 'an.' A vowel sound is a sound that is created by any vowel in the English language: 'a,' 'e,' 'i,' 'o,' 'u,' and sometimes 'y' if it makes an 'e' or 'i' sound. For example:
+## Special coda
 
-* an advertisement on the radio (this noun begins with 'a,' which is a vowel)
-* an element on the periodic table (this noun begins with 'e,' which is also a vowel)
+Some nouns are terminated with 'osa or 'ola to indicate harmful content:
 
 **normal** 
 
-* la pana = the bread
-* la aqua = the water
-* la bana = the banana
+* la ceca = the chocolate
 * la huga = the juice  
 
 **harmful**
 
-* la cheosa  = the cookies with chocolate
-* la cheola  = the chocolate drops with alcohol
-* la hugosa  = extra sweet juice 
-* la hugola  = juice mixed with alcohol 
+* la ceosa  = the cookies with chocolate
+* la ceola  = the chocolate drops with alcohol
+* la ugosa  = extra sweet juice 
+* la ugola  = juice mixed with alcohol 
 
 ## Logic conjunction
 
-A word used to connect clauses or sentences or to coordinate words in the same clause.
+Conjunctive preposition is a word used to connect ideas and arguments in a sentence.
 
 Conjunction is used when...
 
@@ -353,7 +386,7 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:**  ody = or
+**Maj:**  uel = or
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -371,7 +404,7 @@ Franch  | et     | Marc et Alice vont à la plage
 English | and    | Marc and Alice go to the beach
 Spanish | y      | Marc y Alice van a la playa
 
-**Maj:** don = so
+**Maj:** asi = so
 
 don ser'ufu te!
 
@@ -381,7 +414,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** noh = now/yet
+**Maj:** noh = yet
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -389,7 +422,7 @@ Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
 English | now,yet| The deadlines must be met, yet this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
-**Maj:** nic = nor
+**Maj:** nor = nor
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
