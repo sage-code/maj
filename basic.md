@@ -520,9 +520,9 @@ Maj enable markup code. That can be HTML, or XML
 
 ## Input form
 
-To create an input form you can use a input:
+To create an input form you can use keyword obio: = to get
 
-input: 
+obio: $var1
 
  Label        | Values      
 --------------|--------------------------------
@@ -538,33 +538,19 @@ TOTAL         | $var1 + $var2
 * You can specify initial value using "=";
 * You can use functions or expressions to output text;
  
-## Dynamic form
+## Matrix form
 
 You can create a dynamic form using multiple rows:
 
-input: 10/5
+obio: @values(10,5)
 
  "@values()"  | Values      
 --------------|--------------------------------
  ...          | @values
- TOTAL        | 0 + @values
+ TOTAL        | +@values
 
-* "@values(1) =" @values(1)
-* "@values(2) =" @values(2)
-
-## Matrix form
-
-You can create a dynamic form using multiple columns:
-
-input: 3,3/5 
-
- Index        | Values         | Total
---------------|----------------|----------------
- ...          | @values        | +@values
- TOTAL        |+@values        | +@values
-
-* "@values(1,1) =" @values (1,1)
-* "@values(2,2) =" @values (2,2)
+* "@values(1,1) =" @values( 1, 1)
+* "@values(2,1) =" @values( 2, 1)
 
 
 **notes**
