@@ -9,12 +9,10 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 ## Fundamental adjectives
 
-* bono = good  (benevolent)
-* malo = bad   (malevolent)
-* vero = the truth
-* faso = the lie   
-* rito = right
-* rogo = wrong
+* bono = good  
+* malo = bad   
+* vero = true
+* faso = false
 * nito = clean
 * salo = dirty
 
@@ -86,4 +84,110 @@ hoven   |young     |joven      |Jeune       |giovane     |iuvenis |tineri
 
 ## Level 4
 
+100 Adjectives
 
+Maj     |English      |Spanish    
+--------|-------------|-----------
+acto    |current      |actual     
+aleo    |foreign      |extraño
+alto    |high         |alto
+bajo    |low          |bajo
+baso    |hurt         |herir
+bien    |fine         |bien
+bono    |good         |bueno
+ceno    |central      |central
+ceto    |certain      |cierto
+demo    |democratic   |democrático
+deto    |right        |derecho
+difo    |difficult    |difícil
+divo    |different    |diferente
+echo    |economic     |económico
+faso    |false        |falsa/falso
+fedo    |federal      |federal
+fero    |available    |disponible
+fezo    |happy        |feliz
+fich    |financial    |financiero
+figo    |cold         |frío
+fino    |final        |final
+fiso    |first        |primero
+foro    |strong       |fuerte
+fuxo    |easy         |fácil
+gato    |free         |gratis
+gavo    |serious      |grave
+gero    |general      |general
+geto    |kind         |tipo
+goso    |big          |grande
+guxo    |left         |izquierda
+guzo    |great        |Excelente
+heso    |hot          |caliente
+humo    |human        |humano
+ioro    |huge         |enorme
+ipto    |important    |importante
+itso    |international|internacional
+jolo    |pretty       |bon
+jono    |young        |joven
+kalo    |warm         |calentar
+karo    |clear        |claro
+komo    |common       |común
+kulo    |cultural     |cultural
+lego    |legal        |legal
+libo    |freedom      |libertad
+lito    |ready        |Listo
+loko    |local        |local
+lugo    |long         |largo
+majo    |major        |mayor
+mazo    |funny        |gracioso
+malo    |bad          |malo
+fauo    |wrong        |incorrecto
+medo    |environmental|ambiental
+mejo    |best         |mejor
+meko    |medical      |médico
+miho    |better       |mejor
+mito    |militare     |militar
+moio    |away         |lejos
+muro    |dead         |muerto
+naro    |natural      |natural
+nazo    |national     |nacional
+nego    |black        |negro
+nito    |nice         |bonito
+novo    |new          |nuevo
+nuro    |only         |solamente
+otro    |other        |otro
+oveo    |open         |abierto
+peso    |personal     |personal
+peti    |small        |pequeña
+pich    |special      |especial
+pino    |full         |completo
+pipo    |main         |principal
+pivo    |private      |privado
+pizo    |physical     |físico
+poko    |little       |pequeño
+polo    |political    |político
+popo    |popular      |popular
+poso    |possible     |posible
+poto    |able         |poder
+poxo    |close friends|intimo
+pubo    |public       |público
+puro    |poor         |pobre
+regi    |religious    |religioso
+relo    |real         |real
+rito    |recent       |reciente
+rodo    |round        |redondo
+savo    |is over      |se acabó
+siko    |significant  |significativo
+simo    |similar      |similar
+sipo    |simple       |sencillo
+sojo    |single       |soltero
+soro    |dark         |oscuro
+soxo    |social       |social
+sugo    |sure         |seguro
+tado    |late         |tarde
+tazo    |traditional  |tradicional
+timo    |early        |temprano
+todo    |whole        |todo
+varo    |various      |varios
+veko    |old          |antiguo
+vero    |true         |cierto
+veto    |green        |verde
+viso    |likely       |probable
+xoto    |short        |corto

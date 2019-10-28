@@ -166,7 +166,7 @@ maj     | english  | spanish | romanian
 --------|----------|---------|---------
 ke tesa | when?    | cuando  | când
 ke loca | where?   | donde   | unde
-po ke   | why?     | por qué | de ce 
+ke      | why?     | por qué | de ce 
 
 **Notice:**
 

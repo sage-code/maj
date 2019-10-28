@@ -169,7 +169,7 @@ rezu  | turnout           | resultar          | résulter
 rigu  | recognize         | reconocer         | reconnaître
 rimu  | remember          | recordar          | rappeler
 rovu  | find              | encontrar         | trouver
-ryzu  | laugh             | risa              | rire
+risu  | laugh             | risa              | rire
 sabu  | write             | escribir          | Écrire
 saku  | takeout           | sacar             | enlever
 saru  | goout             | salir             | sortir
@@ -183,7 +183,7 @@ sipu  | suppose           | suponer           | assumer
 situ  | sit               | sentar            | asseoir
 sodu  | consider          | considerar        | considérer
 sonu  | am                | soy               | je suis
-tagu  | cut               | cortar            | couper
+taju  | cut               | cortar            | couper
 taru  | bring             | traer             | apporter
 tenu  | hold              | sostener          | tenir
 tiru  | pull              | halar             | tirer
