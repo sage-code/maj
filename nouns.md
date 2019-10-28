@@ -110,6 +110,7 @@ Homo    | men            | bărbat
 Famo    | women          | femeie
 Frea    | brother        | frate
 Sora    | sister         | soră
+Bobo    | beby           | bebelus
 
 **3 syllables**
 
@@ -120,13 +121,41 @@ Dotora  | doctor         | doctor
 Lolita  | baby sitter    | ingrijitoare
 Locara  | worker         | ingrijitor
 
-## Dictionary
-
-About 100 most common nouns:
-
+**Living things
 
 Maj        | English      | Spanish
 -----------|--------------|-----------------
+Kana       | dog          | perro               
+Cira       | squirrel     | ardilla               
+Cika       | boy          | chica
+Cike       | girls        | chicas
+Frea       | brother      | hermano               
+Gata       | cat          | gato               
+Huma       | man          | hombre               
+Hume       | men          | hombres             
+Nina       | boy          | niña                 
+Kide	   | children     | muchachos
+Lapa       | rabbit       | Conejo               
+Mama       | mother       | madre               
+Ozea       | bird         | pájaro               
+Papa       | father       | padre               
+Pata       | duck         | Pato               
+Pexa       | fish         | pescado               
+Piga       | pig          | cerdo     
+Poia       | chicken      | pollo               
+Robin      | robin        | Robin               
+Sora       | sister       | hermana               
+Ursa       | bear         | oso               
+Vaka       | cow          | vaca               
+Xava       | horse        | caballo               
+
+## Dictionary
+
+About 75 most common nouns:
+
+
+Maj        | English      | Spanish
+-----------|--------------|-----------------        
 agra       | farmer       | granjero               
 aota       | car          | coche               
 aqua       | water        | agua               
@@ -135,88 +164,66 @@ baka       | boat         | barco
 bobo       | baby         | bebé               
 bora       | tree         | árbol               
 byta       | stick        | palo               
-kaja       | box          | caja               
-kaia       | street       | calle               
-kama       | bed          | cama               
-Cana       | dog          | perro               
-kapa       | coat         | Saco               
-kasa       | house        | casa               
-kata       | song         | canción               
-Xvin       | pig          | cerdo               
-cika       | boy          | chico               
-Cira       | squirrel     | ardilla               
-kola       | school       | colegio               
-kona       | hill         | colina               
-kosa       | thing        | cosa               
-koxa       | bell         | campana               
-femy       | farm         | granja               
 faxa       | way          | camino               
+femy       | farm         | granja               
 fesa       | window       | ventana               
 flea       | flower       | flor               
 foka       | fire         | fuego               
-Frea       | brother      | hermano               
 gaba       | leg          | pierna               
-Gata       | cat          | gato               
 gema       | money        | dinero               
 heba       | grass        | hierba               
 hepa       | paper        | papel               
 hoja       | today        | hoy               
-Huma       | man          | hombre               
-Hume       | men          | hombres               
 ijma       | picture      | imagen               
 jara       | garden       | jardín               
 joka       | game         | juego               
-juna       | day          | día               
 juga       | toy          | juguete               
-Lapa       | rabbit       | Conejo               
+juna       | day          | día               
+kaia       | street       | calle               
+kaja       | box          | caja               
+kama       | bed          | cama               
+kapa       | coat         | Saco               
+kasa       | house        | casa               
+kata       | song         | canción               
+kola       | school       | colegio               
+kona       | hill         | colina               
+kosa       | thing        | cosa               
+koxa       | bell         | campana               
 lece       | milk         | Leche               
 lena       | wood         | madera               
 leta       | letter       | letra               
 lima       | light        | ligero               
-Mama       | mother       | madre               
+luva       | rain         | lluvia               
 mana       | hand         | mano               
 maza       | corn         | maíz               
 mela       | apple        | manzana               
 mesa       | table        | mesa               
 moga       | morning      | Mañana               
-wach       | watch        | reloj               
 nata       | birthday     | cumpleaños               
 nela       | ring         | anillo               
 nida       | nest         | nido               
 niga       | snow         | nieve               
-Nina       | girl         | niña               
-Kide       | children     | niños               
 noma       | name         | nombre               
 noxa       | night        | noche               
 oaia       | sheep        | oveja               
 okia       | eye          | ojo               
 ovua       | egg          | huevo               
-Ozea       | bird         | pájaro               
 pala       | ball         | pelota               
 pana       | bread        | pan
-Papa       | father       | padre               
 pati       | party        | partido               
-Pata       | duck         | Pato               
-Pexa       | fish         | pescado               
 pide       | feet         | pies               
-luva       | rain         | lluvia               
-Poia       | chicken      | pollo               
 popa       | doll         | muñeca               
 rata       | return       | vuelta               
-Robin      | robin        | Robin               
+roja       | watch        | reloj               
 seda       | seed         | semilla               
 sela       | chair        | silla               
 sona       | sun          | Dom               
-Sora       | sister       | hermana               
-tesa       | time         | tiempo
 tera       | ground       | suelo               
+tesa       | time         | tiempo
 teta       | head         | cabeza               
 tola       | cake         | pastel               
-Ursa       | bear         | oso               
 tura       | door         | puerta               
-Vaka       | cow          | vaca               
-venta      | wind         | viento               
-Xava       | horse        | caballo               
+veta       | wind         | viento               
 xuza       | shoe         | zapato               
 
 See next: [preposition](preposition.md)
