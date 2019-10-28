@@ -19,15 +19,14 @@ adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 * salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
 
-
 ## Words
 
 A word can have a specialized role in a sentence. 
 
-* Nouns are finalized with {"a","e","y"} or any consonant;
-* Verbs are finalized with suffix "u", "ure", "ufu", "upa";
-* Adjectives are finalized with "o" or any consonant;
-* Adverbs are finalized with vowel "o" or any consonant;
+* Nouns are finalized with {"a","e"} or any consonant;
+* Verbs are finalized with "u" and suffix, "se", "fu", "pa";
+* Adjectives are finalized with "o", "y", or any consonant;
+* Adverbs like adjectives are finalized with vowel "o", "y" or consonant;
 * Pronouns are monosyllabic, 2 or 3 letter long;
 * Prepositions are monosyllabic, 2 or 3 letter long;
 * Determinants are monosyllabic prepositions, 2 - 3 letter long;
@@ -106,7 +105,7 @@ fu      | fusa    | future
 pa      | pasa    | past
 
 
-**singular conjugation**
+**undefined time**
 
 verb: jocu = to play
 
@@ -114,7 +113,7 @@ verb: jocu = to play
 * tu jocu    = you play
 * zi jocu    = he  play
 
-**using time suffix**
+**time suffix**
 
 * zi jocu'se = he is playing
 * zi jocu'fu = he will play
@@ -454,7 +453,7 @@ Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.
 
 ## Coding
 
-Maj text can be "rendered" or executed using a Maj hosting service;
+Maj text can be executed using a Maj hosting service;
 
 **Symbols**
 

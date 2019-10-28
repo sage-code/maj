@@ -194,3 +194,89 @@ Following prepositions may be used in logical arguments.
  mem | same    | identical
  vir | while   | while condition
  cyz | because | cause of a consequence
+ 
+## Most common
+
+MAJ  | English| Spanish
+-----|--------|-----------------------------
+aku  |now     |ahora
+amo  |both    |ambos
+ape  |just    |sólo
+ate  |before  |antes de
+auf  |on      |encima
+aus  |off     |apagado
+aut  |out     |fuera
+bei  |at      |la
+dan  |in      |en
+dar  |but     |pero
+de   |about   |sobre
+der  |there   |ahí
+des  |of the  |del
+edo  |then    |entonces
+eko  |still   |todavía
+fra  |between |Entre
+gut  |well    |bien
+hir  |here    |aquí
+ino  |into    |dentro
+iny  |inside  |en
+ior  |shall   |deberá
+jo   |I       |yo
+jos  |down    |abajo
+ka   |as      |como
+kon  |with    |con
+kot  |nextto  |cerca de
+lag  |along   |a lo largo
+lej  |far     |lejos
+mei  |may     |mayo
+mia  |my      |mi
+misy |myself  |yo mismo
+nah  |close   |cerca
+nah  |near    |cerca
+nib  |beside  |junto a
+noh  |yet     |todavía
+non  |none    |no
+nop  |not     |No
+nuc  |never   |Nunca
+nue  |our     |nuestra
+obe  |above   |encima
+obe  |up      |hasta
+ody  |or      |o
+oia  |yes     |si
+omi  |every   |cada
+oru  |any     |alguna
+oto  |else    |más
+out  |out     |fuera
+out  |outside |fuera de
+par  |by      |por
+par  |through |por
+par  |through |mediante
+per  |across  |a través de
+pisu |own     |propio
+pos  |behind  |detrás
+pro  |for     |para
+pue  |after   |después
+puke |because |porque
+qua  |which   |cual
+que  |what    |qué
+qui  |who     |quien
+quo  |how     |cómo
+rog  |please  |Por favor
+sif  |if      |Si
+som  |some    |algunos
+sub  |beneath |debajo
+sus  |up      |arriba
+top  |top     |parte superior
+tor  |back to |de regreso
+tsu  |to      |a
+tsu  |to,at   |para
+tzu  |towards |hacia
+ubi  |where   |dónde
+uma  |around  |alrededor
+una  |an      |un
+una  |one     |uno
+und  |and     |y
+uta  |when    |cuando
+uxa  |why     |por qué
+von  |from    |de
+vor  |front   |frente
+zia  |its     |sus
