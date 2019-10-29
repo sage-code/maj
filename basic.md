@@ -463,11 +463,11 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 *  sohu = wish
 *  asku = ask
 *  gema = money
-*  rega = gift
+*  reqa = gift
 
 ```
-zu sohu'na nor gema ni rege;
-zu asku'na nor gema ni rege;
+zu sohu'na nor gema ni reqe;
+zu asku'na nor gema ni reqe;
 ```
 
 Lang    | Word   |  Example

@@ -42,7 +42,9 @@ Basic principles for Maj construction:
 1. most letters represent a single sound (1:1);
 1. two letters can be combined to create a new sound (2:1);
 1. most frequent words are shorter than less frequent words;
+1. most words including numerals are ending with vowel;
 1. word order in proposition is semantical significant;
+
 
 **Punctuation:**
 
@@ -86,6 +88,7 @@ Maj is a compilation from 7 different languages.
 * Sometimes we loose letters from long words to make it shorter;
 * Numerals are unique but first letter is inspired from Romanic languages;
 * When there is divergence between root languages, Maj words can be original;
+* Most words including numerals are starting with consonant and end with vowel;
 
 ## The basics
 

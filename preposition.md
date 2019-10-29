@@ -33,9 +33,22 @@ English preposition can be considered in this categories: { time, place, directi
 
 **Time adjectives**
 
-* nuc = never
-* uco = one single time
-*
+You can use adjective to refer the number of occurrences for events or actions:
+
+tesa = the time 
+foa  = repetition/ number of times
+
+**using time**
+* fo'tesa  = first  time
+* mo'tesa  = second time
+* lo'tesa  = last   time
+
+**using repetition**
+* ni'foa = never
+* un'foa = once / one single time
+* du'foa = two times
+....
+
 
 **Related nouns**
 
