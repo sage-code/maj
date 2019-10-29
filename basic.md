@@ -32,6 +32,9 @@ A word can have a specialized role in a sentence.
 * Prepositions are monosyllabic, 2 or 3 letter long;
 * Determinants are monosyllabic prepositions, 2 - 3 letter long;
 
+**note:**
+For word creation we have a strong rule that is very useful: A word in general start with a consonant or a vowel but should end with a vowel. This rule makes words easy to connect in a phrase using conjunctions, articles or direct.
+
 ## Pronoun
 
 Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is very regular, it has 3 persons, 3 cases, singular and plural.
@@ -77,6 +80,7 @@ zua = his, hers| zue = theirs
 **notes:**
 
 * In total there are 9 pronouns;
+* All pronouns are ending with vowel
 * There is no gender for third person;
 * Pronoun "y'all" is rarely used in US
 * The singular form of "you" use to be "thou";
@@ -133,17 +137,18 @@ foa   = times (French fois)
 * du'foa = twice
 * re'foa = three times
 
-**place**
+**using full words
 
-* lio = place (French lieu)
-* foxo = first
-* moxo = median
-* loxo = last
+* firo lio = first place
+* medo lio = median/second place
+* loxo lio = last place
 
-**using prefix**
+**using contraction**
 
-* fo'lio  = first  place
-* mo'lio  = second place
+lio  = place (French lieu)
+
+* fi'lio  = first  place
+* me'lio  = second place
 * lo'lio  = last   place
 
 ## Proposition

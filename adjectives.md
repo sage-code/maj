@@ -139,7 +139,7 @@ majo    |major        |mayor
 mazo    |funny        |gracioso
 malo    |bad          |malo
 fauo    |wrong        |incorrecto
-medo    |environmental|ambiental
+meto    |environmental|ambiental
 mejo    |best         |mejor
 meko    |medical      |médico
 miho    |better       |mejor
