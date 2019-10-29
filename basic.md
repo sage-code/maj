@@ -9,16 +9,19 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ------|----------|------------|------------|-----------|-------------|----------
-helo  |hello     | hola       | bienvenue  | salve     | salut       | ciao
+ciao  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
-ciao  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vediamo
-adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
+adio  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vediamo
+vale  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 
 **note:** Some form of salute have multiple meanings
 
 * salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
-* lume = world      (the person presents or the entire world)
+* muna = world      (from latin: mundo)
+* luna = moon       (just in case you may be confused)
+
+ciao muna = hello world
 
 ## Words
 
@@ -157,10 +160,10 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* tu vidu'fu me suv!  = you will see me often!
-* tu vidu'se me foa!  = you can see me sometime!
-* jo vidu'pa te nuc!  = I have never seen you!
-* jo vidu'se ve aku!  = I see you all now!
+* tu vidu'fu me suv!   = you will see me often!
+* tu vidu'se me foa!   = you can see me sometime!
+* jo vidu'pa voi nuc!  = I have never seen y'all!
+* jo vidu'se voi aku!  = I see y'all now!
 
 Read more about: [verbs](verbs.md)
 
