@@ -201,7 +201,7 @@ vohu  | wish              | deseo             | souhait
 volu  | will              | será              | volonté
 veru  | see               | ver               | regarder
 xedu  | stay, sit         | quedar            | rester
-xosu  | pick              | recoger           | choisir
+xozu  | pick              | recoger           | choisir
 
 
 Read next: [nouns](nouns.md)

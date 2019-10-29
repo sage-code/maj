@@ -71,8 +71,8 @@ verb: haru = to have
 singular       | plural
 ---------------|--------------------------------
 mia = mine     | nue = ours
-tia = your     | vue = yours
-zia = his, hers| zue = theirs
+tua = your     | vue = yours
+zua = his, hers| zue = theirs
 
 **notes:**
 
@@ -86,12 +86,11 @@ zia = his, hers| zue = theirs
 To make reflexive we use coda "sy" = "self"
 
 * mi'sy = myself;
-* ti'sy = yourself; 
-* zi'sy = himself/ itself; 
-
+* tu'sy = yourself; 
+* zu'sy = himself/ itself/ themselves; 
 * no'sy = ourselves; 
 * vo'sy = yourselves; 
-* zo'sy = themselves.
+
 
 ## Time of Verbs
 
@@ -404,15 +403,23 @@ Spanish | pero   | Es caro, pero de muy buena calidad.
 
 **Maj:**  uel = or
 
+* cima  = cinema
+* goxa  = supermarket (et: goso+shop = big, xopu = shop)
+
+```
+Noi vadu tsu cima uel vadu tsu goxa;
+```
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
 Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
-English | or     | We go to the cinema or we go to the supermarket
+English | or     | We go to cinema or we go to supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
 **Maj:**  und  = and
 
+```
 Marc und Alice and'upa la plaia 
+```
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -422,7 +429,9 @@ Spanish | y      | Marc y Alice van a la playa
 
 **Maj:** asi = so
 
-don ser'ufu te!
+```
+asi seru'fu tu!
+```
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -430,7 +439,16 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** noh = yet
+**Maj:** noh = not yet
+
+* tesa = time
+* muro = dead
+* dovu = must
+* rejo = reach
+
+```
+la tesa-muro dovu rejo noh es poso
+```
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -438,7 +456,19 @@ Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
 English | now,yet| The deadlines must be met, yet this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
-**Maj:** nor = nor
+**Maj:** nor = neither (first negation)
+
+*  na   = negative suffix
+*  ni   = nor (second negation)
+*  sohu = wish
+*  asku = ask
+*  gema = money
+*  rega = gift
+
+```
+zu sohu'na nor gema ni rege;
+zu asku'na nor gema ni rege;
+```
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -446,7 +476,14 @@ Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
 English | nor    | He doesn’t want neither money nor gifts
 Spanish | ni     | No quiere ni dinero ni regalos.
 
-**Maj:** cyz = because
+**Maj:** ky  = because
+
+* kalo = calm
+* puke = because
+
+```
+zu xedu kalo ky zu es nito
+```
 
 Lang    | Word    |  Example
 --------|---------|----------------------------------------------
