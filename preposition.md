@@ -35,6 +35,7 @@ English preposition can be considered in this categories: { time, place, directi
 
 * nuc = never
 * uco = one single time
+*
 
 **Related nouns**
 
@@ -195,7 +196,9 @@ Following prepositions may be used in logical arguments.
  vir | while   | while condition
  cyz | because | cause of a consequence
  
-## Most common
+## Dictionary
+
+Next 100 most common prepositions in alphabetical order:
 
 MAJ  | English| Spanish
 -----|--------|-----------------------------

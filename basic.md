@@ -18,6 +18,7 @@ adio  |farewell  | despedida  | adieu      | valeat    | adio        | addio
 
 * salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
+* lume = world      (the person presents or the entire world)
 
 ## Words
 
@@ -58,8 +59,8 @@ Is the person or the thing who receive the action.
  ps | singular        | plural
 ----|-----------------|-----------------------------
  1  | mi = me         | noy = us
- 2  | ti = you        | voy = y'all
- 3  | zi = him, her   | zoy = them 
+ 2  | tu = you        | voy = y'all
+ 3  | zu = him, her   | zoy = them 
  
 **Possessive**
 
@@ -104,7 +105,6 @@ se      | sesa    | present
 fu      | fusa    | future
 pa      | pasa    | past
 
-
 **undefined time**
 
 verb: jocu = to play
@@ -125,7 +125,6 @@ verb: jocu = to play
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
 * aku   = now   (Romanian acuma)
-* lio   = place (Franch lieu)
 
 **composite**
 
@@ -135,7 +134,22 @@ foa   = times (French fois)
 * du'foa = twice
 * re'foa = three times
 
-**examples**
+**place**
+
+* lio = place (French lieu)
+* foxo = first
+* moxo = median
+* loxo = last
+
+**using prefix**
+
+* fo'lio  = first  place
+* mo'lio  = second place
+* lo'lio  = last   place
+
+## Proposition
+
+Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
@@ -143,8 +157,6 @@ verb: vidu  = to see
 * tu vidu'se me foa!  = you can see me sometime!
 * jo vidu'pa te nuc!  = I have never seen you!
 * jo vidu'se ve aku!  = I see you all now!
-
-Structure of above propositions: Subject + verb'time + objective + adverb.
 
 Read more about: [verbs](verbs.md)
 
@@ -159,13 +171,13 @@ ki      | who?     | quien   | cine
 ko      | how?     | como    | cum
 ku      | which?   | cual    | care
 
-Composite interogations
+Composite interrogations using preposition "de" and noun:
 
-maj     | english  | spanish | romanian
---------|----------|---------|---------
-ke tesa | when?    | cuando  | când
-ke loca | where?   | donde   | unde
-ke      | why?     | por qué | de ce 
+maj         | english  | spanish | 1:1 translation
+------------|----------|---------|---------------
+de ke tesa? | when?    | cuando  | about what time?
+de ke loca? | where?   | donde   | about what location?
+po ke reza? | why?     | por qué | for what reazon?
 
 **Notice:**
 
@@ -176,20 +188,20 @@ ke      | why?     | por qué | de ce
 
 Next examples show how to use interrogative prepositions:
 
-* ke mag'ufu te ?  = what are you going to eat ?
-* ki ser'upa der?  = who whas there?
-* ko ser'ure tea beba ?  = how is your drink ?   
+* ke magu'fu ?  = what are you going to eat ?
+* ki seru'pa ?  = who whas there?
+* ko seru'se ?  = how are you ?   
 
 Asking about location can be explicit using que:
 
-* ke loca te and'ure? = where are you going?
-* ke loca te ven'ure? = where are you coming from?
-* ke loca te ser'ure? = where are you from?
+* de ke loca te andu're? = where are you going?
+* de ke loca te venu're? = where are you coming from?
+* de ke loca te seru're? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* do seru la loca ke tu jocu? = where is the place you play?
-* ku seru la tesa ke zu venu? = when  is the time they come?
+* es la loca ke tu jocu? = is the place you play?
+* es la tesa ke zu venu? = is the time they come?
 
 **expressions**
   
@@ -283,7 +295,7 @@ la pana = the bread
 
 2. Definite article _determinant form:_
 
-es / el = it 
+es = it is (seru) = to be
 
 Singular   |  Plural
 -----------|--------------
@@ -296,16 +308,15 @@ elo = that |  ele = those
 eso pana = this bred
 ese pane = these breads
 
-3. Definite article _descriptive form:_
+3. Descriptive article _descriptive form:_
 
-da  = about one
-de  = about many
+de = about 
 
 **example:**
 
 * English: the freckles on my face
 * Spanish: las pecas en mi cara
-* Maj: le pece da mia cara
+* Maj: le pece de mia cara
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
@@ -319,7 +330,7 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* uno = one
+* una = one
 * amo = both
 * oru = any
 * omi = every
@@ -331,7 +342,7 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 Common noun is using plural "e" or singular "a" with different articles:
 
-* uno mela = one apple
+* una mela = one apple
 * due mele = two apples
 * omi mela = every apple
 * oru mela = any apple

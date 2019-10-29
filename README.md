@@ -1,44 +1,53 @@
 # Maj
 
-Maj is an artificial language for chat with AI:
+Maj is a _constructed language_ for _chat_:
 
-1. Articulated;
-2. Accesible;
+**Attributes:**
+
+1. Accesible;
+2. Efficient;
 3. Logical;
-4. Efficient;
-5. Minimal;
-6. Popular;
-7. Entertaining.
+4. Minimalist;
+5. Articulated;
+6. Deterministic;
+7. Entertaining;
 
-**Imagine a world...**
+**Goals ...**
 
-* when everyone can chat using Maj;
-* when computer can chat using Maj;
+1. Maj is for entertaining;
+2. Maj is for writing fast;
+3. Maj is for talking fast;
+4. Maj is for making notes;
+5. Maj is for making friends;
 
-**Technical:**
+**Disclaimer ...**
 
-Basic principles for Maj language construction:
+Maj is ...
 
+1. not an academic language;
+1. not a perfect language;
+1. not a secret language;
+1. not for short-hand writing;
+1. not for encryption;
+1. not for literature;
+1. not for business;
+
+**Principles:**
+
+Basic principles for Maj construction:
+
+1. for writing system we use ISO Latin alphabet;
+1. for pronunciation we use an extended alphabet;
 1. one letter do not represent anything else but itself;
-1. one letter is pronounced always the same in all wards;
-1. one word have the same meaning in all propositions;
-1. the frequent words are shorter than other words;
-1. the order of the words in proposition is significant;
-
-**Maj do not**
-
-1. Maj is not for encryption;
-1. Maj is not a scripting language;
-1. Maj is not a secret language;
-1. Maj is not an academic language;
-1. Maj is not for literature;
-1. Maj is not for trading nor business;
-1. Maj do not use gender for nouns;
+1. most letters represent a single sound (1:1);
+1. two letters can be combined to create a new sound (2:1);
+1. most frequent words are shorter than less frequent words;
+1. word order in proposition is semantical significant;
 
 **Punctuation:**
 
 1. A name of a single place or single person or pet can be written with CAPITAL LETTERS;
-1. A word that represent a person, animal or insect start with uppercase;
+1. A word that represent a person, animal or insect but not a name start with uppercase;
 1. A word for a thing that can do anything but exist will start with lowercase;
 1. A interrogative sentences start with a specific preposition and end with a question mark;
 1. A imperative sentence end with exclamation mark, while a declarative sentence with `;`
@@ -60,7 +69,7 @@ Basic principles for Maj language construction:
 
 ## Words
 
-Words are inspired from 7 different languages.
+Maj is a compilation from 7 different languages.
 
 * **More:** Spanish, Italian, 
 * **Less:** Latin, Romanian, 
@@ -69,32 +78,40 @@ Words are inspired from 7 different languages.
 **technology:**
 
 * Maj alphabet is similar to English alphabet and use standard QWERTY keyboard;
-* Numerals are unique but first letter is inspired from Romanic languages;
+* Maj alphabet has modified letters pronounced different than English;
 * All words are created manually using a translation spreadsheet;
 * Words are abbreviated as much as possible not translated one to one;
 * We preserve significant syllables from origin to create a shorter word;
 * Sometimes we add letters or coda, to improve pronunciation;
-* We dismiss letter `r` sometimes we loose other letters that are not significant;
-* When there is divergence between languages, Maj words can be original;
-
-**Read more:** 
-
-* [The use cases](case.md)
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
+* Sometimes we loose letters from long words to make it shorter;
+* Numerals are unique but first letter is inspired from Romanic languages;
+* When there is divergence between root languages, Maj words can be original;
 
 ## The basics
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
-1. There are 3 time periods for verbs: {past, present, future};
+1. There are 3 time periods: {past, present, future};
 1. There are 3 cases for pronouns: {nominative, objective, possessive};
 
-**Read more:**
+**Universe:**
 
-* [Basic grammar](basic.md)
+Language is build based on believe in 5 worlds:
 
-**Dictionary:**
+1. Insite world; 
+1. Outside world;
+1. Social world;
+1. Virtual world;
+1. Space world;
+
+**Read more:** 
+
+* [The cases](case.md)
+* [The alphabet](alphabet.md)
+* [The numerals](numerals.md)
+* [The grammar](basic.md)
+
+**Lexicon:**
 
 Language words are described in separated documents:
 
@@ -105,6 +122,9 @@ Language words are described in separated documents:
 * [Adjectives](adjectives.md)
 
 **Community:**
+
+We use Discord program to chat in English about Maj: 
+
 [discord invitation](https://discord.gg/SRX3tse)
 
 Great!

@@ -35,7 +35,7 @@ symbol | Maj
 x | maj  | xx | maj           | xx | maj     |
 --|------|----|---------------|----|---------|
 0 | nil  | 10 | un'diz+nil    |    |         |
-1 | uno  | 11 | un'diz+uno    | 10 | un'diz  |
+1 | una  | 11 | un'diz+uno    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | rea  | 13 | un'diz+rea    | 30 | re'diz  |
 4 | kat  | 14 | un'diz+kat    | 40 | ca'diz  |

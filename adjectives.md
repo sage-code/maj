@@ -18,9 +18,9 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 ## Positional adjectives
 
-* fiso = first
-* meso = median 
-* laso = last
+* foxo = first
+* moxo = median
+* loxo = last
 
 ## Level 1
 
