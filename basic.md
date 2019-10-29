@@ -11,17 +11,20 @@ Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ------|----------|------------|------------|-----------|-------------|----------
 ciao  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
-adio  |goodbye   | adiós      | au bientot | vale      | ramas bun   | ci vediamo
-vale  |farewell  | despedida  | adieu      | valeat    | adio        | addio
+adio  |farewell  | adiós      | au bientot | adios     | adio        | addio
+vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediamo
 
 **note:** Some form of salute have multiple meanings
 
-* salu = bless you  (interjection: when somebody is sneezing
 * salo = health     (adjective: referring to a person or animal)
+* salu = bless you  (interjection: when somebody is sneezing
 * muna = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
-ciao muna = hello world
+**examples:**
+
+* ciao muna = hello world
+* salo todo = health to everyone
 
 ## Words
 
@@ -437,6 +440,8 @@ Spanish | y      | Marc y Alice van a la playa
 
 **Maj:** asi = so
 
+* seru = to be
+
 ```
 asi seru'fu tu!
 ```
@@ -487,7 +492,8 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 **Maj:** ky  = because
 
 * kalo = calm
-* puke = because
+* xedu = seat
+* nito = nice
 
 ```
 zu xedu kalo ky zu es nito
