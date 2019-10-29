@@ -57,6 +57,7 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 * Letter `y`  is pronounced: `i` at beginning of words in names like: `New York`;
 * Letter `y`  is pronounced: `ə` when used in middle or end of words;
 
+
 ## Consonants
 
 Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
@@ -127,11 +128,13 @@ In some languages, we use tree-graphs to avoid digraph formation using silent le
 
 **Whistled C**
 
-Letter "C", "c" is whistled when followed by {"i","e"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ"
+Letter "C", "c" is whistled when followed by {"a","e","i","o", "u"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ". To prevent this effect you must use "k" instead of "c".
+
+* cokola  = chocolate
 
 **Fricative C**
 
-Letter "C", "c" can be pronounced "k" when followed by {'a','o','u','y'} or consonant. To pronounce this sound you must press the back of your tongue on the back roof and produce a sound like "ca". The best IPA symbol for this sound is "k".
+Letter "C", "c" can be pronounced "k" when followed by `y` or a consonant. To pronounce this sound you must press the back of your tongue on the back roof and produce a sound like "ck". The best IPA symbol for this sound is "k".
 
 **Soft Q, unmodified**
 
@@ -166,16 +169,16 @@ Letter `Y` represents 2 sounds depending on the position in the word.
 
 **Modified: K**
 
-Rarely used only to replace `c` before a vowel or to avoid duplicate `c`.
+Letter "k" is used only to replace `c` before a vowels and to avoid duplicate `c`. When followed by a consonant, other then "c" it will be replaced by "c" that is in convenient place on keyboard so is a bit easier to type. This letter is more frequent in Maj than in other languages.
 
-* avpod duplication of "c" in words like `akcidy` instead of `accidy`;
+* avoid duplication of "c" in words like `akcidy` instead of `accidy`;
 * used before vowels to prevent formation of diphthongs: {`ke`, `ki`, `ko`, `ku`, 'ky'};
 
 **Modified: W**
 
 Letter W is used at beginning of words and rarely used in the middle of the words.
 
-* is pronounced "u" at beginning of words: wisol:"uisol";
+* is pronounced "u" at beginning of words: wisol:"uisol" = "whiskey";
 * inside of words can modify "e" that will be read "i" like in new:"niu" ;
 
 **Double: ii**
@@ -286,9 +289,10 @@ x |a  |e  |i  |o  |u | y
 --|---|---|---|---|--|--
 a | · |ae |ai |ao |au| ·
 e |ea | · |ei |eo |eu|ey  
-i |ia |ie | · |io |iu|iy
+i |ia |ie |ii |io |iu|iy
 o |oa |oe |oi | · |ou| .
 u |ua |ue |ui |uo | ·|uy 
+y | . | . |yi | . |yu| .  
 
 Combination of 2 vowels is expensive in a word. Therefore the total cost receive a penalty of "1".
 
@@ -367,7 +371,7 @@ j     | x
 
 Other considerations when making words is the coda. If a word is different from another word only by coda, and this is a vowel then the words are sound alike. The sound alike words must represent the same thing. 
 
-For noun "a"/"y","e", verb "u", adjective, adverb:"o" are sound alike. Therefore words must be distinguished with another letter to represent different words if they use sound-alike coda vowel. 
+For noun "a"/"y"/"e", verb "u", adjective, adverb:"o" are sound alike. Therefore words must be distinguished with another letter to represent different words if they use sound-alike coda vowel. 
 
 For words terminated in sound alike consonants: consonant, the words must differ with another letter in the middle, otherwise they will represent the same word. This rule can have exceptions but preferable not to.
 
