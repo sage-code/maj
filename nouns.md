@@ -192,7 +192,7 @@ koxa       | bell         | campana
 lece       | milk         | Leche               
 lena       | wood         | madera               
 leta       | letter       | letra               
-lima       | light        | ligero               
+luca       | light        | ligero               
 luva       | rain         | lluvia               
 mana       | hand         | mano               
 maza       | corn         | maíz               

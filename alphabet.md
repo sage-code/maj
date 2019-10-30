@@ -27,7 +27,7 @@ Maj alphabet is enhanced to maximize number of sounds and simplify spelling as m
 
 ```
 ----------------------------------------------------
-a  b   c   d   e   f   g   h   i   j   K   l   m
+a  b   c   d   e   f   g   h   i   j   k   l   m
 a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   jɨ  ka  lɨ  mɨ
 ----------------------------------------------------
 n  o   p   q   r   s   t   u   v   x   y   w   z   
@@ -88,11 +88,19 @@ There are not enough letters for all Maj sounds. Therefre some two letters are j
 
 * sound `ts`  is `t͡s`  like `ts`  in "its";
 * sound `sh`  is `ʂ`    like `sh`  in "fashion";
-* sound `ch`  is `ʂ`    like `ch`  in "chocolate";
-* sound `ce`  is `t͡ʃ`  like `ch`  in "chase"; 
-* sound `ci`  is `t͡ʃ`  like `ch`  in "peach"; 
+* sound `ch`  is `t͡ʃ`  like `ch`  in "peach"; 
+* sound `ce`  is `t͡ʃe` like `ch`  in "chase"; 
+* sound `co`  is `t͡ʃo` like `ch`  in "chocolate";
 * sound `ge`  is `d͡ʒ`  like `ge`  in "general";
 * sound `gi`  is `d͡ʒ`  like `gi`  in "Georgia";
+* sound `qe`  is `ɢe`   like `ge`  in "get";
+* sound `qi`  is `ɢee`  like `gee` in "gees";
+
+
+
+**Notes** 
+* {`ca`,`ce`,`ci,`co`,`cu`,`cy`} are all digraphs that can be read like `ch`.
+* {`ge`,`gi`} are digraphs but {`ga`,`go`,`gu`,`gh`} are not digraphs
 
 ## Determinism
 
@@ -100,7 +108,7 @@ Maj is a deterministic language. That means if someone tell you a new word you n
 
 **notes:**
 
-To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Tgus is much shorter and deterministic.
+To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter and deterministic.
 
 ## Difficult sounds
 
@@ -110,7 +118,7 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 **Vibrate J**
 
-Letter "J", "j" is always trilled and voiced. That means your tongue will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a frontal "sh". The best symbol for this sound is "ʒ". 
+Letter "J", "j" is voiced and vibrated. That means your tongue tip will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a frontal "sh". The best symbol for this sound is "ʒ". 
 
 **Vibrate G**
 
@@ -207,15 +215,14 @@ Sometimes letter `h` is silent, some other times is voiced:
 
 * Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
 * Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
+* Letter `h` can be used after `g` before `e`,`i` like `ghe`, `ghi`.
 
-In Romanian, `h` is used to prevent digraph formation in groups "che", "chi", "ghe", "ghi", this convention can not be used in Maj since it enters in conflict with English convention for digraph "ch" which is more popular. 
+In Romanian: `h` is used to prevent digraph formation in groups "che", "chi", this convention can not be used in Maj since it enters in conflict with English convention for digraph "ch" which is more popular. 
 
-**Romanian:**
-
-* `qe` = `ghe` like: "Gheorghe"
-* `qi` = `ghi` like: "Gindă"
-* `ke` = `che` like: "cheltuială"
-* `ki` = `chi` like: "chitară"
+* `qe` = `ghe` like in "Gheorghe"
+* `qi` = `ghi` like in "Gindă"
+* `ke` = `che` like in "cheltuială"
+* `ki` = `chi` like in "chitară"
 
 **Examples:**
 

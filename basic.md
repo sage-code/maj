@@ -43,7 +43,13 @@ For word creation we have a strong rule that is very useful: A word in general s
 
 ## Pronoun
 
-Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is very regular, it has 3 persons, 3 cases, singular and plural.
+Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
+
+**Pronoun features:**
+
+* it has 3 persons
+* it has 3 cases
+* it has singular and plural
 
 **Pronouns cases:**
 
@@ -235,7 +241,7 @@ The interogative question can be answered with affirmative or negative:
 
 * ia! / iep! = yes / affirmative
 * na! / nop! = not / negative
-* hy? / hop! = unclear/ wish
+* hy? / hop! = unclear/repeat
 
 **polite**
 

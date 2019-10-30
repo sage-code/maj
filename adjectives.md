@@ -4,8 +4,6 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 * vowels - {"o", "e", "i"} never {"a" or "u"}
 * semivowels - {"l","j","y"}
-* adjectives ending in consonant can be 6 character long
-
 
 ## Fundamental adjectives
 
@@ -18,8 +16,8 @@ Adjectives are 4 or 5 character long and are ending usually with:
 
 ## Positional adjectives
 
-* foxo = first
-* moxo = median
+* faso = first
+* meso = median
 * loxo = last
 
 ## Level 1
@@ -67,7 +65,7 @@ Maj     |English   |Spanish    |    Franch  |Italian     |Latin   | Romanian
 --------|----------|-----------|------------|------------|--------|----------------
 grado   |big       |grande     |gros        |grande      |magnum  |mare
 preso   |early     |temprano   |bonne heure |presto      |mane    |din timp
-primo   |first     |primero    |première    |primo       |primis  |primul
+primo   |faso      |primero    |première    |primo       |primis  |primul
 jenio   |great     |Excelente  |génial      |grande      |magna   |Grozav
 ipero   |important |importante |important   |importante  |magna   |important
 grado   |large     |grande     |grand       |grande      |magna   |mare
@@ -109,7 +107,7 @@ fezo    |happy        |feliz
 fich    |financial    |financiero
 figo    |cold         |frío
 fino    |final        |final
-fiso    |first        |primero
+faso    |first        |primero
 foro    |strong       |fuerte
 fuxo    |easy         |fácil
 gato    |free         |gratis

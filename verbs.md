@@ -24,35 +24,37 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 **examples:**
 
-* nara de fusa = story from future
+* nara de fusa = story about the future
 * dica de pasa = talk about the past
+* 
+
 
 ## Verb transformation
 
-Basic for of Wee verb into an attribute using suffix 'uxo
+Basic for of Wee verb into an attribute using suffix 'xo
 
 **to adjective:**
 
-jocu => joc'uxo = playful
+jocu => jocu'xo = playful
 
 **So far:**
-* jo seru joc'uxo = I'm playful
-* tu seru joc'uxo = you are playful 
-* seru joc'uxo = he is playful
+* jo seru jocu'xo = I'm playful
+* tu seru jocu'xo = you are playful 
+* seru jocu'xo = he is playful
 
 **to result**
 
 jocu => joco
 
-* tu ser'ufu joco = You have been played
-* tu ser'ufu 
+* tu seru'pa joco = You have been played
+* la pala seru'pa joco = The boll was played
 
 **to noun:**
 
-Use termination 'uxa to make a noun.
+Use termination 'xa to make a noun.
 
-* jo  ser'upa uno jocu'xa = I was a player
-* noi ser'ufu ale jocu'xa = we will be all players
+* jo  seru'pa una jocu'xa = I was a player
+* noi seru'fu ale jocu'xa = we will be all players
 
 ## Top 10 verbs
 

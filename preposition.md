@@ -66,15 +66,15 @@ seza  = season
 
 ## Agent & Tools
 
-von  = by    ( from German )
-con  = with  ( from Italian )
+* von  = by    ( from German )
+* con  = with  ( from Italian )
 
 note: Symbol ":" is read "con"
 
 **examples**
 
-von Mark Twain   = by Mark Twain
-con mia due mane = with my two hand
+* von Mark Twain   = by Mark Twain
+* con mia due mane = with my two hand
 
 
 ## Locations
@@ -125,10 +125,10 @@ aus   | off      | aus    | din      | de      | apagado
          
 **Examples**         
 
-von apota = from airport
-aus trena = off the train
-tsu Paris     = to Paris
-par Luxemburg = by Luxemburg
+* von apota     = from airport
+* aus trena     = off the train
+* tsu Paris     = to Paris
+* par Luxemburg = by Luxemburg
          
 ## Relation
 

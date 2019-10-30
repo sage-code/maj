@@ -1,4 +1,4 @@
-# 1 Structures
+# 1   Structures
 **1.1 Set, group, mass**
 girzu (group)
 gunma (jointly ‘mass’)
@@ -89,9 +89,7 @@ sinso (sine)
 tanjo (tangent)
 xadba (half)
 judri (address)
-
-# 2 Information
-
+# 2   Information
 **2.1 Language**
 bangu (language)
 sinxa (sign)
@@ -215,7 +213,7 @@ mansa (satisfy)
 simlu (seem)
 smuni (meaning)
 srana (pertain ‘concerns’)
-# 3 Space
+# 3   Space
 cimde (dimension)
 canlu (space ‘volume’)
 diklo (local)
@@ -334,7 +332,7 @@ kluza (loose ‘blouse’)
 trati (taut)
 korcu (bent ‘crooked, corkscrew’)
 bargu (arch)
-**4 Time**
+**4   Time**
 cabna (now)
 balvi (future ‘later’)
 purci (past ‘earlier’)
@@ -366,7 +364,7 @@ tcika (time of day)
 cacra (hour)
 mentu (minute)
 snidu (second)
-# 5 Processes
+# 5   Processes
 pruce (process)
 fasnu (event ‘happen’)
 tcini (situation ‘state’)
@@ -453,7 +451,7 @@ panpi (peace)
 jivna (compete ‘rival’)
 bradi (enemy ‘adversary’)
 venfu (revenge ‘avenge’)
-# 6 Movement*
+# 6   Movement*
 farna (direction)
 penmi (meet)
 ## 6.1 Self-moving
@@ -689,7 +687,7 @@ zinki (zinc)
 tirse (iron)
 cnisa (lead)
 romge (chrome)
-# 8 Nature
+# 8   Nature
 **8.1 Cosmos**
 munje (universe)
 tarci (star)
@@ -735,7 +733,7 @@ kolme (coal)
 ctile (petroleum ‘oil’)
 tarla (tar)
 dertu (dirt)
-# 9 Life
+# 9   Life
 jutsi (species)
 jmive (live)
 morsi (dead ‘mort-’)
@@ -995,7 +993,7 @@ cortu (pain ‘hurt’)
 xagji (hunger)
 taske (thirst)
 tatpi (tired)
-# 10 Psychology
+# 10  Psychology
 **10.1 Emotions, Affects**
 cinmo (emotion)
 badri (sad)
@@ -1100,7 +1098,7 @@ palci (evil)
 vrude (virtue)
 certu (expert)
 cfila (flaw)
-# 11 Socium
+# 11  Socium
 jikca (socialize ‘social’)
 sivni (private)
 **11.1 Family**
@@ -1188,7 +1186,7 @@ briju (office ‘bureau’)
 binra (insure)
 gusta (restaurant)
 barja (bar)
-# 12 Human Culture
+# 12  Human Culture
 **12.1 Nations, Cultures**
 kulnu (culture)
 natmi (nation)
@@ -1285,7 +1283,7 @@ jgita (guitar ‘guitar’)
 pipno (piano)
 tabra (trumpet ‘brass’)
 xagri (reed)
-# 13 Technology
+# 13  Technology
 **13.1 Technological processes**
 fenso (sew)
 jivbu (weave)
