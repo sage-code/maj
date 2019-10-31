@@ -160,7 +160,7 @@ piku  | like              | gustar            | aimer
 pizu  | begin, start      | comenzar, empezar | commencer
 pobu  | try               | intentar          | essayer
 podu  | produce           | producir          | produire
-ponu  | put               | poner             | mettre
+pusu  | put               | poner             | mettre
 poru  | carry             | portar            | porter
 posu  | has               | tiene             | possède
 razu  | getup/raise       | levantar          | soulever
