@@ -195,14 +195,14 @@ tomu  | take              | tomar             | prendre
 toru  | treat             | tratar            | traiter
 tudu  | study             | estudiar          | étudier
 vadu  | go, goes          | ir                | aller
-varu  | wait              | esperar           | attendre à
 venu  | come              | venir             | venir
 vivu  | live              | en vivo           | vivre
 vocu  | call              | llamar            | appel 
 vohu  | wish              | deseo             | souhait
 volu  | will              | será              | volonté
 veru  | see               | ver               | regarder
-xedu  | stay, sit         | quedar            | rester
+xepu  | wait              | esperar           | attendre à
+xasu  | stay, sit         | quedar            | rester
 xozu  | pick              | recoger           | choisir
 
 

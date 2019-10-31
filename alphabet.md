@@ -28,10 +28,10 @@ Maj alphabet is enhanced to maximize number of sounds and simplify spelling as m
 ```
 ----------------------------------------------------
 a  b   c   d   e   f   g   h   i   j   k   l   m
-a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   jɨ  ka  lɨ  mɨ
+a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  mɨ
 ----------------------------------------------------
 n  o   p   q   r   s   t   u   v   x   y   w   z   
-nɨ o   pɨ  kiu rɨ  sɨ  tɨ  u   vɨ  ʂ   ə   iu  zɨ  
+nɨ o   pɨ  ku  rɨ  sɨ  tɨ  u   vɨ  ʂ   ə   iu  zɨ  
 ----------------------------------------------------
 ```
 
@@ -54,9 +54,7 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 * Letter `i`  is close front, like first `i` in `initial`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
-* Letter `y`  is pronounced: `i` at beginning of words in names like: `New York`;
-* Letter `y`  is pronounced: `ə` when used in middle or end of words;
-
+* Leter  `y`  is polymorph it can be read `i`, `ɨ` or `ə`;
 
 ## Consonants
 
@@ -75,40 +73,30 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 * Letter  `l`  is liquid, alveolar, like `l` in "lord"
 * Letter  `n`  is alveolar, nasal, like `n` in "novel"
 * Letter  `v`  is vibrated, similar to `v` in "voice";
-* Letter  `j`  is vibrated, similar to sound `si` in "fusion";
-* Letter  `z`  is vibrated, similar to `z` in "zoo";
+* Letter  `j`  is palatal vibrated, similar to sound `j` in "jell", "jet";
+* Letter  `z`  is dental, vibrated, similar to `z` in "zoo";
 * Letter  `r`  is trilled, similar to sound `r` in "rocket"
 * Letter  `s`  is fricative alveolar like `s` in "snake";
-* Letter  `w`  is voiced labial-velar like `w in "whiskey".
+* Letter  `w`  is voiced labial-velar like `w in "whiskey";
+* Letter  `g`  is pronounced `ɢ` like `g` in "gees", "get", "guitar"
 * Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
 
 ## Digraphs
 
 There are not enough letters for all Maj sounds. Therefre some two letters are join together in a new sound that is different than both letters. Usuallt the combination of these two letters can not be pronounced in any other way but if it does there is another method to avoid digraph formation.
 
-* sound `ts`  is `t͡s`  like `ts`  in "its";
-* sound `sh`  is `ʂ`    like `sh`  in "fashion";
-* sound `ch`  is `t͡ʃ`  like `ch`  in "peach"; 
-* sound `ce`  is `t͡ʃe` like `ch`  in "chase"; 
-* sound `co`  is `t͡ʃo` like `ch`  in "chocolate";
-* sound `ge`  is `d͡ʒ`  like `ge`  in "general";
-* sound `gi`  is `d͡ʒ`  like `gi`  in "Georgia";
-* sound `qe`  is `ɢe`   like `ge`  in "get";
-* sound `qi`  is `ɢee`  like `gee` in "gees";
-
-
+* group `ts` sounds `t͡s` like in "its";
+* group `ch` sounds `t͡ʃ` like `ch`  in "peach"; 
+* group `sh` sounds `ʂ` or `ʃ`  like in "fashion";
 
 **Notes** 
-* {`ca`,`ce`,`ci,`co`,`cu`,`cy`} are all digraphs that can be read like `ch`.
-* {`ge`,`gi`} are digraphs but {`ga`,`go`,`gu`,`gh`} are not digraphs
 
-## Determinism
+1. Digraphs {`ca`,`ce`,`ci,`co`,`cu`} are all read like `ch` follow by the vowel. Therefore `ch` is used only at the end of the words. When `ch` is used ate beginning of words is read `ʂ` like English digraph `sh`:
 
-Maj is a deterministic language. That means if someone tell you a new word you never heard before, you will be able to write it correctly without knowing its original spelling. Determinism is bidirectional, you can read a word without knowing its correct pronunciation. 
+* "chocly"  is read "t͡ʃoclə" and it means "chocolate"
+* "Chicago" that is read "ʂicaɢo".
 
-**notes:**
-
-To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter and deterministic.
+2. To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter than English form.
 
 ## Difficult sounds
 
@@ -118,69 +106,64 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 **Vibrate J**
 
-Letter "J", "j" is voiced and vibrated. That means your tongue tip will vibrate. To pronounce this sound you must press the tip of your tongue in the roof top and produce a frontal "sh". The best symbol for this sound is "ʒ". 
+Letter J is like English "j" not like Spanish "j".
 
-**Vibrate G**
+1. Letter "J", "j" is labial vibrated. It is also known as _soft G_. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
 
-Letter "G", "g" can be vibrated when follow by {"i","e"}. To pronounce this sound you must press the middle of your tongue on the front roof and produce a voiced "dge" or "dgi". The best IPA symbol for this sound is "d͡ʒ" also known as "Soft G".
+
+* "jela" = "jell" is pronounced "d͡ʒela"
+* "jaza" = "jaz"  is pronounced "d͡ʒaza"
+
+2. Letter {`j`} is pronounced `ʒ` at end of words. Therefore `ʒ` is called _polimorphic letter_. J can never be followed by a consonant. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated.
+
+* "lej"  = "far" is pronounced "leʒ" (distance)
+* "RAJ"  = "Raj" is pronounced "raʒ" (person)
 
 **Plosive G**
 
-Letter "G", "g" is plosive when followed by {"a","o","u","y"} or consonant. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
-
-## Modified Letters
-
-In some languages, we use tree-graphs to avoid digraph formation using silent letters {"u" or "h"}. Trigraphs will make the writing less efficient and difficult to read. To avoid this inconvenient Maj is using modified letters:
-
-{C, W, Q, K, X, Y}
+Letter "G", "g" is plosive. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
 
 **Whistled C**
 
 Letter "C", "c" is whistled when followed by {"a","e","i","o", "u"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ". To prevent this effect you must use "k" instead of "c".
 
-* cokola  = chocolate
+**Posive C**
 
-**Fricative C**
+Letter "C", "c" is pronounced "k" when followed by a consonant. To pronounce this sound you must press the back of your tongue on the back roof and produce a sound like "ck". The best IPA symbol for this sound is "k".
 
-Letter "C", "c" can be pronounced "k" when followed by `y` or a consonant. To pronounce this sound you must press the back of your tongue on the back roof and produce a sound like "ck". The best IPA symbol for this sound is "k".
+**Latin Q**
 
-**Soft Q, unmodified**
+Letter "Q", "q" is Latin, must be followed by vowel `u`. To make this sound you must press the back of your tongue on the back roof and produce a sound like "ku". The best IPA symbol for this sound is "q".
 
-Letter "Q", "q" is classic Latin, must be followed by vowel `u`. To make this sound you must press the back of your tongue on the back roof and produce a sound like "kiu". The best IPA symbol for this sound is "q".
-
-* aqua is going to be pronounced: "akua" and not "agua"
-* aqui is going to be pronounced: "aki"  and not "acui"
-
-**Hard Q, modified**
-
-In Maj the letter "Q", "q" is pronounced "ɢ" when is follow by vowels {`e`, `i`}. To make this sound you must press the back of your tongue on the back roof of the mouth and produce a sound like "gue" or "gui". The best IPA symbol for these sounds are "ɢe", "ɢi".
+* qua is going to be pronounced: "ka"
+* qui is going to be pronounced: "ki"
 
 
 **Whistled: X**
 
 Letter `X` is pronounced like: `sh` in `sheep`. To avoid `ş` pronunciation letter `x` is replaced by `cs`.  To make this sound you must press the middle of your tongue on the roof top of the mouth and produce a sort whispered `s`. To make this sound correctly your tongue is more relaxed than for `s`. The best IPA symbols for this sound is "ʃ" but also similar "ʂ":
 
-Note: X is not 100% deterministic for names. Therefore some names can be mispronounced:
-
 * Xue is pronounced "şue" and represent a Chinese name; 
-* Luxembourg is pronounced "Lucsemburg" and represents name of a state/town;
+* Luxembourg is pronounced "Luşemburg" and represents name of a state/town;
 
 If you don't know, Luxembourg has became an independent state in 1867.
 
 **Modified: Y**
 
-Letter `Y` represents 2 sounds depending on the position in the word.
+Letter `Y` represents 3 sounds depending on the position in the word.
 
-* `y` at the beginning of words is pronounced "i" like in New York, Yes, Yacht;
-* `y` can be pronounced `ə` = `ă` like `io` in "fashion";   
-* `y` at end of nouns is converted to `e` to make plural noun;
+1. Sliding: `y` at the beginning of words is "i" sliding to next vowel like: York, Yes, Yacht;  
+2. Covered "a" can be used at end of words `ə` = `ă` like "ar" in "shugar";
+3. Covered "i" can be be pronounced `ɨ` = `â` like "eo" in "pidgeon";
+   
+Note: For nouns, terminal coda `y` is converted to `e` to make plurals;
 
 **Modified: K**
 
-Letter "k" is used only to replace `c` before a vowels and to avoid duplicate `c`. When followed by a consonant, other then "c" it will be replaced by "c" that is in convenient place on keyboard so is a bit easier to type. This letter is more frequent in Maj than in other languages.
+Letter "k" is used to replace `c` before a vowels to prevent formation of whistled digraph "ch". When followed by a consonant, other then "c" it will be replaced by "c". K is more frequent in Maj than in other languages.
 
-* avoid duplication of "c" in words like `akcidy` instead of `accidy`;
-* used before vowels to prevent formation of diphthongs: {`ke`, `ki`, `ko`, `ku`, 'ky'};
+* `akcidy` = accident;
+* `kesa`   = ceez;
 
 **Modified: W**
 
@@ -189,58 +172,43 @@ Letter W is used at beginning of words and rarely used in the middle of the word
 * is pronounced "u" at beginning of words: wisol:"uisol" = "whiskey";
 * inside of words can modify "e" that will be read "i" like in new:"niu" ;
 
-**Double: ii**
+**Soft: n**
 
-Double "ii" sound like `eo` in "pigeon". The best IPA symbol for this sound is "ɨ".  To prevent digraph "ci" you write "kii" instead of "cii". Notice "ii" is similar to sound "y" but they are not exactly the same.
-
-* kon una miina = one hand
-* kon due miine = two hands
-
-**Digraph: nn**
-
-Double "nn" represent sound like "ñ" in Spanish "niños". The best IPA symbol for this sound is "ɲ".  
+Middle word consonant "n" is soften when used before a vowel, like sound "ñ" in Spanish "niños". The best IPA symbol for this sound is "ɲ". To make this sound you use the middle of your tongues instead of front of your tongue. Normal N is used ate beginning and end of words or in combination with other consonants like groups { "nt", "nv", 'nb" etc...}
 
 * kanna:"caɲa" = dog
 * kanne:"caɲe" = dogs
 
 ## Silent `h`
 
-Sometimes letter `h` is silent, some other times is voiced:
+Avert consonants, letter `h` is silent:
 
 * Letter `h` is always voiced at beginning of words;
 * Letter `h` is voiced when is following or preceding a vowel;
-* Letter `h` is not voiced when is following after a consonant;
+* Letter `h` is not voiced when is following a consonant;
 
 **Notes** 
 
 * Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
 * Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
-* Letter `h` can be used after `g` before `e`,`i` like `ghe`, `ghi`.
 
-In Romanian: `h` is used to prevent digraph formation in groups "che", "chi", this convention can not be used in Maj since it enters in conflict with English convention for digraph "ch" which is more popular. 
-
-* `qe` = `ghe` like in "Gheorghe"
-* `qi` = `ghi` like in "Gindă"
-* `ke` = `che` like in "cheltuială"
-* `ki` = `chi` like in "chitară"
-
-**Examples:**
+## English phonetic
 
 We could write English words usnign Maj like this:
 
 * its       :"its"
 * she       :"xi"
 * generator :"generetyr"
-* pigeon    :"pigyn"
-* giraffe   :"giraf"
+* pigeon    :"pijyn"
+* giraffe   :"jiraf"
 * fusion    :"fujyn"
-* guitar    :"qitar"
+* guitar    :"gitar"
 * gees      :"gis"
 * cheese    :"ciz"
 * accident  :"aksidy" 
-* chocolate :"cioclyt"
-* peach     :"pici"
-* speech    :"spici"
+* chocolate :"coclyt"
+* peach     :"pich"
+* speech    :"spich"
 * initial   :"inixyl"
 * fashion   :"faxyn"
 * yacht     :"iot"
@@ -258,7 +226,7 @@ Not all consonants are equal. Maj is dividing consonants in 5 categories:
 
 **combinations**
 
-* a single letter is never duplicated in maj,
+* a single letter is never duplicated in Maj,
 * combinations that can not be pronounced are not used
 
 **Examples**
@@ -279,7 +247,7 @@ sc sf sl sm sn sp sr st sv
 vr zb zd zg zm zn zv
 ``` 
 
-Combination of 2 consonants is expensive in a word. Therefore the total cost receive a penalty of "2".
+Combination of 2 consonants is expensive. Therefore the total cost receive a penalty of "2".
 
 ## Two vowels
 
@@ -311,10 +279,10 @@ A combination of vowels and consonants are called syllable.
 
 To describe the structure of a syllable we use following convention:
 
-* In parenthesis (), I have put the optionals,
-* I have used: V = Vowel, C = Constant, D = Diphtong,
+* In parenthesis () optionals,
+* V = Vowel, C = Constant, D = Diphtong,
 * Alternatives are separated with vertical bar: "\|",
-* I use + to suggest concatenation of two parts,
+* We use + to suggest concatenation of two parts,
 
 ```python
 
@@ -329,30 +297,29 @@ coda     ::=  C | CC
 
 A syllable can ...:
 
-* be a single vowel at beginning of words
-* start with one consonant otherwise
-* have a nucleus formed by one or two vowels 
-* have a coda formed with one or two consonants
-* not all syllables have coda
+* be a single vowel at beginning of words;
+* start with one consonant otherwise;
+* have a nucleus formed by one or two vowels;
+* have a coda formed with one or two consonants;
+* not all syllables have coda;
 
 A syllable can not ...;
 
-* contain `h` after a consonant,
 * contain more then 2 consonants,
-* contain more then 3 letters.
+* contain more then 4 letters.
  
 ## Word formation
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
-2. Diphtongs, starting with semi-vowels can be used at beginning of words: { y w }
-3. Syllable that have "coda" present are used only for end of words
-4. Two words that have more then one syllable must sound different
+2. Diphtongs, starting with semi-vowels can NOT be used at beginning of words: { y w }
+3. Syllable that have "coda" present are used only for end of words;
+4. Two words that have more then one syllable must sound different;
 
-**weight:**
+**Weight:**
 
-Letters and sounds are more or less expensive to make. This can be used to give a Cost for word complexity. So less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are more rarely used.
+Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to give a _cost_ for word complexity. Less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are rarely used.
 
-Cost   |Sounds
+Weight   |Sounds
 -------|----------------------------------------
   1    |a, e, i, o, u, y
   2    |l, m, n, f, s, h
@@ -360,7 +327,7 @@ Cost   |Sounds
   4    |v, j, r, z, k, x
   5    |q, w
 
-**cost:**  
+**Cost:**  
 
 Words with higher cost will be analyzed to reduce cost. The lower the cost, the better the language is. We can generalize this algorithm for other languages, to compare language complexity. So far after a quick computation of 500 samples Maj is about 50% more efficient than other Romance languages.
 

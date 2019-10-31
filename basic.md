@@ -67,6 +67,8 @@ Is the person or the thing who perform the action.
   2  | tu = you        | voi  = y'all
   3  | zu = he, she, it| zoi  = they (masculine) 
 
+Note: "jo" is pronounced "d͡ʒo" like in English name "Joe" and not "je" like in Franch but close.
+
 **Objective**
 
 Is the person or the thing who receive the action.
@@ -77,6 +79,8 @@ Is the person or the thing who receive the action.
  2  | tu = you        | voy = y'all
  3  | zu = him, her   | zoy = them 
  
+Note: "y" is pronounced "ə" for example: "noə" not "noi". And this is the only difference.
+ 
 **Possessive**
 
 Is a composite word for a person or object who own something or have something.
@@ -85,9 +89,11 @@ verb: haru = to have
 
 singular       | plural
 ---------------|--------------------------------
-mia = mine     | nue = ours
-tua = your     | vue = yours
-zua = his, hers| zue = theirs
+mia = mine     | nwe = ours
+tua = your     | vwe = yours
+zua = his, hers| zwe = theirs
+
+Note: "w" sound like "u" but is much shorter and sliding.
 
 **notes:**
 
