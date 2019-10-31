@@ -106,22 +106,23 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 **Vibrate J**
 
-Letter J is like English "j" not like Spanish "j".
+Letter J is like English "j" not like Spanish "j". It is also known as "Soft: G"
 
-1. Letter "J", "j" is labial vibrated. It is also known as _soft G_. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
+1. Letter "J", "j" is labial vibrated before a vowel. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top of your mouth and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
 
 
 * "jela" = "jell" is pronounced "d͡ʒela"
 * "jaza" = "jaz"  is pronounced "d͡ʒaza"
 
-2. Letter {`j`} is pronounced `ʒ` at end of words. Therefore `ʒ` is called _polimorphic letter_. J can never be followed by a consonant. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated.
+2. Letter `j` is pronounced `ʒ` at end of words and before consonant. Therefore `ʒ` is called _polimorphic letter_. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated.
 
 * "lej"  = "far" is pronounced "leʒ" (distance)
-* "RAJ"  = "Raj" is pronounced "raʒ" (person)
+* "RAJ"  = "Raj" is pronounced "raʒ" (person name)
+* "Maj"  = "Maj" is pronounced "maʒ" (language name)
 
 **Plosive G**
 
-Letter "G", "g" is plosive. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
+Letter "G", "g" is plosive uvular. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
 
 **Whistled C**
 
