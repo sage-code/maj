@@ -257,7 +257,6 @@ nue  |our     |nuestra
 obe  |above   |encima
 obe  |up      |hasta
 ody  |or      |o
-oia  |yes     |si
 omi  |every   |cada
 oru  |any     |alguna
 oto  |else    |más

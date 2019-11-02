@@ -125,7 +125,7 @@ itso    |international|internacional
 jolo    |pretty       |bon
 jono    |young        |joven
 kalo    |warm         |calentar
-karo    |clear        |claro
+laro    |clear        |claro
 komo    |common       |común
 kulo    |cultural     |cultural
 lego    |legal        |legal

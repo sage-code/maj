@@ -186,7 +186,7 @@ kapa       | coat         | Saco
 kasa       | house        | casa               
 kata       | song         | canción               
 kola       | school       | colegio               
-kona       | hill         | colina               
+hugy       | hill         | colina               
 kosa       | thing        | cosa               
 koxa       | bell         | campana               
 lece       | milk         | Leche               
