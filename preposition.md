@@ -67,14 +67,14 @@ seza  = season
 ## Agent & Tools
 
 * von  = by    ( from German )
-* con  = with  ( from Italian )
+* kon  = with  ( from Italian )
 
 note: Symbol ":" is read "con"
 
 **examples**
 
 * von Mark Twain   = by Mark Twain
-* con mia due mane = with my two hand
+* kon mia due mane = with my two hand
 
 
 ## Locations
@@ -271,10 +271,10 @@ pos  |behind  |detrás
 pro  |for     |para
 pue  |after   |después
 puke |because |porque
-qua  |which   |cual
-que  |what    |qué
-qui  |who     |quien
-quo  |how     |cómo
+ke   |what    |qué
+ki   |who     |quien
+ko   |how     |cómo
+ku   |which   |cual
 rog  |please  |Por favor
 sif  |if      |Si
 som  |some    |algunos

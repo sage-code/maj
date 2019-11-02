@@ -94,7 +94,7 @@ There are not enough letters for all Maj sounds. Therefre some two letters are j
 1. Digraphs {`ca`,`ce`,`ci,`co`,`cu`} are all read like `ch` follow by the vowel. Therefore `ch` is used only at the end of the words. When `ch` is used ate beginning of words is read `ʂ` like English digraph `sh`:
 
 * "chocly"  is read "t͡ʃoclə" and it means "chocolate"
-* "Chicago" that is read "ʂicaɢo".
+* "Chicago" that is read "ʂicago".
 
 2. To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter than English form.
 
@@ -106,9 +106,9 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 **Vibrate J**
 
-Letter J is like English "j" not like Spanish "j". It is also known as "Soft: G"
+Letter J is almost like English "j" not like Spanish "j" that is read "h". "J" is also known as "Soft: G"
 
-1. Letter "J", "j" is labial vibrated before a vowel. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top of your mouth and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
+1. Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top of your mouth and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
 
 
 * "jela" = "jell" is pronounced "d͡ʒela"
@@ -133,9 +133,7 @@ Letter "C", "c" is pronounced "k" when followed by a consonant. To pronounce thi
 
 **Latin Q**
 
-Latin Q must be followed by silent vowel `u`. To make this sound you must press the back of your tongue on the back roof and produce a sound like "k". The best IPA symbol for this sound is "ku".
-
-Leter Q will reduce the role of letter "k" to replace "c" in group: "cu" and prevent formation of whistled sound "ch". For example questions are created with "qu" not "ku".
+Latin Q must be followed by vowel `u` that is silent in most words. To make this sound you must press the back of your tongue on the back roof and produce a sound like "k". The best IPA symbol for this sound is "ku".
 
 * que is going to be pronounced: "ke"
 * qui is going to be pronounced: "ki"
@@ -178,7 +176,7 @@ Letter W is used at beginning of words and rarely used in the middle of the word
 Middle word consonant "n" is soften when used before a vowel, like sound "ñ" in Spanish "niños". The best IPA symbol for this sound is "ɲ". To make this sound you use the middle of your tongues instead of front of your tongue. Normal N is used ate beginning and end of words or in combination with other consonants like groups { "nt", "nv", 'nb" etc...}
 
 * kanna:"caɲa" = dog
-* kanne:"caɲe" = dogs
+* kanne:"cyɲe" = dogs
 
 ## Silent `h`
 
@@ -193,20 +191,22 @@ Avert consonants, letter `h` is silent:
 * Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
 * Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
 
+This convention is used only in names and foreign words that must be inclused in "...". 
+
 ## English phonetic
 
 We could write English words usnign Maj like this:
 
 * its       :"its"
 * she       :"xi"
-* generator :"generetyr"
+* generator :"jeneretyr"
 * pigeon    :"pijyn"
 * giraffe   :"jiraf"
 * fusion    :"fujyn"
 * guitar    :"gitar"
-* gees      :"gis"
+* geese     :"gis"
 * cheese    :"ciz"
-* accident  :"aksidy" 
+* accident  :"acsidy" 
 * chocolate :"coclyt"
 * peach     :"pich"
 * speech    :"spich"
@@ -227,8 +227,8 @@ Not all consonants are equal. Maj is dividing consonants in 5 categories:
 
 **combinations**
 
-* a single letter is never duplicated in Maj,
-* combinations that can not be pronounced are not used
+* a single letter is never duplicated like "cc" in Maj,
+* combinations that can not be pronounced are not used in words,
 
 **Examples**
 
@@ -310,7 +310,7 @@ A syllable can not ...;
 ## Word formation
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
-2. Syllable that have "coda" present are used only for end of words;
+2. Syllable that have "coda" are used only for end of words;
 3. Two words that have more then one syllable must sound different;
 
 **Patterns:**
@@ -324,13 +324,13 @@ A syllable can not ...;
 
 Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to give a _cost_ for word complexity. Less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are rarely used.
 
-Weight   |Sounds
+Weight |Sounds
 -------|----------------------------------------
   1    |a, e, i, o, u, y
   2    |l, m, n, f, s, h
   3    |b, c, d, p, t, g  
-  4    |v, j, r, z, k, x
-  5    |q, w
+  4    |v, j, r, z, q, x
+  5    |k, w
 
 **Cost:**  
 
@@ -344,9 +344,6 @@ light | heavy
 ------|----------
 b     | v
 l     | r
-a     | y
-e     | i
-j     | x
 
 Other considerations when making words is the coda. If a word is different from another word only by coda, and this is a vowel then the words are sound alike. The sound alike words must represent the same thing. 
 
