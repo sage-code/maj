@@ -199,7 +199,7 @@ maj         | english  | spanish | 1:1 translation
 ------------|----------|---------|---------------
 de ke tesa? | when?    | cuando  | about what time?
 de ke loca? | where?   | donde   | about what location?
-po ke reza? | why?     | por qué | for what reazon?
+po ke reza? | why?     | por qué | for what reason?
 
 **Notice:**
 

@@ -158,8 +158,8 @@ ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
 der     |there               |ahi              | dort
-lej     |far from            |lejos            | weit
-nah     |near, close by      |cerca            | in der nähe
+far     |far from            |lejos            | weit
+nir     |near, close by      |cerca            | in der nähe
 noh     |yet                 |todavía          | noch 
 
 

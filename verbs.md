@@ -42,7 +42,7 @@ jocu => jocu'xo = playful
 * tu seru jocu'xo = you are playful 
 * seru jocu'xo = he is playful
 
-**to result**
+**verb effect:**
 
 jocu => joco
 

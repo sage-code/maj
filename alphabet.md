@@ -31,7 +31,7 @@ a  b   c   d   e   f   g   h   i   j   k   l   m
 a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  mɨ
 ----------------------------------------------------
 n  o   p   q   r   s   t   u   v   x   y   w   z   
-nɨ o   pɨ  ku  rɨ  sɨ  tɨ  u   vɨ  ʂ   ə   iu  zɨ  
+nɨ o   pɨ  kiu rɨ  sɨ  tɨ  u   vɨ  ʂ   ə   iu  zɨ  
 ----------------------------------------------------
 ```
 
@@ -116,7 +116,6 @@ Letter J is like English "j" not like Spanish "j". It is also known as "Soft: G"
 
 2. Letter `j` is pronounced `ʒ` at end of words and before consonant. Therefore `ʒ` is called _polimorphic letter_. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated.
 
-* "lej"  = "far" is pronounced "leʒ" (distance)
 * "RAJ"  = "Raj" is pronounced "raʒ" (person name)
 * "Maj"  = "Maj" is pronounced "maʒ" (language name)
 
@@ -134,11 +133,12 @@ Letter "C", "c" is pronounced "k" when followed by a consonant. To pronounce thi
 
 **Latin Q**
 
-Letter "Q", "q" is Latin, must be followed by vowel `u`. To make this sound you must press the back of your tongue on the back roof and produce a sound like "ku". The best IPA symbol for this sound is "q".
+Latin Q must be followed by silent vowel `u`. To make this sound you must press the back of your tongue on the back roof and produce a sound like "k". The best IPA symbol for this sound is "ku".
 
-* qua is going to be pronounced: "ka"
+Leter Q will reduce the role of letter "k" to replace "c" in group: "cu" and prevent formation of whistled sound "ch". For example questions are created with "qu" not "ku".
+
+* que is going to be pronounced: "ke"
 * qui is going to be pronounced: "ki"
-
 
 **Whistled: X**
 
@@ -153,15 +153,15 @@ If you don't know, Luxembourg has became an independent state in 1867.
 
 Letter `Y` represents 3 sounds depending on the position in the word.
 
-1. Sliding: `y` at the beginning of words is "i" sliding to next vowel like: York, Yes, Yacht;  
-2. Covered "a" can be used at end of words `ə` = `ă` like "ar" in "shugar";
-3. Covered "i" can be be pronounced `ɨ` = `â` like "eo" in "pidgeon";
+1. Sliding: "y" = `i` at the beginning of words like: York, Yes, Yacht;  
+2. Covered: "i" = `ɨ` in the middle of words like "eo" in "pidgeon";
+3. Covered: "a" = `ə` is used at end of words  like "ar" in "shugar";
    
-Note: For nouns, terminal coda `y` is converted to `e` to make plurals;
+Note: For nouns, terminal coda `y` is converted to `e` to make plural;
 
 **Modified: K**
 
-Letter "k" is used to replace `c` before a vowels to prevent formation of whistled digraph "ch". When followed by a consonant, other then "c" it will be replaced by "c". K is more frequent in Maj than in other languages.
+Letter "k" is used eliminate double `c` and help for creation of digraphs {"ca","ce","ci","co","cu"}. K is more frequent in Maj than in other languages but it's power is reduced by "q".
 
 * `akcidy` = accident;
 * `kesa`   = ceez;
@@ -235,15 +235,15 @@ Not all consonants are equal. Maj is dividing consonants in 5 categories:
 After a short analysis, these CC combinations are usable:
 
 ```
-br bs 
-cl cm cn cr cs ct cv cz 
+br bs bj
+cl cm cn cr cs ct cv cz cx
 dl dj dm dr dv gr tl tm tr 
-pl pr ps pt  
-mf mn mp ms mz
-nb nc nd nf ng nh nj nl nm nq ns nt nv nz
-lb lc ld lf lg lj lm ln lp lq ls lt lv lz
-rb rc rd rf rg rh rl rm rn rq rp rs rt rz
 fl fr ft fj
+lb lc ld lf lg lj lm ln lp lq ls lt lv lz
+nb nc nd nf ng nh nj nl nm nq ns nt nv nz
+mf mn mp ms mz mx
+pl pr ps pt px 
+rb rc rd rf rg rh rl rm rn rq rp rs rt rz rx
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
 ``` 
@@ -281,24 +281,22 @@ A combination of vowels and consonants are called syllable.
 To describe the structure of a syllable we use following convention:
 
 * In parenthesis () optionals,
-* V = Vowel, C = Constant, D = Diphtong,
+* V = Vowel, C = Constant
 * Alternatives are separated with vertical bar: "\|",
 * We use + to suggest concatenation of two parts,
 
-```python
-
-# syllable structure
-rime     ::= initial + nucleus +(coda)
-initial  ::=  C 
-nucleus  ::=  V | VV | CV
-coda     ::=  C | CC
+```
+rime     =  initial + nucleus +(coda)
+initial  =  V | C 
+nucleus  =  V | VV | CV
+coda     =  C | CC
 ```
 
 **Description:**
 
 A syllable can ...:
 
-* be a single vowel at beginning of words;
+* be a single vowel at beginning of word;
 * start with one consonant otherwise;
 * have a nucleus formed by one or two vowels;
 * have a coda formed with one or two consonants;
@@ -307,14 +305,20 @@ A syllable can ...:
 A syllable can not ...;
 
 * contain more then 2 consonants,
-* contain more then 4 letters.
+* contain more then 3 letters.
  
 ## Word formation
 
 1. Open vowels can be used as syllable at beginning of words: { a e i o u }
-2. Diphtongs, starting with semi-vowels can NOT be used at beginning of words: { y w }
-3. Syllable that have "coda" present are used only for end of words;
-4. Two words that have more then one syllable must sound different;
+2. Syllable that have "coda" present are used only for end of words;
+3. Two words that have more then one syllable must sound different;
+
+**Patterns:**
+
+* Two letter words {`CV`, `VV`, `VC`, ~`CC`~}
+* Three letter words {`VCV`, `VVC`, `VCC`, `CVV`, `CVC`}
+* Four letter words starting with vowel: {`~VCVC~`, `VVCV`,`VCCV`,`VCVV`}
+* Four letter words starting with consonant: {`CVCV`,`CCVV`,~`CVCC`~,~`CVVC`~}
 
 **Weight:**
 
