@@ -6,11 +6,9 @@ Maj is a Crystal clear _constructed language_ for _chat_:
 
 1. Accesible;
 2. Efficient;
-3. Logical;
-4. Minimalist;
-5. Articulated;
-6. Deterministic;
-7. Entertaining;
+3. Minimalist;
+4. Articulated;
+5. Deterministic;
 
 **Goals ...**
 
