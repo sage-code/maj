@@ -175,8 +175,8 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* tu vidu'fu me suv!   = you will see me often!
-* tu vidu'se me foa!   = you can see me sometime!
+* tu vidu'fu mi suv!   = you will see me often!
+* tu vidu'se mi foa!   = you can see me sometime!
 * jo vidu'pa voi nuc!  = I have never seen y'all!
 * jo vidu'se voi aku!  = I see y'all now!
 
@@ -503,9 +503,9 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 
 **Maj:** ky  = because
 
-* kalo = calm
-* xedu = seat
-* nito = nice
+* kalmo = to be calm
+* xedu  = to seat
+* nito  = to be nice
 
 ```
 zu xedu kalo ky zu es nito
