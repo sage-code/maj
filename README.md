@@ -37,12 +37,11 @@ Maj is ...
 Basic principles for Maj construction:
 
 1. for writing system we use ISO Latin alphabet;
-1. for pronunciation we use an extended alphabet;
+1. letters in words are oriented from right to left;
+1. words are separated by space like all Romance languages;
 1. one letter do not represent anything else but itself;
 1. most letters represent a single sound (1:1);
 1. two letters can be combined to create a new sound (2:1);
-1. most frequent words are shorter than less frequent words;
-1. most words including numerals are ending with vowel;
 1. word order in proposition is semantical significant;
 
 
