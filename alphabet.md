@@ -31,7 +31,7 @@ a  b   c   d   e   f   g   h   i   j   k   l   m
 a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  mɨ
 ----------------------------------------------------
 n  o   p   q   r   s   t   u   v   x   y   w   z   
-nɨ o   pɨ  kiu rɨ  sɨ  tɨ  u   vɨ  ʂ   ə   iu  zɨ  
+nɨ o   pɨ  ku  rɨ  sɨ  tɨ  u   vɨ  ʂɨ  ə   iu  zɨ  
 ----------------------------------------------------
 ```
 
@@ -83,18 +83,24 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 ## Digraphs
 
-There are not enough letters for all Maj sounds. Therefre some two letters are join together in a new sound that is different than both letters. Usuallt the combination of these two letters can not be pronounced in any other way but if it does there is another method to avoid digraph formation.
+Two letters are join together in a new sound that is different than both letters. Maj digraphs are deterministic. That means the combination of these two letters can not be pronounced in any other way. 
 
 * group `ts` sounds `t͡s` like in "its";
-* group `ch` sounds `t͡ʃ` like `ch`  in "peach"; 
-* group `sh` sounds `ʂ` or `ʃ`  like in "fashion";
+* group `ch` sounds `t͡ʃ` like in "peach"; 
+* group `sh` sounds `ʂ`   like in "fashion";
 
-**Notes** 
+**notes:** 
 
-1. Digraphs {`ca`,`ce`,`ci,`co`,`cu`} are all read like `ch` follow by the vowel. Therefore `ch` is used only at the end of the words. When `ch` is used ate beginning of words is read `ʂ` like English digraph `sh`:
+* Digraph `ch` can be used only at the end of words. 
+* When `ch` is used ate beginning of words is read `ʂ`.
 
-* "chocly"  is read "t͡ʃoclə" and it means "chocolate"
-* "Chicago" that is read "ʂicago".
+**c digraphs**
+
+Groups: {`ca`,`ce`,`ci,`co`,`cu`} are all digraphs similar to `ch`. 
+
+* "Chicago" that is read "ʂicago" and not "t͡ʃicago";
+* "cocly"  is read "t͡ʃoclə" and it means "chocolate";
+* "coch"   is read "cot͡ʃ" and it means "coach"
 
 2. To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter than English form.
 
@@ -170,13 +176,6 @@ Letter W is used at beginning of words and rarely used in the middle of the word
 
 * is pronounced "u" at beginning of words: wisol:"uisol" = "whiskey";
 * inside of words can modify "e" that will be read "i" like in new:"niu" ;
-
-**Soft: n**
-
-Middle word consonant "n" is soften when used before a vowel, like sound "ñ" in Spanish "niños". The best IPA symbol for this sound is "ɲ". To make this sound you use the middle of your tongues instead of front of your tongue. Normal N is used ate beginning and end of words or in combination with other consonants like groups { "nt", "nv", 'nb" etc...}
-
-* kanna:"caɲa" = dog
-* kanne:"cyɲe" = dogs
 
 ## Silent `h`
 

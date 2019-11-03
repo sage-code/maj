@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a _constructed language_ for _chat_:
+Maj is a Crystal clear _constructed language_ for _chat_:
 
 **Attributes:**
 
@@ -14,11 +14,11 @@ Maj is a _constructed language_ for _chat_:
 
 **Goals ...**
 
-1. Maj is for entertaining;
-2. Maj is for writing fast;
-3. Maj is for talking fast;
-4. Maj is for making notes;
-5. Maj is for making friends;
+1. Maj is for study;
+2. Maj is for games;
+3. Maj is for friends;
+4. Maj is for science;
+5. Maj is for peace;
 
 **Disclaimer ...**
 

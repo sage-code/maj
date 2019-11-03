@@ -165,9 +165,9 @@ foa   = times (French fois)
 
 lio  = place (French lieu)
 
-* fi'lio  = first  place
-* me'lio  = second place
-* lo'lio  = last   place
+* firo lio  = first  place
+* medo lio  = second place
+* loxo lio  = last   place
 
 ## Proposition
 

@@ -1,9 +1,10 @@
 ## Nouns
 
-Nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. 
+Nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. When a noun is ending with `e` it represents plural. 
 
-* Most nouns are ending with `a` that can change into `e`. When a noun is ending with `e` it represents plural.  
-* Most nouns have 2 syllables. More rare nouns can have 1 or 3 syllable but never 4 syllable.
+* Most nouns have 2 syllables. More rare nouns can have syllable;
+* Most nouns are ending with `a` that can change into `e`;
+* Some nouns are ending with `y` that can also change into `e`;
 
 **examples:**
 
@@ -18,6 +19,7 @@ Nouns are words representing objects, persons or places.  Nouns have a root form
 
 There are nouns terminated with `ch` that can change to `ce` for plural.
 
+* coch   = coach
 * wach   = watch
 * wace   = watches
 
@@ -28,10 +30,11 @@ For distinguish between male and female beings we use adjectives:
 * maso  = male    (latin: masculum)
 * fimo  = female  (latin: feminam)
 
-```
-maso Cana = dog male
-fimo Cana = dog female
-```
+**gender sufix**
+
+* maso Cana = Cana'ma dog male
+* fimo Cana = Cana'fi dog female
+
 
 Animal nouns and person nouns start with uppercase.
 
