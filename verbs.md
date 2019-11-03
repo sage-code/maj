@@ -26,7 +26,7 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 
 * nara de fusa = story about the future
 * dica de pasa = talk about the past
-* 
+
 
 
 ## Verb transformation
@@ -55,6 +55,15 @@ Use termination 'xa to make a noun.
 
 * jo  seru'pa una jocu'xa = I was a player
 * noi seru'fu ale jocu'xa = we will be all players
+
+## Reflexive form
+
+When you refer to some action performed by somebody on himself.
+
+kamu  =>  to become calm
+
+* kamu'se 
+* 
 
 ## Top 10 verbs
 

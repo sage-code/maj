@@ -73,11 +73,11 @@ Note: "jo" is pronounced "d͡ʒo" like in English name "Joe" and not "je" like i
 
 Is the person or the thing who receive the action.
 
- ps | singular        | plural
+ ps | singular        | plural     
 ----|-----------------|-----------------------------
- 1  | mi = me         | noy = us
- 2  | tu = you        | voy = y'all
- 3  | zu = him, her   | zoy = them 
+ 1  | mi = me         | noy = us   
+ 2  | ti = you        | voy = y'all
+ 3  | zi = him, her   | zoy = them 
  
 Note: "y" is pronounced "ə" for example: "noə" not "noi". And this is the only difference.
  
@@ -108,7 +108,7 @@ Note: "w" sound like "u" but is much shorter and sliding.
 To make reflexive we use coda "sy" = "self"
 
 * mi'sy = myself;
-* tu'sy = yourself; 
+* ti'sy = yourself; 
 * zu'sy = himself/ itself/ themselves; 
 * no'sy = ourselves; 
 * vo'sy = yourselves; 
@@ -176,9 +176,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* tu vidu'se mi foa!   = you can see me sometime!
+* jo vidu'se ti foa!   = I can see you sometime!
 * jo vidu'pa voi nuc!  = I have never seen y'all!
-* jo vidu'se voi aku!  = I see y'all now!
+* jo podo vidu'se zoi aku!  = I can see them now!
 
 Read more about: [verbs](verbs.md)
 
@@ -503,12 +503,12 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 
 **Maj:** ky  = because
 
-* kalmo = to be calm
+* kamo  = to be calm
 * xedu  = to seat
 * nito  = to be nice
 
 ```
-zu xedu kalo ky zu es nito
+zu xedu kalmo ky zu es nito
 ```
 
 Lang    | Word    |  Example
