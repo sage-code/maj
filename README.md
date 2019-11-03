@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a Crystal clear _constructed language_ for _chat_:
+Maj is a crystal clear _constructed language_ for _chat_:
 
 **Attributes:**
 
@@ -17,6 +17,8 @@ Maj is a Crystal clear _constructed language_ for _chat_:
 3. Maj is for friends;
 4. Maj is for science;
 5. Maj is for peace;
+
+Rad more: [use cases](case.md)
 
 **Disclaimer ...**
 
@@ -106,7 +108,6 @@ Language is build based on believe in 5 worlds:
 
 **Read more:** 
 
-* [The cases](case.md)
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
 * [The grammar](basic.md)
@@ -123,7 +124,7 @@ Language words are described in separated documents:
 
 **Community:**
 
-We use Discord program to chat in English about Maj: 
+We use Discord apps to chat in English about Maj: 
 
 [discord invitation](https://discord.gg/SRX3tse)
 

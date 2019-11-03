@@ -18,12 +18,12 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 
 * salo = health     (adjective: referring to a person or animal)
 * salu = bless you  (interjection: when somebody is sneezing
-* muna = world      (from latin: mundo)
+* muda = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
 **examples:**
 
-* ciao muna = hello world
+* ciao muda = hello world
 * salo todo = health to everyone
 
 ## Words
@@ -155,7 +155,7 @@ foa   = times (French fois)
 * du'foa = twice
 * re'foa = three times
 
-**using full words
+**using full words**
 
 * firo lio = first place
 * medo lio = median/second place
@@ -165,9 +165,9 @@ foa   = times (French fois)
 
 lio  = place (French lieu)
 
-* firo lio  = first  place
-* medo lio  = second place
-* loxo lio  = last   place
+* fi'lio  = first  place
+* me'lio  = second place
+* lo'lio  = last   place
 
 ## Proposition
 

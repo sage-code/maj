@@ -1,5 +1,7 @@
 # Use case
 
+Maj is a Romance language derived from Latin.
+
 **notes:** 
 
 in this document I use Maj capitalization:
