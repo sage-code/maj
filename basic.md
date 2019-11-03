@@ -11,12 +11,12 @@ Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ------|----------|------------|------------|-----------|-------------|----------
 ciao  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
-adio  |farewell  | adiós      | au bientot | adios     | adio        | addio
+adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio
 vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediamo
 
 **note:** Some form of salute have multiple meanings
 
-* salo = health     (adjective: referring to a person or animal)
+* salo = healthy    (adjective: referring to a person or animal)
 * salu = bless you  (interjection: when somebody is sneezing
 * muda = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
