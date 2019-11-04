@@ -1,6 +1,6 @@
 # Verbs & conjugation
 
-The verbs have a root of 4 - 5 character long and is terminated with `u`.
+The verbs have a root of 3 - 5 character long and is terminated with `u`.
 
 **rules:**
 
@@ -14,26 +14,26 @@ The verbs have a root of 4 - 5 character long and is terminated with `u`.
 * Composite words are using "'" to link two words close together,
 * Composite words are pronounced as a single word.
 
+**Tune suffix:**
 
-**related nouns:**
+Noun: tesa  = time
 
-* tesa  = time
-* fusa  = future
-* sesa  = present  
-* pasa  = past
+Suffix  | Maj       | English
+--------|-----------|----------------------------
+ro      | rosa      | present 
+fu      | fura      | future
+pa      | pasa      | past
 
 **examples:**
 
-* nara de fusa = story about the future
+* nara de fura = story about the future
 * dica de pasa = talk about the past
-
-
 
 ## Verb transformation
 
-Basic for of Wee verb into an attribute using suffix 'xo
+Basic for of Wee verb into an adjective using suffix:
 
-**to adjective:**
+**xo = ul**
 
 jocu => jocu'xo = playful
 
@@ -42,12 +42,14 @@ jocu => jocu'xo = playful
 * tu seru jocu'xo = you are playful 
 * seru jocu'xo = he is playful
 
-**verb effect:**
+Once a verb apply to something or somebody it become affected by the verb.
 
-jocu => joco
+**to = ed**
 
-* tu seru'pa joco = You have been played
-* la pala seru'pa joco = The boll was played
+jocu => jocu'to 
+
+* tu seru'pa jocu'to      = You have been played
+* la pala seru'pa jocu'to = The boll was played
 
 **to noun:**
 
@@ -60,10 +62,21 @@ Use termination 'xa to make a noun.
 
 When you refer to some action performed by somebody on himself.
 
-kamu  =>  to become calm
+kamu  =>  calm 
+hodu  =>  rest
+domu  =>  sleep
 
-* kamu'se 
-* 
+** using reflexive pronoun **
+
+* hai no'sy hodu  = let's get rest ourselves
+* hai vo'sy hodu  = please rest yourselves
+* hai ti'sy kamu  = please calm yourself 
+
+** using reflexive prefix**
+
+* noi dovu ke hodu'sy = we have to get rest ourselves
+* voi dovu ke kamu'sy = y'all have to calm yourselves
+* zoi dovu ke domu'sy = they must go to sleep themselves
 
 ## Top 10 verbs
 

@@ -17,13 +17,13 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 **note:** Some form of salute have multiple meanings
 
 * salo = healthy    (adjective: referring to a person or animal)
-* salu = bless you  (interjection: when somebody is sneezing
-* muda = world      (from latin: mundo)
+* salu = bless you  (verb: when somebody is sneezing
+* lume = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
 **examples:**
 
-* ciao muda = hello world
+* ciao lume = hello world
 * salo todo = health to everyone
 
 ## Words
@@ -31,7 +31,7 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 A word can have a specialized role in a sentence. 
 
 * Nouns are finalized with {"a","e"} or any consonant;
-* Verbs are finalized with "u" and suffix, "se", "fu", "pa";
+* Verbs are finalized with "u" and suffix, "ro", "fu", "pa";
 * Adjectives are finalized with "o", "y", or any consonant;
 * Adverbs like adjectives are finalized with vowel "o", "y" or consonant;
 * Pronouns are monosyllabic, 2 or 3 letter long;
@@ -113,32 +113,49 @@ To make reflexive we use coda "sy" = "self"
 * no'sy = ourselves; 
 * vo'sy = yourselves; 
 
+**Interjection**
 
-## Time of Verbs
+This is an abrupt remark, made especially as an aside helper, interruption or exclamation.
+
+hai = let's 
+
+
+* hai ke boscu zu = let's search him
+* dovu boscu zu = we have to search him
+
+## Verbs
+
+Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
+
+* oiru = hear 
+* divu = become
+* socu = happen
 
 There are 4 time suffixes in Maj:
 
 tesa = time
 
-Suffix  | Maj     | English
---------|---------|----------------------------
-se      | sesa    | present 
-fu      | fusa    | future
-pa      | pasa    | past
+Suffix  | Maj       | English
+--------|-----------|----------------------------
+ro      | rosa      | present 
+fu      | fura      | future
+pa      | pasa      | past
 
 **undefined time**
 
 verb: jocu = to play
 
-* jo jocu    = I play
-* tu jocu    = you play
-* zi jocu    = he  play
+* jo jocu  = I play
+* tu jocu  = you play
+* zi jocu  = he  play
 
 **time suffix**
 
-* zi jocu'se = he is playing
+* zi jocu'ro = he is playing
 * zi jocu'fu = he will play
 * zi jocu'pa = he has plaid
+
+Read more about: [verbs](verbs.md)
 
 ## Using adverb
 
@@ -157,9 +174,9 @@ foa   = times (French fois)
 
 **using full words**
 
-* firo lio = first place
-* medo lio = median/second place
-* loxo lio = last place
+* fizo lio = first place
+* mezo lio = median/second place
+* lozo lio = last place
 
 **using contraction**
 
@@ -176,11 +193,10 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* jo vidu'se ti foa!   = I can see you sometime!
+* jo vidu'ro ti foa!   = I can see you sometime!
 * jo vidu'pa voi nuc!  = I have never seen y'all!
-* jo podo vidu'se zoi aku!  = I can see them now!
+* jo podo vidu'ro zoi aku!  = I can see them now!
 
-Read more about: [verbs](verbs.md)
 
 ## Interrogative
 
@@ -380,19 +396,21 @@ Invariant noun is terminated in "s" or other consonant:
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
-* non  = not - create antonyms
-* pro  = for - specify purpose
+* non  = not  - create antonyms
+* pro  = for  - specify purpose
+* ati  = anti - against / opposite 
 
 **examples:**
 
 * pro-bebo aqua = drinking water
 * non-bebo aqua = industrial water
 * non-bolo beba = non alcoholic drink
+* ati-gera mova = anti war movement
 
 
 ## Special coda
 
-Some nouns are terminated with 'osa or 'ola to indicate harmful content:
+Some nouns are terminated with "osa" or "ola" vowel to indicate harmful content:
 
 **normal** 
 

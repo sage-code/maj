@@ -39,8 +39,8 @@ tesa = the time
 foa  = repetition/ number of times
 
 **using time**
-* fo'tesa  = first  time
-* mo'tesa  = second time
+* un'tesa  = first  time
+* du'tesa  = second time
 * lo'tesa  = last   time
 
 **using repetition**

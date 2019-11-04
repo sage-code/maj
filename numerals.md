@@ -84,7 +84,7 @@ Franch:  lieu,  ordre, position
  100 =  un'cen
  200 =  du'cen
  300 =  re'cen
- 400 =  ca'cen
+ 400 =  ka'cen
  500 =  pi'cen
  600 =  ze'cen
  700 =  xe'cen
@@ -109,7 +109,7 @@ Franch:  lieu,  ordre, position
  1,000 = un'mil
  2,000 = du'mil
  3,000 = re'mil
- 4,000 = ca'mil
+ 4,000 = ka'mil
  5,000 = pi'mil
  6,000 = ze'mil
  7,000 = xe'mil
@@ -158,7 +158,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea due uno und razu aus !!! 
+* ... rea due uno nil und razu aus !!! 
 
 Great!
 
