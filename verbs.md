@@ -14,56 +14,62 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 * Composite words are using "'" to link two words close together,
 * Composite words are pronounced as a single word.
 
-**Tune suffix:**
+
+**related nouns:**
 
 Noun: tesa  = time
 
-Suffix  | Maj       | English
---------|-----------|----------------------------
-go      | gona      | present  (go now)
-fu      | futa      | future    
-pa      | pasa      | past
-
-**examples:**
-
 * nara de futa = story about the future
-* nova de gona = news about the present
+* nova de sota = news about the present
 * dica de pasa = talk about the past
+
+
+**suffix:**
+
+ Suffix  | Coda | English
+---------|------|----------------------------
+ fu      | u    | future    
+ so      | o    | present
+ pa      | a    | past
+
+* jocu'fu = jocu = future play
+* jocu'so = joco = present play
+* jocu'pa = joca = past play
 
 
 ## Verb transformation
 
 Basic for of Wee verb into an adjective using suffix:
 
-**to = ed**
+**ra = ed**
 
-Use termination 'to to make an adverb
+Use termination 'ra to make an adverb
 
-jocu => jocu'to 
+jocu => jocu'ra 
 
-* tu haru'pa habu'to de me  = You have spoken about me
-* tu seru'go jocu'to de zu  = You are played by him
+* tu haba de me  = You have spoken about me
+* tu sero jocu'ra de zu  = You are played by him
 
-* la pala seru'pa jocu'to = The boll was played
+* la pala sera jocu'ra = The boll was played
 
 
-**xo = ul**
+**lo = ul**
 
-Use termination 'xa to make an adjective
+Use termination 'lo to make an adjective
 
-jocu => jocu'xo = playful
+jocu => jocu'lo = playful
 
-* jo seru jocu'xo = I'm playful
-* tu seru jocu'xo = you are playful 
-* zu seru jocu'xo = he is playful
+* jo seru jocu'lo = I'm playful
+* tu seru jocu'lo = you are playful 
+* zu seru jocu'lo = he is playful
 
-**to noun:**
+**ra = er**
 
-Use termination 'na to make a noun.
+Use termination 'ra to make a noun.
 
-* jo  seru'pa una jocu'na = I was a player
-* noi seru'fu ale jocu'na = we will be all players
-* eso seru'go una movu'na por paca = un movement for peace
+* jo  seru'pa una jocu'ra = I was a player
+* noi seru'fu ale jocu'ra = we will be all players
+* eso seru'so una movu'ra por paca = un movement for peace
 
 
 ## Reflexive form

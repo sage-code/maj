@@ -37,13 +37,13 @@ x | maj  | xx | maj           | xx | maj     |
 0 | nil  | 10 | un'diz+nil    |    |         |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
-3 | rea  | 13 | un'diz+rea    | 30 | re'diz  |
+3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
 4 | kat  | 14 | un'diz+kat    | 40 | ca'diz  |
 5 | pif  | 15 | un'diz+pif    | 50 | pi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
-9 | nef  | 19 | un'diz+nef    | 90 | ne'diz  | 
+9 | nav  | 19 | un'diz+nav    | 90 | na'diz  | 
            
 ## Ordinals
          
@@ -158,8 +158,8 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea due uno nil eto razu aus !!! 
+* ... ria due uno nil eto razu aus !!! 
 
-Great!
+Griat!
 
 Read next: [basic](basic.md)

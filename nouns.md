@@ -1,10 +1,10 @@
 ## Nouns
 
-Nouns are words representing objects, persons or places.  Nouns have a root form that is invariant and a coda that can change. When a noun is ending with `e` it represents plural. 
+Nouns are words representing objects, persons or places.  
 
-* Most nouns have 2 syllables. More rare nouns can have syllable;
+* Most nouns have 2 syllables, quite rare 3 syllables;
 * Most nouns are ending with `a` that can change into `e`;
-* Some nouns are ending with `y` that can also change into `e`;
+* Nouns ending with other letter can not have plural;
 
 **examples:**
 
@@ -14,12 +14,14 @@ Nouns are words representing objects, persons or places.  Nouns have a root form
 * bane   = bananas
 * aqua   = water
 * huga   = juice  
+* koko   = coconut
 
 **exceptions:**
 
 There are nouns terminated with `ch` that can change to `ce` for plural.
 
 * coch   = coach
+* coce   = coaches
 * wach   = watch
 * wace   = watches
 
@@ -32,15 +34,15 @@ For distinguish between male and female beings we use adjectives:
 
 **gender sufix**
 
-* maso Cana = Cana'ma dog male
-* fimo Cana = Cana'fi dog female
+* maso Cana = dog male
+* fimo Cana = dog female
 
 
 Animal nouns and person nouns start with uppercase.
 
-* Cane = dogs
-* Gate = cats
-* Nine = girls
+* Cana = dog
+* Gata = cat
+* Nina = girl
 
 ## Proper nouns
 
@@ -70,13 +72,13 @@ Sometimes we use suffix to create a composite word for representing nouns:
 **beverage**
 ```
 ber'ola  = bear
-xoc'ola  = sweet chocolate with alcohol
+xok'ola  = sweet chocolate with alcohol
 ```
 
 **sweets**
 ```
 gas'osa  = sweet drink
-xoc'osa  = sweet chocolate
+xok'osa  = sweet chocolate
 ```
 
 ## Diminutives

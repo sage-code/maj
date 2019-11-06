@@ -35,20 +35,19 @@ English preposition can be considered in this categories: { time, place, directi
 
 You can use adjective to refer the number of occurrences for events or actions:
 
-tesa = the time 
+tesa = the time
 foa  = repetition/ number of times
 
 **using time**
 * un'tesa  = first  time
 * du'tesa  = second time
-* lo'tesa  = last   time
+* ni'tesa  = last   time
 
 **using repetition**
-* ni'foa = never
 * un'foa = once / one single time
 * du'foa = two times
 ....
-
+* ni'foa = never
 
 **Related nouns**
 

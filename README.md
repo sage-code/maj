@@ -75,14 +75,16 @@ Maj is a compilation from 7 different languages.
 
 * Maj alphabet is similar to English alphabet and use standard QWERTY keyboard;
 * Maj alphabet has modified letters pronounced different than English;
+* Maj alphabet is deterministic and precise. One distinct sound for each letter;
 * All words are created manually using a translation spreadsheet;
 * Words are abbreviated as much as possible not translated one to one;
-* We preserve significant syllables from origin to create a shorter word;
+* When there is divergence between root languages, Maj words can be original;
+* We preserve significant syllables from origins to create a short word;
 * Sometimes we add letters or coda, to improve pronunciation;
 * Sometimes we cut out letters from long words to make it shorter;
-* Numerals are unique but first letter is inspired from Romanic languages;
-* When there is divergence between root languages, Maj words can be original;
+* Maj numerals are original but first letter is inspired from Romanic languages;
 * Most words including numerals are starting with consonant and end with vowel;
+* In Maj words, each letter is pronounced. Only letter "h" can be voiceless;
 
 ## The basics
 
@@ -95,11 +97,11 @@ Maj is a compilation from 7 different languages.
 
 Language is build based on believe in 5 worlds:
 
-1. Insite world; 
+1. Insite  world; 
 1. Outside world;
-1. Social world;
+1. Public  world; 
 1. Virtual world;
-1. Space world;
+1. Univers world;
 
 **Read more:** 
 

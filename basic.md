@@ -89,9 +89,9 @@ verb: haru = to have
 
 singular       | plural
 ---------------|--------------------------------
-mia = mine     | nwe = ours
-tua = your     | vwe = yours
-zua = his, hers| zwe = theirs
+mia = mine     | nue = ours
+tia = your     | vue = yours
+zia = his, hers| zue = theirs
 
 Note: "w" sound like "u" but is much shorter and sliding.
 
@@ -137,9 +137,9 @@ tesa = time
 
 Suffix  | Maj       | English
 --------|-----------|----------------------------
-ro      | vora      | present 
+so      | jona      | present (go now)
 fu      | futa      | future
-pa      | pasa      | past
+pa      | posa      | past
 
 **undefined time**
 
@@ -151,7 +151,7 @@ verb: jocu = to play
 
 **time suffix**
 
-* zi jocu'ro = he is playing
+* zi jocu'so = he is playing
 * zi jocu'fu = he will play
 * zi jocu'pa = he has plaid
 
@@ -174,17 +174,19 @@ foa   = times (French fois)
 
 **using full words**
 
-* fizo lio = first place
-* mezo lio = median/second place
-* lozo lio = last place
-
-**using contraction**
-
 lio  = place (French lieu)
 
-* fi'lio  = first  place
-* me'lio  = second place
-* lo'lio  = last   place
+* un'zo lio = first place
+* du'zo lio = median/second place
+* re'zo lio = third place
+* ni'zo lio = last place
+
+**using numerals**
+
+* un'lio  = first  place
+* du'lio  = second place
+* re'lio  = third   place
+* ni'lio  = last place
 
 ## Proposition
 
@@ -193,9 +195,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* jo vidu'ro ti foa!   = I can see you sometime!
+* jo vidu'go ti foa!   = I can see you sometime!
 * jo vidu'pa voi nuc!  = I have never seen y'all!
-* jo podo vidu'ro zoi aku!  = I can see them now!
+* jo podo vidu'go zoi aku!  = I can see them now!
 
 
 ## Interrogative
@@ -228,13 +230,13 @@ Next examples show how to use interrogative prepositions:
 
 * ke magu'fu ?  = what are you going to eat ?
 * ki seru'pa ?  = who whas there?
-* ko seru'se ?  = how are you ?   
+* ko seru'go ?  = how are you ?   
 
 Asking about location can be explicit using que:
 
-* de ke loca te andu're? = where are you going?
-* de ke loca te venu're? = where are you coming from?
-* de ke loca te seru're? = where are you from?
+* de ke loca te andu'go? = where are you going?
+* de ke loca te venu'go? = where are you coming from?
+* de ke loca te seru'go? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
@@ -249,9 +251,9 @@ You can use `von ubi`, or `tsu ubi` instead of `loca`.
 
 Possible answers:
 
-* von hir tsu dor! = from here to there!
-* von loca que te picu!  = from a place you like!
-* von tesa que ne ovi'upa!  = from a forgotten time!
+* von hir tsu ibi! = from here to there!
+* von loca ke tu picu!  = from a place you like!
+* von tesa ke lo oviu!  = from a forgotten time!
 
 verb: oveu = to forget
 
@@ -261,15 +263,14 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* ia! / iep! = yes / affirmative
-* na! / nop! = not / negative
-* hy? / hop! = unclear/repeat
+* ia! / oga ! = ye/  yes
+* ba! / uka ! = no/  not
 
 **polite**
 
-* aja! = right
-* uka! = wrong
-* oga! = okey
+* cero = indeed
+* juso = right
+* fawo = wrong
 
 **logical**
 
@@ -283,11 +284,6 @@ For stronger assurance answer you can specify the logical values:
 * bono! = good, tasteful
 * malo! = bad, repulsive
 
-**official**
-
-* juso = justified
-* cero = indeed
-
 **composite**
 
 * non-juso = incorrect, not justified
@@ -298,15 +294,13 @@ For stronger assurance answer you can specify the logical values:
 
 Noun is a word terminated with coda:
 
-* coda "y" = indefinite
-* coda "a" = singular
+* coda "a" = generic singular
 * coda "e" = plural
 
 A noun represents person, place, object, or idea. 
 
 **examples:**
 
-* pany  = bread
 * pana  = bread
 * pane  = breads
 
@@ -405,7 +399,7 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 * por-bebo aqua = drinking water
 * non-bebo aqua = industrial water
 * non-bolo beba = non alcoholic drink
-* ati-gera mova = anti war movement
+* ati-gera mova = anti war move
 
 
 ## Special coda
