@@ -17,25 +17,33 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 
 **related nouns:**
 
+Article: de = about
+Article: la = the
+
+* nara de la futa = story about the future
+* nova de la sota = news about the present
+* dica de la pasa = talk about the past
+
+Using: von = from
+
+* nova von la Europa  = news from the Europe
+* nara von la Veta    = news from the west world
+
+**time suffix:**
+
 Noun: tesa  = time
 
-* nara de futa = story about the future
-* nova de sota = news about the present
-* dica de pasa = talk about the past
+ Suffix  | English
+---------|----------------------------
+ fu      | future    
+ so      | present
+ pa      | past
 
+Using suffix:
 
-**suffix:**
-
- Suffix  | Coda | English
----------|------|----------------------------
- fu      | u    | future    
- so      | o    | present
- pa      | a    | past
-
-* jocu'fu = jocu = future play
-* jocu'so = joco = present play
-* jocu'pa = joca = past play
-
+* jocu'fu = future play
+* jocu'so = present play
+* jocu'pa = past play
 
 ## Verb transformation
 
@@ -47,8 +55,8 @@ Use termination 'ra to make an adverb
 
 jocu => jocu'ra 
 
-* tu haba de me  = You have spoken about me
-* tu sero jocu'ra de zu  = You are played by him
+* tu habu'so de me  = You have spoken about me
+* tu seru'oa jocu'ra de zu  = You are played by him
 
 * la pala sera jocu'ra = The boll was played
 
@@ -63,13 +71,15 @@ jocu => jocu'lo = playful
 * tu seru jocu'lo = you are playful 
 * zu seru jocu'lo = he is playful
 
-**ra = er**
+**go = er**
 
-Use termination 'ra to make a noun.
+gora = group
 
-* jo  seru'pa una jocu'ra = I was a player
-* noi seru'fu ale jocu'ra = we will be all players
-* eso seru'so una movu'ra por paca = un movement for peace
+Use termination 'go to make a noun.
+
+* jo  seru'pa una jocu'go = I was a player
+* noi seru'fu ale jocu'go = we will be all players
+* eso seru'so una movu'go por paca = un movement for peace
 
 
 ## Reflexive form

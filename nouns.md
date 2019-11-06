@@ -65,39 +65,49 @@ Sometimes we use suffix to create a composite word for representing nouns:
 
 **harmful content**
 
-* for beverage containing alcohol, we use suffix 'ola 
-* there is food prepared with alcohol we also use 'ola 
-* for food that contains a lot of sugar we use 'osa,  
+* for beverage containing alcohol, we use suffix ...'la 
+* there is food prepared with alcohol we also use ...'la 
+* for food that contains a lot of sugar we use ...'sa,  
 
 **beverage**
 ```
-ber'ola  = bear
-xok'ola  = sweet chocolate with alcohol
+beru'la  = bear
+xoku'la  = sweet chocolate with alcohol
 ```
 
 **sweets**
 ```
-gas'osa  = sweet drink
-xok'osa  = sweet chocolate
+gazo'sa  = sweet drink
+xoko'sa  = sweet chocolate
 ```
 
 ## Diminutives
 
-Maj enable diminutives using suffix: 'uca. 
+Maj enable diminutives using suffix: 'ni. 
 
+nito     = bonito, nice
+ni'pesa  = nobody, no person
 
 **close persons**
-* Mam'uca  = mommy
-* Tat'uca  = daddy
+* la Mama'ni  = the mommy
+* la Papa'ni  = the daddy
 
 **close pets**
-* maso can'uca  = dogy male
-* fimo gat'uca  = kity female
+* maso cana'ni  = dogy male
+* fimo gata'ni  = kity female
 
+**note:** Proper nouns (names of places or persons) do not support diminutives.
 
-**notes**
-* Whe a noun is uses suffix, it looses a vowel from last syllable that is replaced by apostrophe,
-* Proper nouns (names of places or persons) do not support diminutives.
+## Group words
+
+For groups and categories we use suffix 'go
+
+gopa = group
+
+* pole'go = plants
+* fuje'go = fruits
+* veje'go = vegetables
+* viva'go = leaving, "life"
 
 ## First nouns
 

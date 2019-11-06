@@ -1,8 +1,17 @@
 # Use case
 
-Maj is a Romance language derived from Latin.
+**facts:**
 
-**notes:** 
+Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500.
+Existing spoken languages add new words and become more complex.
+
+**about Maj:** 
+
+* Maj is a Romance language derived from Latin;
+* Maj is using Latin alphabet and same script handwriting as English;
+* Maj in contrast to English is a deterministic language;
+
+**capital letters**
 
 in this document I use Maj capitalization:
 
@@ -63,6 +72,7 @@ in other languages, some writers are using abbreviations. in Maj all the words a
 * Maj suffix is using quote `'` to connect with the root word;
 * Maj avoid synonyms and is using a single meaning for each word;
 * Maj frequent words are short and less frequent words are longer;
+* Maj words can differ from one to other by a single letter;
 
 # but why
 

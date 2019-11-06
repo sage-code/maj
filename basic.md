@@ -391,12 +391,12 @@ Invariant noun is terminated in "s" or other consonant:
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
 * non  = not  - create antonyms
-* por  = for  - specify purpose
+* tum  = for  - specify purpose
 * ati  = anti - against / opposite 
 
 **examples:**
 
-* por-bebo aqua = drinking water
+* tum-bebo aqua = drinking water
 * non-bebo aqua = industrial water
 * non-bolo beba = non alcoholic drink
 * ati-gera mova = anti war move

@@ -266,9 +266,9 @@ par  |through |por
 par  |through |mediante
 per  |across  |a través de
 pisu |own     |propio
-pos  |behind  |detrás
 por  |for     |para
 pue  |after   |después
+pos  |behind  |detrás
 ky   |because |porque
 ke   |what    |qué
 ki   |who     |quien
