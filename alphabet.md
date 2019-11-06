@@ -4,14 +4,14 @@ Maj is using: [ISO Basic Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic
 
 **uppercase**
 ```
-A   B   C   D   E   F   G   H   I   J   K   L   M
-N   O   P   Q   R   S   T   U   V   X   Y   W   Z   
+A   B   C   D   E   F   G   H   I   J   K   L   Q 
+M   N   O   P   R   S   T   U   V   X   Y   Z   W 
 ```
 
 **lowercase**
 ```
-a   b   c   d   e   f   g   h   i   j   k   l   m
-n   o   p   q   r   s   t   u   v   x   y   w   z  
+a   b   c   d   e   f   g   h   i   j   k   l  q 
+m   n   o   p   r   s   t   u   v   x   y   z  w 
 ```
 
 **Notes**
@@ -26,13 +26,13 @@ Maj alphabet is enhanced to maximize number of sounds and simplify spelling as m
 * You add a short `ɨ` after each consonant like `eo` in "pidgeon";
 
 ```
-----------------------------------------------------
-a  b   c   d   e   f   g   h   i   j   k   l   m
-a  bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  mɨ
-----------------------------------------------------
-n  o   p   q   r   s   t   u   v   x   y   w   z   
-nɨ o   pɨ  ku  rɨ  sɨ  tɨ  u   vɨ  ʂɨ  ə   iu  zɨ  
-----------------------------------------------------
+---------------------------------------------------
+a   b   c   d   e   f   g   h   i   j   k   l   q
+a   bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  ku
+---------------------------------------------------
+m   n   o   p   r   s   t   u   v   x   y   z   w
+mɨ  nɨ  o   pɨ  rɨ  sɨ  tɨ  u   vɨ  ʂɨ  ə   zɨ  iu
+---------------------------------------------------
 ```
 
 ## Phonetic alphabet
@@ -62,7 +62,6 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 * Letter  `c`  is plosive palatal like "c" in "culture"
 * Letter  `k`  is plosive velar like "k" in "kitten"
-* Letter  `q`  is plosive uvular like "q" in "quality"
 * Letter  `h`  is fricative, glottal like "h" in "hoard"
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss"
 * Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin"
@@ -81,6 +80,13 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 * Letter  `g`  is pronounced `ɢ` like `g` in "gees", "get", "guitar"
 * Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
 
+## Rare letters
+
+Two letters that are frequent in English but not used in Maj:
+
+* Q is not used in regular words and is replaced by K most of the time
+* W is not used and replaced by diphthongs: (ua, ue, ui, uo, uy)
+
 ## Digraphs
 
 Two letters are join together in a new sound that is different than both letters. Maj digraphs are deterministic. That means the combination of these two letters can not be pronounced in any other way. 
@@ -91,18 +97,19 @@ Two letters are join together in a new sound that is different than both letters
 
 **notes:** 
 
-* Digraph `ch` can be used only at the end of words. 
-* When `ch` is used ate beginning of words is read `ʂ`.
+* Digraph `ch` is read `t͡ʃ` at the end of words; 
+* Digraph `ch` is read ``ʂ`  when is used at beginning of words;
+* Digraph `ch` can not be used in the middle of a word.
 
-**c digraphs**
+**c digraph**
 
 Groups: {`ca`,`ce`,`ci,`co`,`cu`} are all digraphs similar to `ch`. 
 
 * "Chicago" that is read "ʂicago" and not "t͡ʃicago";
-* "cocly"  is read "t͡ʃoclə" and it means "chocolate";
-* "coch"   is read "cot͡ʃ" and it means "coach"
+* "coca"    is read "t͡ʃocə" and it means "chocolate";
+* "coch"    is read "cot͡ʃ"  and it means "coach"
 
-2. To avoid digraph formation Maj uses modified letters: {"x", "y", "q"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Moja form of writing is much shorter than English form.
+2. To avoid digraph formation Maj uses modified letters: {"x", "y", "k"} but not all digraphs can be avoided. For example Maj uses "y" to avoid digraph "io" then: "fashion" = "faxyn". Maj form of writing is much shorter than English.
 
 ## Difficult sounds
 
@@ -112,15 +119,17 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 **Vibrate J**
 
-Letter J is almost like English "j" not like Spanish "j" that is read "h". "J" is also known as "Soft: G"
+* Letter J in English "j" is "d͡ʒ";
+* Letter J in Spanish is read like "h";
+* Letter J in Maj is a "Soft: G" read like "ʒ"
 
-1. Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip will vibrate softly. To pronounce this sound you must press the middle of your tongue in the roof top of your mouth and produce a vibrated "ce" similar to "ge" from "pigeon". The best symbol for this sound is "d͡ʒ". 
+Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is "ʒ". 
 
 
-* "jela" = "jell" is pronounced "d͡ʒela"
-* "jaza" = "jaz"  is pronounced "d͡ʒaza"
+* "jela" = "jell" is pronounced "ʒela"
+* "jaza" = "jaz"  is pronounced "ʒaza"
 
-2. Letter `j` is pronounced `ʒ` at end of words and before consonant. Therefore `ʒ` is called _polimorphic letter_. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated.
+Letter J can be present anywhere in a word, even at the end of words:
 
 * "RAJ"  = "Raj" is pronounced "raʒ" (person name)
 * "Maj"  = "Maj" is pronounced "maʒ" (language name)
@@ -131,11 +140,11 @@ Letter "G", "g" is plosive uvular. To pronounce this sound you must press the ba
 
 **Whistled C**
 
-Letter "C", "c" is whistled when followed by {"a","e","i","o", "u"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ". To prevent this effect you must use "k" instead of "c".
+Letter "C", "c" is whistled when followed by {"a","e","i","o", "u", "y"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ". To prevent this effect you must use "k" instead of "c".
 
-**Posive C**
+**Plosive C**
 
-Letter "C", "c" is pronounced "k" when followed by a consonant. To pronounce this sound you must press the back of your tongue on the back roof and produce a sound like "ck". The best IPA symbol for this sound is "k".
+Letter "C", "c" is pronounced "k" when followed by a consonant. To pronounce this sound you must press the back of your tongue on the back mouth roof and produce a sound like "ck". The best IPA symbol for this sound is "k".
 
 **Latin Q**
 
@@ -144,7 +153,13 @@ Latin Q must be followed by vowel `u` that is silent in most words. To make this
 * que is going to be pronounced: "ke"
 * qui is going to be pronounced: "ki"
 
-**Whistled: X**
+Maj words do not use Q(q) letter. We replace Q with K except in names. 
+
+* For example Queen  is not written "Kuin" it look too much with "King".
+* For example Queens is a borough of New York City.
+
+
+**Modified: X**
 
 Letter `X` is pronounced like: `sh` in `sheep`. To avoid `ş` pronunciation letter `x` is replaced by `cs`.  To make this sound you must press the middle of your tongue on the roof top of the mouth and produce a sort whispered `s`. To make this sound correctly your tongue is more relaxed than for `s`. The best IPA symbols for this sound is "ʃ" but also similar "ʂ":
 
@@ -177,9 +192,9 @@ Letter W is used at beginning of words and rarely used in the middle of the word
 * is pronounced "u" at beginning of words: wisol:"uisol" = "whiskey";
 * inside of words can modify "e" that will be read "i" like in new:"niu" ;
 
-## Silent `h`
+##Voiced `h`
 
-Avert consonants, letter `h` is silent:
+In some languages, "h" is silent but in Maj, h is usually voiced.
 
 * Letter `h` is always voiced at beginning of words;
 * Letter `h` is voiced when is following or preceding a vowel;
@@ -190,7 +205,7 @@ Avert consonants, letter `h` is silent:
 * Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
 * Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
 
-This convention is used only in names and foreign words that must be inclused in "...". 
+This convention is used only in names and foreign words that must be included in quotes "...". 
 
 ## English phonetic
 

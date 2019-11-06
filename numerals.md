@@ -10,7 +10,7 @@ When used in text or expressions, symbols are read out loud:
 
 symbol | Maj
 -------|---------------------------
-* `+`  | und
+* `+`  | eto
 * `-`  | ifa
 * `/`  | uel
 * `.`  | pui
@@ -19,7 +19,7 @@ symbol | Maj
 * `;`  | puc
 * `?`  | kim
 * `!`  | nim
-* `\*` | sar
+* `\*` | san
 
 ## Level 1
 
@@ -27,7 +27,7 @@ symbol | Maj
 
 * The numbers do not have gender,
 * The numbers do not have plural form,
-* Two numerals are combined using `und` symbol `+`
+* Two numerals are combined using `eto` symbol `+`
 * Some numbers are combined using apostrophe 
 
 **Ten = diz** 
@@ -43,7 +43,7 @@ x | maj  | xx | maj           | xx | maj     |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
-9 | new  | 19 | un'diz+new    | 90 | ne'diz  | 
+9 | nef  | 19 | un'diz+nef    | 90 | ne'diz  | 
            
 ## Ordinals
          
@@ -158,7 +158,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea due uno nil und razu aus !!! 
+* ... rea due uno nil eto razu aus !!! 
 
 Great!
 

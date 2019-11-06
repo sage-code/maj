@@ -1,6 +1,6 @@
 # Adjectives
 
-Adjectives are 4 or 5 character long and are ending usually with:
+Adjectives are 4 or 5 character long and are ending with:
 
 * vowels - {"o", "e", "i"} never {"a" or "u"}
 * semivowels - {"l","j","y"}

@@ -25,7 +25,8 @@ there are some good reasons to make a new and different language:
 once the language is established it can be usable for:
 
 * chat with friends;
-* making fantasy movies;
+* outdoor activity and sport;
+* making fantastic movies;
 * making video games;
 * artificial intelligence;
 * knowledge repository;
@@ -48,7 +49,7 @@ in other languages, some writers are using abbreviations. in Maj all the words a
 
 **design:**
 
-* Maj re-purpose some redundant letters: { K, Q, X, Y };
+* Maj re-purpose some redundant letters: { K, X, Y };
 * Maj do not use cedilla letters like: Franch, Romanian or German;
 * Maj is using root words and avoid composite long words;
 * Maj is using simple grammar rules to reduce complexity;
@@ -67,7 +68,7 @@ in other languages, some writers are using abbreviations. in Maj all the words a
 
 a constructed language can have good _use-cases_.
 
-* Maj is using an experimental notation for Latin writing;
+* Maj is using an experimental Latin writing;
 * Maj ideas can be used for some other languages;
 * Maj can be used to learn other Romantic languages;
 
@@ -75,15 +76,17 @@ a constructed language can have good _use-cases_.
 
 Maj is for Internet; it is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all; Maj can enable communities of exceptional persons to improve themselves;
 
-**for peace**
+**for Peace**
 
 Maj is a language of peace; while you learn this language you also learn peace; the language is used to create ideas of serenity and purity; this will influence you in a good way making you a better person;
 
-**for making**
+**for Making**
 
-Maj will enable you to make text; this reduce time to write a story or a thesis; multiply this with millions and you can change the world; so writers as well as readers will reduce time to communicate;
+Maj will enable you to make new text; this reduce time to write a story or a thesis; multiply this with millions and you can change the world; so writers as well as readers will reduce time to communicate;
 
 it is true that text do not take much space, but in the future AI will learn how to produce text; in this case, the repository knowledge will grow exponential; improving efficiency should be always a goal;
+
+sorter words is the key for better text alignment. as you know full justified text require extra spaces between words. this is more suitable for Maj since it uses short letters. The longest words will be maximum 6 characters long.
 
 Maj is a descriptive language; a Maj interpretor can read _Maj_ and do computations to calculate values; using functions and expressions; you can describe _input/output_ forms, _data tables_, _expressions_ and _algorithms_;
 

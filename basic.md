@@ -137,8 +137,8 @@ tesa = time
 
 Suffix  | Maj       | English
 --------|-----------|----------------------------
-ro      | rosa      | present 
-fu      | fura      | future
+ro      | vora      | present 
+fu      | futa      | future
 pa      | pasa      | past
 
 **undefined time**
@@ -397,12 +397,12 @@ Invariant noun is terminated in "s" or other consonant:
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
 * non  = not  - create antonyms
-* pro  = for  - specify purpose
+* por  = for  - specify purpose
 * ati  = anti - against / opposite 
 
 **examples:**
 
-* pro-bebo aqua = drinking water
+* por-bebo aqua = drinking water
 * non-bebo aqua = industrial water
 * non-bolo beba = non alcoholic drink
 * ati-gera mova = anti war movement
@@ -456,10 +456,10 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to cinema or we go to supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:**  und  = and
+**Maj:**  ita  = and
 
 ```
-Marc und Alice and'upa la plaia 
+Marc ita Alice and'upa la plaia 
 ```
 
 Lang    | Word   |  Example

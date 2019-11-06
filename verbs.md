@@ -20,43 +20,51 @@ Noun: tesa  = time
 
 Suffix  | Maj       | English
 --------|-----------|----------------------------
-ro      | rosa      | present 
-fu      | fura      | future
+go      | gona      | present  (go now)
+fu      | futa      | future    
 pa      | pasa      | past
 
 **examples:**
 
-* nara de fura = story about the future
+* nara de futa = story about the future
+* nova de gona = news about the present
 * dica de pasa = talk about the past
+
 
 ## Verb transformation
 
 Basic for of Wee verb into an adjective using suffix:
 
-**xo = ul**
-
-jocu => jocu'xo = playful
-
-**So far:**
-* jo seru jocu'xo = I'm playful
-* tu seru jocu'xo = you are playful 
-* seru jocu'xo = he is playful
-
-Once a verb apply to something or somebody it become affected by the verb.
-
 **to = ed**
+
+Use termination 'to to make an adverb
 
 jocu => jocu'to 
 
-* tu seru'pa jocu'to      = You have been played
+* tu haru'pa habu'to de me  = You have spoken about me
+* tu seru'go jocu'to de zu  = You are played by him
+
 * la pala seru'pa jocu'to = The boll was played
+
+
+**xo = ul**
+
+Use termination 'xa to make an adjective
+
+jocu => jocu'xo = playful
+
+* jo seru jocu'xo = I'm playful
+* tu seru jocu'xo = you are playful 
+* zu seru jocu'xo = he is playful
 
 **to noun:**
 
-Use termination 'xa to make a noun.
+Use termination 'na to make a noun.
 
-* jo  seru'pa una jocu'xa = I was a player
-* noi seru'fu ale jocu'xa = we will be all players
+* jo  seru'pa una jocu'na = I was a player
+* noi seru'fu ale jocu'na = we will be all players
+* eso seru'go una movu'na por paca = un movement for peace
+
 
 ## Reflexive form
 

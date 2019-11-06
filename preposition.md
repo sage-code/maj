@@ -157,7 +157,7 @@ jos	    |down                |abajo            | nieder
 ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
-der     |there               |ahi              | dort
+ibi     |there               |ahi              | dort
 far     |far from            |lejos            | weit
 nir     |near, close by      |cerca            | in der nähe
 noh     |yet                 |todavía          | noch 
@@ -189,7 +189,7 @@ Following prepositions may be used in logical arguments.
  oga | yes     | affirmative
  uka | not     | negative 
  uel | or      | conjunction
- und | and     | conjunctive
+ eto | and     | conjunctive
  dar | but     | positive alternative
  nor | neither | negative alternative 
  sif | if      | conditional
@@ -199,7 +199,7 @@ Following prepositions may be used in logical arguments.
  dot | must    | mandatory
  mei | may     | is permitted
  fob | may not | is forbidden
- edo | then    | time consequence
+ den | then    | time consequence
  tan | so      | to such a great extent.
  cas | case    | when is the case
  uta | when    | establish event
@@ -226,7 +226,7 @@ bei  |at      |la
 dan  |in      |en
 dar  |but     |pero
 de   |about   |sobre
-der  |there   |ahí
+ibi  |there   |ahí
 des  |of the  |del
 edo  |then    |entonces
 eko  |still   |todavía
@@ -245,7 +245,7 @@ lag  |along   |a lo largo
 lej  |far     |lejos
 mei  |may     |mayo
 mia  |my      |mi
-misy |myself  |yo mismo
+mi'sy|myself  |yo mismo
 nah  |close   |cerca
 nah  |near    |cerca
 nib  |beside  |junto a
@@ -268,9 +268,9 @@ par  |through |mediante
 per  |across  |a través de
 pisu |own     |propio
 pos  |behind  |detrás
-pro  |for     |para
+por  |for     |para
 pue  |after   |después
-puke |because |porque
+ky   |because |porque
 ke   |what    |qué
 ki   |who     |quien
 ko   |how     |cómo
@@ -289,7 +289,7 @@ ubi  |where   |dónde
 uma  |around  |alrededor
 una  |an      |un
 una  |one     |uno
-und  |and     |y
+ita  |and     |y
 uta  |when    |cuando
 uxa  |why     |por qué
 von  |from    |de
