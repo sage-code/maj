@@ -65,21 +65,19 @@ Sometimes we use suffix to create a composite word for representing nouns:
 
 **harmful content**
 
-* for beverage containing alcohol, we use suffix ...'la 
-* there is food prepared with alcohol we also use ...'la 
-* for food that contains a lot of sugar we use ...'sa,  
+ja = jaru = warning
 
-**beverage**
-```
-beru'la  = bear
-xoku'la  = sweet chocolate with alcohol
-```
+* for beverage containing alcohol, we use suffix,
+* there is food prepared with alcohol, 
+* for food that contains a lot of sugar,  
+* for poisonous fruits
+* for dangerous animals
 
-**sweets**
-```
-gazo'sa  = sweet drink
-xoko'sa  = sweet chocolate
-```
+**examples:**
+
+* bero'ja  = bear
+* gazo'ja  = energy drinks
+* xoko'ja  = chocolate with alcohol
 
 ## Diminutives
 

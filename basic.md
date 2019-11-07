@@ -63,11 +63,10 @@ Is the person or the thing who perform the action.
 
   ps |singular         | plural
 -----|-----------------|-----------------------------
-  1  | jo = I          | noi  = we
+  1  | yo = I          | noi  = we
   2  | tu = you        | voi  = y'all
   3  | zu = he, she, it| zoi  = they (masculine) 
 
-Note: "jo" is pronounced "d͡ʒo" like in English name "Joe" and not "je" like in Franch but close.
 
 **Objective**
 
@@ -145,7 +144,7 @@ pa      | posa      | past
 
 verb: jocu = to play
 
-* jo jocu  = I play
+* yo jocu  = I play
 * tu jocu  = you play
 * zi jocu  = he  play
 
@@ -195,9 +194,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* jo vidu'go ti foa!   = I can see you sometime!
-* jo vidu'pa voi nuc!  = I have never seen y'all!
-* jo podo vidu'go zoi aku!  = I can see them now!
+* yo vidu'go ti foa!   = I can see you sometime!
+* yo vidu'pa voi nuc!  = I have never seen y'all!
+* yo podo vidu'go zoi aku!  = I can see them now!
 
 
 ## Interrogative

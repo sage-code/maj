@@ -67,7 +67,7 @@ Use termination 'lo to make an adjective
 
 jocu => jocu'lo = playful
 
-* jo seru jocu'lo = I'm playful
+* yo seru jocu'lo = I'm playful
 * tu seru jocu'lo = you are playful 
 * zu seru jocu'lo = he is playful
 
@@ -77,7 +77,7 @@ gora = group
 
 Use termination 'go to make a noun.
 
-* jo  seru'pa una jocu'go = I was a player
+* yo  seru'pa una jocu'go = I was a player
 * noi seru'fu ale jocu'go = we will be all players
 * eso seru'so una movu'go por paca = un movement for peace
 

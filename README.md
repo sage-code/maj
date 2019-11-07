@@ -1,21 +1,20 @@
 # Maj
 
-Maj is a crystal clear _constructed language_ for _chat_:
+Maj is a logical _constructed language_ for _chat_:
 
 **Attributes:**
 
 1. Accesible;
 2. Efficient;
-3. Minimalist;
-4. Articulated;
-5. Deterministic;
+3. Deterministic;
+
 
 **Goals ...**
 
 1. Maj is for study;
+2. Maj is for science;
 3. Maj is for family;
-4. Maj is for science;
-2. Maj is for games;
+4. Maj is for games;
 5. Maj is for peace;
 
 Rad more: [use cases](case.md)
@@ -24,22 +23,22 @@ Rad more: [use cases](case.md)
 
 Maj is ...
 
-1. not a mastic language;
-1. not a perfect language;
 1. not a cryptic language;
+1. not a mystic language;
+1. not a perfect language;
+
 
 **Principles:**
 
 Basic principles for Maj construction:
 
 1. for writing system we use ISO Latin alphabet;
-1. letters in words are oriented from right to left;
-1. words are separated by space like all Romance languages;
 1. one letter do not represent anything else but itself;
 1. most letters represent a single sound (1:1);
 1. two letters can be combined to create a new sound (2:1);
-1. word order in proposition is semantically significant;
-
+1. letters in words are oriented from left to right;
+1. words are separated between them by at least one space;
+1. words are ordered in propositions from left to right;
 
 **Punctuation:**
 
@@ -59,9 +58,11 @@ Basic principles for Maj construction:
 1. Text enclosed in parenthesis (expressions) or (enumerations) are silent;
 1. Dialog is start with bullet point `*` and end with `;`,`?` or `!`;
 
+
 **Notes:**
-* In Maj `.` is not used for end of propositions but is a decimal separator for fractional numbers;
-* When you compare someone with an animal, the animal is written with lowercase;
+* Dot `.` is not used for end of propositions but is a numeric decimal separator;
+* Comma `,` is used in propositions to separate multiple arguments or ideas;
+* When you compare someone with an animal; the animal is written with lowercase;
 
 ## Words
 
@@ -86,32 +87,26 @@ Maj is a compilation from 7 different languages.
 * Most words including numerals are starting with consonant and end with vowel;
 * In Maj words, each letter is pronounced. Only letter "h" can be voiceless;
 
-## The basics
+## The essential
+
+Maj is using the power of 3 to organize sentences and words:
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases for pronouns: {nominative, objective, possessive};
+1. There are 3 very important physical worlds: {inside, outside, cosmic};
 
-**Universe:**
 
-Language is build based on believe in 5 worlds:
-
-1. Insite  world; 
-1. Outside world;
-1. Public  world; 
-1. Virtual world;
-1. Univers world;
-
-**Read more:** 
+Next 3 essential documents will teach you first words in Maj:
 
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
-* [The grammar](basic.md)
+* [The basics](basic.md)
 
-**Lexicon:**
+## Grammar
 
-Language words are described in separated documents:
+You can learn most frequent Maj words organized by grammatical category:
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
@@ -119,9 +114,35 @@ Language words are described in separated documents:
 * [Adverbs](adverbs.md)
 * [Adjectives](adjectives.md)
 
+## Lexicon
+
+You can learn more words from examples organized by specific domain of knowledge:
+
+1. [structure](words/structure)
+1. [information](words/information.md)
+1. [space](words/space.md)
+1. [time](words/time.md)
+1. [processes](words/processes.md)
+1. [movement](words/movement.md)
+1. [physical world](words/physical world.md)
+1. [nature](words/nature.md)
+1. [life](words/life.md)
+1. [psychology](words/psychology.md)
+1. [family](words/family.md)
+1. [human culture](words/human culture.md)
+1. [technology](words/technology.md)
+
+## Contribution
+
+Maj is work in progress so we are looking for contributors.
+
+1. To review grimmer
+2. To improve lexicon
+3. To create examples
+
 **Community:**
 
-We use Discord apps to chat in English about Maj: 
+We use Discord app to chat in English about Maj: 
 
 [discord invitation](https://discord.gg/SRX3tse)
 

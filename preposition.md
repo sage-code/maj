@@ -235,7 +235,7 @@ hir  |here    |aquí
 ino  |into    |dentro
 iny  |inside  |en
 ior  |shall   |deberá
-jo   |I       |yo
+Yo   |I       |yo
 jos  |down    |abajo
 ka   |as      |como
 kon  |with    |con
