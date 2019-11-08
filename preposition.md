@@ -159,7 +159,7 @@ hir     |here                |aqui             | hier
 ibi     |there               |ahi              | dort
 far     |far from            |lejos            | weit
 nah     |near, close by      |cerca            | in der nähe
-noh     |yet                 |todavía          | noch 
+yet     |yet                 |todavía          | noch 
 
 
 **examples**
@@ -213,8 +213,7 @@ Next 100 most common prepositions in alphabetical order:
 
 MAJ  | English| Spanish
 -----|--------|-----------------------------
-aku  |now     |ahora
-amo  |both    |ambos
+amu  |now     |ahora
 ape  |just    |sólo
 ate  |before  |antes de
 auf  |on      |encima
@@ -244,7 +243,7 @@ mei  |may     |mayo
 nah  |close   |cerca
 nah  |near    |cerca
 nib  |beside  |junto a
-noh  |yet     |todavía
+yet  |yet     |todavía
 ~non~|none    |no
 ~nop~|not     |No
 ~nuc~|never   |Nunca

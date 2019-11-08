@@ -38,7 +38,7 @@ x | maj  | xx | maj           | xx | maj     |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
-4 | pen  | 14 | un'diz+pan    | 40 | pe'diz  |
+4 | pen  | 14 | un'diz+pen    | 40 | pe'diz  |
 5 | fin  | 15 | un'diz+fin    | 50 | fi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
@@ -145,6 +145,8 @@ Franch:  lieu,  ordre, position
 ## Level 3
 
 **Binary**
+
+vala = value
 
 bits| maj      | description
 ----|----------|----------------------

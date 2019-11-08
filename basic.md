@@ -195,9 +195,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* yo vidu'so ti foa!   = I can see you sometime!
-* yo vidu'pa voi nuc!  = I have never seen y'all!
-* yo podo vidu'so zoi aku!  = I can see them now!
+* yo vidu'pa ti un'foa!   = I have seem you one time!
+* yo vidu'pa voi ni'foa!  = I have never seen y'all!
+* yo podo vidu'so zoi amu!= I can see them now!
 
 
 ## Interrogative
@@ -284,7 +284,7 @@ For stronger assurance answer you can specify the logical values:
 
 **composite**
 
-* non-juso = incorrect, not justified
+* kan-juso = incorrect, not justified
 * pro-juso = to be justified
 
 
@@ -326,6 +326,7 @@ la pana = the bread
 2. Definite article _determinant form:_
 
 es = it is (seru) = to be
+se 
 
 Singular   |  Plural
 -----------|--------------
@@ -360,8 +361,6 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* una = one
-* amo = both
 * oru = any
 * omi = every
 * ali = all
@@ -391,15 +390,15 @@ Invariant noun is terminated in "s" or other consonant:
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
-* non  = not  - create antonyms
+* kan  = not  - create antonyms
 * tum  = for  - specify purpose
 * ati  = anti - against / opposite 
 
 **examples:**
 
 * tum-bebo aqua = drinking water
-* non-bebo aqua = industrial water
-* non-bolo beba = non alcoholic drink
+* kan-bebo aqua = industrial water
+* kan-bojo beba = non alcoholic drink
 * ati-gera mova = anti war move
 
 
@@ -477,7 +476,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** noh = not yet
+**Maj:** noh = yet
 
 * tesa = time
 * muro = dead

@@ -15,7 +15,7 @@ ako   |too          |también
 ate   |forward      |adelante
 asi   |thus         |así
 aso   |also         |además
-aku   |now          |ahora
+amu   |now          |ahora
 azix  |instead      |en lugar
 beto  |better       |mejor
 biso  |of course    |por supuesto

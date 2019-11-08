@@ -28,7 +28,7 @@ Maj alphabet is enhanced to maximize number of sounds and simplify spelling as m
 ```
 ---------------------------------------------------
 a   b   c   d   e   f   g   h   i   j   k   l   q
-a   bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  ku
+a   bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  kiu
 ---------------------------------------------------
 m   n   o   p   r   s   t   u   v   x   y   z   w
 mɨ  nɨ  o   pɨ  rɨ  sɨ  tɨ  u   vɨ  ʂɨ  ə   zɨ  iu
@@ -91,9 +91,10 @@ Two letters that are frequent in English but not used in Maj:
 
 Two letters are join together in a new sound that is different than both letters. Maj digraphs are deterministic. That means the combination of these two letters can not be pronounced in any other way. 
 
-* group `ts` sounds `t͡s` like in "its";
-* group `ch` sounds `t͡ʃ` like in "peach"; 
-* group `sh` sounds `ʂ`   like in "fashion";
+* group `ts` sounds `t͡s` like `ts` in "its";
+* group `ch` sounds `t͡ʃ` like `ch` in "peach"; 
+* group `sh` sounds `ʂ`   like `sh` in "fashion";
+* group `qu` sounds `qiu` like `qu` in "queue"
 
 **notes:** 
 

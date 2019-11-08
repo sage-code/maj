@@ -171,7 +171,7 @@ regi    |religious    |religioso
 relo    |real         |real
 rito    |recent       |reciente
 rodo    |round        |redondo
-savo    |is over      |se acabó
+savo    |over         |acabó
 siko    |significant  |significativo
 simo    |similar      |similar
 sipo    |simple       |sencillo

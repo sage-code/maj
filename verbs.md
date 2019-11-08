@@ -93,14 +93,32 @@ domu  =>  sleep
 ** using reflexive pronoun **
 
 * hai no'sy hodu  = let's get rest ourselves
-* hai vo'sy hodu  = please rest yourselves
 * hai ti'sy kamu  = please calm yourself 
+* hai vo'sy domu  = please sleep yourselves
 
 ** using reflexive prefix**
 
-* noi dovu ke hodu'sy = we have to get rest ourselves
-* voi dovu ke kamu'sy = y'all have to calm yourselves
-* zoi dovu ke domu'sy = they must go to sleep themselves
+* noi ai ke hodu'sy = we have to get rest ourselves
+* voi ai ke kamu'sy = y'all have to calm yourselves
+* zoi ai ke domu'sy = they must go to sleep themselves
+
+## Short verbs
+
+Some very important verbs have a short form:
+
+* es = seru = to be 
+* ai = haru = to have
+* po = povu = can (permission)
+* da = daru = wish
+
+**example:**
+
+* yo es tido   = I am tired
+* zu es ka hir = he is not here
+
+**note:**
+
+This short form of the verb do not create composition with time;
 
 ## Top 10 verbs
 
@@ -187,8 +205,9 @@ motu  | ride              | montar            | monter
 moxu  | fly               | volar             | mouche
 naxu  | born              | nacer             | naître
 nitu  | clean             | limpiar           | nettoyer
+nizu  | begin, start      | comenzar, empezar | commencer
 obiu  | get               | conseguir         | obtenir
-ocru  | occur/happen      | ocurrir           | se produire
+ocru  | occur/happen      | ocurrir           | produire
 ofru  | offer             | ofrecer           | offre
 oiru  | hear              | oír               | entendre
 oviu  | forget            | olvida            | oublier
@@ -203,7 +222,6 @@ pemu  | permit/allow      | permitir          | permettre
 pesu  | think             | pensar            | pense
 zetu  | introduce/present | presentar         | présenter
 piku  | like              | gustar            | aimer
-pizu  | begin, start      | comenzar, empezar | commencer
 pobu  | try               | intentar          | essayer
 podu  | produce           | producir          | produire
 pusu  | put               | poner             | mettre
@@ -244,7 +262,7 @@ vadu  | go, goes          | ir                | aller
 venu  | come              | venir             | venir
 vivu  | live              | en vivo           | vivre
 vocu  | call              | llamar            | appel 
-vohu  | wish              | deseo             | souhait
+daru  | wish              | deseo             | souhait
 volu  | will              | será              | volonté
 veru  | see               | ver               | regarder
 xepu  | wait              | esperar           | attendre à
