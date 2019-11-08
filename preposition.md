@@ -158,7 +158,7 @@ abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
 ibi     |there               |ahi              | dort
 far     |far from            |lejos            | weit
-nir     |near, close by      |cerca            | in der nähe
+nah     |near, close by      |cerca            | in der nähe
 noh     |yet                 |todavía          | noch 
 
 

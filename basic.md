@@ -142,17 +142,17 @@ pa      | posa      | past
 
 **undefined time**
 
-verb: jocu = to play
+verb: joku = to play
 
-* yo jocu  = I play
-* tu jocu  = you play
-* zi jocu  = he  play
+* yo joku  = I play
+* tu joku  = you play
+* zi joku  = he  play
 
 **time suffix**
 
-* zi jocu'so = he is playing
-* zi jocu'fu = he will play
-* zi jocu'pa = he has plaid
+* zi joku'so = he is playing
+* zi joku'fu = he will play
+* zi joku'pa = he has plaid
 
 Read more about: [verbs](verbs.md)
 
@@ -239,7 +239,7 @@ Asking about location can be explicit using que:
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* es la loca ke tu jocu? = is the place you play?
+* es la loca ke tu joku? = is the place you play?
 * es la tesa ke zu venu? = is the time they come?
 
 **expressions**
@@ -262,8 +262,8 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* ia! / oga ! = ye/  yes
-* ba! / uka ! = no/  not
+* si! / yes ! = ye/  yes
+* ka! / uka ! = no/  not
 
 **polite**
 
@@ -365,7 +365,7 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 * amo = both
 * oru = any
 * omi = every
-* ale = all
+* ali = all
 * mot = many
 * pau = few
 * van = several
@@ -378,7 +378,7 @@ Common noun is using plural "e" or singular "a" with different articles:
 * omi mela = every apple
 * oru mela = any apple
 * som mele = some apples
-* ale mele = all apples
+* ali mele = all apples
 
 Invariant noun is terminated in "s" or other consonant:
 

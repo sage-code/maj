@@ -38,7 +38,7 @@ x | maj  | xx | maj           | xx | maj     |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
-4 | kat  | 14 | un'diz+kat    | 40 | ca'diz  |
+4 | kat  | 14 | un'diz+kat    | 40 | ka'diz  |
 5 | pif  | 15 | un'diz+pif    | 50 | pi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
@@ -49,10 +49,11 @@ x | maj  | xx | maj           | xx | maj     |
          
 Repeting time is created using `foa suffix
 
-foa = times
+foa  = times
+ol   = all
 
 * ni'foa = newer
-* al'foa = forever
+* ol'foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
 

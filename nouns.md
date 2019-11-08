@@ -179,7 +179,7 @@ bora       | tree         | árbol
 byta       | stick        | palo               
 faxa       | way          | camino               
 femy       | farm         | granja               
-fesa       | window       | ventana               
+fena       | window       | ventana               
 flea       | flower       | flor               
 foka       | fire         | fuego               
 gaba       | leg          | pierna               

@@ -44,7 +44,7 @@ kazi  |nearly       |casi
 laso  |as           |como
 lebo  |rather       |más bien
 leho  |far away     |lejos
-maso  |most         |más
+mas   |most         |más
 meno  |less         |Menos
 mero  |more         |más
 miso  |least        |menos
@@ -62,7 +62,6 @@ rilo  |actually     |Realmente
 rovo  |found        |encontró
 safo  |enough       |suficiente
 sepo  |always       |siempre
-sepo  |forever      |siempre
 solo  |alone        |solo
 sur   |about        |acerca de
 suto  |especially   |especialmente

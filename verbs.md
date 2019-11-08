@@ -41,9 +41,9 @@ Noun: tesa  = time
 
 Using suffix:
 
-* jocu'fu = future play
-* jocu'so = present play
-* jocu'pa = past play
+* joku'fu = future play
+* joku'so = present play
+* joku'pa = past play
 
 ## Verb transformation
 
@@ -53,23 +53,23 @@ Basic for of Wee verb into an adjective using suffix:
 
 Use termination 'ra to make an adverb
 
-jocu => jocu'ra 
+joku => joku'ra 
 
 * tu habu'so de me  = You have spoken about me
-* tu seru'oa jocu'ra de zu  = You are played by him
+* tu seru'oa joku'ra de zu  = You are played by him
 
-* la pala sera jocu'ra = The boll was played
+* la pala sera joku'ra = The boll was played
 
 
 **lo = ul**
 
 Use termination 'lo to make an adjective
 
-jocu => jocu'lo = playful
+joku => joku'lo = playful
 
-* yo seru jocu'lo = I'm playful
-* tu seru jocu'lo = you are playful 
-* zu seru jocu'lo = he is playful
+* yo seru joku'lo = I'm playful
+* tu seru joku'lo = you are playful 
+* zu seru joku'lo = he is playful
 
 **go = er**
 
@@ -77,8 +77,8 @@ gora = group
 
 Use termination 'go to make a noun.
 
-* yo  seru'pa una jocu'go = I was a player
-* noi seru'fu ale jocu'go = we will be all players
+* yo  seru'pa una joku'go = I was a player
+* noi seru'fu ale joku'go = we will be all players
 * eso seru'so una movu'go por paca = un movement for peace
 
 
