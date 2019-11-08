@@ -136,9 +136,9 @@ tesa = time
 
 Suffix  | Maj       | English
 --------|-----------|----------------------------
-so      | jona      | present (go now)
+so      | sota      | present (go now)
 fu      | futa      | future
-pa      | posa      | past
+pa      | pasa      | past
 
 **undefined time**
 
@@ -158,18 +158,19 @@ Read more about: [verbs](verbs.md)
 
 ## Using adverb
 
-* nuc   = never (Spanish nunca)
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
-* aku   = now   (Romanian acuma)
+* amu   = now   (Romanian acuma)
 
 **composite**
 
 foa   = times (French fois)
 
+* ni'foa = never
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
+* al'foa = forever
 
 **using full words**
 
@@ -194,9 +195,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * tu vidu'fu mi suv!   = you will see me often!
-* yo vidu'go ti foa!   = I can see you sometime!
+* yo vidu'so ti foa!   = I can see you sometime!
 * yo vidu'pa voi nuc!  = I have never seen y'all!
-* yo podo vidu'go zoi aku!  = I can see them now!
+* yo podo vidu'so zoi aku!  = I can see them now!
 
 
 ## Interrogative
@@ -207,51 +208,49 @@ maj     | english  | spanish | romanian
 --------|----------|---------|---------
 ke      | what?    | qué     | ce
 ki      | who?     | quien   | cine
-ko      | how?     | como    | cum
-ku      | which?   | cual    | care
+ku      | how?     | como    | cum
+ko      | which?   | cual    | care
+ka      | no?      | non     | nu?
 
 Composite interrogations using preposition "de" and noun:
 
 maj         | english  | spanish | 1:1 translation
 ------------|----------|---------|---------------
 de ke tesa? | when?    | cuando  | about what time?
-de ke loca? | where?   | donde   | about what location?
+de ke loka? | where?   | donde   | about what location?
 po ke reza? | why?     | por qué | for what reason?
 
-**Notice:**
-
-* `u` after `q` is silent, so you say: `ke`, `ki`, `ko`, `ka`.
-* `u` ate beginning of word and after `c` is voiced, so you say: {`ubi`, `uta`, `uro`}
 
 **examples**
 
 Next examples show how to use interrogative prepositions:
 
-* ke magu'fu ?  = what are you going to eat ?
-* ki seru'pa ?  = who whas there?
-* ko seru'go ?  = how are you ?   
+* ke magu'fu tu  ?  = what are you going to eat ?
+* ki seru'pa ibi ?  = who was there?
+* ku seru'so tu  ?  = how are you ?   
+* ka magu'fu tu  ?  = you have not eaten ?
 
 Asking about location can be explicit using que:
 
-* de ke loca te andu'go? = where are you going?
-* de ke loca te venu'go? = where are you coming from?
-* de ke loca te seru'go? = where are you from?
+* de ke loka ti andu ? = where are you going?
+* de ke loka ti venu ? = where are you coming from?
+* de ke loka ti seru ? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* es la loca ke tu joku? = is the place you play?
+* es la loka ke tu joku? = is the place you play?
 * es la tesa ke zu venu? = is the time they come?
 
 **expressions**
   
-You can use `von ubi`, or `tsu ubi` instead of `loca`.
+You can use `von ubi`, or `tsu ubi` instead of `loka`.
   
 * von ubi tsu ubi? = from where to where!
 
 Possible answers:
 
 * von hir tsu ibi! = from here to there!
-* von loca ke tu picu!  = from a place you like!
+* von loka ke tu picu!  = from a place you like!
 * von tesa ke lo oviu!  = from a forgotten time!
 
 verb: oveu = to forget
@@ -262,7 +261,7 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* si! / yes ! = ye/  yes
+* si! / asi ! = ye/  yes
 * ka! / uka ! = no/  not
 
 **polite**
@@ -370,6 +369,7 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 * pau = few
 * van = several
 * som = some 
+* ixo = approximative
 
 Common noun is using plural "e" or singular "a" with different articles:
 
@@ -379,6 +379,8 @@ Common noun is using plural "e" or singular "a" with different articles:
 * oru mela = any apple
 * som mele = some apples
 * ali mele = all apples
+* mot mele = many apples
+* ixo diz male = approximative 10 apples
 
 Invariant noun is terminated in "s" or other consonant:
 
@@ -499,11 +501,11 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 *  sohu = wish
 *  asku = ask
 *  gema = money
-*  reqa = gift
+*  reha = gift
 
 ```
-zu sohu'na nor gema ni reqe;
-zu asku'na nor gema ni reqe;
+zu sohu'na nor gema ni rehe;
+zu asku'na nor gema ni rehe;
 ```
 
 Lang    | Word   |  Example

@@ -53,7 +53,7 @@ foa  = repetition/ number of times
 
 Location related nouns are 4 character long, they are more important.
 
-loca  = location
+loka  = location
 tesa  = time
 data  = date
 hora  = hour
@@ -62,6 +62,7 @@ mina  = minute
 seda  = second
 asra  = the address
 seza  = season
+
 
 ## Agent & Tools
 
@@ -81,7 +82,7 @@ note: Symbol ":" is read "con"
 * Locations are very important in Maj.
 * Common locations are nouns so they are terminated in "a".
 
-loca = location (noun)
+loka = location / place (noun)
 
 maj  | english   | Spanish
 -----|-----------|-----------------
@@ -97,13 +98,12 @@ Movement prepositions indicating a direction of movement.
 
 Maj      | English  
 ---------|----------
-per      |Across    
+cro      |Across    
 lag      |Along     
 veg      |Away From 
 ino      |Into      
 oto      |Onto      
 ozo      |Over the  
-cha      |Towards   
 par      |Through / by  
 uma      |Around    
 ruc      |Back      
@@ -184,8 +184,8 @@ Following prepositions may be used in logical arguments.
 
  Maj | English | Description
 -----|---------|------------------------------------
- aja | correct | agree with
- oga | yes     | affirmative
+ axa | correct | agree with
+ asi | yes     | affirmative
  uka | not     | negative 
  uel | or      | conjunction
  eto | and     | conjunctive
@@ -193,7 +193,6 @@ Following prepositions may be used in logical arguments.
  nor | neither | negative alternative 
  sif | if      | conditional
  tal | maybe   | possible
- axa | so      | comparative
  puo | can     | has the capability
  dot | must    | mandatory
  mei | may     | is permitted
@@ -202,8 +201,8 @@ Following prepositions may be used in logical arguments.
  tan | so      | to such a great extent.
  cas | case    | when is the case
  uta | when    | establish event
- asi | thus    | therefore, hence, so, then, thus 
- ecu | like    | comparative
+ dus | thus    | therefore, hence, so, then, thus 
+ kum | as,like | comparative, how 
  mem | same    | identical
  vir | while   | while condition
  cyz | because | cause of a consequence
@@ -227,7 +226,7 @@ dar  |but     |pero
 de   |about   |sobre
 ibi  |there   |ahí
 des  |of the  |del
-edo  |then    |entonces
+dus  |then    |entonces
 eko  |still   |todavía
 fra  |between |Entre
 gut  |well    |bien
@@ -235,23 +234,20 @@ hir  |here    |aquí
 ino  |into    |dentro
 iny  |inside  |en
 ior  |shall   |deberá
-Yo   |I       |yo
 jos  |down    |abajo
-ka   |as      |como
+com  |as,like |como
 kon  |with    |con
 kot  |nextto  |cerca de
 lag  |along   |a lo largo
 lej  |far     |lejos
 mei  |may     |mayo
-mia  |my      |mi
-mi'sy|myself  |yo mismo
 nah  |close   |cerca
 nah  |near    |cerca
 nib  |beside  |junto a
 noh  |yet     |todavía
-non  |none    |no
-nop  |not     |No
-nuc  |never   |Nunca
+~non~|none    |no
+~nop~|not     |No
+~nuc~|never   |Nunca
 nue  |our     |nuestra
 obe  |above   |encima
 obe  |up      |hasta

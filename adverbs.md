@@ -61,7 +61,7 @@ reto  |back         |espalda
 rilo  |actually     |Realmente
 rovo  |found        |encontró
 safo  |enough       |suficiente
-sepo  |always       |siempre
+mero  |always       |siempre
 solo  |alone        |solo
 sur   |about        |acerca de
 suto  |especially   |especialmente

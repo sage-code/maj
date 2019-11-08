@@ -38,11 +38,11 @@ x | maj  | xx | maj           | xx | maj     |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
 2 | due  | 12 | un'diz+due    | 20 | du'diz  |
 3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
-4 | kat  | 14 | un'diz+kat    | 40 | ka'diz  |
-5 | pif  | 15 | un'diz+pif    | 50 | pi'diz  |
+4 | pen  | 14 | un'diz+pan    | 40 | pe'diz  |
+5 | fin  | 15 | un'diz+fin    | 50 | fi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
-8 | oka  | 18 | un'diz+oka    | 80 | ok'diz  |
+8 | oca  | 18 | un'diz+oca    | 80 | oc'diz  |
 9 | nav  | 19 | un'diz+nav    | 90 | na'diz  | 
            
 ## Ordinals
@@ -50,10 +50,10 @@ x | maj  | xx | maj           | xx | maj     |
 Repeting time is created using `foa suffix
 
 foa  = times
-ol   = all
+al   = all
 
-* ni'foa = newer
-* ol'foa = forever
+* ni'foa = never
+* al'foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
 
@@ -85,11 +85,11 @@ Franch:  lieu,  ordre, position
  100 =  un'cen
  200 =  du'cen
  300 =  re'cen
- 400 =  ka'cen
+ 400 =  pe'cen
  500 =  pi'cen
  600 =  ze'cen
  700 =  xe'cen
- 800 =  ok'cen
+ 800 =  oc'cen
  900 =  ne'cen
 ```
 
@@ -97,9 +97,9 @@ Franch:  lieu,  ordre, position
 * Symbol "-" is newer read, it is a "legato", (you do not pause)
 
 ```
- 125 = un'cen+due'diz+pif
- 555 = pi'cen+pif'diz+pif
- 801 = ok'cen+uno
+ 125 = un'cen+due'diz+fif
+ 555 = fi'cen+fif'diz+fif
+ 801 = oc'cen+uno
 ```
 
 **Thousands = mil**
@@ -110,11 +110,11 @@ Franch:  lieu,  ordre, position
  1,000 = un'mil
  2,000 = du'mil
  3,000 = re'mil
- 4,000 = ka'mil
+ 4,000 = pe'mil
  5,000 = pi'mil
  6,000 = ze'mil
  7,000 = xe'mil
- 8,000 = ok'mil
+ 8,000 = oc'mil
  9,000 = ne'mil
 ```
 
@@ -149,10 +149,10 @@ Franch:  lieu,  ordre, position
 bits| maj      | description
 ----|----------|----------------------
 0/1 | dva      | one bit  (due vala)
-8   | ova      | one word (oka vala)
-16  | due'ova  | short integer
-32  | kat'ova  | integer
-64  | oka'ova  | long integer
+8   | ova      | one word (oca vala)
+16  | du'ova   | short integer
+32  | pe'ova   | integer
+64  | oc'ova   | long integer
 
 ## Counting:
 

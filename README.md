@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a logical _constructed language_ for _chat_:
+Maj is a new language designed for artificial reasoning: (AR)
 
 **Attributes:**
 
@@ -8,6 +8,7 @@ Maj is a logical _constructed language_ for _chat_:
 2. Efficient;
 3. Deterministic;
 
+Maj is designed to have short words easy to remember.
 
 **Goals ...**
 
@@ -16,6 +17,8 @@ Maj is a logical _constructed language_ for _chat_:
 3. Maj is for family;
 4. Maj is for games;
 5. Maj is for peace;
+
+Maj is designed to chat with your close friends and family.
 
 Rad more: [use cases](case.md)
 
@@ -27,6 +30,7 @@ Maj is ...
 1. not a mystic language;
 1. not a perfect language;
 
+Maj is not an designed as an academic or secret language.
 
 **Principles:**
 
@@ -118,19 +122,22 @@ You can learn most frequent Maj words organized by grammatical category:
 
 You can learn more words from examples organized by specific domain of knowledge:
 
-1. [structure](words/structure)
-1. [information](words/information.md)
-1. [space](words/space.md)
-1. [time](words/time.md)
-1. [processes](words/processes.md)
-1. [movement](words/movement.md)
-1. [physical world](words/physical world.md)
-1. [nature](words/nature.md)
-1. [life](words/life.md)
-1. [psychology](words/psychology.md)
-1. [family](words/family.md)
-1. [human culture](words/human culture.md)
-1. [technology](words/technology.md)
+gore = groups
+
+1. suta'go = [structure](words/structure)
+1. infa'go = [information](words/information.md)
+1. paco'go = [space](words/space.md)
+1. tesa'go = [time](words/time.md)
+1. xesa'go = [processes](words/processes.md)
+1. mova'go = [movement](words/movement.md)
+1. fiza'go = [physical world](words/physical world.md)
+1. nara'go = [nature](words/nature.md)
+1. viva'go = [life](words/life.md)
+1. siha'go = [psychology](words/psychology.md)
+1. fama'go = [family](words/family.md)
+1. huma'go = [human culture](words/human culture.md)
+1. teha'go = [technology](words/technology.md)
+
 
 ## Contribution
 
