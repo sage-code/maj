@@ -65,7 +65,7 @@ Sometimes we use suffix to create a composite word for representing nouns:
 
 **harmful content**
 
-ja = jaru = warning
+ja = jaru = warning / danger
 
 * for beverage containing alcohol, we use suffix,
 * there is food prepared with alcohol, 
@@ -118,9 +118,9 @@ Maj     | English        | Romanian
 Mama    | mother         | mama
 Papa    | father         | tata
 Nana    | grand mother   | bunica
-Naxu    | grand father   | bunicu
-Homo    | men            | bărbat
-Famo    | women          | femeie
+Naxa    | grand father   | bunicu
+Homa    | men            | bărbat
+Fima    | women          | femeie
 Frea    | brother        | frate
 Sora    | sister         | soră
 Bobo    | beby           | bebelus
