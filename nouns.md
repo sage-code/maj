@@ -2,21 +2,26 @@
 
 Nouns are words representing objects, persons or places.  
 
-* Most nouns have 2 syllables, quite rare 3 syllables;
-* Most nouns are ending with `a` that can change into `e`;
-* Nouns ending with other letter can not have plural;
-
 **examples:**
 
-* pana   = bread
-* pane   = breads
 * bana   = banana
 * bane   = bananas
 * aqua   = water
-* huga   = juice  
-* koko   = coconut
 
-**exceptions:**
+**rules:**
+
+* Most nouns are ending with letter `a` or `y`;
+* Most nouns have 2 syllables, quite rare 3 syllables;
+* Nouns are ending with letter `a` can change it to `e`, `y`;
+* Nouns ending with other letter are invariant (plural or singular);
+
+**examples:**
+
+* pany   = bread 
+* pana   = bread
+* pane   = breads
+
+**exception:**
 
 There are nouns terminated with `ch` that can change to `ce` for plural.
 
@@ -29,20 +34,26 @@ There are nouns terminated with `ch` that can change to `ce` for plural.
 
 For distinguish between male and female beings we use adjectives: 
 
-* maso  = male    (latin: masculum)
+* majo  = male    (latin: masculum)
 * fimo  = female  (latin: feminam)
 
-**gender sufix**
+**gender prefix**
 
-* maso Cana = dog male
-* fimo Cana = dog female
+Observe prefix "Majo" or "Fimo" is used for gender not a suffix.
 
+* Majo-Cana = male dog 
+* Fimo-Cana = female dog 
 
-Animal nouns and person nouns start with uppercase.
+**implicit gender**
 
-* Cana = dog
-* Gata = cat
-* Nina = girl
+Some words include gender but some do not for example:
+
+* Kide = children (gender-les)
+* Cika = girl 
+* Nina = boy
+* Pare = parents (gender-les)
+* Mama = mother
+* Papa = father
 
 ## Proper nouns
 
