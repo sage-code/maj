@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a new language designed for artificial reasoning: (AR)
+Maj is an innovative new language designed for artificial reasoning: (AR)
 
 **Attributes:**
 
@@ -8,15 +8,16 @@ Maj is a new language designed for artificial reasoning: (AR)
 2. Efficient;
 3. Deterministic;
 
-Maj is designed to have short words easy to remember.
+* Maj is pragmatic and reasonable. It have short words easy to remember.
+* Maj is using Latin alphabet with 26 letters, no cedilla and no accents.
 
 **Goals ...**
 
 1. Maj is for study;
-2. Maj is for science;
+2. Maj is for games;
 3. Maj is for family;
-4. Maj is for games;
-5. Maj is for peace;
+4. Maj is for friendship;
+5. Maj is for entertainment;
 
 Maj is designed to chat with your close friends and family.
 
