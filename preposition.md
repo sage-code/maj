@@ -186,7 +186,7 @@ Following prepositions may be used in logical arguments.
 -----|---------|------------------------------------
  axa | correct | agree with
  asi | yes     | affirmative
- uka | not     | negative 
+ kan | not     | negative 
  uel | or      | conjunction
  eto | and     | conjunctive
  dar | but     | positive alternative
@@ -222,7 +222,7 @@ aut  |out     |fuera
 bei  |at      |la
 dan  |in      |en
 dar  |but     |pero
-de   |about   |sobre
+des  |about   |sobre
 ibi  |there   |ahí
 des  |of the  |del
 dus  |then    |entonces
@@ -244,10 +244,6 @@ nah  |close   |cerca
 nah  |near    |cerca
 nib  |beside  |junto a
 yet  |yet     |todavía
-~non~|none    |no
-~nop~|not     |No
-~nuc~|never   |Nunca
-nue  |our     |nuestra
 obe  |above   |encima
 obe  |up      |hasta
 ody  |or      |o
@@ -288,4 +284,3 @@ uta  |when    |cuando
 uxa  |why     |por qué
 von  |from    |de
 vor  |front   |frente
-zia  |its     |sus

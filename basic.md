@@ -49,7 +49,7 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 
 * it has 3 persons
 * it has 3 cases
-* it has singular and plural
+* it has singular and plural (irregular forms)
 
 **Pronouns cases:**
 
@@ -61,24 +61,33 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 
 Is the person or the thing who perform the action.
 
-  ps |singular         | plural
------|-----------------|-----------------------------
-  1  | yo = I          | noi  = we
-  2  | tu = you        | voi  = y'all
-  3  | zu = he, she, it| zoi  = they (masculine) 
-
+  ps |singular          | plural
+-----|------------------|-----------------------------
+  1  | yo = I           | nu  = we
+  2  | tu = you         | vu  = y'all
+  3  | hi = he, she, it | zu  = they
 
 **Objective**
 
 Is the person or the thing who receive the action.
 
- ps | singular        | plural     
-----|-----------------|-----------------------------
- 1  | mi = me         | noy = us   
- 2  | ti = you        | voy = y'all
- 3  | zi = him, her   | zoy = them 
+ ps | singular         | plural     
+----|------------------|-----------------------------
+ 1  | mi = me          | nu = us   
+ 2  | ti = you         | vu = y'all
+ 3  | hi = him/her     | zu = them 
+
+**Accusative**
+
+The accusative case is the grammatical case used to mark the direct object of a transitive verb. 
+
+ ps | singular         | plural     
+----|------------------|-----------------------------
+ 1  | mis = to me      | noy = to us   
+ 2  | tis = to you     | voy = to y'all
+ 3  | his = to him/her | zoy = to them 
  
-Note: "y" is pronounced "ə" for example: "noə" not "noi". And this is the only difference.
+Note: "y" is pronounced "ə": { "noə","voə","zoə" }
  
 **Possessive**
 
@@ -88,19 +97,17 @@ verb: haru = to have
 
 singular       | plural
 ---------------|--------------------------------
-mia = mine     | nue = ours
-tia = your     | vue = yours
-zia = his, hers| zue = theirs
+mia = mine     | nua = ours
+tia = your     | vua = yours
+hia = his, hers| zua = theirs
 
-Note: "w" sound like "u" but is much shorter and sliding.
+**notes:** 
 
-**notes:**
-
-* In total there are 9 pronouns;
+* In total there are 20 pronouns;
 * All pronouns are ending with vowel
-* There is no gender for third person;
-* Pronoun "y'all" is rarely used in US
+* There is no gender in pronouns;
 * The singular form of "you" use to be "thou";
+* Pronoun "y'all" is rarely used in US
 
 **Reflexive**
 
@@ -108,19 +115,20 @@ To make reflexive we use coda "sy" = "self"
 
 * mi'sy = myself;
 * ti'sy = yourself; 
-* zu'sy = himself/ itself/ themselves; 
-* no'sy = ourselves; 
-* vo'sy = yourselves; 
+* hi'sy = himself/ itself
+* nu'sy = ourselves; 
+* vu'sy = yourselves; 
+* zu'sy = themselves; 
 
-**Interjection**
+**Sort adverbs**
 
-This is an abrupt remark, made especially as an aside helper, interruption or exclamation.
+This is used as an augment for verb to create a new meaning.
 
-hai = let's 
+hai = let's
 
 
-* hai ke boscu zu = let's search him
-* dovu boscu zu = we have to search him
+* hai boscu zu = let's search him
+* no dovu boscu zu = we have to search him
 
 ## Verbs
 
@@ -146,13 +154,13 @@ verb: joku = to play
 
 * yo joku  = I play
 * tu joku  = you play
-* zi joku  = he  play
+* zu joku  = he  play
 
 **time suffix**
 
-* zi joku'so = he is playing
-* zi joku'fu = he will play
-* zi joku'pa = he has plaid
+* zu joku'so = he is playing
+* zu joku'fu = he will play
+* zu joku'pa = he has plaid
 
 Read more about: [verbs](verbs.md)
 
@@ -176,10 +184,10 @@ foa   = times (French fois)
 
 lio  = place (French lieu)
 
-* un'zo lio = first place
-* du'zo lio = median/second place
-* re'zo lio = third place
-* ni'zo lio = last place
+* una lio = first place
+* dua lio = median/second place
+* ria lio = third place
+* nil lio = last place
 
 **using numerals**
 
@@ -194,11 +202,10 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* tu vidu'fu mi suv!   = you will see me often!
-* yo vidu'pa ti un'foa!   = I have seem you one time!
-* yo vidu'pa voi ni'foa!  = I have never seen y'all!
-* yo podo vidu'so zoi amu!= I can see them now!
-
+* yo vidu'pa ti un'foa!  = I have seen you one time!
+* tu vidu'fu mi suv!     = You will see me often!
+* hi vidu'pa vu ni'foa!  = He have never seen y'all!
+* nu podo vidu'so zu amu!= We can see them now!
 
 ## Interrogative
 
@@ -261,8 +268,8 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* si! / asi ! = ye/  yes
-* ka! / uka ! = no/  not
+* si / asi = ye / yes
+* ka / kan = no /  not
 
 **polite**
 
@@ -285,7 +292,7 @@ For stronger assurance answer you can specify the logical values:
 **composite**
 
 * kan-juso = incorrect, not justified
-* pro-juso = to be justified
+* tum-juso = to be justified
 
 
 ## Noun
@@ -307,7 +314,7 @@ You can learn more about nouns in a separate document:
 
 ## Article
 
-In maj, article is a short word you add in front of the noun.
+In Maj, article is a short word you add in front of the noun.
 
 * Articles are used to _point out_ or _refer_ nouns or a group of nouns. 
 * There are two different types of articles: definite and indefinite articles.
@@ -322,11 +329,11 @@ le  = the (plural)
 **example**
 
 la pana = the bread
+le pene = the breads
 
 2. Definite article _determinant form:_
 
 es = it is (seru) = to be
-se 
 
 Singular   |  Plural
 -----------|--------------
@@ -341,7 +348,8 @@ ese pane = these breads
 
 3. Descriptive article _descriptive form:_
 
-de = about 
+de  = of the
+des = about
 
 **example:**
 
@@ -368,18 +376,18 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 * pau = few
 * van = several
 * som = some 
-* ixo = approximative
+* yxo = approximative
 
 Common noun is using plural "e" or singular "a" with different articles:
 
 * una mela = one apple
-* due mele = two apples
+* dua mele = two apples
 * omi mela = every apple
 * oru mela = any apple
 * som mele = some apples
 * ali mele = all apples
 * mot mele = many apples
-* ixo diz male = approximative 10 apples
+* yxo diz male = approximative 10 apples
 
 Invariant noun is terminated in "s" or other consonant:
 
@@ -495,16 +503,16 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **Maj:** nor = neither (first negation)
 
-*  na   = negative suffix
+*  ka   = no  (negative suffix)
 *  ni   = nor (second negation)
 *  sohu = wish
-*  asku = ask
+*  keru = ask
 *  gema = money
 *  reha = gift
 
 ```
-zu sohu'na nor gema ni rehe;
-zu asku'na nor gema ni rehe;
+zu sohu'ka nor gema ni reha;
+zu keru'ka nor gema ni reha;
 ```
 
 Lang    | Word   |  Example

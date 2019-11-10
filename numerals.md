@@ -36,14 +36,14 @@ x | maj  | xx | maj           | xx | maj     |
 --|------|----|---------------|----|---------|
 0 | nil  | 10 | un'diz+nil    |    |         |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
-2 | due  | 12 | un'diz+due    | 20 | du'diz  |
+2 | dua  | 12 | un'diz+dua    | 20 | du'diz  |
 3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
 4 | pen  | 14 | un'diz+pen    | 40 | pe'diz  |
 5 | fin  | 15 | un'diz+fin    | 50 | fi'diz  |
 6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oca  | 18 | un'diz+oca    | 80 | oc'diz  |
-9 | nav  | 19 | un'diz+nav    | 90 | na'diz  | 
+9 | nov  | 19 | un'diz+nov    | 90 | no'diz  | 
            
 ## Ordinals
          
@@ -97,7 +97,7 @@ Franch:  lieu,  ordre, position
 * Symbol "-" is newer read, it is a "legato", (you do not pause)
 
 ```
- 125 = un'cen+due'diz+fif
+ 125 = un'cen+dua'diz+fif
  555 = fi'cen+fif'diz+fif
  801 = oc'cen+uno
 ```
@@ -150,7 +150,7 @@ vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dva      | one bit  (due vala)
+0/1 | dva      | one bit  (dua vala)
 8   | ova      | one word (oca vala)
 16  | du'ova   | short integer
 32  | pe'ova   | integer
@@ -161,7 +161,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... ria due uno nil eto razu aus !!! 
+* ... ria dua uno nil eto razu aus !!! 
 
 Griat!
 

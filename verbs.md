@@ -15,16 +15,13 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 * Composite words are pronounced as a single word.
 
 
-**related nouns:**
+**Preposition:** des = about
 
-Article: de = about
-Article: la = the
+* nara des la futa = story about the future
+* nova des la sota = news about the present
+* dica des la pasa = talk about the past
 
-* nara de la futa = story about the future
-* nova de la sota = news about the present
-* dica de la pasa = talk about the past
-
-Using: von = from
+**Preposition:** von = from
 
 * nova von la Europa  = news from the Europe
 * nara von la Veta    = news from the west world
@@ -58,7 +55,7 @@ joku => joku'ra
 * tu habu'so de me  = You have spoken about me
 * tu seru'oa joku'ra de zu  = You are played by him
 
-* la pala sera joku'ra = The boll was played
+* la pala se joku'ra = The boll was played
 
 
 **lo = ul**
@@ -77,8 +74,8 @@ gora = group
 
 Use termination 'go to make a noun.
 
-* yo  seru'pa una joku'go = I was a player
-* noi seru'fu ale joku'go = we will be all players
+* yo seru'pa una joku'go = I was a player
+* nu seru'fu ale joku'go = we will be all players
 * eso seru'so una movu'go por paca = un movement for peace
 
 
@@ -92,9 +89,12 @@ domu  =>  sleep
 
 ** using reflexive pronoun **
 
+hai = let's  (leading/encouragement)
+rog = please (favor)
+
 * hai no'sy hodu  = let's get rest ourselves
 * hai ti'sy kamu  = please calm yourself 
-* hai vo'sy domu  = please sleep yourselves
+* rog vo'sy domu  = please sleep yourselves
 
 ** using reflexive prefix**
 
@@ -106,34 +106,28 @@ domu  =>  sleep
 
 Some very important verbs have a short form:
 
-* es = seru = to be 
-* ai = haru = to have
-* po = povu = can (permission)
+* ke = keru = want (ask)
+* se = seru = is (to be)
+* ha = haru = have
+* fa = faru = do
+* po = povu = can (able)
 * da = daru = wish
+* do = dovu = have (must)
+* ve = veru = see
+* yr = yrdu = go
+* ci = civu = know
+
 
 **example:**
 
-* yo es tido   = I am tired
-* zu es ka hir = he is not here
+* yo se tido   = I am tired
+* zu se ka'hir = he is not here
+* ha una kupa de 
 
 **note:**
 
 This short form of the verb do not create composition with time;
 
-## Top 10 verbs
-
-These are most common verbs:
-
-* seru = is (to be)
-* haru = to have
-* faru = to do
-* dicu = to say (to answer)
-* vadu = to go
-* veru = to see
-* civu = to know
-* pavu = can (to be able)
-* keru = to want
-* dovu = must to, have to
 
 ## Verb dictionary 
 
