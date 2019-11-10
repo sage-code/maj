@@ -48,7 +48,7 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 **Pronoun features:**
 
 * it has 3 persons
-* it has 3 cases
+* it has 4 cases
 * it has singular and plural (irregular forms)
 
 **Pronouns cases:**
@@ -128,7 +128,7 @@ hai = let's
 
 
 * hai boscu zu = let's search him
-* no dovu boscu zu = we have to search him
+* nu dovu boscu zu = we have to search him
 
 ## Verbs
 
@@ -180,16 +180,9 @@ foa   = times (French fois)
 * re'foa = three times
 * al'foa = forever
 
-**using full words**
+**using numerals**
 
 lio  = place (French lieu)
-
-* una lio = first place
-* dua lio = median/second place
-* ria lio = third place
-* nil lio = last place
-
-**using numerals**
 
 * un'lio  = first  place
 * du'lio  = second place
@@ -203,8 +196,8 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * yo vidu'pa ti un'foa!  = I have seen you one time!
-* tu vidu'fu mi suv!     = You will see me often!
 * hi vidu'pa vu ni'foa!  = He have never seen y'all!
+* tu vidu'fu mi suv!     = You will see me often!
 * nu podo vidu'so zu amu!= We can see them now!
 
 ## Interrogative
