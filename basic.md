@@ -30,13 +30,14 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 
 A word can have a specialized role in a sentence. 
 
-* Nouns are finalized with {"a","e"} or any consonant;
-* Verbs are finalized with "u" and suffix, "ro", "fu", "pa";
-* Adjectives are finalized with "o", "y", or any consonant;
-* Adverbs like adjectives are finalized with vowel "o", "y" or consonant;
-* Pronouns are monosyllabic, 2 or 3 letter long;
-* Prepositions are monosyllabic, 2 or 3 letter long;
+* Nouns are finalized with {"a","y","e"} or any consonant;
+* Verbs are finalized with {"u", "i"} or suffix, "so", "fu", "pa";
+* Adjectives are finalized with {"o", "w"} or a consonant;
+* Adverbs like adjectives are finalized with vowel "o" or consonant;
+* Pronouns are 2 or 3 letter long and can terminate with {"o","u","i","y" or "s"};
+* Prepositions are also 2 or 3 letter long and can terminate with any letter;
 * Determinants are monosyllabic prepositions, 2 - 3 letter long;
+* Interjection is monosyllabic and usually start with "w";
 
 **note:**
 For word creation we have a strong rule that is very useful: A word in general start with a consonant or a vowel but should end with a vowel. This rule makes words easy to connect in a phrase using conjunctions, articles or direct.
@@ -394,14 +395,14 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 * kan  = not  - create antonyms
 * tum  = for  - specify purpose
 * ati  = anti - against / opposite 
+* eko  = echo - environment friendly / organic
 
 **examples:**
 
-* tum-bebo aqua = drinking water
-* kan-bebo aqua = industrial water
-* kan-bojo beba = non alcoholic drink
-* ati-gera mova = anti war move
-
+* tum-bebo = for drink
+* kan-bebo = not for drink
+* ati-gera = anti war
+* eko-vaja = echo travel
 
 ## Special coda
 

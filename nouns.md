@@ -5,23 +5,24 @@ Nouns are words representing objects, persons or places.
 **examples:**
 
 * bana   = banana
-* bane   = bananas
 * aqua   = water
 
 **rules:**
 
-* Most nouns are ending with letter `a` or `y`;
+* Most nouns are ending with letters {`a`,`e`,`y`,`h`};
 * Most nouns have 2 syllables, quite rare 3 syllables;
-* Nouns are ending with letter `a` can change it to `e`, `y`;
-* Nouns ending with other letter are invariant (plural or singular);
+* Nouns are ending with letter `e` represent "many" (plural);
+* Nouns ending with letter `y` are not articulated;
+* Nouns ending with letter `a` can be articulated or not;
 
 **examples:**
 
-* pany   = bread 
-* pana   = bread
-* pane   = breads
+Same noun using 3 different coda. This is the regular case:
 
-**exception:**
+* pan    = bread  (root)
+* pany   = bread  (generic)
+* pana   = bread  (singular)
+* pane   = breads (plural)
 
 There are nouns terminated with `ch` that can change to `ce` for plural.
 
@@ -41,12 +42,12 @@ For distinguish between male and female beings we use adjectives:
 
 Observe prefix "Majo" or "Fimo" is used for gender not a suffix.
 
-* Majo-Cana = male dog 
-* Fimo-Cana = female dog 
+* Majo-Kanea = male dog 
+* Fimo-Kanea = female dog 
 
 **implicit gender**
 
-Some words include gender but some do not for example:
+Some words include gender and do not require prefix:
 
 * Kide = children (gender-les)
 * Cika = girl 
@@ -92,18 +93,18 @@ ja = jaru = warning / danger
 
 ## Diminutives
 
-Maj enable diminutives using suffix: 'ni. 
+Maj enable diminutives using coda `i`
 
 nito     = bonito, nice
-ni'pesa  = nobody, no person
 
 **close persons**
-* la Mama'ni  = the mommy
-* la Papa'ni  = the daddy
+* nito Mama => Mami
+* nito Papa => Papi
 
-**close pets**
-* maso cana'ni  = dogy male
-* fimo gata'ni  = kity female
+**animals (pets)**
+
+* nito Gatia => Gati
+* nito Kania => Kani
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
@@ -149,7 +150,7 @@ Locara  | worker         | ingrijitor
 
 Maj        | English      | Spanish
 -----------|--------------|-----------------
-Kana       | dog          | perro               
+Kanea      | dog          | perro               
 Cira       | squirrel     | ardilla               
 Cika       | boy          | chica
 Cike       | girls        | chicas

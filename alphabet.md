@@ -63,14 +63,15 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 
 _Letter `Y`:_ is pronounced different depending on its position.
 
-1. Sliding: "y" = `i` at the beginning of words like: York, Yes, Yacht;  
+1. Sliding: "i" = `i` at the beginning of words like: York, Yes, Yacht;  
 2. Covered: "i" = `ɨ` in the middle of words like "eo" in "pigeon";
 3. Covered: "a" = `ə` is used at end of words  like "ar" in "sugar";
    
 **Notes: **
 
-* You must use "y" at beginning of words never "i" or "I";
+* Maj is using "y" or "Y" at beginning of words never "i" or "I";
 * For nouns, terminal coda `y` is converted to `e` to make plural;
+* For nouns, terminal coda `y` is converted to `a` to make articulated noun;
 
 _Letter `W`:_  is soft `u`, it is rarely used in the middle of words;
 
