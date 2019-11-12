@@ -32,9 +32,15 @@ my  ny  o   py  ry  sy  ty  u   vy  zy  iy  iu  sh
 ---------------------------------------------------
 ```
 
+**Notes:**
+
+* Maj has voiced, articulated and clear sounds easy to produce;
+* Maj sounds are made with your tongue behind your teeth;
+* You never but your tongue between your teeth for any Maj sound;
+
 ## Phonetic alphabet
 
-We use phonetic symbols are from: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
+We use phonetic symbols from: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 
 **Notes:** 
 
@@ -107,14 +113,12 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 ## Digraphs
 
-Specific groups of two letters can be pronounced different than both letters. Maj digraphs are deterministic, that means the combination of these two letters can not be pronounced in any other way. 
+Specific groups of two letters can be pronounced different than both letters. Maj digraphs are almost deterministic. That means the combination of these two letters can not be read in any other way. Exception is digraph "sh" that can be written using letter "x";
 
-* group `th` sound `t͡s` like `ts` in "its";
-* group `ch` sound `t͡ʃ` like `ch` in "peach"; 
-* group `sh` sound `ʂ`   like `sh` in "fashion";
-* group `qu` sound `ku`  like `qu` in "queue";
-* group `jh` sound `d͡ʒ` like `ge` in "generator";
-* group `nh` sound `ñ`   like Espaniol "niños";
+* group `ts` sound `t͡s` like `ts` in  "cats";
+* group `ch` sound `t͡ʃ` like `ch` in  "peach"; 
+* group `sh` sound `ʂ`   like `sh` in  "fashion";
+* group `dj` sound `d͡ʒ` like `gi` in  "giraffe";
 
 **examples:** 
 
@@ -125,6 +129,18 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 * "thita" is read "t͡sita"  and it means "target";
 
 ## Difficult sounds
+
+**Soft ñ* 
+Soft ñ = is inspired from Spanish. It is automatically created when "n" is followed by a vowel. To make this sound your tongue is relaxed. It is pronounced with middle of the tongue. 
+
+* nina = "niña"  = child
+* nine = "niños" = children
+* pane = "pañe"  = breads (plural)
+
+**Hard N*
+
+Letter "N" or "n" at beginning of words is called hard N. It is a clear, nasal alveolar sound. To make this sound press the tip of the tongue on the rooftop of your mouth and voice it with "a" like "na" in English "north".
+
 
 **Trilled R**
 
@@ -154,13 +170,13 @@ Latin Q must be followed by vowel `u` that is silent in most words. To make this
 
 **Modified: X**
 
-Letter `X` is pronounced like: `sh` in `sheep`. To avoid `ş` pronunciation letter `x` is replaced by `cs`.  To make "x"  sound you must press the middle of your tongue on the roof top of the mouth and produce a whispering sound. To make this sound correctly your tongue is relaxed. The best IPA symbols for this sound is "ʂ". 
+Letter `X` or `x` is pronounced like: `sh` in `sheep`. To avoid `ş` you can use group `cs`.  To make "ş"  sound you must softly press the middle of your tongue on the roof top of the mouth and produce a voice-less fricative whispering sound. 
 
-* Two letter word: "sh" exists in Maj and it means "keep quiet";
+* Two letter word: "sh" means "keep it quiet";
 * Xue is pronounced "ʂue" and represent a Chinese name; 
-* Luxembourg is pronounced "Luʂemburg" and represents name of a state/town;
+* Luxembourg is written "Lucsemburg" in Maj to avoid "ʂ";
 
-If you don't know, Luxembourg has became an independent state in 1867.
+If you don't know, Luxembourg has became an independent town and state in 1867.
 
 **Modified: K**
 
@@ -169,6 +185,11 @@ Letter "k" is used to avoid double "c". Therefore "cc" is written "kc". For word
 * ka = "not?"  
 * ke = "what?" 
 * ki = "who?"  
+
+Special uses of "K":
+
+* Kg = Kilogram (metric unit);
+* K  = Potassium element;
 
 ##Voiced `h`
 
@@ -184,10 +205,10 @@ We could write English words using Maj phonetic equivalent like this:
 
 * its       :"iths"
 * she       :"xi"
-* generator :"jheneretyr"
-* pigeon    :"pijhyn"
-* giraffe   :"jhiraf"
-* fusion    :"fujhyn"
+* generator :"djeneretyr"
+* pigeon    :"pidjyn"
+* giraffe   :"djiraf"
+* fusion    :"fudjyn"
 * guitar    :"gitar"
 * geese     :"gis"
 * cheese    :"chiz"
