@@ -28,7 +28,7 @@ a   b   c   d   e   f   g   h   i   j   k   l   q
 a   by  cy  dy  e   fy  gy  hy  i   jy  ka  ly  kiu
 ---------------------------------------------------
 m   n   o   p   r   s   t   u   v   z   y   w   x   
-my  ny  o   py  ry  sy  ty  u   vy  zy  iy  iu  sh
+my  ny  o   py  ry  sy  ty  u   vy  zy  iy  iu  shy
 ---------------------------------------------------
 ```
 
