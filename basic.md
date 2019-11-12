@@ -322,13 +322,13 @@ In Maj, article is a short word you add in front of the noun.
 
 1. Definite article _indicative form:_
 
-la  = the (singular)
-le  = the (plural)
+* la  = the (singular)
+* le  = the (plural)
 
 **example**
 
-la pana = the bread
-le pene = the breads
+* la pana = the bread
+* le pene = the breads
 
 2. Definite article _determinant form:_
 
@@ -342,13 +342,13 @@ elo = that |  ele = those
 
 **example:**
 
-eso pana = this bred
-ese pane = these breads
+* eso pana = this bred
+* ese pane = these breads
 
 3. Descriptive article _descriptive form:_
 
-de    = of 
-de la = of the
+* de    = of 
+* de la = of the
 
 **example:**
 
@@ -359,7 +359,7 @@ de la = of the
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
 
-* a Mercedes from the car lot
+* una Mergedes fon la gupa de auto = a Mercedes from the car lot
 * an event in history
 
 In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
@@ -424,117 +424,6 @@ Some nouns are terminated with "osa" or "ola" vowel to indicate harmful content:
 * la ceola  = the chocolate drops with alcohol
 * la ugosa  = extra sweet juice 
 * la ugola  = juice mixed with alcohol 
-
-## Logic conjunction
-
-Conjunctive preposition is a word used to connect ideas and arguments in a sentence.
-
-Conjunction is used when...
-
-* you have two ideas and you want to connect them in a sentence;
-* an idea you have, depends on another idea;
-* you want to add a new idea into an existing one;
-  
-**Maj:** dar = but
-    
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | mais   | C’est cher mais de très bonne qualité
-English | but    | It’s expensive, but very good quality
-Spanish | pero   | Es caro, pero de muy buena calidad.
-
-**Maj:**  uel = or
-
-* cima  = cinema
-* goxa  = supermarket (et: goso+shop = big, xopu = shop)
-
-```
-Noi vadu tsu cima uel vadu tsu goxa;
-```
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
-English | or     | We go to cinema or we go to supermarket
-Spanish | o      | Vamos al cine o vamos al supermercado        
-
-**Maj:**  etu  = and
-
-Marc etu Alice andu'pa la plaia;
-
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | et     | Marc et Alice vont à la plage
-English | and    | Marc and Alice go to the beach
-Spanish | y      | Marc y Alice van a la playa
-
-**Maj:** asi = so, thus
-
-* seru = to be
-
-asi seru'fu tu!
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | donc   | C’est donc toi!
-English | so     | So it was you!
-Spanish | entonce| ¡Entonces fuiste tú!
-
-**Maj:** noh = now
-
-* tesa = time
-* muro = dead
-* dovu = must
-* rejo = reach
-
-```
-la tesa-muro dovu rejo noh es poso
-```
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
-English | yet    | The deadlines must be met, yet this is not possible
-English | now    | The deadlines must be met, now this is not possible
-Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
-
-**Maj:** nor = neither (first negation)
-
-*  ka   = no  (negative suffix)
-*  ni   = nor (second negation)
-*  sohu = wish
-*  keru = ask
-*  gema = money
-*  reha = gift
-
-**translate:**
-
-* zu sohu'ka nor gema ni reha;
-* zu keru'ka nor gema ni reha;
-
-
-Lang    | Word   |  Example
---------|--------|----------------------------------------------
-Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
-English | nor    | He doesn’t want neither money nor gifts
-Spanish | ni     | No quiere ni dinero ni regalos.
-
-**Maj:** kyz  = because
-
-* kamo  = to be calm
-* xedu  = to seat
-* nito  = to be nice
-
-**translate:**
-
-zu xedu kalmo ky zu es nito;
-
-
-Lang    | Word    |  Example
---------|---------|----------------------------------------------
-Franch  | car     | Il reste calme _car_ il est gentil
-English | because | He stays calm _because_ he is nice    
-Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.   
     
 **read next:**
 
