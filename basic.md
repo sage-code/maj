@@ -227,7 +227,6 @@ de ke tesa?|uta  | when?    | cuando  | about what time?
 de ke loka?|ubi  | where?   | donde   | about what location?
 de ke reza?|ura  | why?     | por qué | for what reason?
 
-
 **examples**
 
 Next examples show how to use interrogative prepositions:
@@ -272,7 +271,6 @@ The interogative question can be answered with affirmative or negative:
 * ka / kan = no /  not
 
 
-
 **polite**
 
 * cero = indeed
@@ -281,9 +279,9 @@ The interogative question can be answered with affirmative or negative:
 
 **logical**
 
-* vero! = true, affirmative
-* faso! = false, negative, 
-* naso! = unknown
+* vero!  = true, affirmative
+* faso!  = false, negative, 
+* kaci!  = unknown
 
 **scientific**
 For stronger assurance answer you can specify the logical values:
@@ -295,7 +293,6 @@ For stronger assurance answer you can specify the logical values:
 
 * kan-juso = incorrect, not justified
 * tum-juso = to be justified
-
 
 ## Noun
 
@@ -546,114 +543,6 @@ Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.
 * [verbs](verbs.md)
 * [adjectives](adjectives.md)
 * [adverbs](adverbs.md)
-
-## Coding
-
-Maj text can be executed using a Maj hosting service;
-
-**Symbols**
-
-{ + - / ? ! . : = * ; # ` _ ~ [ ] ( )}
-
-1. One star `* ` follow by one space at the beginning of line start a bullet list;
-1. Number `1. `  follow by dot that at beginning of line start a numbered list;
-1. Use `;` to separate propositions and lists;
-1. Text enclosed with `**` becomes **bold** and represents comment;
-1. Any text that start with `_` becomes _italic_;
-1. Any text that start with `~` becomes ~strike~;
-1. Notation `[Text](URL)` is used to create hyper-links;
-1. Symbol `#` is header, `##` sub-header (enlarged font);
-1. Commented text HTML notation: <!-- .... --> is supported;
-1. Enumerations are separated by comma, and enclose in brackets `{a,b,c}`;
-1. Use triple back-quotes for inclusion of any foreign language text; 
-1. Use `$` to declare variable in code or in form;
-1. Use `@` to declare vector column or row;
-1. Use `&` to concatenate variables in expressions;
-
-**variables**
-
-You can create a variable anywhere in the Maj text
-
-@PI   = 3.14 ** constant
-
-```
-$var1 = 24, $var2 = 35  ** two variables
-$var2 = {1,2,3} ** a set of variables
-$var3 = [1,1,1] ** a list of variables
-```
-
-**expressions**
-
-Use round parentheses for expressions like in following example:
-
-This expression "var1 + PI" has value ($var1 + @PI);
-
-**code block**
-
-You can create code in Maj using notation `maj:`
-
-maj: _code-name_
-
-Use 3 back-quotes \`\`\` to create a block of code:
-
-```
-** This is a block of code
-```
-
-**Read more:** [code](code.md)
-
-**markup**
-
-Maj enable markup code. That can be HTML, or XML
-
-<html>
-  <h1>Static HTML </h1>  
-  <p> Maj interpreter will not touch the HTML code, 
-      so it can be used only for static content. </p>
-  <p> For dynamic content you can use only expressions </p>    
-</html>
-
-## Input form
-
-To create an input form you can use keyword obio: = to get
-
-obio: $var1
-
- Label        | Values      
---------------|--------------------------------
-"$var1"       | $var1 = 0    
-"$var2"       | $var2 = 0    
-TOTAL         | $var1 + $var2
-
-* first input  = ($var1)
-* second input = ($var2)
-
-**notes**
-
-* You can specify initial value using "=";
-* You can use functions or expressions to output text;
- 
-## Matrix form
-
-You can create a dynamic form using multiple rows:
-
-obio: @values(10,5)
-
- "@values()"  | Values      
---------------|--------------------------------
- ...          | @values
- TOTAL        | +@values
-
-* "@values(1,1) =" @values( 1, 1)
-* "@values(2,1) =" @values( 2, 1)
-
-
-**notes**
-
-* You can specify index number using `...`
-* You can specify multiple values using @values
-* Using 20 you specify 20 active rows for @values
-* Using /5 you can create a form with 5 active rows and scroll bar
 
 
 Great!

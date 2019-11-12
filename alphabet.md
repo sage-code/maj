@@ -5,43 +5,40 @@ Maj is using: [ISO Basic Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic
 **uppercase**
 ```
 A   B   C   D   E   F   G   H   I   J   K   L   Q 
-M   N   O   P   R   S   T   U   V   X   Y   Z   W 
+M   N   O   P   R   S   T   U   V   Z   Y   W   X
 ```
 
 **lowercase**
 ```
 a   b   c   d   e   f   g   h   i   j   k   l  q 
-m   n   o   p   r   s   t   u   v   x   y   z  w 
+m   n   o   p   r   s   t   u   v   z   y   w  x
 ```
-
-**Notes**
-
-* There are 26 letters in Maj alphabet;
 
 ## Pronunciation
 
 Maj alphabet is enhanced to maximize number of sounds and simplify spelling as much as possible.
 
-* The alphabet is identical and restricted to Latin ISO standard;
-* You add a short `ɨ` after each consonant like `eo` in "pidgeon";
+* The alphabet is identical to Latin ISO standard, with 26 letters;
+* You add `y` after each consonant that sounds like group `eo` in "pidgeon";
+* IPA Letter `y` is covered, similar to `â` in Romanian word: "mână" = "hand"
 
 ```
 ---------------------------------------------------
 a   b   c   d   e   f   g   h   i   j   k   l   q
-a   bɨ  cɨ  dɨ  e   fɨ  gɨ  hɨ  i   ʒɨ  ka  lɨ  kiu
+a   by  cy  dy  e   fy  gy  hy  i   jy  ka  ly  kiu
 ---------------------------------------------------
-m   n   o   p   r   s   t   u   v   x   y   z   w
-mɨ  nɨ  o   pɨ  rɨ  sɨ  tɨ  u   vɨ  ʂɨ  ə   zɨ  iu
+m   n   o   p   r   s   t   u   v   z   y   w   x   
+my  ny  o   py  ry  sy  ty  u   vy  zy  iy  iu  sh
 ---------------------------------------------------
 ```
 
 ## Phonetic alphabet
 
-Phonetic symbols are from: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
+We use phonetic symbols are from: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 
 **Notes:** 
 
-* Maj foreign words and phonetic is enclosing words in double quotes :"fonetic".
+* Maj foreign words and phonetic are enclosed with double quotes :"fonetic".
 * Most names from other Romanic languages do not need phonetic translation;
 * New York, Chicago or Washington are read correctly in Maj phonetic;
 
@@ -63,15 +60,14 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 
 _Letter `Y`:_ is pronounced different depending on its position.
 
-1. Sliding: "i" = `i` at the beginning of words like: York, Yes, Yacht;  
-2. Covered: "i" = `ɨ` in the middle of words like "eo" in "pigeon";
-3. Covered: "a" = `ə` is used at end of words  like "ar" in "sugar";
+1. Initial position:"y" = `i` at the beginning of words like: York, Yes, Yacht;  
+2. First position:  "â" = `ɨ` in the middle of words like "eo" in "pigeon";
+3. Second position: "ă" = `ə` is used at end of words  like "ar" in "sugar";
    
 **Notes: **
 
 * Maj is using "y" or "Y" at beginning of words never "i" or "I";
-* For nouns, terminal coda `y` is converted to `e` to make plural;
-* For nouns, terminal coda `y` is converted to `a` to make articulated noun;
+* End of words "y" can be changed into "a" or "e";
 
 _Letter `W`:_  is soft `u`, it is rarely used in the middle of words;
 
@@ -113,25 +109,20 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 Specific groups of two letters can be pronounced different than both letters. Maj digraphs are deterministic, that means the combination of these two letters can not be pronounced in any other way. 
 
-* group `ts` sounds `t͡s` like `ts` in "its";
-* group `ch` sounds `t͡ʃ` like `ch` in "peach"; 
-* group `sh` sounds `ʂ`   like `sh` in "fashion";
-* group `qu` sounds `ku`  like `qu` in "aqua"
+* group `th` sound `t͡s` like `ts` in "its";
+* group `ch` sound `t͡ʃ` like `ch` in "peach"; 
+* group `sh` sound `ʂ`   like `sh` in "fashion";
+* group `qu` sound `ku`  like `qu` in "queue";
+* group `jh` sound `d͡ʒ` like `ge` in "generator";
+* group `nh` sound `ñ`   like Espaniol "niños";
 
-**notes:** 
+**examples:** 
 
-We avoid use of digraphs in the middle of the words:
-
-* Digraph `ch` is replaced by "ca","ce","ci","co","cu" in middle of words; 
-* Digraph `sh` is replaced by "x" in middle of words;
-* Digraph `qu` is used in legacy old words;
-
-Groups: {`ca`,`ce`,`ci,`co`,`cu`} are all digraphs similar to `ch`. 
-
-* "coka"  is read "t͡ʃoca" and it means "chocolate";
-* "koch"  is read "cot͡ʃ"  and it means "coach"
-
-To avoid digraph formation Maj uses modified letters: {"x", "k"} but not all digraphs can be avoided. For example in word "fashion" = "faxy" we avoid two digraphs and the word becomes shorter.
+* "choca" is read "t͡ʃoka"  and it means "chocolate";
+* "cocha" is read "cot͡ʃa"  and it means "coach";
+* "chica" is read "t͡ʃika"  and it means "girl";
+* "shava" is read "ʂava"    and it means "shovel";
+* "thita" is read "t͡sita"  and it means "target";
 
 ## Difficult sounds
 
@@ -143,8 +134,8 @@ R is a difficult letter in Maj. It is like double "rr" in English. To make the t
 
 Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is "ʒ". 
 
-* "jela" = "jell" is pronounced "ʒela"
-* "jaza" = "jaz"  is pronounced "ʒaza"
+* "jela" = "jell" is pronounced "ʒela" or "d͡ʒela"
+* "jaza" = "jaz"  is pronounced "ʒaza" or "d͡ʒaza"
 
 **Plosive G**
 
@@ -152,12 +143,7 @@ Letter "G", "g" is plosive uvular. To pronounce this sound you must press the ba
 
 **Whistled C**
 
-Letter "C", "c" is whistled when followed by {"a","e","i","o", "u", "y", "h"}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch". The best symbol for this sound is "t͡ʃ". 
-
-* Letter "c" before consonant: {"l","t","r","x","s","m","n"} is read "k". 
-* After "c" you can not use: {"c", "v", "z","p","b","d","m","n"} you can use "k".
-
-Using this technique we avoiding tree-graphs: {"cha", "che", "chi", "cho","chu"} but at end of words we can use "ch" digraph. It is not allowed to use "ch" in the middle of a word except if the word is 3 letter long.
+Letter "C", "c" is whistled when followed by "h" in groups {cha, che, chi, cho, chu}. To pronounce this sound you must press the middle of your tongue on the roof top and produce a whistled sound like "ch" in "pich". The best symbol for this sound is "t͡ʃ". 
 
 **Latin Q**
 
@@ -165,57 +151,53 @@ Latin Q must be followed by vowel `u` that is silent in most words. To make this
 
 * Quin: is read "kwin".
 * aqua: is read "akwa"
-* que:  is read "kwe"
-
 
 **Modified: X**
 
-Letter `X` is pronounced like: `sh` in `sheep`. To avoid `ş` pronunciation letter `x` is replaced by `cs`.  To make "x"  sound you must press the middle of your tongue on the roof top of the mouth and produce a sort whispered `s`. To make this sound correctly your tongue is more relaxed than for `s`. The best IPA symbols for this sound is "ʃ" but also similar "ʂ":
+Letter `X` is pronounced like: `sh` in `sheep`. To avoid `ş` pronunciation letter `x` is replaced by `cs`.  To make "x"  sound you must press the middle of your tongue on the roof top of the mouth and produce a whispering sound. To make this sound correctly your tongue is relaxed. The best IPA symbols for this sound is "ʂ". 
 
-* Xue is pronounced "şue" and represent a Chinese name; 
-* Luxembourg is pronounced "Luşemburg" and represents name of a state/town;
+* Two letter word: "sh" exists in Maj and it means "keep quiet";
+* Xue is pronounced "ʂue" and represent a Chinese name; 
+* Luxembourg is pronounced "Luʂemburg" and represents name of a state/town;
 
 If you don't know, Luxembourg has became an independent state in 1867.
 
 **Modified: K**
 
-Letter "k" is used to avoid creation of digraphs: {"ca","ce","ci","co","cu"}. K is more resilient than "c" it does not change its pronunciation. Also letter "k" is used to eliminate double "c". Therefore "cc" is written "kc".
+Letter "k" is used to avoid double "c". Therefore "cc" is written "kc". For word creation, we prefer using "k" for interrogative prepositions: {ka, ke, ki, ko, ku}. 
 
-* akcidy = accident; 
-* kesa   = ceez; 
+* ka = "not?"  
+* ke = "what?" 
+* ki = "who?"  
 
 ##Voiced `h`
 
-In some languages, "h" is silent but in Maj, h is usually voiced.
+Letter "h" is usually voiced but sometimes it is silent.
 
 * Letter `h` is voiced at beginning of words;
 * Letter `h` is not voiced when is following a consonant;
+* Letter `h` is used after {`c`, `s`, `t`} to make digraphs.
 
-**Notes** 
+## Maj phonetic
 
-* Letter `h` can be used after `c` to make sound `t͡ʃ` like in word: `peach`.
-* Letter `h` can be used after `s` to make sound `ʃ` like in word: `she`.
+We could write English words using Maj phonetic equivalent like this:
 
-## English phonetic
-
-We could write English words using Maj alphabet like this:
-
-* its       :"its"
+* its       :"iths"
 * she       :"xi"
-* generator :"jeneretyr"
-* pigeon    :"pijyn"
-* giraffe   :"jiraf"
-* fusion    :"fujyn"
+* generator :"jheneretyr"
+* pigeon    :"pijhyn"
+* giraffe   :"jhiraf"
+* fusion    :"fujhyn"
 * guitar    :"gitar"
 * geese     :"gis"
-* cheese    :"ciz"
+* cheese    :"chiz"
 * accident  :"acsidy" 
-* chocolate :"coclyt"
+* chocolate :"choclyt"
 * peach     :"pich"
 * speech    :"spich"
-* initial   :"inixyl"
+* initial   :"ynixyl"
 * fashion   :"faxyn"
-* yacht     :"iot"
+* yacht     :"yot"
 
 
 ## Two consonants

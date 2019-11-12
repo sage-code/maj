@@ -255,7 +255,6 @@ out  |outside |fuera de
 por  |by      |por
 dur  |through |mediante
 per  |across  |a través de
-pisu |own     |propio
 tum  |for     |para
 pue  |after   |después
 pos  |behind  |detrás

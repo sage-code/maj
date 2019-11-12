@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an innovative new language designed for artificial reasoning: (AR)
+Maj is an artificial language for communication and artificial reasoning;
 
 **Attributes:**
 
@@ -8,8 +8,9 @@ Maj is an innovative new language designed for artificial reasoning: (AR)
 2. Efficient;
 3. Deterministic;
 
-* Maj is pragmatic and reasonable. It have short words easy to remember.
-* Maj is using Latin alphabet with 26 letters, no cedilla and no accents.
+* Maj is pragmatic and regular. 
+* Maj has logical strictures easy to grasp;
+* Maj is using Latin alphabet with 26 letters;
 
 **Goals ...**
 
@@ -19,7 +20,7 @@ Maj is an innovative new language designed for artificial reasoning: (AR)
 4. Maj is for friendship;
 5. Maj is for entertainment;
 
-Maj is designed to chat with your close friends and family.
+Maj is designed to chat with your friends, community and family.
 
 Rad more: [use cases](case.md)
 
@@ -123,21 +124,21 @@ You can learn most frequent Maj words organized by grammatical category:
 
 You can learn more words from examples organized by specific domain of knowledge:
 
-gore = groups
+chi = chia  = science
 
-1. suta'go = [structure](words/structure)
-1. infa'go = [information](words/information.md)
-1. paco'go = [space](words/space.md)
-1. tesa'go = [time](words/time.md)
-1. xesa'go = [processes](words/processes.md)
-1. mova'go = [movement](words/movement.md)
-1. fiza'go = [physical world](words/physical world.md)
-1. nara'go = [nature](words/nature.md)
-1. viva'go = [life](words/life.md)
-1. siha'go = [psychology](words/psychology.md)
-1. fama'go = [family](words/family.md)
-1. huma'go = [human culture](words/human culture.md)
-1. teha'go = [technology](words/technology.md)
+1. suta'chi = [structure](words/structure)
+1. infa'chi = [information](words/information.md)
+1. paca'chi = [space](words/space.md)
+1. tesa'chi = [time](words/time.md)
+1. xesa'chi = [processes](words/processes.md)
+1. mova'chi = [movement](words/movement.md)
+1. fiza'chi = [physical world](words/physical world.md)
+1. nara'chi = [nature](words/nature.md)
+1. viva'chi = [life](words/life.md)
+1. siha'chi = [psychology](words/psychology.md)
+1. fama'chi = [family](words/family.md)
+1. huma'chi = [human culture](words/human culture.md)
+1. teha'chi = [technology](words/technology.md)
 
 
 ## Contribution
