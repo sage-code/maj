@@ -114,9 +114,12 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 Specific groups of two letters can be pronounced different than both letters. Maj digraphs are redundant. That means the combination of these two letters can be replaced by another letter. This makes Maj words shorter than English words.
 
-* group `ts` = `c` sounds `t͡s` like `ts` in  "cats": listen
-* group `ch` = `q` sounds `t͡ʃ` like `ch` in  "peach"; 
-* group `sh` = `x` sounds `ʂ`   like `sh` in  "fashion";
+* group `ts` = `c` sounds `t͡s` like `ts` in  "cats": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
+* group `ch` = `q` sounds `t͡ʃ` like `ch` in  "peach": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate)
+* group `sh` = `x` sounds `ʂ`   like `sh` in  "fashion": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative)
 
 **examples:** 
 
@@ -128,17 +131,17 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 
 **notes:**
 
-1. English is inconsistent when is about digraphs. Sometimes "ch" is read "k" and other times `ʂ`. Therefore in English you must learn how to "spiel". However, Maj is more deterministic. Maj can be written "by ear" and read using strict rules.
+1. English is inconsistent when is about digraphs. Sometimes "ch" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write "by ear".
 
 * chemical  = IPA:"kemicəl"
 * chocolate = IPA:"ʂoklət"
 
-2. In English sounds "ce", "ci" is pronounced "se", "si", but "c" is pronounced "t͡s" in Maj. Therefore if we read next two English using Maj rules we have a bit different pronunciation but very close: 
+2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s". Therefore if we read next two English using Maj rules you have a similar pronunciation: 
 
 * cerebellum = IPA: "t͡serəbelum"
 * cigarette  = IPA: "t͡sigəret"
 
-In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Letter "C" also represent "carbon" element that is written "caba" = IPA:"t͡saba".
+In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Uppercase "C" also represent "carbon" chemical element that is written "carba" = IPA:"t͡sarba" no need to write "karba" this could be confusing since "K" = "kaola" si for potassium.
 
 ## Difficult sounds
 
@@ -172,7 +175,7 @@ Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip 
 
 Letter "G", "g" is plosive uvular. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
 
-**Latin Q**
+**Modified: Q**
 
 Latin Q in Latin and Spanish must be followed by vowel `u`. Maj reuse free "Q" for making a very useful sound: "t͡ʃ" like "ch" in "chin". This eliminate the need to use digraph "ch" in quick conversations. However when "q" is followed by "u" tha reading rule fall back, to allow correct pronounciation of original "Q":
 
