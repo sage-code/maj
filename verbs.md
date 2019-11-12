@@ -76,7 +76,7 @@ Use termination 'go to make a noun.
 
 * yo seru'pa una joku'go = I was a player
 * nu seru'fu ale joku'go = we will be all players
-* eso seru'so una movu'go por paca = un movement for peace
+* eso seru'so una movu'go pu paca = un movement for peace
 
 
 ## Reflexive form
@@ -104,25 +104,23 @@ rog = please (favor)
 
 ## Short verbs
 
-Some very important verbs have a short form:
+Some frequent verbs have an alternative short form:
 
-* ke = keru = want (ask)
-* se = seru = is (to be)
+* es = estu = is (to be)/(to exist) 
 * ha = haru = have
-* fa = faru = do
-* po = povu = can (able)
+* fa = faru = do (to do)
+* po = povu = can (to be able)
 * da = daru = wish
-* do = dovu = have (must)
+* do = dovu = must
 * ve = veru = see
 * yr = yrdu = go
 * ci = civu = know
 
-
 **example:**
 
-* yo se tido   = I am tired
-* zu se ka'hir = he is not here
-* ha una kupa de 
+* yo es tido   = I am tired
+* zu es kan hir = they are not here
+* zi ha una kupa de kifa = have one cup of coffee
 
 **note:**
 

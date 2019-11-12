@@ -66,7 +66,7 @@ Is the person or the thing who perform the action.
 -----|------------------|-----------------------------
   1  | yo = I           | nu  = we
   2  | tu = you         | vu  = y'all
-  3  | hi = he, she, it | zu  = they
+  3  | xu = he, she, it | zu  = they
 
 **Objective**
 
@@ -74,19 +74,19 @@ Is the person or the thing who receive the action.
 
  ps | singular         | plural     
 ----|------------------|-----------------------------
- 1  | mi = me          | nu = us   
- 2  | ti = you         | vu = y'all
- 3  | hi = him/her     | zu = them 
+ 1  | mi = me          | ne = us   
+ 2  | ti = you         | vy = y'all
+ 3  | xi = him/her/it  | zy = them 
 
 **Accusative**
 
 The accusative case is the grammatical case used to mark the direct object of a transitive verb. 
 
- ps | singular         | plural     
-----|------------------|-----------------------------
- 1  | mis = to me      | noy = to us   
- 2  | tis = to you     | voy = to y'all
- 3  | his = to him/her | zoy = to them 
+ ps | singular             | plural     
+----|----------------------|-----------------------------
+ 1  | mi = for me          | noy = for us   
+ 2  | ti = for you         | voy = for y'all
+ 3  | xi = for him/her/it  | zoy = for them 
  
 Note: "y" is pronounced "ə": { "noə","voə","zoə" }
  
@@ -94,13 +94,19 @@ Note: "y" is pronounced "ə": { "noə","voə","zoə" }
 
 Is a composite word for a person or object who own something or have something.
 
-verb: haru = to have
+verbs: 
 
-singular       | plural
----------------|--------------------------------
-mia = mine     | nua = ours
-tia = your     | vua = yours
-hia = his, hers| zua = theirs
+* haru = to have
+* posu = to posses
+
+adjective: poso = own
+
+
+singular             | plural
+---------------------|--------------------------------
+mia = mine           | nua = ours
+tia = your           | vua = yours
+xia = his, hers, its | zua = theirs
 
 **notes:** 
 
@@ -116,7 +122,7 @@ To make reflexive we use coda "sy" = "self"
 
 * mi'sy = myself;
 * ti'sy = yourself; 
-* hi'sy = himself/ itself
+* xi'sy = himself/ itself
 * nu'sy = ourselves; 
 * vu'sy = yourselves; 
 * zu'sy = themselves; 
@@ -128,8 +134,8 @@ This is used as an augment for verb to create a new meaning.
 hai = let's
 
 
-* hai boscu zu = let's search him
-* nu dovu boscu zu = we have to search him
+* ha bosu xo = let's search him
+* nu do bosu xo = we must search him
 
 ## Verbs
 
@@ -169,7 +175,7 @@ Read more about: [verbs](verbs.md)
 
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
-* amu   = now   (Romanian acuma)
+* amu   = now   (Spanish ahora)
 
 **composite**
 
@@ -197,7 +203,7 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * yo vidu'pa ti un'foa!  = I have seen you one time!
-* hi vidu'pa vu ni'foa!  = He have never seen y'all!
+* xi vidu'pa vu ni'foa!  = He have never seen y'all!
 * tu vidu'fu mi suv!     = You will see me often!
 * nu podo vidu'so zu amu!= We can see them now!
 
@@ -215,11 +221,11 @@ ka      | no?      | non     | nu?
 
 Composite interrogations using preposition "de" and noun:
 
-maj         | english  | spanish | 1:1 translation
-------------|----------|---------|---------------
-de ke tesa? | when?    | cuando  | about what time?
-de ke loka? | where?   | donde   | about what location?
-po ke reza? | why?     | por qué | for what reason?
+maj        |New  | english  | spanish | 1:1 translation
+-----------|-----|----------|---------|---------------
+de ke tesa?|uta  | when?    | cuando  | about what time?
+de ke loka?|ubi  | where?   | donde   | about what location?
+de ke reza?|ura  | why?     | por qué | for what reason?
 
 
 **examples**
@@ -227,7 +233,7 @@ po ke reza? | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke magu'fu tu  ?  = what are you going to eat ?
-* ki seru'pa ibi ?  = who was there?
+* ki seru'pa ybi ?  = who was there?
 * ku seru'so tu  ?  = how are you ?   
 * ka magu'fu tu  ?  = you have not eaten ?
 
@@ -250,7 +256,7 @@ You can use `von ubi`, or `tsu ubi` instead of `loka`.
 
 Possible answers:
 
-* von hir tsu ibi! = from here to there!
+* von hir tsu ybi! = from here to there!
 * von loka ke tu picu!  = from a place you like!
 * von tesa ke lo oviu!  = from a forgotten time!
 
@@ -264,6 +270,8 @@ The interogative question can be answered with affirmative or negative:
 
 * si / asi = ye / yes
 * ka / kan = no /  not
+
+
 
 **polite**
 
@@ -342,8 +350,8 @@ ese pane = these breads
 
 3. Descriptive article _descriptive form:_
 
-de  = of the
-des = about
+de    = of 
+de la = of the
 
 **example:**
 
@@ -393,7 +401,7 @@ Invariant noun is terminated in "s" or other consonant:
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
 * kan  = not  - create antonyms
-* tum  = for  - specify purpose
+* tum  = for  - specify purpose / person
 * ati  = anti - against / opposite 
 * eko  = echo - environment friendly / organic
 
@@ -452,11 +460,10 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to cinema or we go to supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:**  ita  = and
+**Maj:**  etu  = and
 
-```
-Marc ita Alice and'upa la plaia 
-```
+Marc etu Alice andu'pa la plaia;
+
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -464,13 +471,11 @@ Franch  | et     | Marc et Alice vont à la plage
 English | and    | Marc and Alice go to the beach
 Spanish | y      | Marc y Alice van a la playa
 
-**Maj:** asi = so
+**Maj:** asi = so, thus
 
 * seru = to be
 
-```
 asi seru'fu tu!
-```
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -478,7 +483,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** noh = yet
+**Maj:** noh = now
 
 * tesa = time
 * muro = dead
@@ -492,7 +497,8 @@ la tesa-muro dovu rejo noh es poso
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
 Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
-English | now,yet| The deadlines must be met, yet this is not possible
+English | yet    | The deadlines must be met, yet this is not possible
+English | now    | The deadlines must be met, now this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **Maj:** nor = neither (first negation)
@@ -504,10 +510,11 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 *  gema = money
 *  reha = gift
 
-```
-zu sohu'ka nor gema ni reha;
-zu keru'ka nor gema ni reha;
-```
+**translate:**
+
+* zu sohu'ka nor gema ni reha;
+* zu keru'ka nor gema ni reha;
+
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -515,15 +522,16 @@ Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
 English | nor    | He doesn’t want neither money nor gifts
 Spanish | ni     | No quiere ni dinero ni regalos.
 
-**Maj:** ky  = because
+**Maj:** kyz  = because
 
 * kamo  = to be calm
 * xedu  = to seat
 * nito  = to be nice
 
-```
-zu xedu kalmo ky zu es nito
-```
+**translate:**
+
+zu xedu kalmo ky zu es nito;
+
 
 Lang    | Word    |  Example
 --------|---------|----------------------------------------------

@@ -38,9 +38,9 @@ x | maj  | xx | maj           | xx | maj     |
 1 | una  | 11 | un'diz+una    | 10 | un'diz  |
 2 | dua  | 12 | un'diz+dua    | 20 | du'diz  |
 3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
-4 | pen  | 14 | un'diz+pen    | 40 | pe'diz  |
-5 | fin  | 15 | un'diz+fin    | 50 | fi'diz  |
-6 | zen  | 16 | un'diz+zen    | 60 | ze'diz  |
+4 | qua  | 14 | un'diz+pen    | 40 | qu'diz  |
+5 | pen  | 15 | un'diz+pen    | 50 | pe'diz  |
+6 | sen  | 16 | un'diz+sen    | 60 | se'diz  |
 7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
 8 | oca  | 18 | un'diz+oca    | 80 | oc'diz  |
 9 | nov  | 19 | un'diz+nov    | 90 | no'diz  | 
@@ -87,7 +87,7 @@ Franch:  lieu,  ordre, position
  300 =  re'cen
  400 =  pe'cen
  500 =  pi'cen
- 600 =  ze'cen
+ 600 =  se'cen
  700 =  xe'cen
  800 =  oc'cen
  900 =  ne'cen
@@ -97,8 +97,8 @@ Franch:  lieu,  ordre, position
 * Symbol "-" is newer read, it is a "legato", (you do not pause)
 
 ```
- 125 = un'cen+dua'diz+fif
- 555 = fi'cen+fif'diz+fif
+ 125 = un'cen+dua'diz+pen
+ 555 = pe'cen+pen'diz+pen
  801 = oc'cen+uno
 ```
 
@@ -110,12 +110,12 @@ Franch:  lieu,  ordre, position
  1,000 = un'mil
  2,000 = du'mil
  3,000 = re'mil
- 4,000 = pe'mil
- 5,000 = pi'mil
- 6,000 = ze'mil
+ 4,000 = qu'mil
+ 5,000 = pe'mil
+ 6,000 = se'mil
  7,000 = xe'mil
  8,000 = oc'mil
- 9,000 = ne'mil
+ 9,000 = no'mil
 ```
 
 **Millions  = mon**
@@ -150,10 +150,10 @@ vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dva      | one bit  (dua vala)
-8   | ova      | one word (oca vala)
+0/1 | dva      | bit:  dua-vala
+8   | ova      | word: oca-vala
 16  | du'ova   | short integer
-32  | pe'ova   | integer
+32  | qu'ova   | integer
 64  | oc'ova   | long integer
 
 ## Counting:
@@ -161,7 +161,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... ria dua uno nil eto razu aus !!! 
+* ... ria dua uno nil etu razu aus !!! 
 
 Griat!
 

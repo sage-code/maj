@@ -118,7 +118,8 @@ Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
 von   | from     | von    | de       | de      | de
 tsu   | toward   | zu     | la       | vers    | para
-par   | by       | durch  | prin     | por     | par
+por   | by       | durch  | prin     | por     | por
+via   | via      | über   | via      | via     | vía
 aus   | off      | aus    | din      | de      | apagado
          
          
@@ -143,8 +144,7 @@ iny     |inside the          |dentro           | innerhalb
 aut     |out                 |fuera            | draußen
 cot     |beside, next to     |al lado, cerca   | neben
 pos     |behind the          |detrás           | hinter
-vor     |in front            |Al frente        | vor
-pri     |prior               |anterior         | vor
+vor     |prior, in front of  |anterior         | vor
 fra     |between             |entre            | zwischen
 pue     |after               |despue           | nach  
 top     |on top              |encima           | oben drauf
@@ -156,8 +156,8 @@ jos	    |down                |abajo            | nieder
 ubi     |where               |donde            | wo
 abo	    |above	             |encima           | über
 hir     |here                |aqui             | hier
-ibi     |there               |ahi              | dort
-far     |far from            |lejos            | weit
+der     |there               |ahi              | dort
+lon     |far from            |lejos            | weit
 nah     |near, close by      |cerca            | in der nähe
 yet     |yet                 |todavía          | noch 
 
@@ -184,14 +184,14 @@ Following prepositions may be used in logical arguments.
 
  Maj | English | Description
 -----|---------|------------------------------------
- axa | correct | agree with
+ axa | right   | correct, agree with
  asi | yes     | affirmative
  kan | not     | negative 
- uel | or      | conjunction
- eto | and     | conjunctive
- dar | but     | positive alternative
- nor | neither | negative alternative 
- sif | if      | conditional
+ uel | or      | either
+ eta | and     | also
+ dar | but     | alternative
+ nor | neither | alternative 
+ ven | if      | conditional (German wenn)
  tal | maybe   | possible
  puo | can     | has the capability
  dot | must    | mandatory
@@ -199,13 +199,13 @@ Following prepositions may be used in logical arguments.
  fob | may not | is forbidden
  den | then    | time consequence
  tan | so      | to such a great extent.
- cas | case    | when is the case
+ kaz | case    | when is the case
  uta | when    | establish event
  dus | thus    | therefore, hence, so, then, thus 
  kum | as,like | comparative, how 
  mem | same    | identical
  vir | while   | while condition
- cyz | because | cause of a consequence
+ bor | because | as, since, cause of a consequence
  
 ## Dictionary
 
@@ -223,7 +223,7 @@ bei  |at      |la
 dan  |in      |en
 dar  |but     |pero
 des  |about   |sobre
-ibi  |there   |ahí
+ybi  |there   |ahí
 des  |of the  |del
 dus  |then    |entonces
 eko  |still   |todavía
@@ -238,7 +238,7 @@ com  |as,like |como
 kon  |with    |con
 kot  |nextto  |cerca de
 lag  |along   |a lo largo
-lej  |far     |lejos
+lon  |far     |lejos
 mei  |may     |mayo
 nah  |close   |cerca
 nah  |near    |cerca
@@ -252,35 +252,32 @@ oru  |any     |alguna
 oto  |else    |más
 out  |out     |fuera
 out  |outside |fuera de
-par  |by      |por
-par  |through |por
-par  |through |mediante
+por  |by      |por
+dur  |through |mediante
 per  |across  |a través de
 pisu |own     |propio
-por  |for     |para
+tum  |for     |para
 pue  |after   |después
 pos  |behind  |detrás
-ky   |because |porque
 ke   |what    |qué
 ki   |who     |quien
 ko   |how     |cómo
 ku   |which   |cual
 rog  |please  |Por favor
-sif  |if      |Si
+ven  |if      |Si
 som  |some    |algunos
 sub  |beneath |debajo
 sus  |up      |arriba
 top  |top     |parte superior
 tor  |back to |de regreso
-tsu  |to      |a
+la   |to      |a
 tsu  |to,at   |para
 tzu  |towards |hacia
 ubi  |where   |dónde
 uma  |around  |alrededor
-una  |an      |un
-una  |one     |uno
-ita  |and     |y
+una  |one, an |uno, un
+eta  |and     |y
 uta  |when    |cuando
-uxa  |why     |por qué
+ura  |why     |por qué
 von  |from    |de
 vor  |front   |frente

@@ -124,7 +124,7 @@ We avoid use of digraphs in the middle of the words:
 
 * Digraph `ch` is replaced by "ca","ce","ci","co","cu" in middle of words; 
 * Digraph `sh` is replaced by "x" in middle of words;
-* Digraph `qu` is rarely used in middle of words;
+* Digraph `qu` is used in legacy old words;
 
 Groups: {`ca`,`ce`,`ci,`co`,`cu`} are all digraphs similar to `ch`. 
 
