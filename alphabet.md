@@ -107,9 +107,9 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 
 **examples:** 
 
-* "qoka"  is read IPA:"t͡ʃoka"  and it means Eng: "chocolate";
-* "koqa"  is read IPA:"kot͡ʃa"  and it means Eng: "coach";
-* "qica"  is read IPA:"t͡ʃika"  and it means Eng: "girl";
+* "qoka"  is read IPA:"t͡ɕoka"  and it means Eng: "chocolate";
+* "koqa"  is read IPA:"kot͡ɕa"  and it means Eng: "coach";
+* "qika"  is read IPA:"t͡ɕika"  and it means Eng: "girl";
 * "xava"  is read IPA:"ʂava"    and it means Eng: "shovel";
 * "cita"  is read IPA:"t͡sita"  and it means Eng: "target";
 
@@ -117,7 +117,7 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 
 1. English is inconsistent when is about digraphs. Sometimes "ch" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write "by ear".
 
-* chemical  = IPA:"kemicəl"
+* chemical  = IPA:"kemikəl"
 * chocolate = IPA:"ʂoklət"
 
 2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s". Therefore if we read next two English using Maj rules you have a similar pronunciation: 
@@ -161,15 +161,17 @@ Letter "G", "g" is plosive uvular. To pronounce this sound you must press the ba
 
 **Modified: Q**
 
-Latin Q in Latin and Spanish must be followed by vowel `u`. Maj reuse free "Q" for making a very useful sound: "t͡ʃ" like "ch" in "chin". This eliminate the need to use digraph "ch" in quick conversations. However when "q" is followed by "u" tha reading rule fall back, to allow correct pronounciation of original "Q":
+In Maj, "Q" is used to create a familiar sound to Italian: "t͡ɕ" that is like "ch" in "chin" or "chicken". This eliminate the need to use digraph "ch" in in middle of the word, thus making the word shorter. At end of word though we use "ch".  
 
-* Maj word "Quin" = "Queen" is read in Maj:"kwin";
-* Maj word "aqua" = "water" is read in Maj:"akwa";
-* Maj word "qoka" = "chocolate" is read in Maj:"choka";
+However, original "Q" using Lating combination "Qu" is redesign using "qw" this free group "qu" to be read "chu" and enable pronunciation of original Q in some inherited words.
+
+* Maj word "Qwin" = "Queen" is read like IPA: "kwin";
+* Maj word "aqwa" = "water" is read like IPA: "akwa";
+* Maj word "qoka" = "chocolate" is read in IPA: "t͡ɕoka";
 
 **Modified: X**
 
-Letters `X` and `x` are pronounced like: `sh` in `sheep`. To avoid `ş` you can use group `cs`.  To make "ş"  sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
+Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `cs`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
 * Word: "sh" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
@@ -190,35 +192,39 @@ Some Maj words starting with "k":
 Special uses of "K" in science:
 
 * Kg = Kilogram (metric unit);
-* K  = Potassium element;
+* K  = Potassium chemical element;
+
+**note:**
+
+Letter "c" is very rarely used at end of words. Instead we use "k" that is also called stop letter.
 
 ##Voiced `h`
 
-Letter "h" is usually voiced but sometimes it is silent.
+Letter "h" is usually voiced but sometimes, silent.
 
 * Letter `h` is voiced at beginning of words;
 * Letter `h` is not voiced when is following a consonant;
-* Letter `h` is used after {`c`, `s`, `t`} to make digraphs.
+* Letter `h` is used after {`c`, `s`, `t`} to make digraph.
 
 ## Maj phonetic
 
-We could write English words using Maj phonetic equivalent like this:
+We could write English sounds using Maj phonetic equivalent like this:
 
-* its       :"iths"
+* its       :"yts"
 * she       :"xi"
-* generator :"djeneretyr"
-* pigeon    :"pidjyn"
+* generator :"djeneretўr"
+* pigeon    :"pidjŷn"
 * giraffe   :"djiraf"
-* fusion    :"fudjyn"
+* fusion    :"fudjўn"
 * guitar    :"gitar"
 * geese     :"gis"
-* cheese    :"chiz"
-* accident  :"acsidy" 
-* chocolate :"choclyt"
+* cheese    :"qiz"
+* accident  :"aksidў" 
+* chocolate :"xokclў"
 * peach     :"pich"
 * speech    :"spich"
-* initial   :"ynixyl"
-* fashion   :"faxyn"
+* initial   :"ynixўl"
+* fashion   :"faxўn"
 * yacht     :"yot"
 
 

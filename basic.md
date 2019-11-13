@@ -424,6 +424,7 @@ Some nouns are terminated with "osa" or "ola" vowel to indicate harmful content:
 * la ceola  = the chocolate drops with alcohol
 * la ugosa  = extra sweet juice 
 * la ugola  = juice mixed with alcohol 
+  
     
 **read next:**
 
