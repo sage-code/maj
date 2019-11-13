@@ -5,13 +5,13 @@ Maj is using 26 letters: [ISO Latin Alphabet](https://en.wikipedia.org/wiki/ISO_
 **uppercase**
 ```
 A   B   C   D   E   F   G   H   I   J   K   L   Q 
-M   N   O   P   R   S   T   U   V   Z   Y   W   X
+M   N   O   P   R   S   X   T   U   V   Z   Y   W   
 ```
 
 **lowercase**
 ```
-a   b   c   d   e   f   g   h   i   j   k   l  q 
-m   n   o   p   r   s   t   u   v   z   y   w  x
+a   b   c   d   e   f   g   h   i   j   k   l   q 
+m   n   o   p   r   s   x   t   u   v   z   y   w  
 ```
 
 ## Pronunciation
@@ -20,64 +20,48 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 
 ```
----------------------------------------------------
-a   b   c   d   e   f   g   h   i   j   k   l   q
-a   by  cy  dy  e   fy  gy  hy  i   jy  ka  ly  chy
----------------------------------------------------
-m   n   o   p   r   s   t   u   v   z   y   w   x   
-my  ny  o   py  ry  sy  ty  u   vy  zy  iy  iu  shy
----------------------------------------------------
+-----------------------------------------------------
+a   b   c   d   e   f   g   h   i  j   k   l   q
+ʌ   bɨ  cɨ  dɨ  e   fɨ  ɢɨ  xɨ  i  ʒɨ  kʌ  lɨ  t͡ɕʌ
+-----------------------------------------------------
+m   n   o   p   r   s   x   t   u  v   z   y   w    
+mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u  vɨ  zɨ  ə   u͡ʌ
+-----------------------------------------------------
 ```
 
-**Reading:**
-
-Before you can read the Maj alphabet, you must learn the pronounce of each letter.
-
 **Notes:**
+
+We use phonetic symbols: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 
 * Maj has voiced, articulated and clear sounds easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
 * You will never bite yourself or spit around when you speak Maj;
-
-## Phonetic alphabet
-
-We use phonetic symbols from: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
-
-**Notes:** 
-
 * Maj foreign words and phonetic are enclosed with double quotes like:"fonetic".
-* Most names from other Romanic languages do not need phonetic translation;
-* New York, Chicago or Washington are read correctly in Maj phonetic;
 
 ## Vowels
 
 The vowels are read like in Italian. Romanian and Spanish not English or German;
 
-* Letter `a`  is open central vowel, like `a` in `car`;
+* Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
 * Letter `i`  is close front, like first `i` in `initial`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
-**Notes: **
-* Tone of the language is not significant in Maj;
-* Maj is a written language and there is no aid for accent;
-* All vowels are read, even the last vowel called coda is read;
-
 ## Semi vowels
 
 _Letter `Y`:_ is pronounced different depending on its position.
 
-1. Initial position: "y" = `i` at the beginning of words like: York, Yes, Yacht;  
+1. Initial position: "y" = `ʎ` at the beginning of words like: "yet", "yellow";  
 2. First   position: "ŷ" = `ɨ` in the middle of words like "eo" in "pigeon";
-3. Second  position: "ў" = `ə` is used at end of words  like "ar" in "sugar";
+3. Second  position: "ў" = `ə` or at end of words sounds like "ar" in "sugar";
    
 **Notes: **
 
-* Maj is using "y" or "Y" at beginning of words never "i" or "I";
+* Maj is using "y" or "Y" at beginning of words not "i" nor "I";
 * Maj letters "ŷ", "ў" can be present in elevated writings (story books);
 
-_Letter `W`:_  is called soft `u`, is mostly used at beginning of words words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wi", "wo", "wu","wy"}. The vowel is much longer than usual, forming words like: 
+_Letter `W`:_  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wi", "wo", "wu","wy"}. The vowel after "w" is much longer than usual: 
 
 * wa: "uaa" (administration)
 * wo: "uoo" (surprise)
@@ -349,11 +333,11 @@ Letters and sounds are more or less expensive to make. This is call _weight_ and
 
 Weight |Sounds
 -------|----------------------------------------
-  1    |a, e, i, o, u, y
-  2    |l, m, n, f, s, h
-  3    |b, c, d, p, t, g  
-  4    |v, j, r, z, q, x
-  5    |k, w
+  1    |a, e, i, o, u, y 
+  2    |l, m, n, f, s, x 
+  3    |b, c, d, p, t, h  
+  4    |v, j, r, z, k, g
+  5    |q, w
 
 **Cost:**  
 
