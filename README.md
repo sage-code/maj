@@ -76,11 +76,9 @@ Maj is using the power of 3 to organize sentences and words:
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
-1. There are 3 cases for pronouns: {nominative, objective, possessive};
-1. There are 3 very important physical worlds: {inside, outside, cosmic};
+1. There are 3 cases: {nominative, objective, possessive};
 
-
-Next 3 essential documents will teach you first words in Maj:
+Next 3 essential documents will teach you basic elements:
 
 * [The alphabet](alphabet.md)
 * [The numerals](numerals.md)
@@ -88,7 +86,7 @@ Next 3 essential documents will teach you first words in Maj:
 
 ## Grammar
 
-You can learn most frequent Maj words organized by grammatical category:
+You can learn more Maj elements organized by word category:
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
@@ -98,23 +96,28 @@ You can learn most frequent Maj words organized by grammatical category:
 
 ## Lexicon
 
-You can learn more words from examples organized by specific domain of knowledge:
+You can learn Maj words organized by specific knowledge domain:
 
 'xa  = xatu = to know
 
-1. suta'xa = [structure](words/structure)
+1. suta'xa = [structure](words/structure.md)
 1. infa'xa = [information](words/information.md)
 1. paca'xa = [space](words/space.md)
 1. tesa'xa = [time](words/time.md)
 1. xesa'xa = [processes](words/processes.md)
 1. mova'xa = [movement](words/movement.md)
-1. fiza'xa = [physical world](words/physical world.md)
+1. fiza'xa = [physical world](words/physical_world.md)
 1. nara'xa = [nature](words/nature.md)
 1. viva'xa = [life](words/life.md)
-1. siha'xa = [psychology](words/psychology.md)
+1. piha'xa = [psychology](words/psychology.md)
 1. fama'xa = [family](words/family.md)
-1. huma'xa = [human culture](words/human culture.md)
+1. huma'xa = [human culture](words/human_culture.md)
 1. teha'xa = [technology](words/technology.md)
+
+**Note:**
+
+* The above distribution do not include all Maj.
+* Maj dictionary is work in progress;
 
 ## Contribution
 
