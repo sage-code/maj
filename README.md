@@ -100,22 +100,21 @@ You can learn most frequent Maj words organized by grammatical category:
 
 You can learn more words from examples organized by specific domain of knowledge:
 
-chi = chia  = science
+'xa  = xatu = to know
 
-1. suta'chi = [structure](words/structure)
-1. infa'chi = [information](words/information.md)
-1. paca'chi = [space](words/space.md)
-1. tesa'chi = [time](words/time.md)
-1. xesa'chi = [processes](words/processes.md)
-1. mova'chi = [movement](words/movement.md)
-1. fiza'chi = [physical world](words/physical world.md)
-1. nara'chi = [nature](words/nature.md)
-1. viva'chi = [life](words/life.md)
-1. siha'chi = [psychology](words/psychology.md)
-1. fama'chi = [family](words/family.md)
-1. huma'chi = [human culture](words/human culture.md)
-1. teha'chi = [technology](words/technology.md)
-
+1. suta'xa = [structure](words/structure)
+1. infa'xa = [information](words/information.md)
+1. paca'xa = [space](words/space.md)
+1. tesa'xa = [time](words/time.md)
+1. xesa'xa = [processes](words/processes.md)
+1. mova'xa = [movement](words/movement.md)
+1. fiza'xa = [physical world](words/physical world.md)
+1. nara'xa = [nature](words/nature.md)
+1. viva'xa = [life](words/life.md)
+1. siha'xa = [psychology](words/psychology.md)
+1. fama'xa = [family](words/family.md)
+1. huma'xa = [human culture](words/human culture.md)
+1. teha'xa = [technology](words/technology.md)
 
 ## Contribution
 

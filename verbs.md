@@ -70,7 +70,7 @@ joku => joku'lo = playful
 
 **go = er**
 
-gora = group
+go = gora = group
 
 Use termination 'go to make a noun.
 
@@ -120,7 +120,7 @@ Some frequent verbs have an alternative short form:
 
 * yo es tido   = I am tired
 * zu es kan hir = they are not here
-* zi ha una kupa de kifa = have one cup of coffee
+* tu ha una kupa de kifa = you have one cup of coffee
 
 **note:**
 

@@ -31,12 +31,22 @@ mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u  vɨ  zɨ  ə   u͡ʌ
 
 **Notes:**
 
-We use phonetic symbols: [IPA](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
-
 * Maj has voiced, articulated and clear sounds easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
 * You will never bite yourself or spit around when you speak Maj;
-* Maj foreign words and phonetic are enclosed with double quotes like:"fonetic".
+
+**Reference:**
+
+We use phonetic symbols: 
+
+* [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
+* [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+
+**Phonetic:**
+
+* Maj phonetic is enclosed with double quotes: MAJ:"fonetik";
+* IPA phonetic is enclosed with double quotes: IPA:"fonetic";
+* English words are enclosed in double quotes: ENG:"phonetic";
 
 ## Vowels
 
@@ -103,27 +113,30 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 * group `ch` = `q` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate)
 * group `sh` = `x` sounds `ʂ`   like `sh` in  "fashion": 
-[listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative)
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* group `ji` = `x` sounds `d͡ʒi` like `gi` in  "giraffe";
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* group `je` = `x` sounds `d͡ʒe` like `ge` in  "generator";
 
 **examples:** 
 
-* "qoka"  is read IPA:"t͡ɕoka"  and it means Eng: "chocolate";
-* "koqa"  is read IPA:"kot͡ɕa"  and it means Eng: "coach";
-* "qika"  is read IPA:"t͡ɕika"  and it means Eng: "girl";
-* "xava"  is read IPA:"ʂava"    and it means Eng: "shovel";
-* "cita"  is read IPA:"t͡sita"  and it means Eng: "target";
+* qoka => IPA:"t͡ɕoka"  = "chocolate";
+* koqa => IPA:"kot͡ɕa"  = "coach";
+* qika => IPA:"t͡ɕika"  = "girl";
+* xava => IPA:"ʂava"    = "shovel";
+* cita => IPA:"t͡sita"  = "target";
 
 **notes:**
 
-1. English is inconsistent when is about digraphs. Sometimes "ch" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write "by ear".
+1. English is inconsistent. Sometimes "ch" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write "by deterministic rules". So once you have learned the rules you can read and write any word written with Maj alphabet.
 
-* chemical  = IPA:"kemikəl"
-* chocolate = IPA:"ʂoklət"
+* chemical  => IPA: "kemikəl"
+* chocolate => IPA: "ʂoklət"
 
-2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s". Therefore if we read next two English using Maj rules you have a similar pronunciation: 
+2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s" like "ts" in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
 
-* cerebellum = IPA: "t͡serəbelum"
-* cigarette  = IPA: "t͡sigəret"
+* ceba: "cerebellum" "t͡serəbelum"
+* ciga: "cigarette"  "t͡sigəret"
 
 In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Uppercase "C" also represent "carbon" chemical element that is written "carba" = IPA:"t͡sarba" no need to write "karba" this could be confusing since "K" = "kaola" si for potassium.
 
@@ -133,9 +146,9 @@ In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so
 
 Letter "ñ" is inherited from Spanish. It can be used in elevated text but usually in chat it is not used, nor necessary. This sound can be produced when "n" is not the first letter of the word but the second. Also it must be followed by a vowel. IPA symbol for "ñ" is: "ɲ". 
 
-* niña = IPA: "niɲa"  = child
-* niñe = IPA: "niɲos" = children
-* pañe = IPA: "paɲe"  = breads (plural)
+* niña : "niɲa"  = child
+* niñe : "niɲos" = children
+* pañe : "paɲe"  = breads (plural)
 
 **Alveolar: n*
 
@@ -150,10 +163,10 @@ Letter "R" do not control pronunciation of neighbor vowels. So "ar" is not prono
 
 **Vibrate J**
 
-Letter "J", "j" is labial vibrated before any vowel. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is "ʒ". 
+Letter "J", "j" is labial vibrated when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is d͡ʒ. 
 
-* "jela" = "jell" is pronounced "ʒela" or "d͡ʒela", it is the same thing.
-* "jaza" = "jaz"  is pronounced "ʒaza" or "d͡ʒaza", it is the same thing.
+* jela => IPA:"d͡ʒela" = ENG: "jell"
+* jaza => IPA:"d͡ʒaza" = ENG: "jaz" 
 
 **Plosive G**
 
@@ -208,25 +221,22 @@ Letter "h" is usually voiced but sometimes, silent.
 
 ## Maj phonetic
 
-We could write English sounds using Maj phonetic equivalent like this:
+You can learn English pronunciation by using Maj phonetic alphabet:
 
-* its       :"yts"
-* she       :"xi"
-* generator :"djeneretўr"
-* pigeon    :"pidjŷn"
-* giraffe   :"djiraf"
-* fusion    :"fudjўn"
-* guitar    :"gitar"
-* geese     :"gis"
-* cheese    :"qiz"
-* accident  :"aksidў" 
-* chocolate :"xokclў"
-* peach     :"pich"
-* speech    :"spich"
-* initial   :"ynixўl"
-* fashion   :"faxўn"
-* yacht     :"yot"
-
+* cerebellum=> MAJ:"cerəbelum"       
+* generator => MAJ:"jeneretўr"  
+* pigeon    => MAJ:"pijŷn"      
+* giraffe   => MAJ:"jiraf"      
+* fusion    => MAJ:"fujўn"      
+* guitar    => MAJ:"gitar"      
+* geese     => MAJ:"gis"        
+* cheese    => MAJ:"qiz"        
+* accident  => MAJ:"aksidў"     
+* chocolate => MAJ:"xokclў"     
+* peach     => MAJ:"pich"       
+* speech    => MAJ:"spich"      
+* initial   => MAJ:"ynixўl"     
+* fashion   => MAJ:"faxўn"      
 
 ## Two consonants
 
