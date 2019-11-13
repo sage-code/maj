@@ -393,39 +393,6 @@ Invariant noun is terminated in "s" or other consonant:
 * pau Mercedes = few Mercedes 
 * oru Mercedes = any Mercedes 
 
-## Determinant prefix
-
-Sometimes we use a preposition determinant as prefix to create a new meaning for words:
-
-* kan  = not  - create antonyms
-* tum  = for  - specify purpose / person
-* ati  = anti - against / opposite 
-* eko  = echo - environment friendly / organic
-
-**examples:**
-
-* tum-bebo = for drink
-* kan-bebo = not for drink
-* ati-gera = anti war
-* eko-vaja = echo travel
-
-## Special coda
-
-Some nouns are terminated with "osa" or "ola" vowel to indicate harmful content:
-
-**normal** 
-
-* la ceca = the chocolate
-* la huga = the juice  
-
-**harmful**
-
-* la ceosa  = the cookies with chocolate
-* la ceola  = the chocolate drops with alcohol
-* la ugosa  = extra sweet juice 
-* la ugola  = juice mixed with alcohol 
-  
-    
 **read next:**
 
 * [preposition](preposition.md)

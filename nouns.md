@@ -68,43 +68,63 @@ Things and events start with uppercase when represent names.
 * Crimys    = Christmas 
 * Maj       = Language Maj
 
+## Determinant prefix
+
+Sometimes we use a preposition determinant as prefix to create a new meaning for words:
+
+* kan  = not  - create antonyms
+* tum  = for  - specify purpose / person
+* ati  = anti - against / opposite 
+* eko  = echo - environment friendly / organic
+
+**examples:**
+
+* tum-bebo = for drink
+* kan-bebo = not for drink
+* ati-gera = anti war
+* eko-vaja = echo travel
+   
 ## Noun suffix
 
 * You can add a suffix to a noun to add information about the noun properties.
 * After root you can use apostrophe `'` to connect with a suffix.
 
-Sometimes we use suffix to create a composite word for representing nouns:
+You can use suffix to create a composite word for representing nouns:
 
 **harmful content**
 
 ja = jaru = warning / danger
 
-* for beverage containing alcohol, we use suffix,
-* there is food prepared with alcohol, 
-* for food that contains a lot of sugar,  
-* for poisonous fruits
-* for dangerous animals
+* beverage containing alcohol or drugs;
+* food prepared with alcohol or drugs; 
+* food that contains a lot of sugar;  
+* for dangerous or poisonous fruits;
+* for dangerous animals with horns, venom or sharp teeth;
 
 **examples:**
+
+For transformation using coda: "a" becomes "o"
 
 * bero'ja  = bear
 * gazo'ja  = energy drinks
 * xoko'ja  = chocolate with alcohol
+* sajo'ja  = venomous snake
+* gato'ja  = wild cat
 
 ## Diminutives
 
-Maj enable diminutives using coda `i`
+Maj enable diminutives using coda `i` and suffix 'ca
 
 nito     = bonito, nice
 
 **close persons**
-* nito Mama => Mami
-* nito Papa => Papi
+* nito Mama => Mami'ca
+* nito Papa => Papi'ca
 
 **animals (pets)**
 
-* nito Gatia => Gati
-* nito Kania => Kani
+* nito Gatia => Gati'ca
+* nito Kania => Kani'ca
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
