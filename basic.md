@@ -2,6 +2,12 @@
 
 In this document we describe the basics of MAJ semantic.
 
+* How to say greedings
+* Pronouns and cases
+* Verb tense
+* Noun article
+* Some prepositions
+
 ## Greetings
 
 You can give greetings to one person or to everyone:
@@ -82,11 +88,11 @@ Is the person or the thing who receive the action.
 
 The accusative case is the grammatical case used to mark the direct object of a transitive verb. 
 
- ps | singular             | plural     
-----|----------------------|-----------------------------
- 1  | mi = for me          | noy = for us   
- 2  | ti = for you         | voy = for y'all
- 3  | xi = for him/her/it  | zoy = for them 
+ ps | singular              | plural     
+----|-----------------------|-----------------------------
+ 1  | mis = for me          | noy = for us   
+ 2  | tis = for you         | voy = for y'all
+ 3  | xis = for him/her/it  | zoy = for them 
  
 Note: "y" is pronounced "ə": { "noə","voə","zoə" }
  
@@ -110,7 +116,7 @@ xia = his, hers, its | zua = theirs
 
 **notes:** 
 
-* In total there are 20 pronouns;
+* In total there are 32 pronouns;
 * All pronouns are ending with vowel
 * There is no gender in pronouns;
 * The singular form of "you" use to be "thou";
@@ -145,7 +151,7 @@ Verb is a word used to describe an action, state, or occurrence, and forming the
 * divu = become
 * socu = happen
 
-There are 4 time suffixes in Maj:
+There are 3 time suffixes in Maj:
 
 tesa = time
 

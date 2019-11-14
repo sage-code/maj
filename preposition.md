@@ -31,17 +31,17 @@ English preposition can be considered in this categories: { time, place, directi
 * at 21 of September 2005 =  en 21 de Septeber 2005
 * at 2:45 = bei hora due col ca'diz und rea
 
-**Time adjectives**
+**numeral prefix**
 
-You can use adjective to refer the number of occurrences for events or actions:
+You can create composite adjective to refer the number of occurrences for events or actions:
 
 tesa = the time
 foa  = repetition/ number of times
 
 **using time**
-* un'tesa  = first  time
-* du'tesa  = second time
-* ni'tesa  = last   time
+* un'teso  = first  time
+* du'teso  = second time
+* ni'teso  = last   time
 
 **using repetition**
 * un'foa = once / one single time
@@ -51,7 +51,7 @@ foa  = repetition/ number of times
 
 **Related nouns**
 
-Location related nouns are 4 character long, they are more important.
+Location related nouns can be used with prepositions.
 
 loka  = location
 tesa  = time
@@ -62,6 +62,14 @@ mina  = minute
 seda  = second
 asra  = the address
 seza  = season
+
+**quantity prefix**
+
+mui = very
+lon = far
+
+* MAJ: una loka mui lon von hir;
+* ENG: a location very far from here;
 
 
 ## Agent & Tools
@@ -258,16 +266,16 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** noh = now
+**Maj:** amu = now
 
 * tesa = time
 * muro = dead
 * dovu = must
 * rejo = reach
 
-```
-la tesa-muro dovu rejo noh es poso
-```
+**Translate:**
+
+la muro-tesa dovu rejo, amu es ka-poso!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

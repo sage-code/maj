@@ -60,6 +60,8 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 
 ## Semi vowels
 
+Maj has two semivowels: {y, v}
+
 _Letter `Y`:_ is pronounced different depending on its position.
 
 1. Initial position: "y" = `ʎ` at the beginning of words like: "yet", "yellow";  
@@ -104,9 +106,13 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 * Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
-## Digraphs
+## Difficult sounds
 
-Specific groups of two letters can be pronounced different than both letters. Maj digraphs are redundant. That means the combination of these two letters can be replaced by another letter. This makes Maj words shorter than English words.
+That was the basics of alphabet. Maj is a phonetic language so what you write is what you read. This is difficult to do if you do not use cedillas and accents to aid with the renunciation. Therefore you must to understand the rules for reading and writing different sounds using a limited alphabet. 
+
+**Digraphs**
+
+Specific groups of two letters can be pronounced different than both letters. Maj digraphs are redundant though. That means the combination of these two letters must be replaced by another letter. This makes Maj words shorter than English words. 
 
 * group `ts` = `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
@@ -114,41 +120,61 @@ Specific groups of two letters can be pronounced different than both letters. Ma
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate)
 * group `sh` = `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* group `ji` = `x` sounds `d͡ʒi` like `gi` in  "giraffe";
+* group `ji` = `ʒ` sounds `d͡ʒi` like `gi` in  "giraffe";
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* group `je` = `x` sounds `d͡ʒe` like `ge` in  "generator";
+* group `je` = `ʒ` sounds `d͡ʒe` like `ge` in  "generator";
+
+You can use digraphs in _phonetic Maj writing_ that is using pattern: MAJ:"...".
 
 **examples:** 
 
-* qoka => IPA:"t͡ɕoka"  = "chocolate";
-* koqa => IPA:"kot͡ɕa"  = "coach";
-* qika => IPA:"t͡ɕika"  = "girl";
-* xava => IPA:"ʂava"    = "shovel";
-* cita => IPA:"t͡sita"  = "target";
+* xoka = "chocolate" => IPA:"ʂoka"    = MAJ: "shoka"
+* xava = "shovel"    => IPA:"ʂava"    = MAJ: "shava"  
+* koqa = "coach"     => IPA:"kot͡ɕa"  = MAJ: "kocha"
+* qika = "girl"      => IPA:"t͡ɕika"  = MAJ: "chika"
+* cita = "target"    => IPA:"t͡sita"  = MAJ: "tsita"
 
-**notes:**
+**Modified: C**
 
-1. English is inconsistent. Sometimes "ch" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write "by deterministic rules". So once you have learned the rules you can read and write any word written with Maj alphabet.
+Te Letter "c" sounds more like Latvian "c" than English "c". This sound like "ts" in English word "kats". The best IPA sound is: `t͡s` [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate). To make this sound you put you tang in "t" position and try to make a pitch sound "s" instead. 
 
-* chemical  => IPA: "kemikəl"
-* chocolate => IPA: "ʂoklət"
+1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. So once you have learned the rules you can read and write any word written with Maj alphabet.
+
+* ENG: "chemical"  => IPA: "kemikəl"
+* ENG: "chocolate" => IPA: "ʂoklət"
 
 2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s" like "ts" in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
 
-* ceba: "cerebellum" "t͡serəbelum"
-* ciga: "cigarette"  "t͡sigəret"
+* ceba = ENG: "cerebellum" => IPA: "t͡serəbelum"
+* ciga = ENG: "cigarette"  => IPA: "t͡sigəret"
 
 In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Uppercase "C" also represent "carbon" chemical element that is written "carba" = IPA:"t͡sarba" no need to write "karba" this could be confusing since "K" = "kaola" si for potassium.
 
-## Difficult sounds
+* ceba => MAJ:"tseba"
+* ciga => MAJ:"tsiga"
+
+**Modified: K**
+
+Letter "k" is used to avoid double "c". Therefore "cc" is written "kc". This letter is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in Eng: "culture" or "k" in Eng:"karate". 
+
+Some Maj words starting with "k":
+
+* ka = "not?"  
+* ke = "what?" 
+* ki = "who?"  
+
+Special uses of "K" in science:
+
+* Kg = Kilogram (metric unit);
+* K  = Potassium chemical element;
 
 **Palatal: ñ* 
 
-Letter "ñ" is inherited from Spanish. It can be used in elevated text but usually in chat it is not used, nor necessary. This sound can be produced when "n" is not the first letter of the word but the second. Also it must be followed by a vowel. IPA symbol for "ñ" is: "ɲ". 
+Letter "ñ" is inherited from Spanish. It can be used in Maj phonetics but in normal writing is not used, nor necessary. This sound can be produced when "n" is last letter in word and followed by a vowel. IPA symbol for "ñ" is: "ɲ". 
 
-* niña : "niɲa"  = child
-* niñe : "niɲos" = children
-* pañe : "paɲe"  = breads (plural)
+* nina => MAJ:"niña"  = "child"
+* nine => MAJ:"niños" = "children"
+* pane => MAJ:"pañe"  = "breads" (plural)
 
 **Alveolar: n*
 
@@ -174,13 +200,10 @@ Letter "G", "g" is plosive uvular. To pronounce this sound you must press the ba
 
 **Modified: Q**
 
-In Maj, "Q" is used to create a familiar sound to Italian: "t͡ɕ" that is like "ch" in "chin" or "chicken". This eliminate the need to use digraph "ch" in in middle of the word, thus making the word shorter. At end of word though we use "ch".  
+In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"t͡ɕ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Q" is replaced by "kw".
 
-However, original "Q" using Lating combination "Qu" is redesign using "qw" this free group "qu" to be read "chu" and enable pronunciation of original Q in some inherited words.
-
-* Maj word "Qwin" = "Queen" is read like IPA: "kwin";
-* Maj word "aqwa" = "water" is read like IPA: "akwa";
-* Maj word "qoka" = "chocolate" is read in IPA: "t͡ɕoka";
+* Maj word "Kwin" = "Queen" is read like IPA: "kwin";
+* Maj word "akwa" = "water" is read like IPA: "akwa";
 
 **Modified: X**
 
@@ -192,24 +215,6 @@ Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by 
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
-**Modified: K**
-
-Letter "k" is used to avoid double "c". Therefore "cc" is written "kc". This letter is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in Eng: "culture" or "k" in Eng:"karate". 
-
-Some Maj words starting with "k":
-
-* ka = "not?"  
-* ke = "what?" 
-* ki = "who?"  
-
-Special uses of "K" in science:
-
-* Kg = Kilogram (metric unit);
-* K  = Potassium chemical element;
-
-**note:**
-
-Letter "c" is very rarely used at end of words. Instead we use "k" that is also called stop letter.
 
 ##Voiced `h`
 

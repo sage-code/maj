@@ -105,26 +105,37 @@ ja = jaru = warning / danger
 
 For transformation using coda: "a" becomes "o"
 
-* bero'ja  = bear
-* gazo'ja  = energy drinks
-* xoko'ja  = chocolate with alcohol
-* sajo'ja  = venomous snake
-* gato'ja  = wild cat
+Dangerous food:
+
+* bero'ja  = large bear
+* beri'ja  = small bear
+* gazo'ja  = large energy drinks
+* gazi'ja  = small energy drink
+* xoko'ja  = large chocolate with alcohol
+* xoki'ja  = small chocolate drops with alcohol
+
+Dangerous animals:
+
+* saxo'ja  = large venomous snake
+* saxi'ja  = small venomous snake
+* gato'ja  = large wild cat
+* gati'ja  = small wild cat
 
 ## Diminutives
 
-Maj enable diminutives using coda `i` and suffix 'ca
+Maj enable diminutives using coda `i` and suffix 'ña
 
-nito     = bonito, nice
+nito => MAJ:"nito"  = ENG: "bonito" / "nice"
+xero =	MAJ:"shera" = ENF: "dear" / FRA:"chery"
 
 **close persons**
-* nito Mama => Mami'ca
-* nito Papa => Papi'ca
+* Mami'na  => MAJ:"mamiña"
+* Papi'na  => MAJ:"papiña"
 
 **animals (pets)**
 
-* nito Gatia => Gati'ca
-* nito Kania => Kani'ca
+* Gati'na => MAJ:"gatiña"
+* Kani'na => MAJ:"kaniña"
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
@@ -193,83 +204,7 @@ Sora       | sister       | hermana
 Ursa       | bear         | oso               
 Vaka       | cow          | vaca               
 Xava       | horse        | caballo               
-
-## Dictionary
-
-About 75 most common nouns:
-
-
-Maj        | English      | Spanish
------------|--------------|-----------------        
-agra       | farmer       | granjero               
-aota       | car          | coche               
-aqua       | water        | agua               
-area       | floor        | suelo               
-baka       | boat         | barco               
-bobo       | baby         | bebé               
-bora       | tree         | árbol               
-byta       | stick        | palo               
-faxa       | way          | camino               
-femy       | farm         | granja               
-fena       | window       | ventana               
-flea       | flower       | flor               
-foka       | fire         | fuego               
-gaba       | leg          | pierna               
-gema       | money        | dinero               
-heba       | grass        | hierba               
-hepa       | paper        | papel               
-hoja       | today        | hoy               
-ijma       | picture      | imagen               
-jara       | garden       | jardín               
-joka       | game         | juego               
-juga       | toy          | juguete               
-juna       | day          | día               
-kaia       | street       | calle               
-kaja       | box          | caja               
-kama       | bed          | cama               
-kapa       | coat         | Saco               
-kasa       | house        | casa               
-kata       | song         | canción               
-kola       | school       | colegio               
-hugy       | hill         | colina               
-kosa       | thing        | cosa               
-koxa       | bell         | campana               
-lece       | milk         | Leche               
-lena       | wood         | madera               
-leta       | letter       | letra               
-luca       | light        | ligero               
-luva       | rain         | lluvia               
-mana       | hand         | mano               
-maza       | corn         | maíz               
-mela       | apple        | manzana               
-mesa       | table        | mesa               
-moga       | morning      | Mañana               
-nata       | birthday     | cumpleaños               
-nela       | ring         | anillo               
-nida       | nest         | nido               
-niga       | snow         | nieve               
-noma       | name         | nombre               
-noxa       | night        | noche               
-oaia       | sheep        | oveja               
-okia       | eye          | ojo               
-ovua       | egg          | huevo               
-pala       | ball         | pelota               
-pana       | bread        | pan
-pati       | party        | partido               
-pide       | feet         | pies               
-popa       | doll         | muñeca               
-rata       | return       | vuelta               
-roja       | watch        | reloj               
-seda       | seed         | semilla               
-sela       | chair        | silla               
-sona       | sun          | Dom               
-tera       | ground       | suelo               
-tesa       | time         | tiempo
-teta       | head         | cabeza               
-tola       | cake         | pastel               
-tura       | door         | puerta               
-veta       | wind         | viento               
-xuza       | shoe         | zapato               
+           
 
 See next: [preposition](preposition.md)
 

@@ -2,7 +2,7 @@
 
 Noun: "numa" = number
 Noun: "vala" = value
-Verb: "cotu" = counting
+Verb: "kotu" = counting
 
 ## Symbols
 
