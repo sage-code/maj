@@ -9,22 +9,22 @@ Maj script is a compilation from Georgian, Lao and Armenian
 
 ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
 ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
-ັ ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໗ ໘
+ັ ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
 ໙ ໜ ໝ ໝ 
 
-
+ມ
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
   a   | გ  | ʌ    | m     | ო   | mɨ  
-  b   | ხ  | bɨ   | n     | ດ   | nɨ  
-  k   | ა  | kɨ   | o     | ი   | o    
+  b   | ხ  | bɨ   | n     | ჺ   | nɨ  
+  k   | ა  | kɨ   | o     | ი   | ჲ    
   d   | ძ  | dɨ   | p     | թ   | pɨ  
-  e   | ც  | e    | r     | ຯ   | rɨ  
+  e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
   g   | ჹ  | ɢɨ   | x     | ອ   | ʂɨ  
   h   | ჩ  | xɨ   | t     | ȶ   | tɨ  
-  y   | ყ  | i    | u     | ບ   | u   
+  y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ໒   | ɨ
   l   | ȴ  | lɨ   | w     | ຢ   | u͡ʌ
   q   | თ  | t͡ɕʌ | v     | ϑ   | vʌ  
