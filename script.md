@@ -16,7 +16,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   q   | თ  | t͡ɕʌ | v     | ϑ   | vʌ  
   c   | ɕ  | t͡sʌ | z     | ჴ   | zʌ        
   
-* [Maj translator](https://lingojam.com/MajTranslator)
+* [Maj translator](https://lingojam.com/MajLettersTranslator)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
 **Notes**
@@ -28,8 +28,15 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 ## Examples of words in Maj
 
-1. MAJ:ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
-2. ENG:noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
+**example:**
+
+1. ENG:noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
+2. MAJ:ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
+
+**example:**
+
+1. EMG:de.ke.loka.ti.andu?
+2. MAJ:მც.აც.ȴჲაგ.ȶ໒.გჺმບ?
 
 **note:**
 
