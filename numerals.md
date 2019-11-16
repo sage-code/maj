@@ -10,16 +10,16 @@ When used in text or expressions, symbols are read out loud:
 
 symbol | Maj
 -------|---------------------------
-* `+`  | e
-* `-`  | ifa
-* `/`  | uel
-* `.`  | pui
-* `:`  | kon
-* `,`  | kus
-* `;`  | puc
-* `?`  | kim
-* `!`  | nim
-* `\*` | san
+  `+`  | xi
+  `-`  | fa
+  `/`  | na
+  `.`  | do
+  `:`  | on
+  `,`  | us
+  `;`  | uc
+  `?`  | um
+  `!`  | am
+  `\*` | sa
 
 ## Level 1
 
