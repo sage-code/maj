@@ -48,26 +48,21 @@ Basic principles for Maj construction:
 
 ## Alphabet
 
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
-
-Maj has 3 alphabets: Upercase, Lowercase and Script
-
+Maj is using Latin alphabet with modified order:
+ 
 ```
 ---------------------------------------------------
 A   B   K   D   E   F   G   H   Y   J   L   Q   C
-a   b   k   d   e   f   g   h   y   j   l   q   c
-გ   ხ   Շ   მ   ჲ   ຈ   ჹ   ჩ   ყ   ງ   ȴ   ƣ   ɕ
 ---------------------------------------------------
-M   N   O   P   R   S   X   T   U   V   I   Z   W
-m   n   o   p   r   s   x   t   u   v   i   z   w    
-რ   Թ   ბ   թ   ჺ  ຮ   ອ   ȶ   ບ   ϑ   ນ   პ   ພ
+M   N   O   P   R   S   X   T   U   I   W   V   Z   
 ---------------------------------------------------
 ```
-**Notes:** 
 
-* Maj is not a form of encryption;
-* Script is from: Georgian, Lao & Armenian;
+**Read more:** 
+
+* [The alphabet](alphabet.md)
+* [The script](script.md)
+* [The numerals](numerals.md)
 
 ## Words
 
