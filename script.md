@@ -28,7 +28,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 ## Examples of words in Maj
 
-* qiao muna; = თ໒გჲ.რບȵც;
+1. MAJ:ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
+2. ENG::noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
 
 **note:**
 

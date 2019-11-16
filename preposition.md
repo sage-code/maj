@@ -245,9 +245,10 @@ Spanish | pero   | Es caro, pero de muy buena calidad.
 * cima  = cinema
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
 
-```
-Noi vadu tsu cima uel vadu tsu goxa;
-```
+
+:noi vadu tsu cima uel vadu tsu goxa;
+:noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
+
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
 Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
