@@ -7,5 +7,5 @@ a   b   k   d   e   f   g   h   y   j   l   q   c
 გ   Թ   Շ   δ   ჲ   ຈ   ჹ   ჩ   ყ   ງ   Ձ   ჹ   Չ
 
 m   n   o   p   r   s   x   t   u   v   i   z   w    
-რ   ດ   ბ   թ   ჺ  ຮ   ອ  ٦   ც  ບ   თ   პ   ພ
+რ   ດ   ბ   թ   ჺ  ຮ   ອ   ԏ   ບ   ϑ   ນ   პ   ພ
 ```
