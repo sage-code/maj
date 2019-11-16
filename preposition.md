@@ -1,17 +1,27 @@
 ## Preposition
 
-A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for ?”.
+A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in:
+
+* the man on the platform; 
+* she arrived after dinner; 
+* what did you do it for ?
+
+**notes**
 
 * Prepositions are usually single syllable words.
 * Prepositiobs are invariant and have the same meaning. 
 
-**Rationale**
+## Rationale
 
-Prepositions are very often used in Maj. Therefore they are the most important elements of the language. So we use Syllables of only 2-3 characters to create the prepositions. These are the shortest words in Maj.
+Prepositions are very often used in Maj. Therefore they are important elements of the language. We use only 2-3 characters to create the prepositions. These are the shortest words in Maj.
 
 **Category of prepositions**
 
-English preposition can be considered in this categories: { time, place, direction, movement, agent, instrument }
+English preposition can be considered in this categories: 
+
+* time, place 
+* direction, movement
+* agent, instrument 
 
 ## Time & Place
 
@@ -29,7 +39,7 @@ English preposition can be considered in this categories: { time, place, directi
 * in 2005   = en anoa 2005
 * on Spring = la seza Spring 
 * at 21 of September 2005 =  en 21 de Septeber 2005
-* at 2:45 = bei hora due col ca'diz und rea
+* at 2:45 = bei hora du con qu'diz e ria
 
 **numeral prefix**
 
@@ -82,7 +92,8 @@ note: Symbol ":" is read "con"
 **examples**
 
 * von Mark Twain   = by Mark Twain
-* kon mia due mane = with my two hand
+* kon mia due mane = with my two hands
+* kon abe mane     = with both hands
 
 
 ## Locations
@@ -107,16 +118,16 @@ Movement prepositions indicating a direction of movement.
 Maj      | English  
 ---------|----------
 cro      |Across    
-lag      |Along     
-veg      |Away From 
 ino      |Into      
+lag      |Along     
 oto      |Onto      
+ovy      |End, Over 
 ozo      |Over the  
 par      |Through / by  
-uma      |Around    
 ruc      |Back      
-ovy      |End, Over 
 sop      |Stop      
+uma      |Around    
+veg      |Away From 
          
 ## Direction
 
@@ -144,29 +155,29 @@ Indicate a relation of one object relative to other objects.
 
 Maj     |English             | Spanish         | German
 --------|--------------------|-----------------|-------------- 
-des     |of                  |de               | des
+uba	    |above	             |encima           | über
 auf     |on                  |en               | im, auf
-bei     |at                  |la               | bei
-dan     |in                  |en               | in
-iny     |inside the          |dentro           | innerhalb
 aut     |out                 |fuera            | draußen
-cot     |beside, next to     |al lado, cerca   | neben
-pos     |behind the          |detrás           | hinter
-vor     |prior, in front of  |anterior         | vor
-fra     |between             |entre            | zwischen
-pue     |after               |despue           | nach  
-top     |on top              |encima           | oben drauf
 avo     |above               |encima           | über
+bei     |at                  |la               | bei
+kot     |beside, next to     |al lado, cerca   | neben
+dan     |in                  |en               | in
+der     |there               |ahi              | dort
+des     |of                  |de               | des
+fra     |between             |entre            | zwischen
+hir     |here                |aqui             | hier
+iny     |inside the          |dentro           | innerhalb
+jos	    |down                |abajo            | nieder
+lon     |far from            |lejos            | weit
+nah     |near, close by      |cerca            | in der nähe
+pos     |behind the          |detrás           | hinter
+pue     |after               |despue           | nach  
 sub     |under,beneath,below |debajo           | unter
 sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
-jos	    |down                |abajo            | nieder
+top     |on top              |encima           | oben drauf
 ubi     |where               |donde            | wo
-abo	    |above	             |encima           | über
-hir     |here                |aqui             | hier
-der     |there               |ahi              | dort
-lon     |far from            |lejos            | weit
-nah     |near, close by      |cerca            | in der nähe
+vor     |prior, in front of  |anterior         | vor
 yet     |yet                 |todavía          | noch 
 
 
@@ -192,28 +203,28 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
 
  Maj | English | Description
 -----|---------|------------------------------------
- axa | right   | correct, agree with
  asi | yes     | affirmative
- kan | not     | negative 
- uel | or      | either
- eta | and     | also
- dar | but     | alternative
- nor | neither | alternative 
- ven | if      | conditional (German wenn)
- tal | maybe   | possible
- puo | can     | has the capability
- dot | must    | mandatory
- mei | may     | is permitted
- fob | may not | is forbidden
- den | then    | time consequence
- tan | so      | to such a great extent.
- kaz | case    | when is the case
- uta | when    | establish event
- dus | thus    | therefore, hence, so, then, thus 
- kum | as,like | comparative, how 
- mem | same    | identical
- vir | while   | while condition
+ axa | right   | correct, agree with
  bor | because | as, since, cause of a consequence
+ dar | but     | alternative
+ den | then    | time consequence
+ dot | must    | mandatory
+ dus | thus    | therefore, hence, so, then, thus 
+ eta | and     | also
+ fob | may not | is forbidden
+ kan | not     | negative 
+ kaz | case    | when is the case
+ kum | as,like | comparative, how 
+ mei | may     | is permitted
+ mem | same    | identical
+ nor | neither | alternative 
+ puo | can     | has the capability
+ tal | maybe   | possible
+ tan | so      | to such a great extent.
+ uel | or      | either
+ uta | when    | establish event
+ ven | if      | conditional (German wenn)
+ vir | while   | while condition
  
 Conjunction is used when...
 
@@ -284,10 +295,13 @@ English | yet    | The deadlines must be met, yet this is not possible
 English | now    | The deadlines must be met, now this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
-**Maj:** nor = neither (first negation)
+**Maj:** ni = neither 
 
-*  ka   = no  (negative suffix)
+*  kan  = not (negative suffix)
 *  ni   = nor (second negation)
+
+**other words**
+
 *  sohu = wish
 *  keru = ask
 *  gema = money
@@ -295,8 +309,8 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **translate:**
 
-* zu kan-sohu nor gema ni reha;
-* zu kan-keru nor gema ni reha;
+* zu kan sohu ni gema ni reha;
+* zu kan keru ni gema ni reha;
 
 
 Lang    | Word   |  Example
@@ -307,13 +321,13 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 
 **Maj:** bor  = because
 
-* kamo  = to be calm
 * xedu  = to seat
+* kamo  = to be calm
 * nito  = to be nice
 
 **translate:**
 
-zu xedu kalmo bor zu es nito;
+zu xedu kamo bor zu es nito;
 
 
 Lang    | Word    |  Example
@@ -323,71 +337,3 @@ English | because | He stays calm _because_ he is nice
 Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.   
  
  
-## Dictionary
-
-Next 100 most common prepositions in alphabetical order:
-
-MAJ  | English| Spanish
------|--------|-----------------------------
-amu  |now     |ahora
-ape  |just    |sólo
-ate  |before  |antes de
-auf  |on      |encima
-aus  |off     |apagado
-aut  |out     |fuera
-bei  |at      |la
-dan  |in      |en
-dar  |but     |pero
-des  |about   |sobre
-der  |there   |ahí
-des  |of the  |del
-dus  |then    |entonces
-eko  |still   |todavía
-fra  |between |Entre
-gut  |well    |bien
-hir  |here    |aquí
-ino  |into    |dentro
-iny  |inside  |en
-ior  |shall   |deberá
-jos  |down    |abajo
-com  |as,like |como
-kon  |with    |con
-kot  |nextto  |cerca de
-lag  |along   |a lo largo
-lon  |far     |lejos
-mei  |may     |mayo
-nah  |close   |cerca
-nah  |near    |cerca
-nib  |beside  |junto a
-yet  |yet     |todavía
-obe  |above   |encima
-obe  |up      |hasta
-ody  |or      |o
-omi  |every   |cada
-oru  |any     |alguna
-oto  |else    |más
-out  |out     |fuera
-out  |outside |fuera de
-por  |by      |por
-dur  |through |mediante
-per  |across  |a través de
-tum  |for     |para
-pue  |after   |después
-pos  |behind  |detrás
-rog  |please  |Por favor
-ven  |if      |Si
-som  |some    |algunos
-sub  |beneath |debajo
-sus  |up      |arriba
-top  |top     |parte superior
-tor  |back to |de regreso
-tsu  |to,at   |para
-tzu  |towards |hacia
-ubi  |where   |dónde
-uma  |around  |alrededor
-una  |one, an |uno, un
-eta  |and     |y
-uta  |when    |cuando
-ura  |why     |por qué
-von  |from    |de
-vor  |front   |frente

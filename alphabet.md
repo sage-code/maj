@@ -4,14 +4,19 @@ Maj is using 26 letters: [ISO Latin Alphabet](https://en.wikipedia.org/wiki/ISO_
 
 **uppercase**
 ```
-A   B   C   D   E   F   G   H   I   J   K   L   Q 
-M   N   O   P   R   S   X   T   U   V   Z   Y   W   
+--------------------------------------------------
+A   B   K   D   E   F   G   H   Y   J   L   Q   C
+a   b   k   d   e   f   g   h   y   j   l   q   c
+--------------------------------------------------
+M   N   O   P   R   S   X   T   U   V   I   Z   W 
+m   n   o   p   r   s   x   t   u   v   i   z   w    
+--------------------------------------------------
 ```
 
 **lowercase**
 ```
-a   b   c   d   e   f   g   h   i   j   k   l   q 
-m   n   o   p   r   s   x   t   u   v   z   y   w  
+
+
 ```
 
 ## Pronunciation
@@ -21,11 +26,11 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 ```
 -----------------------------------------------------
-a   b   c   d   e   f   g   h   i  j   k   l   q
-ʌ   bɨ  cɨ  dɨ  e   fɨ  ɢɨ  xɨ  i  ʒɨ  kʌ  lɨ  t͡ɕʌ
+a   b   k   d   e   f   g   h   y   j   l   q    c   
+ʌ   be  kʌ  dʌ  e   fʌ  ɢʌ  xʌ  i   ʒe  le  t͡ɕe  t͡se
 -----------------------------------------------------
-m   n   o   p   r   s   x   t   u  v   z   y   w    
-mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u  vɨ  zɨ  ə   u͡ʌ
+m   n   o   p   r   s   x   t   u  v   z    i    w    
+mʌ  nʌ  o   pe  re  se  ʂe  te  u  vʌ  zʌ   ɨ    u͡ʌ
 -----------------------------------------------------
 ```
 
@@ -54,33 +59,27 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
-* Letter `i`  is close front, like first `i` in `initial`;
+* Letter `y`  is close front, like first `y` in "yellow";
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
-## Semi vowels
+## Semi-vowels
 
-Maj has two semivowels: {y, v}
+Letters {i, w} are almost like vowels.
 
-_Letter `Y`:_ is pronounced different depending on its position.
-
-1. Initial position: "y" = `ʎ` at the beginning of words like: "yet", "yellow";  
-2. First   position: "ŷ" = `ɨ` in the middle of words like "eo" in "pigeon";
-3. Second  position: "ў" = `ə` or at end of words sounds like "ar" in "sugar";
+* Letter `i`  is read `ɨ` like "eo" in "pigeon";
+* Letter `w`  is read `u` like "w" in "whiskey";
    
 **Notes: **
 
-* Maj is using "y" or "Y" at beginning of words not "i" nor "I";
-* Maj letters "ŷ", "ў" can be present in elevated writings (story books);
+_Letter `W`:_  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. The vowel after "w" is much longer than usual: 
 
-_Letter `W`:_  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wi", "wo", "wu","wy"}. The vowel after "w" is much longer than usual: 
-
-* wa: "uaa" (administration)
-* wo: "uoo" (surprise)
-* wy: "uəə" (disgusting)
-* wi: "uee" (happiness)
-* we: "wee" (sadness)
-* wu: "uuu" (disapproval)
+* wa: "ua" (administration)
+* wo: "uo" (surprise)
+* wy: "ue" (happiness)
+* we: "we" (sadness, cry)
+* wu: "uu" (disapproval)
+* wi: "uɨ" (disgusting)
 
 ## Consonants
 
@@ -102,7 +101,6 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 * Letter  `v`  is vibrated, similar to `v` in "voice";
 * Letter  `z`  is dental, vibrated, similar to `z` in "zoo";
 * Letter  `s`  is fricative alveolar like `s` in "snake";
-* Letter  `w`  is voiced labial-velar like `w in "whiskey";
 * Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
@@ -112,136 +110,137 @@ That was the basics of alphabet. Maj is a phonetic language so what you write is
 
 **Digraphs**
 
-Specific groups of two letters can be pronounced different than both letters. Maj digraphs are redundant though. That means the combination of these two letters must be replaced by another letter. This makes Maj words shorter than English words. 
+Following letters are represented using digraphs in English.
 
-* group `ts` = `c` sounds `t͡s` like `ts` in  "cats": 
+* Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
-* group `ch` = `q` sounds `t͡ʃ` like `ch` in  "peach": 
+* Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate)
-* group `sh` = `x` sounds `ʂ`   like `sh` in  "fashion": 
+* Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* group `ji` = `ʒ` sounds `d͡ʒi` like `gi` in  "giraffe";
-[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* group `je` = `ʒ` sounds `d͡ʒe` like `ge` in  "generator";
+* Letter `j` sounds `d͡ʒi` like `gi` in  "giraffe";
 
-You can use digraphs in _phonetic Maj writing_ that is using pattern: MAJ:"...".
+**Note:** Phonetic writing is using notation: IPA:"...".
 
 **examples:** 
 
-* xoka = "chocolate" => IPA:"ʂoka"    = MAJ: "shoka"
-* xava = "shovel"    => IPA:"ʂava"    = MAJ: "shava"  
-* koqa = "coach"     => IPA:"kot͡ɕa"  = MAJ: "kocha"
-* qika = "girl"      => IPA:"t͡ɕika"  = MAJ: "chika"
-* cita = "target"    => IPA:"t͡sita"  = MAJ: "tsita"
+* xoka = ENG: "chocolate" => IPA:"ʂoka"    
+* xava = ENG: "shovel"    => IPA:"ʂava"    
+* koqa = ENG: "coach"     => IPA:"kot͡ɕa"  
+* qyka = ENG: "girl"      => IPA:"t͡ɕika"  
+* cita = ENG: "target"    => IPA:"t͡sɨta"  
 
 **Modified: C**
 
-Te Letter "c" sounds more like Latvian "c" than English "c". This sound like "ts" in English word "kats". The best IPA sound is: `t͡s` [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate). To make this sound you put you tang in "t" position and try to make a pitch sound "s" instead. 
+Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
 
-1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. So once you have learned the rules you can read and write any word written with Maj alphabet.
+1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. Once you have learned the rules you can read and write any Maj word.
+
+**IPA practice**
 
 * ENG: "chemical"  => IPA: "kemikəl"
 * ENG: "chocolate" => IPA: "ʂoklət"
 
 2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s" like "ts" in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
 
-* ceba = ENG: "cerebellum" => IPA: "t͡serəbelum"
-* ciga = ENG: "cigarette"  => IPA: "t͡sigəret"
+* ceba = ENG: "cerebellum" => IPA: "t͡seba"
+* ciga = ENG: "cigarette"  => IPA: "t͡səga"
 
-In Maj the groups {ca, ce, ci, co, cu} are also read {t͡sa, t͡se, t͡si, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Uppercase "C" also represent "carbon" chemical element that is written "carba" = IPA:"t͡sarba" no need to write "karba" this could be confusing since "K" = "kaola" si for potassium.
+In Maj the groups {ca, ce, cy, co, cu} are also read {t͡sa, t͡se, t͡sy, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Notice uppercase "C" represent "carbon" element that is written "carba" = IPA:"t͡sarba" no need to write "karba".
 
-* ceba => MAJ:"tseba"
-* ciga => MAJ:"tsiga"
+**IPA practice**
+
+* ceba => IPA:"t͡seba"
+* ciga => IPA:"t͡sɨga"
 
 **Modified: K**
 
-Letter "k" is used to avoid double "c". Therefore "cc" is written "kc". This letter is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in Eng: "culture" or "k" in Eng:"karate". 
+Letter "k" is used to avoid digraph: "t͡s". This sound similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. 
 
 Some Maj words starting with "k":
 
 * ka = "not?"  
 * ke = "what?" 
-* ki = "who?"  
+* ky = "who?"  
 
 Special uses of "K" in science:
 
 * Kg = Kilogram (metric unit);
 * K  = Potassium chemical element;
 
-**Palatal: ñ* 
-
-Letter "ñ" is inherited from Spanish. It can be used in Maj phonetics but in normal writing is not used, nor necessary. This sound can be produced when "n" is last letter in word and followed by a vowel. IPA symbol for "ñ" is: "ɲ". 
-
-* nina => MAJ:"niña"  = "child"
-* nine => MAJ:"niños" = "children"
-* pane => MAJ:"pañe"  = "breads" (plural)
-
 **Alveolar: n*
 
 Letter "N" or "n" at beginning of words is nasal-alveolar. To make this sound press the tip of the tongue on the rooftop of your mouth and voice using a vowel for example "no" like Eng: "north".
 
+**Palette: n* 
+
+Letter "n" is soft when followed by vowel in middle of words. It becomes like Spanish "ñ". IPA symbol for this sound is: "ɲ". 
+
+**Practice IPA:**
+
+* nina => IPA:"niɲa"  = "child"
+* nine => IPA:"niɲe"  = "children"
+* pane => IPA:"paɲe"  = "breads" 
 
 **Trilled R**
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-Letter "R" do not control pronunciation of neighbor vowels. So "ar" is not pronounced "ər" like in English. To make "ər" sound you must use "ўr" but is not used in casual chat. 
-
 **Vibrate J**
 
-Letter "J", "j" is labial vibrated when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is d͡ʒ. 
+Letter "J", "j" is vibrated-labial when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is d͡ʒ. 
 
 * jela => IPA:"d͡ʒela" = ENG: "jell"
 * jaza => IPA:"d͡ʒaza" = ENG: "jaz" 
 
 **Plosive G**
 
-Letter "G", "g" is plosive uvular. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
+Letter "G", "g" is plosive-uvular. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
 
 **Modified: Q**
 
-In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"t͡ɕ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Q" is replaced by "kw".
+In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"t͡ɕ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Qu" is replaced by "Qw". 
 
-* Maj word "Kwin" = "Queen" is read like IPA: "kwin";
-* Maj word "akwa" = "water" is read like IPA: "akwa";
+* Maj word "Qwyn" = ENG: "Queen" is read like IPA: "kwin";
+* Maj word "aqwa" = ENG: "water" is read like IPA: "akwa";
 
 **Modified: X**
 
 Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `cs`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
-* Word: "sh" means "keep it quiet" similar to many languages;
+* Word: "xh" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
-* Luxembourg is written "Lucsemburg" in Maj to avoid "ʂ";
+* Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
 
-##Voiced `h`
+**Voiced `H`**
 
 Letter "h" is usually voiced but sometimes, silent.
 
 * Letter `h` is voiced at beginning of words;
 * Letter `h` is not voiced when is following a consonant;
-* Letter `h` is used after {`c`, `s`, `t`} to make digraph.
 
 ## Maj phonetic
 
-You can learn English pronunciation by using Maj phonetic alphabet:
+You can learn how to read Maj by writing English words using Maj alphabet:
 
-* cerebellum=> MAJ:"cerəbelum"       
-* generator => MAJ:"jeneretўr"  
-* pigeon    => MAJ:"pijŷn"      
+* cerebellum=> MAJ:"ceribelum"       
+* generator => MAJ:"jeneretir"  
+* pigeon    => MAJ:"pijin"      
 * giraffe   => MAJ:"jiraf"      
-* fusion    => MAJ:"fujўn"      
-* guitar    => MAJ:"gitar"      
-* geese     => MAJ:"gis"        
-* cheese    => MAJ:"qiz"        
-* accident  => MAJ:"aksidў"     
-* chocolate => MAJ:"xokclў"     
-* peach     => MAJ:"pich"       
-* speech    => MAJ:"spich"      
-* initial   => MAJ:"ynixўl"     
-* fashion   => MAJ:"faxўn"      
+* fusion    => MAJ:"fujin"      
+* guitar    => MAJ:"gytar"      
+* geese     => MAJ:"gys"        
+* cheese    => MAJ:"qyz"        
+* chocolate => MAJ:"qokclit"     
+* peach     => MAJ:"pyq"       
+* speech    => MAJ:"spiq"      
+* accident  => MAJ:"aksidi"     
+* initial   => MAJ:"ynyxil"     
+* fashion   => MAJ:"faxin"      
+
 
 ## Two consonants
 
@@ -289,14 +288,14 @@ Two vowels combined together into one are called diphthongs
 
 **Approved:**
 
-x |a  |e  |i  |o  |u | y 
---|---|---|---|---|--|--
-a | · |ae |ai |ao |au| ·
-e |ea | · |ei |eo |eu|ey  
-i |ia |ie |ii |io |iu|iy
-o |oa |oe |oi | · |ou| .
-u |ua |ue |ui |uo | ·|uy 
-y | . | . |yi | . |yu| .  
+x |a  |e  |y  |o  |u  | i 
+--|---|---|---|---|---|--
+a | · |ae |ay |ao |au | ·
+e |ea | · |ey |eo |eu | ·  
+y |ya |ye | · |yo |yu |yi
+o |oa |oe |oy | · |ou | .
+u |ua |ue |uy |uo | · |ui 
+i | . | . |iy | . |iu | .  
 
 Combination of 2 vowels is expensive in a word. Therefore the total cost receive a penalty of "1".
 
@@ -354,7 +353,7 @@ Letters and sounds are more or less expensive to make. This is call _weight_ and
 
 Weight |Sounds
 -------|----------------------------------------
-  1    |a, e, i, o, u, y 
+  1    |a, e, y, o, u, i 
   2    |l, m, n, f, s, x 
   3    |b, c, d, p, t, h  
   4    |v, j, r, z, k, g

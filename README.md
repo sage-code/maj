@@ -46,13 +46,35 @@ Basic principles for Maj construction:
 1. words are separated between them by at least one space;
 1. words are ordered in propositions from left to right;
 
+## Alphabet
+
+* [The alphabet](alphabet.md)
+* [The numerals](numerals.md)
+
+Maj has 3 alphabets: Upercase, Lowercase and Script
+
+```
+---------------------------------------------------
+A   B   K   D   E   F   G   H   Y   J   L   Q   C
+a   b   k   d   e   f   g   h   y   j   l   q   c
+გ   Թ   Շ   δ   ჲ   ຈ   ჹ   ჩ   ყ   ງ   Ձ   ჹ   Չ 
+---------------------------------------------------
+M   N   O   P   R   S   X   T   U   V   I   Z   W
+m   n   o   p   r   s   x   t   u   v   i   z   w    
+რ   ດ   ბ   թ   ჺ   ຮ   ອ   ჯ   ც   ບ   თ   პ   ພ
+---------------------------------------------------
+```
+**Notes:** 
+
+* Maj is not a form of encryption;
+* Script is from: Georgian, Lao & Armenian;
+
 ## Words
 
 Maj is a compilation from 7 different languages.
 
-* **More:** Spanish, Italian, 
-* **Less:** Latin, Romanian, 
-* **Some:** French, English, German.
+* **More:** Spanish, Italian, Romanian, 
+* **Less:** Latin, French, English, German.
 
 **technology:**
 
@@ -61,15 +83,15 @@ Maj is a compilation from 7 different languages.
 * Maj alphabet is deterministic and precise. One distinct sound for each letter;
 * All words are created manually using a translation spreadsheet;
 * Words are abbreviated as much as possible not translated one to one;
-* When there is divergence between root languages, Maj words can be original;
-* We preserve significant syllables from origins to create a short word;
+* When there is divergence between languages, Maj words is original;
+* We preserve significant syllables to create a shorter word;
 * Sometimes we add letters or coda, to improve pronunciation;
-* Sometimes we cut out letters from long words to make it shorter;
+* Sometimes we cut out letters to make words shorter;
 * Maj numerals are original but first letter is inspired from Romanic languages;
 * Most words including numerals are starting with consonant and end with vowel;
 * In Maj words, each letter is pronounced. Only letter "h" can be voiceless;
 
-## The essential
+## Essential
 
 Maj is using the power of 3 to organize sentences and words:
 
@@ -80,9 +102,7 @@ Maj is using the power of 3 to organize sentences and words:
 
 Next 3 essential documents will teach you basic elements:
 
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
-* [The basics](basic.md)
+Read more: [basic](basic.md)
 
 ## Grammar
 
@@ -100,19 +120,21 @@ You can learn Maj words organized by specific knowledge domain:
 
 'xa  = xatu = to know
 
-1. suta'xa = [structure](words/structure.md)
-1. infa'xa = [information](words/information.md)
-1. paca'xa = [space](words/space.md)
-1. tesa'xa = [time](words/time.md)
-1. xesa'xa = [processes](words/processes.md)
-1. mova'xa = [movement](words/movement.md)
-1. fiza'xa = [physical world](words/physical_world.md)
-1. nara'xa = [nature](words/nature.md)
-1. viva'xa = [life](words/life.md)
-1. piha'xa = [psychology](words/psychology.md)
-1. fama'xa = [family](words/family.md)
-1. huma'xa = [human culture](words/human_culture.md)
-1. teha'xa = [technology](words/technology.md)
+The "a" is transformed to "o" for 'xa sufix.
+
+1. suto'xa = [structure](words/structure.md)
+1. ynfo'xa = [information](words/information.md)
+1. paqo'xa = [space](words/space.md)
+1. teso'xa = [time](words/time.md)
+1. poco'xa = [processes](words/processes.md)
+1. movo'xa = [movement](words/movement.md)
+1. fizo'xa = [physical world](words/physical_world.md)
+1. naro'xa = [nature](words/nature.md)
+1. vivo'xa = [life](words/life.md)
+1. piho'xa = [psychology](words/psychology.md)
+1. famo'xa = [family](words/family.md)
+1. kulo'xa = [human culture](words/human_culture.md)
+1. teho'xa = [technology](words/technology.md)
 
 **Note:**
 

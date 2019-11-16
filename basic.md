@@ -23,13 +23,13 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 **note:** Some form of salute have multiple meanings
 
 * salo = healthy    (adjective: referring to a person or animal)
-* salu = bless you  (verb: when somebody is sneezing
-* lume = world      (from latin: mundo)
+* salu = bless you  (verb: when somebody is sneezing)
+* muna = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
 **examples:**
 
-* ciao lume = hello world
+* ciao muna = hello world
 * salo todo = health to everyone
 
 ## Words
@@ -55,8 +55,8 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 **Pronoun features:**
 
 * it has 3 persons
-* it has 4 cases
-* it has singular and plural (irregular forms)
+* it has 3 cases
+* it has singular and plural forms
 
 **Pronouns cases:**
 
@@ -72,7 +72,7 @@ Is the person or the thing who perform the action.
 -----|------------------|-----------------------------
   1  | yo = I           | nu  = we
   2  | tu = you         | vu  = y'all
-  3  | xu = he, she, it | zu  = they
+  3  | su = he, she, it | zu  = they
 
 **Objective**
 
@@ -80,21 +80,9 @@ Is the person or the thing who receive the action.
 
  ps | singular         | plural     
 ----|------------------|-----------------------------
- 1  | mi = me          | ne = us   
- 2  | ti = you         | vy = y'all
- 3  | xi = him/her/it  | zy = them 
-
-**Accusative**
-
-The accusative case is the grammatical case used to mark the direct object of a transitive verb. 
-
- ps | singular              | plural     
-----|-----------------------|-----------------------------
- 1  | mis = for me          | noy = for us   
- 2  | tis = for you         | voy = for y'all
- 3  | xis = for him/her/it  | zoy = for them 
- 
-Note: "y" is pronounced "ə": { "noə","voə","zoə" }
+ 1  | my = me          | ne = us   
+ 2  | ty = you         | ve = y'all
+ 3  | sy = him/her/it  | ze = them 
  
 **Possessive**
 
@@ -108,19 +96,17 @@ verbs:
 adjective: poso = own
 
 
-singular             | plural
----------------------|--------------------------------
-mia = mine           | nua = ours
-tia = your           | vua = yours
-xia = his, hers, its | zua = theirs
+singular            | plural
+--------------------|--------------------------------
+ma = mine           | na = ours
+ta = your           | va = yours
+sa = his, hers, its | za = theirs
 
 **notes:** 
 
-* In total there are 32 pronouns;
+* In total there are 18 pronouns;
 * All pronouns are ending with vowel
 * There is no gender in pronouns;
-* The singular form of "you" use to be "thou";
-* Pronoun "y'all" is rarely used in US
 
 **Reflexive**
 
@@ -220,7 +206,7 @@ Primitive interrogation is created with prepositions:
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
 ke      | what?    | qué     | ce
-ki      | who?     | quien   | cine
+ky      | who?     | quien   | cine
 ku      | how?     | como    | cum
 ko      | which?   | cual    | care
 ka      | no?      | non     | nu?
@@ -238,7 +224,7 @@ de ke reza?|ura  | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke magu'fu tu  ?  = what are you going to eat ?
-* ki seru'pa ybi ?  = who was there?
+* ky seru'pa ybi ?  = who was there?
 * ku seru'so tu  ?  = how are you ?   
 * ka magu'fu tu  ?  = you have not eaten ?
 

@@ -10,7 +10,7 @@ When used in text or expressions, symbols are read out loud:
 
 symbol | Maj
 -------|---------------------------
-* `+`  | eto
+* `+`  | e
 * `-`  | ifa
 * `/`  | uel
 * `.`  | pui
@@ -30,30 +30,30 @@ symbol | Maj
 * Two numerals are combined using `eto` symbol `+`
 * Some numbers are combined using apostrophe 
 
-**Ten = diz** 
+**Ten = dyo** 
 
 x | maj  | xx | maj           | xx | maj     |
 --|------|----|---------------|----|---------|
-0 | nil  | 10 | un'diz+nil    |    |         |
-1 | una  | 11 | un'diz+una    | 10 | un'diz  |
-2 | dua  | 12 | un'diz+dua    | 20 | du'diz  |
-3 | ria  | 13 | un'diz+ria    | 30 | re'diz  |
-4 | qua  | 14 | un'diz+pen    | 40 | qu'diz  |
-5 | pen  | 15 | un'diz+pen    | 50 | pe'diz  |
-6 | sen  | 16 | un'diz+sen    | 60 | se'diz  |
-7 | xec  | 17 | un'diz+xec    | 70 | xe'diz  |
-8 | oca  | 18 | un'diz+oca    | 80 | oc'diz  |
-9 | nov  | 19 | un'diz+nov    | 90 | no'diz  | 
+0 | nyl  | 10 | una'dyo+nyl   |    |         |
+1 | una  | 11 | una'dyo+una   | 10 | una'dyo |
+2 | dua  | 12 | una'dyo+dua   | 20 | dua'dyo |
+3 | rea  | 13 | una'dyo+rea   | 30 | rea'dyo |
+4 | qua  | 14 | una'dyo+pen   | 40 | qua'dyo |
+5 | pea  | 15 | una'dyo+pen   | 50 | pen'dyo |
+6 | sea  | 16 | una'dyo+sen   | 60 | sen'dyo |
+7 | xea  | 17 | una'dyo+xea   | 70 | xea'dyo |
+8 | oka  | 18 | una'dyo+oka   | 80 | oka'dyo |
+9 | noa  | 19 | una'dyo+noa   | 90 | noa'dyo | 
            
 ## Ordinals
          
 Repeting time is created using `foa suffix
 
 foa  = times
-al   = all
+alu   = all
 
-* ni'foa = never
-* al'foa = forever
+* nyl'foa = never
+* alu'foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
 
@@ -71,9 +71,9 @@ English: place, order, position
 Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
-* un'lio = first place
-* du'lio = second place
-* re'lio = third place
+* una'lio = first place
+* dua'lio = second place
+* rea'lio = third place
 
 ## Level 2
 
@@ -81,16 +81,16 @@ Franch:  lieu,  ordre, position
 
 00 =  cen
 
-```
- 100 =  un'cen
- 200 =  du'cen
- 300 =  re'cen
- 400 =  pe'cen
- 500 =  pi'cen
- 600 =  se'cen
- 700 =  xe'cen
- 800 =  oc'cen
- 900 =  ne'cen
+``
+ 100 =  una'cen
+ 200 =  dua'cen
+ 300 =  rea'cen
+ 400 =  qua'cen
+ 500 =  pea'cen
+ 600 =  sea'cen
+ 700 =  xea'cen
+ 800 =  oka'cen
+ 900 =  noa'cen
 ```
 
 * Read symbol "+" as "et", make a short pause before "et"
@@ -114,7 +114,7 @@ Franch:  lieu,  ordre, position
  5,000 = pe'mil
  6,000 = se'mil
  7,000 = xe'mil
- 8,000 = oc'mil
+ 8,000 = ok'mil
  9,000 = no'mil
 ```
 
@@ -151,10 +151,10 @@ vala = value
 bits| maj      | description
 ----|----------|----------------------
 0/1 | dva      | bit:  dua-vala
-8   | ova      | word: oca-vala
+8   | ova      | word: oka-vala
 16  | du'ova   | short integer
 32  | qu'ova   | integer
-64  | oc'ova   | long integer
+64  | ok'ova   | long integer
 
 ## Counting:
 
