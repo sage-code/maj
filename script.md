@@ -1,19 +1,5 @@
 ## Maj script
 
-Maj script is a compilation from Georgian, Lao and Armenian
-
-ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿჀჁჂჃჄჅ
-
-ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
-ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-
-ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
-ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
-ັ ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
-໙ ໜ ໝ ໝ 
-
-ມ
-
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
   a   | გ  | ʌ    | m     | ო   | mɨ  
@@ -30,7 +16,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   q   | თ  | t͡ɕʌ | v     | ϑ   | vʌ  
   c   | ɕ  | t͡sʌ | z     | ჴ   | zʌ        
   
-  
+* [Maj translator](https://lingojam.com/Majcustomlanguage)
+* [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
 **Notes**
 
@@ -59,7 +46,22 @@ Cost |  Letter
   4  |h, w, x, z
   5  |m, n, p,
 
-  
+## References:
+
+Maj script is a compilation from Georgian, Lao and Armenian
+
+ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿჀჁჂჃჄჅ
+
+ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
+ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
+ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
+ັ ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
+໙ ໜ ໝ ໝ 
+
+* [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
+* [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
   
  
   
