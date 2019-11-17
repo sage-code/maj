@@ -11,7 +11,7 @@ Adjectives are 4 or 5 character long and are ending with:
 * malo = bad   
 * vero = true
 * faso = false
-* nito = clean
+* nyto = clean
 * salo = dirty
 
 ## Positional adjectives
