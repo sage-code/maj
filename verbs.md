@@ -105,6 +105,8 @@ rog = please (favor)
 
 Some frequent verbs have an alternative short form:
 
+???
+
 * es = estu = is (to be)/(to exist) 
 * ha = haru = have
 * fa = faru = do (to do)
