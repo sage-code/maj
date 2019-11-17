@@ -13,7 +13,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
   g   | ჹ  | ɢɨ   | x     | ອ   | ʂɨ  
-  h   | ჩ  | xɨ   | t     | ȶ   | tɨ  
+  h   | ჩ  | xɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ໒   | ɨ
   l   | ს  | lɨ   | w     | ຢ   | u͡ʌ
