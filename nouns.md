@@ -5,54 +5,43 @@ Nouns are words representing objects, persons or places.
 **examples:**
 
 * bana   = banana
-* aqua   = water
+* akwa   = water
 
 **rules:**
 
-* Most nouns are ending with letters {`a`,`e`,`y`,`h`};
+* Most nouns are ending with letters {`a`,`e`};
 * Most nouns have 2 syllables, quite rare 3 syllables;
-* Nouns are ending with letter `e` represent "many" (plural);
-* Nouns ending with letter `y` are not articulated;
-* Nouns ending with letter `a` can be articulated or not;
 
 **examples:**
 
 Same noun using 3 different coda. This is the regular case:
 
-* pan    = bread  (root)
-* pany   = bread  (generic)
 * pana   = bread  (singular)
 * pane   = breads (plural)
-
-There are nouns terminated with `ch` that can change to `ce` for plural.
-
-* coch   = coach
-* coce   = coaches
-* wach   = watch
-* wace   = watches
 
 **gender**
 
 For distinguish between male and female beings we use adjectives: 
 
-* majo  = male    (latin: masculum)
+* maso  = male    (latin: masculum)
 * fimo  = female  (latin: feminam)
 
 **gender prefix**
 
 Observe prefix "Majo" or "Fimo" is used for gender not a suffix.
 
-* Majo-Kanea = male dog 
-* Fimo-Kanea = female dog 
+* maso Kania = male dog 
+* fimo-Kania = female dog 
 
 **implicit gender**
 
 Some words include gender and do not require prefix:
 
-* Kide = children (gender-les)
+* Kida = child    
+* Kide = children 
 * Cika = girl 
 * Nina = boy
-* Pare = parents (gender-les)
+* Pare = parents 
 * Mama = mother
 * Papa = father
 
