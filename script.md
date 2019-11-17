@@ -35,12 +35,12 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 **example:**
 
 1. noi vadu tsu cima uel vadu tsu goxa;
-2. ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
+2. ჺჲ໒.ϑგმບ.ჵຣບ.ɕ໒ოგ.ບცს.ϑგმບ.ჵຣບ.ჹჲອგ;
 
 **example:**
 
 1. de ke loka ti andu?
-2. მც.აც.ȴჲაგ.ȶ໒.გჺმບ?
+2. მც.აც.სჲაგ.ჵ໒.გჺმບ?
 
 **note:**
 
