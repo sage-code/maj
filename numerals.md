@@ -110,14 +110,14 @@ Franch:  lieu,  ordre, position
 * Read symbol "+" as "et", make a short pause before "et"
 * Symbol "-" is newer read, it is a "legato", (you do not pause)
 
-* 125 = un'cen+dua'diz+pea
-* 555 = pe'cen+pea'diz+pea
+* 125 = un'cen+dua'dyz+pea
+* 555 = pe'cen+pea'dyz+pea
 * 801 = ok'cen+una
 
 
 **Thousands = myl**
 
-000 = myl
+1,000 = myl
 
 * 1,000 = un'myl
 * 2,000 = du'myl
@@ -132,26 +132,26 @@ Franch:  lieu,  ordre, position
 
 **Millions  = mon**
 
-000,000  = mon
+1,000,000  = mon
 
 
-* 1,000.000 = un'mon
-* 2,000.000 = du'mon
-* 3,000.000 = re'mon
+* 1,000,000 = un'mon
+* 2,000,000 = du'mon
+* 3,000,000 = re'mon
   ...
-* 9,000.000 = no'mon
+* 9,000,000 = no'mon
 
 
 **Billions = byl**
 
-000.000.000   = byl
+1,000.000.000   = byl
 
 
-*1,000,000.000 = un'byl
-*2,000,000.000 = du'byl
-*3,000,000.000 = re'byl
+*1,000,000,000 = un'byl
+*2,000,000,000 = du'byl
+*3,000,000,000 = re'byl
 ...
-*9,000,000.000 = no'byl
+*9,000,000,000 = no'byl
 
 
 ## Level 3
