@@ -74,14 +74,14 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 
 * kan  = not  - create antonyms
 * tum  = for  - specify purpose / person
-* ati  = anti - against / opposite 
+* aty  = anti - against / opposite 
 * eko  = echo - environment friendly / organic
 
 **examples:**
 
 * tum-bebo = for drink
 * kan-bebo = not for drink
-* ati-gera = anti war
+* aty-gera = anti war
 * eko-vaja = echo travel
    
 ## Noun suffix

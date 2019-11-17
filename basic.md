@@ -107,14 +107,14 @@ singular                | plural
 
 **Reflexive**
 
-To make reflexive we use coda "sy" = "self"
+To make reflexive we use coda "sifo" = "self"
 
-* ma'sy = myself;
-* tu'sy = yourself; 
-* su'sy = himself/ itself
-* nu'sy = ourselves; 
-* vu'sy = yourselves; 
-* zu'sy = themselves; 
+* ma sifo = myself;
+* tu sifo = yourself; 
+* su sifo = himself/ itself
+* nu sifo = ourselves; 
+* vu sifo = yourselves; 
+* zu sifo = themselves; 
 
 **Sort adverbs**
 

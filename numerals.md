@@ -173,7 +173,7 @@ bits| maj      | description
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea dua una nyl etu razu aus !!! 
+* ... rea.dua.una.nyl.etu.razu.aus!
 
 Griat!
 
