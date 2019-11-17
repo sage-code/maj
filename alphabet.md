@@ -2,21 +2,14 @@
 
 Maj is using 26 letters: [ISO Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
 
-**uppercase**
 ```
 --------------------------------------------------
 A   B   K   D   E   F   G   H   Y   J   L   Q   C
 a   b   k   d   e   f   g   h   y   j   l   q   c
 --------------------------------------------------
-M   N   O   P   R   S   X   T   U   V   I   Z   W 
-m   n   o   p   r   s   x   t   u   v   i   z   w    
+M   N   O   P   R   S   X   T   U   I   W   V   Z    
+m   n   o   p   r   s   x   t   u   i   w   v   z       
 --------------------------------------------------
-```
-
-**lowercase**
-```
-
-
 ```
 
 ## Pronunciation
@@ -29,8 +22,8 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 a   b   k   d   e   f   g   h   y   j   l   q    c   
 ʌ   be  kʌ  dʌ  e   fʌ  ɢʌ  xʌ  i   ʒe  le  t͡ɕe  t͡se
 -----------------------------------------------------
-m   n   o   p   r   s   x   t   u  v   z    i    w    
-mʌ  nʌ  o   pe  re  se  ʂe  te  u  vʌ  zʌ   ɨ    u͡ʌ
+m   n   o   p   r   s   x   t   u   i   w    v   z        
+mʌ  nʌ  o   pe  re  se  ʂe  te  u   ɨ   u͡ʌ   vʌ  zʌ       
 -----------------------------------------------------
 ```
 

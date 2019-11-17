@@ -1,5 +1,9 @@
 ## Maj script
 
+* Maj script is designed for writing with stylus or pen;
+* Script letters are not connected like Latin script;
+* Each letter is independent and represent one single sound;
+
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
   a   | გ  | ʌ    | m     | ო   | mɨ  
@@ -30,13 +34,13 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 **example:**
 
-1. ENG:noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
-2. MAJ:ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
+1. noi vadu tsu cima uel vadu tsu goxa;
+2. ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
 
 **example:**
 
-1. EMG:de.ke.loka.ti.andu?
-2. MAJ:მც.აც.ȴჲაგ.ȶ໒.გჺმບ?
+1. de ke loka ti andu?
+2. მც.აც.ȴჲაგ.ȶ໒.გჺმບ?
 
 **note:**
 
@@ -65,7 +69,7 @@ Maj script is a compilation from Georgian, Lao and Armenian
 
 ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
 ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
-ັ ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
+ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
 ໙ ໜ ໝ ໝ 
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
