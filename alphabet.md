@@ -20,10 +20,10 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 ```
 -----------------------------------------------------
 a   b   k   d   e   f   g   h   y   j   l   q    c   
-ʌ   be  kʌ  dʌ  e   fʌ  ɢʌ  xʌ  i   ʒe  le  t͡ɕe  t͡se
+ʌ   be  kʌ  dʌ  e   fʌ  ɢʌ  xʌ  i   ʒe  le  tʃe  tse
 -----------------------------------------------------
 m   n   o   p   r   s   x   t   u   i   w    v   z        
-mʌ  nʌ  o   pe  re  se  ʂe  te  u   ɨ   u͡ʌ   vʌ  zʌ       
+mʌ  nʌ  o   pe  re  se  ʂe  te  u   ɨ   uʌ   vʌ  zʌ       
 -----------------------------------------------------
 ```
 
@@ -105,13 +105,14 @@ That was the basics of alphabet. Maj is a phonetic language so what you write is
 
 Following letters are represented using digraphs in English.
 
-* Letter `c` sounds `t͡s` like `ts` in  "cats": 
+* Letter `c` sounds `ts` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
-* Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
-[listen](https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate)
+* Letter `q` sounds `tʃ` like `ch` in  "peach": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* Letter `j` sounds `d͡ʒi` like `gi` in  "giraffe";
+* Letter `j` sounds `dʒ` like `gi` in  "giraffe";
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Note:** Phonetic writing is using notation: IPA:"...".
 
@@ -134,21 +135,21 @@ Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in En
 * ENG: "chemical"  => IPA: "kemikəl"
 * ENG: "chocolate" => IPA: "ʂoklət"
 
-2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "t͡s" like "ts" in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
+2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "ts" like in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
 
-* ceba = ENG: "cerebellum" => IPA: "t͡seba"
-* ciga = ENG: "cigarette"  => IPA: "t͡səga"
+* ceba = ENG: "cerebellum" => IPA: "tseba"
+* ciga = ENG: "cigarette"  => IPA: "tsəga"
 
-In Maj the groups {ca, ce, cy, co, cu} are also read {t͡sa, t͡se, t͡sy, t͡so, t͡su}. To prevent this effect you must use letter "k" instead of "c". Notice uppercase "C" represent "carbon" element that is written "carba" = IPA:"t͡sarba" no need to write "karba".
+In Maj the groups {ca, ce, cy, co, cu} are also read {tsa, tse, tsy, tso, tsu}. To prevent this effect you must use letter "k" instead of "c". Notice uppercase "C" represent "carbon" element that is written "carba" = IPA:"t͡sarba" no need to write "karba".
 
 **IPA practice**
 
-* ceba => IPA:"t͡seba"
-* ciga => IPA:"t͡sɨga"
+* ceba => IPA:"tseba"
+* ciga => IPA:"tsɨga"
 
 **Modified: K**
 
-Letter "k" is used to avoid digraph: "t͡s". This sound similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. 
+Letter "k" is used to avoid digraph: "ts". This sound similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. 
 
 Some Maj words starting with "k":
 
@@ -167,7 +168,7 @@ Letter "N" or "n" at beginning of words is nasal-alveolar. To make this sound pr
 
 **Palette: n* 
 
-Letter "n" is soft when followed by vowel in middle of words. It becomes like Spanish "ñ". IPA symbol for this sound is: "ɲ". 
+Letter "n" is soft when followed by vowel in middle of words. It becomes like Spanish "ñ". IPA symbol for this sound is: "ɲ". If this rule is not fullw, "n" without softening is acceptable.
 
 **Practice IPA:**
 
@@ -181,10 +182,10 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 **Vibrate J**
 
-Letter "J", "j" is vibrated-labial when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is d͡ʒ. 
+Letter "J", "j" is vibrated-labial when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is dʒ. 
 
-* jela => IPA:"d͡ʒela" = ENG: "jell"
-* jaza => IPA:"d͡ʒaza" = ENG: "jaz" 
+* jela => IPA:"dʒela" = ENG: "jell"
+* jaza => IPA:"dʒaza" = ENG: "jaz" 
 
 **Plosive G**
 
@@ -192,14 +193,14 @@ Letter "G", "g" is plosive-uvular. To pronounce this sound you must press the ba
 
 **Modified: Q**
 
-In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"t͡ɕ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Qu" is replaced by "Qw". 
+In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Qu" is replaced by "Qw". 
 
 * Maj word "Qwyn" = ENG: "Queen" is read like IPA: "kwin";
 * Maj word "aqwa" = ENG: "water" is read like IPA: "akwa";
 
 **Modified: X**
 
-Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `cs`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
+Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `ks`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
 * Word: "xh" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
@@ -220,17 +221,17 @@ Letter "h" is usually voiced but sometimes, silent.
 You can learn how to read Maj by writing English words using Maj alphabet:
 
 * cerebellum=> MAJ:"ceribelum"       
-* generator => MAJ:"jeneretir"  
+* generator => MAJ:"jenereta"  
 * pigeon    => MAJ:"pijin"      
-* giraffe   => MAJ:"jiraf"      
+* giraffe   => MAJ:"jyraf"      
 * fusion    => MAJ:"fujin"      
 * guitar    => MAJ:"gytar"      
 * geese     => MAJ:"gys"        
 * cheese    => MAJ:"qyz"        
-* chocolate => MAJ:"qokclit"     
+* chocolate => MAJ:"qoklit"     
 * peach     => MAJ:"pyq"       
-* speech    => MAJ:"spiq"      
-* accident  => MAJ:"aksidi"     
+* speech    => MAJ:"spyq"      
+* accident  => MAJ:"akside"     
 * initial   => MAJ:"ynyxil"     
 * fashion   => MAJ:"faxin"      
 

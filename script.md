@@ -16,9 +16,9 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   h   | ჩ  | xɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ໒   | ɨ
-  l   | ს  | lɨ   | w     | ຢ   | u͡ʌ
-  q   | თ  | t͡ɕʌ | v     | ϑ   | vʌ  
-  c   | ɕ  | t͡sʌ | z     | ჴ   | zʌ        
+  l   | ს  | lɨ   | w     | ຢ   | uʌ 
+  q   | თ  | tʃʌ  | v     | ϑ   | vʌ  
+  c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
   
 * [Maj translator](https://lingojam.com/MajLettersTranslator)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
