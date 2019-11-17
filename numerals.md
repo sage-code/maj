@@ -12,6 +12,7 @@ When used in text or expressions, symbols can have associated a name:
 
 Symbol | Maj    | English
 -------|--------|---------------------
+  ` `  | gap'ma | Space, gap, blank
   `=`  | eqa'ma | Equal sign
   `>`  | guz'ma | Greater then sign
   `<`  | men'ma | Less then sign
@@ -25,18 +26,15 @@ Symbol | Maj    | English
   `?`  | uha'ma | Question mark 
   `!`  | oha'ma | Exclamation mark 
   `\*` | ara'ma | Asterisk 
-  `()` | rad'ma | round brackets 
-  `[]` | qar'ma | square brackets 
-  `{}` | put'ma | square brackets 
+  `()` | rad'ma | Round brackets 
+  `[]` | qar'ma | Square brackets 
+  `{}` | put'ma | Curly brackets 
 
 ## Level 1
 
-**Note** 
-
-* The numbers do not have gender,
-* The numbers do not have plural form,
-* Two numerals are combined using `eto` symbol `+`
-* Some numbers are combined using apostrophe 
+* First 9 numbers from one to nine are finalized with vowel;
+* Each small number has a corresponding prefix;
+* Firs letter nyl and last dyz are terminated with consonant.
 
 **Ten = dyz** 
 
@@ -52,24 +50,34 @@ x | maj  | xx | maj          | xx | maj    |
 7 | xea  | 17 | un'dyz+xea   | 70 | xe'dyz |
 8 | oka  | 18 | un'dyz+oka   | 80 | ok'dyz |
 9 | noa  | 19 | un'dyz+noa   | 90 | no'dyz | 
+
+
+**Note** 
+
+* The numbers do not have gender,
+* The numbers do not have plural form,
+* Small numbers have two forms, prefix and normal,
+* Two numerals are combined using symbol `+` (`plu` or `plu'ma`)
                                          
 ## Ordinals
          
-Repeting time is created using `foa suffix
+Repeting time is created using `foa` and `alu`
 
 foa  = times
 alu  = all
 
-* nyl-foa = never
-* alu-foa = forever
+* nyl foa = never
+* alu foa = forever
 
 Formin ordinals with numeral prefix can be done from (1..10)
 
-* una foa = once
-* dua foa = twice
-* rea foa = three times
+* ny'foa = never
+* un'foa = once
+* du'foa = twice
+* re'foa = three times
 ...
-* di'foa = then thens
+* dy'foa = then thens
+* al'foa = all the time
           
 **positional**
 
@@ -107,19 +115,19 @@ Franch:  lieu,  ordre, position
 * 801 = ok'cen+una
 
 
-**Thousands = mil**
+**Thousands = myl**
 
-000 = mil
+000 = myl
 
-* 1,000 = un'mil
-* 2,000 = du'mil
-* 3,000 = re'mil
-* 4,000 = qu'mil
-* 5,000 = pe'mil
-* 6,000 = se'mil
-* 7,000 = xe'mil
-* 8,000 = ok'mil
-* 9,000 = no'mil
+* 1,000 = un'myl
+* 2,000 = du'myl
+* 3,000 = re'myl
+* 4,000 = qu'myl
+* 5,000 = pe'myl
+* 6,000 = se'myl
+* 7,000 = xe'myl
+* 8,000 = ok'myl
+* 9,000 = no'myl
 
 
 **Millions  = mon**
@@ -134,16 +142,16 @@ Franch:  lieu,  ordre, position
 * 9,000.000 = no'mon
 
 
-**Billions = bil**
+**Billions = byl**
 
-000.000.000   = bil
+000.000.000   = byl
 
 
-*1,000,000.000 = un'bil
-*2,000,000.000 = du'bil
-*3,000,000.000 = re'bil
+*1,000,000.000 = un'byl
+*2,000,000.000 = du'byl
+*3,000,000.000 = re'byl
 ...
-*9,000,000.000 = no'bil
+*9,000,000.000 = no'byl
 
 
 ## Level 3
