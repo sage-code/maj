@@ -34,7 +34,7 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 
 ## Words
 
-A word can have a specialized role in a sentence. Maj unlike most other languages is using a restrictive syntax rule to differentiate word category by coda. The coda is the last letter of the word.
+A word have a role in a sentence. Maj unlike most other languages is using a special syntax rule to differentiate word category by _coda_. The coda is the last letter of the word. In other languages the words are not differentiated in any way, therefore the same exact word can have multiple meanings. But not in Maj. If the meaning is different then we must change the coda or make another word for it.
 
 
 **notes:**
@@ -44,13 +44,14 @@ A word can have a specialized role in a sentence. Maj unlike most other language
 
 * qara   = square (shape)
 * qar'ma = square brackets [] (symbol)
-
+* pos    = behind
+* poso   = own/posses
 
 **coda:**
 
-* Nouns are finalized with {"a", "e"} or any consonant;
-* Verbs are finalized with {"u"} or suffix: so, fu, pa;
-* Adjectives and Adverbs are finalized with {"o", "y"};
+* Nouns are finalized with {"a", "e"};
+* Verbs are finalized with {"u"} or suffix: { so, fu, pa};
+* Adjectives and Adverbs are finalized with {o, y};
 * Prepositions are also 1, 2 or 3 letter long and usually finalized with vowel;
 
 ## Pronoun
@@ -63,8 +64,7 @@ Is a word that can function by itself as a noun in a phrase to refer either to t
 * it has 3 persons (I, II, III)
 * it has 3 cases: nominative, objective, possessive
 * it has 2 numeral forms: singular and plural
-
-There is a total of 6+1 = 7 pronoun words. These are combined with the article to form the cases.
+* it combine with the article to form the cases.
 
 **Nominative**
 
@@ -87,6 +87,8 @@ Is the person or the thing who receive the action.
  3  | la sa = to him/her/it  | la za = to them 
  
 **note:* 
+ * it is a total of 6+1 = 7 pronoun words
+ * yo/ma is the single irregular pronoun
  
 **Possessive**
 
