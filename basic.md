@@ -109,9 +109,9 @@ singular                | plural
 
 To make reflexive we use coda "sy" = "self"
 
-* mi'sy = myself;
-* ti'sy = yourself; 
-* xi'sy = himself/ itself
+* ma'sy = myself;
+* tu'sy = yourself; 
+* su'sy = himself/ itself
 * nu'sy = ourselves; 
 * vu'sy = yourselves; 
 * zu'sy = themselves; 
@@ -120,11 +120,10 @@ To make reflexive we use coda "sy" = "self"
 
 This is used as an augment for verb to create a new meaning.
 
-hai = let's
+ha = let's
 
-
-* ha bosu xo = let's search him
-* nu do bosu xo = we must search him
+* nu haru bosu su = we have search him
+* nu dovu bosu su = we must search him
 
 ## Verbs
 
@@ -170,7 +169,7 @@ Read more about: [verbs](verbs.md)
 
 foa   = times (French fois)
 
-* ni'foa = never
+* ny'foa = never
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
@@ -183,7 +182,7 @@ lio  = place (French lieu)
 * un'lio  = first  place
 * du'lio  = second place
 * re'lio  = third   place
-* ni'lio  = last place
+* ny'lio  = last place
 
 ## Proposition
 
@@ -191,9 +190,9 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* yo vidu'pa ti un'foa!  = I have seen you one time!
-* xi vidu'pa vu ni'foa!  = He have never seen y'all!
-* tu vidu'fu mi suv!     = You will see me often!
+* yo vidu'pa ta un'foa!  = I have seen you one time!
+* su vidu'pa va ny'foa!  = He have never seen y'all!
+* tu vidu'fu ma suv!     = You will see me often!
 * nu podo vidu'so zu amu!= We can see them now!
 
 ## Interrogative
@@ -256,7 +255,7 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* si / asi = ye / yes
+* sy / asi = ye / yes
 * ka / kan = no /  not
 
 

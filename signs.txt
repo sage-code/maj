@@ -1,33 +1,33 @@
-32 | * | space
-33 | ! | Exclamation mark 
-34 | " | Double quotes ; Quotation mark ; speech marks 
-35 | # | Number sign 
-36 | $ | Dollar sign 
-37 | % | Percent sign 
-38 | & | Ampersand
-39 | ' | Single quote or Apostrophe 
-40 | ( | round brackets or parentheses, opening round bracket 
-41 | ) | parentheses or round brackets, closing parentheses 
-42 | * | Asterisk 
-43 | + | Plus sign 
-44 | , | Comma 
-45 | - | Hyphen , minus sign 
-46 | . | Dot, full stop 
-47 | / | Slash , forward slash , fraction bar , division slash 
-48 | 0 | number zero 
-49 | 1 | number one 
-50 | 2 | number two
-51 | 3 | number three 
-52 | 4 | number four 
-53 | 5 | number five 
-54 | 6 | number six
-55 | 7 | number seven 
-56 | 8 | number eight 
-57 | 9 | number nine 
-58 | : | Colon 
-59 | ; | Semicolon 
-60 | < | Less-than sign 
-61 | = | Equals sign 
-62 | > | Greater-than sign ; Inequality 
-63 | ? | Question mark 
-64 | @ | At sign 
+32 |`*` | space
+33 |`!` | Exclamation mark 
+34 |`"` | Double quotes ; Quotation mark ; speech marks 
+35 |`#` | Number sign 
+36 |`$` | Dollar sign 
+37 |`%` | Percent sign 
+38 |`&` | Ampersand
+39 |`'` | Single quote or Apostrophe 
+40 |`(` | round brackets or parentheses, opening round bracket 
+41 |`)` | parentheses or round brackets, closing parentheses 
+42 |`*` | Asterisk 
+43 |`+` | Plus sign 
+44 |`,` | Comma 
+45 |`-` | Hyphen , minus sign 
+46 |`.` | Dot, full stop 
+47 |`/` | Slash , forward slash , fraction bar , division slash 
+48 |`0` | number zero 
+49 |`1` | number one 
+50 |`2` | number two
+51 |`3` | number three 
+52 |`4` | number four 
+53 |`5` | number five 
+54 |`6` | number six
+55 |`7` | number seven 
+56 |`8` | number eight 
+57 |`9` | number nine 
+58 |`:` | Colon 
+59 |`;` | Semicolon 
+60 |`<` | Less-than sign 
+61 |`=` | Equals sign 
+62 |`>` | Greater-than sign ; Inequality 
+63 |`?` | Question mark 
+64 |`@` | At sign 
