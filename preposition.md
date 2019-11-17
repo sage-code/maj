@@ -26,38 +26,33 @@ English preposition can be considered in this categories:
 ## Time & Place
 
 * In English, time and place are differentiated with 3 prepositions { in > on > at}. 
-* Maj is using prepositions: { auf > > bei }
+* Maj is using prepositions: { auf > > bay }
 
 **Location examples**
 
 * in London  = auf London
-* on Oxford Street = la Oxford Street en London
-* at 203 Oxford Street = en 203 la Oxford Street de London
+* on Oxford Street = dan Oxford Street auf London
+* at 203 Oxford Street = bay 203 dan Oxford Street auf London
 
 **Time examples**
 
-* in 2005   = en anoa 2005
-* on Spring = la seza Spring 
-* at 21 of September 2005 =  en 21 de Septeber 2005
-* at 2:45 = bei hora du con qu'diz e ria
+* in 2005   = dan 2005
+* on Spring = auf Spring 
+* at 21 of September 2005 =  dan 21 auf Septeber dan 2005
+* at 2:45 = bay hora dua con qu'dyz e rea
 
 **numeral prefix**
 
 You can create composite adjective to refer the number of occurrences for events or actions:
 
-tesa = the time
 foa  = repetition/ number of times
 
-**using time**
-* un'teso  = first  time
-* du'teso  = second time
-* ni'teso  = last   time
-
 **using repetition**
-* un'foa = once / one single time
+* un'foa = once 
 * du'foa = two times
+* re'foa = tbree times
 ....
-* ni'foa = never
+* ny'foa = never
 
 **Related nouns**
 
@@ -75,7 +70,7 @@ seza  = season
 
 **quantity prefix**
 
-mui = very
+muy = very
 lon = far
 
 * MAJ: una loka mui lon von hir;
@@ -137,7 +132,7 @@ Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
 von   | from     | von    | de       | de      | de
 tsu   | toward   | zu     | la       | vers    | para
-por   | by       | durch  | prin     | por     | por
+bay   | by       | durch  | prin     | por     | por
 via   | via      | über   | via      | via     | vía
 aus   | off      | aus    | din      | de      | apagado
          
@@ -159,7 +154,7 @@ uba	    |above	             |encima           | über
 auf     |on                  |en               | im, auf
 aut     |out                 |fuera            | draußen
 avo     |above               |encima           | über
-bei     |at                  |la               | bei
+bay     |at                  |la               | bei
 kot     |beside, next to     |al lado, cerca   | neben
 dan     |in                  |en               | in
 der     |there               |ahi              | dort
@@ -183,7 +178,7 @@ yet     |yet                 |todavía          | noch
 
 **examples**
 
-* bei 24 aus Nove 2007 = at 24 of November 207
+* bay 24 aus Nove 2007 = at 24 of November 207
 * auf la mesa = on the table
 * dan la casa = in the house
 * vor la casa = in front of the house
