@@ -13,7 +13,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
   g   | ჹ  | ɢɨ   | x     | ອ   | ʂɨ  
-  h   | ჩ  | xɨ   | t     | ȶ   | tɨ  
+  h   | ჩ  | xɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ໒   | ɨ
   l   | ს  | lɨ   | w     | ຢ   | u͡ʌ
@@ -35,12 +35,12 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 **example:**
 
 1. noi vadu tsu cima uel vadu tsu goxa;
-2. ჺჲ໒.ϑგმບ.ȶຣບ.ɕ໒ოგ.ບცȴ.ϑგმບ.ȶຣບ.ჹჲອგ;
+2. ჺჲ໒.ϑგმບ.ჵຣບ.ɕ໒ოგ.ບცს.ϑგმບ.ჵຣບ.ჹჲອგ;
 
 **example:**
 
 1. de ke loka ti andu?
-2. მც.აც.ȴჲაგ.ȶ໒.გჺმບ?
+2. მც.აც.სჲაგ.ჵ໒.გჺმບ?
 
 **note:**
 
