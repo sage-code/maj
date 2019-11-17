@@ -220,7 +220,7 @@ de ke reza?|ura  | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke magu'fu tu  ?  = what are you going to eat ?
-* ky seru'pa ybi ?  = who was there?
+* ky seru'pa der ?  = who was there?
 * ku seru'so tu  ?  = how are you ?   
 * ka magu'fu tu  ?  = you have not eaten ?
 
