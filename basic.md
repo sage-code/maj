@@ -2,7 +2,7 @@
 
 In this document we describe the basics of MAJ semantic.
 
-* How to say greedings
+* How to say greetings
 * Pronouns and cases
 * Verb tense
 * Noun article
@@ -34,35 +34,37 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 
 ## Words
 
-A word can have a specialized role in a sentence. 
+A word can have a specialized role in a sentence. Maj unlike most other languages is using a restrictive syntax rule to differentiate word category by coda. The coda is the last letter of the word.
 
-* Nouns are finalized with {"a","y","e"} or any consonant;
-* Verbs are finalized with {"u", "i"} or suffix, "so", "fu", "pa";
-* Adjectives are finalized with {"o", "w"} or a consonant;
-* Adverbs like adjectives are finalized with vowel "o" or consonant;
-* Pronouns are 2 or 3 letter long and can terminate with {"o","u","i","y" or "s"};
-* Prepositions are also 2 or 3 letter long and can terminate with any letter;
-* Determinants are monosyllabic prepositions, 2 - 3 letter long;
-* Interjection is monosyllabic and usually start with "w";
 
-**note:**
-For word creation we have a strong rule that is very useful: A word in general start with a consonant or a vowel but should end with a vowel. This rule makes words easy to connect in a phrase using conjunctions, articles or direct.
+**notes:**
+1. A word in general start with a consonant or a vowel but should end with a vowel. This rule makes words easy to connect together in a phrase using prepositions and articles.
+2. A word has a _root_ and _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The word meaning must be related somehow. If a word does not have a related meaning, it will be a funny mistake to use it.
+3. Words having root with coda can not exist without a coda. You can add a suffix to a word but a root word without the coda can means something different, a shorter word maybe totally unrelated to the word with coda.
+
+* qara   = square (shape)
+* qar'ma = square brackets [] (symbol)
+
+
+**coda:**
+
+* Nouns are finalized with {"a", "e"} or any consonant;
+* Verbs are finalized with {"u"} or suffix: so, fu, pa;
+* Adjectives and Adverbs are finalized with {"o", "y"};
+* Prepositions are also 1, 2 or 3 letter long and usually finalized with vowel;
 
 ## Pronoun
 
 Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
 
-**Pronoun features:**
+**Features:**
 
-* it has 3 persons
-* it has 3 cases
-* it has singular and plural forms
+* pronouns do not have gender (Maj is gender-less)
+* it has 3 persons (I, II, III)
+* it has 3 cases: nominative, objective, possessive
+* it has 2 numeral forms: singular and plural
 
-**Pronouns cases:**
-
-* nominative
-* objective
-* possessive
+There is a total of 6+1 = 7 pronoun words. These are combined with the article to form the cases.
 
 **Nominative**
 
@@ -78,35 +80,28 @@ Is the person or the thing who perform the action.
 
 Is the person or the thing who receive the action.
 
- ps | singular         | plural     
-----|------------------|-----------------------------
- 1  | my = me          | ne = us   
- 2  | ty = you         | ve = y'all
- 3  | sy = him/her/it  | ze = them 
+ ps | singular               | plural     
+----|------------------------|-----------------------------
+ 1  | la ma = to me          | la na = to us   
+ 2  | la ta = to you         | la va = to y'all
+ 3  | la sa = to him/her/it  | la za = to them 
+ 
+**note:* 
  
 **Possessive**
 
 Is a composite word for a person or object who own something or have something.
 
-verbs: 
-
 * haru = to have
 * posu = to posses
+* poso = own
+* al   = all
 
-adjective: poso = own
-
-
-singular            | plural
---------------------|--------------------------------
-ma = mine           | na = ours
-ta = your           | va = yours
-sa = his, hers, its | za = theirs
-
-**notes:** 
-
-* In total there are 18 pronouns;
-* All pronouns are ending with vowel
-* There is no gender in pronouns;
+singular                | plural
+------------------------|--------------------------------
+ al ma = mine           | al na = ours
+ al ta = your           | al va = yours
+ al sa = his, hers, its | al za = theirs
 
 **Reflexive**
 
