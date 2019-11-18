@@ -18,11 +18,9 @@ Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
 ciao  |hello     | hola       | bienvenue  | salve     | salut       | ciao
 salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
 adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio
-vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediamo
 
 **note:** Some form of salute have multiple meanings
 
-* salo = healthy    (adjective: referring to a person or animal)
 * salu = bless you  (verb: when somebody is sneezing)
 * muna = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
@@ -30,7 +28,9 @@ vale  |goodbye   | dejar      | adieu      | bene      | ramas bun   | ci vediam
 **examples:**
 
 * ciao muna = hello world
-* salo todo = health to everyone
+* adio todo = farewell all
+* salu todo = health for all
+
 
 ## Words
 
@@ -96,25 +96,24 @@ Is a composite word for a person or object who own something or have something.
 
 * haru = to have
 * posu = to posses
-* poso = own
-* al   = all
+* al   = all for
 
 singular                | plural
 ------------------------|--------------------------------
- al ma = mine           | al na = ours
- al ta = your           | al va = yours
- al sa = his, hers, its | al za = theirs
+ al'ma = mine           | al'na = ours
+ al'ta = your           | al'va = yours
+ al'sa = his, hers, its | al'za = theirs
 
 **Reflexive**
 
-To make reflexive we use coda "sifo" = "self"
+To make reflexive we use coda "syfo" = "self"
 
-* ma sifo = myself;
-* tu sifo = yourself; 
-* su sifo = himself/ itself
-* nu sifo = ourselves; 
-* vu sifo = yourselves; 
-* zu sifo = themselves; 
+* ma syfo = myself;
+* tu syfo = yourself; 
+* su syfo = himself/ itself
+* nu syfo = ourselves; 
+* vu syfo = yourselves; 
+* zu syfo = themselves; 
 
 **Sort adverbs**
 
@@ -122,8 +121,8 @@ This is used as an augment for verb to create a new meaning.
 
 ha = let's
 
-* nu haru bosu su = we have search him
-* nu dovu bosu su = we must search him
+* nu haru bosu sa = we have search him
+* nu dovu bosu sa = we must search him
 
 ## Verbs
 
@@ -163,7 +162,7 @@ Read more about: [verbs](verbs.md)
 
 * suv   = often (French souvent)
 * mox   = soon  (Latin mox)
-* amu   = now   (Spanish ahora)
+* aku   = now   (Spanish ahora)
 
 **composite**
 
@@ -269,7 +268,7 @@ The interogative question can be answered with affirmative or negative:
 
 * vero!  = true, affirmative
 * faso!  = false, negative, 
-* kaci!  = unknown
+* kaxo!  = unknown
 
 **scientific**
 For stronger assurance answer you can specify the logical values:
@@ -357,8 +356,8 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
 * oru = any
-* omi = every
-* ali = all
+* omy = every
+* aly = all
 * mot = many
 * pau = few
 * van = several
@@ -369,10 +368,10 @@ Common noun is using plural "e" or singular "a" with different articles:
 
 * una mela = one apple
 * dua mele = two apples
-* omi mela = every apple
+* omy mela = every apple
 * oru mela = any apple
 * som mele = some apples
-* ali mele = all apples
+* aly mele = all apples
 * mot mele = many apples
 * yxo diz male = approximative 10 apples
 

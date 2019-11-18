@@ -239,10 +239,10 @@ Spanish | pero   | Es caro, pero de muy buena calidad.
 
 * cima  = cinema
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
+* yrdu  = to go
 
+:noi yrdu cum cima uel yrdu cum goxa;
 
-:noi vadu tsu cima uel vadu tsu goxa;
-:noi.vadu.tsu.cima.uel.vadu.tsu.goxa;
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

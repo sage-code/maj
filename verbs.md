@@ -14,11 +14,11 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 * Composite words are using "'" to link two words close together,
 * Composite words are pronounced as a single word.
 
-**Preposition:** des = about
+**Preposition:** de = about of
 
-* tu dicu des la sota = you talk about the present
-* tu dicu des la futa = you talk about the future
-* tu dicu des la pasa = you talk about the past
+* tu dicu de la sota = you talk of the present
+* tu dicu de la futa = you talk of the future
+* tu dicu de la pasa = you talk of the past
 
 **Preposition:** von = from
 
