@@ -22,8 +22,6 @@ Maj is an artificial language for communication and artificial reasoning;
 
 Maj is designed to chat with your friends, community and family.
 
-Rad more: [use cases](case.md)
-
 **Disclaimer ...**
 
 Maj is ...
@@ -43,8 +41,10 @@ Basic principles for Maj construction:
 1. most letters represent a single sound (1:1);
 1. two letters can be combined to create a new sound (2:1);
 1. letters in words are oriented from left to right;
-1. words are separated between them by at least one space;
+1. words are separated between them by one dot;
 1. words are ordered in propositions from left to right;
+
+Rad more: [use cases](case.md)
 
 ## Alphabet
 

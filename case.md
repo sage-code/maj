@@ -56,6 +56,8 @@ we shorten the longer words to reduce cost of pronunciation; we use mono syllabi
 
 in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated so further abbreviation makes no sense therefore is prohibited. foreign words can be used in Maj but must be enclosed with double quotes "française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
+We use two functions to compute cost of words during word design. one is considering pronunciation and another one is considering the cost of writing. We replace expensive letters with simple letters to make the language more efficient.
+
 **design:**
 
 * Maj re-purpose some redundant letters: { K, X, Y };
