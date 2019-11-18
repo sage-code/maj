@@ -158,7 +158,7 @@ bay     |at                  |la               | bei
 kot     |beside, next to     |al lado, cerca   | neben
 dan     |in                  |en               | in
 der     |there               |ahi              | dort
-des     |of                  |de               | des
+des     |of, about of        |de               | des
 fra     |between             |entre            | zwischen
 hir     |here                |aqui             | hier
 iny     |inside the          |dentro           | innerhalb

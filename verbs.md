@@ -32,13 +32,13 @@ Noun: tesa  = time
  Suffix  | English
 ---------|----------------------------
  fu      | future    
- so      | present
+ ya      | present
  pa      | past
 
 Using suffix:
 
 * joku'fu = future play
-* joku'so = present play
+* joku'ya = present play
 * joku'pa = past play
 
 ## Verb transformation
