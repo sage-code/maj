@@ -52,11 +52,11 @@ The cost of witting can be calculated using 5 classes:
 
 Cost |  Letter
 -----|-----------------
-  1  |b, d, y, o, v, k
-  2  |a, g, l, j, s, q
-  3  |c, r, t, e 
-  4  |h, w, x, z
-  5  |m, n, p,
+  1  |b, d, o, v, k, l
+  2  |a, g, j, q, c  
+  3  |r, s, e, t
+  4  |w, x, z, p
+  5  |y, h, m, n 
 
 ## References:
 
