@@ -86,7 +86,7 @@ Formin ordinals with numeral prefix can be done from (1..10)
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
-...
+* ...
 * dy'foa = then thens
 * al'foa = forever
           
@@ -140,7 +140,7 @@ Franch:  lieu,  ordre, position
 * 1,000,000 = un'mon
 * 2,000,000 = du'mon
 * 3,000,000 = re'mon
-  ...
+* ...
 * 9,000,000 = no'mon
 
 
@@ -149,11 +149,11 @@ Franch:  lieu,  ordre, position
 1,000.000.000   = byl
 
 
-*1,000,000,000 = un'byl
-*2,000,000,000 = du'byl
-*3,000,000,000 = re'byl
-...
-*9,000,000,000 = no'byl
+* 1,000,000,000 = un'byl
+* 2,000,000,000 = du'byl
+* 3,000,000,000 = re'byl
+* ...
+* 9,000,000,000 = no'byl
 
 
 ## Level 3
