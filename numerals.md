@@ -1,14 +1,21 @@
 ## Numerals 
 
-Noun: "numa" = number
-Noun: "vala" = value
-Verb: "kotu" = counting
+Maj numerals are build to be easy to comprehend and say.
+
+* Noun: "numa" = number
+* Noun: "vala" = value
+* Noun: "mark" = symbol
+* Verb: "kotu" = counting
+
+**Note:**
+
+* The noun mark is ending in a consonant and it does not have plural.
+* The verb "kotu" can become adjective: "koto" = "accounted for".
+* The verb "numu" is possible but not used. Use "kotu" instead.
 
 ## Symbols
 
-When used in text or expressions, symbols can have associated a name:
-
-* mark = symbol
+When used in text or expressions, symbols can have associated a name
 
 Symbol | Maj    | English
 -------|--------|---------------------
@@ -58,16 +65,20 @@ x | maj  | xx | maj          | xx | maj    |
 * The numbers do not have plural form,
 * Small numbers have two forms, prefix and normal,
 * Two numerals are combined using symbol `+` (`plu` or `plu'ma`)
+
+## Counting:
+
+Let's count a rocket lifting off:
+
+* ... 3 2 1 0 and lift off
+* ... rea.dua.una.nyl.etu.razu.aus!
                                          
 ## Ordinals
          
 Repeting time is created using `foa` and `alu`
 
 foa  = times
-alu  = all
-
-* nyl foa = never
-* alu foa = forever
+ale  = all
 
 Formin ordinals with numeral prefix can be done from (1..10)
 
@@ -77,7 +88,7 @@ Formin ordinals with numeral prefix can be done from (1..10)
 * re'foa = three times
 ...
 * dy'foa = then thens
-* al'foa = all the time
+* al'foa = forever
           
 **positional**
 
@@ -93,31 +104,23 @@ Franch:  lieu,  ordre, position
 
 ## Level 2
 
-**Hundreds = hun**
+**Hundreds = cen**
 
-00 =  cen
+ Num |  Maj     |  Num | Maj
+-----|----------|------|-------------
+ 100 |  un'cen  |  600 |  se'cen
+ 200 |  du'cen  |  700 |  xe'cen
+ 300 |  re'cen  |  800 |  ok'cen
+ 400 |  qu'cen  |  900 |  no'cen
+ 500 |  pe'cen  | 1000 |  un'myl 
 
-* 100 =  un'cen
-* 200 =  du'cen
-* 300 =  re'cen
-* 400 =  qu'cen
-* 500 =  pe'cen
-* 600 =  se'cen
-* 700 =  xe'cen
-* 800 =  ok'cen
-* 900 =  no'cen
 
-* Read symbol "+" as "et", make a short pause before "et"
-* Symbol "-" is newer read, it is a "legato", (you do not pause)
-
-* 125 = un'cen+dua'dyz+pea
-* 555 = pe'cen+pea'dyz+pea
+* 125 = un'cen+du'dyz+pea
+* 555 = pe'cen+pe'dyz+pea
 * 801 = ok'cen+una
 
 
 **Thousands = myl**
-
-1,000 = myl
 
 * 1,000 = un'myl
 * 2,000 = du'myl
@@ -133,7 +136,6 @@ Franch:  lieu,  ordre, position
 **Millions  = mon**
 
 1,000,000  = mon
-
 
 * 1,000,000 = un'mon
 * 2,000,000 = du'mon
@@ -167,13 +169,6 @@ bits| maj      | description
 16  | du'ova   | short integer
 32  | qu'ova   | integer
 64  | ok'ova   | long integer
-
-## Counting:
-
-Let's count a rocket lifting off:
-
-* ... 3 2 1 0 and lift off
-* ... rea.dua.una.nyl.etu.razu.aus!
 
 Griat!
 
