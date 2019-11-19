@@ -19,23 +19,23 @@ When used in text or expressions, symbols can have associated a name
 
 Symbol | Maj    | English
 -------|--------|---------------------
-  ` `  | gap'ma | Space, gap, blank
-  `=`  | eqa'ma | Equal sign
-  `>`  | guz'ma | Greater then sign
-  `<`  | men'ma | Less then sign
-  `+`  | plu'ma | Plus sign 
-  `-`  | myo'ma | Hyphen , minus sign 
-  `/`  | oya'ma | Slash , forward slash 
-  `.`  | ona'ma | Dot, full stop 
-  `,`  | oma'ma | Comma 
-  `:`  | yna'ma | Colon 
-  `;`  | yma'ma | Semicolon 
-  `?`  | uha'ma | Question mark 
-  `!`  | oha'ma | Exclamation mark 
-  `\*` | ara'ma | Asterisk 
-  `()` | rad'ma | Round brackets 
-  `[]` | qar'ma | Square brackets 
-  `{}` | put'ma | Curly brackets 
+  ` `  | sao    | Space, gap, blank
+  `=`  | yko    | Equal sign
+  `>`  | gao    | Greater then sign
+  `<`  | luo    | Less then sign
+  `+`  | eto    | Plus sign 
+  `-`  | meo    | Hyphen , minus sign 
+  `/`  | rua    | Slash , forward slash 
+  `.`  | opa    | Dot, full stop 
+  `,`  | oma    | Comma 
+  `:`  | ypa    | Colon 
+  `;`  | yma    | Semicolon 
+  `?`  | uha    | Question mark 
+  `!`  | oha    | Exclamation mark 
+  `\*` | sta    | Asterisk 
+  `()` | bra    | Round brackets 
+  `[]` | kra    | Square brackets 
+  `{}` | sra    | Curly brackets 
 
 ## Level 1
 
@@ -79,8 +79,10 @@ Repeting time is created using `foa` and `alu`
 
 foa  = times
 ale  = all
+eti  = infinite
+etyo = eternity
 
-Formin ordinals with numeral prefix can be done from (1..10)
+Forming ordinals with numeral prefix can be done from (1..10)
 
 * ny'foa = never
 * un'foa = once
@@ -164,8 +166,8 @@ vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dva      | binar/bit   dua-vala
-8   | ova      | word        oka-vala
+0/1 | dva      | dua-vala (binary/bit)
+8   | ova      | oka-vala (word)
 16  | du'ova   | short integer
 32  | qu'ova   | integer
 64  | ok'ova   | long integer
