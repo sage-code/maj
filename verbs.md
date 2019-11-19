@@ -51,10 +51,8 @@ Use termination 'ra to make an adverb
 
 joku => joku'ra 
 
-* tu habu'so de me  = You have spoken about me
-* tu seru'oa joku'ra de zu  = You are played by him
-
-* la pala se joku'ra = The boll was played
+* tu seru'pa la joku'ra de zu  = You have been played by him
+* la pala se joku'pa = The boll was played
 
 
 **lo = ul**
@@ -75,7 +73,7 @@ Use termination 'ga to make a noun.
 
 * yo seru'pa una joku'ga = I was a player
 * nu seru'fu ale joku'ga = we will be all players
-* eso seru'so una movu'ga pu paca = un movement for peace
+* eso seru'ya una movu'ga pro paca = un movement for peace
 
 
 ## Reflexive form
@@ -88,11 +86,11 @@ domu'sy  =>  to sleep
 
 ** using reflexive pronoun **
 
-hai = let's  (leading/encouragement)
+hay = let's  (leading/encouragement)
 rog = please (favor)
 
-* hai nu'sy hodu  = let's get rest ourselves
-* hai tu'sy kamu  = let's calm yourself 
+* hay nu'sy hodu  = let's get rest ourselves
+* hay tu'sy kamu  = let's calm yourself 
 * rog vu'sy domu  = please sleep yourselves
 
 ** using reflexive prefix**
@@ -100,33 +98,5 @@ rog = please (favor)
 * nu dovu ke hodu'sy = we have to get rest ourselves
 * vu dovu ke kamu'sy = y'all have to calm yourselves
 * zu dovu ke domu'sy = they must go to sleep themselves
-
-## Short verbs
-
-Some frequent verbs have an alternative short form:
-
-???
-
-* es = estu = is (to be)/(to exist) 
-* ha = haru = have
-* fa = faru = do (to do)
-* po = povu = can (to be able)
-* da = daru = wish
-* do = dovu = must
-* ve = veru = see
-* yr = yrdu = go
-* ci = civu = know
-
-**example:**
-
-* yo es tido   = I am tired
-* yo da una kupa de kifa = I wish one cup of coffee
-* eta zu po ha una = and he can also have one
-* zu es ka hir  = they are not here
-
-**note:**
-
-This short form of the verb do not create composition with time;
-
 
 Read next: [nouns](nouns.md)

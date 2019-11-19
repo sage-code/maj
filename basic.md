@@ -96,7 +96,7 @@ Is a composite word for a person or object who own something or have something.
 
 * haru = to have
 * posu = to posses
-* al   = all for
+* al   = for / to
 
 singular                | plural
 ------------------------|--------------------------------
@@ -128,9 +128,9 @@ ha = let's
 
 Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
 
-* oiru = hear 
-* divu = become
-* socu = happen
+* oyru = hear 
+* dyvu = become
+* pasu = happen
 
 There are 3 time suffixes in Maj:
 
@@ -138,8 +138,8 @@ tesa = time
 
 Suffix  | Maj       | English
 --------|-----------|----------------------------
-so      | sota      | present (go now)
-fu      | futa      | future
+ya      | yasa      | present (go now)
+fu      | fusa      | future
 pa      | pasa      | past
 
 **undefined time**
@@ -152,9 +152,16 @@ verb: joku = to play
 
 **time suffix**
 
-* zu joku'so = he is playing
+* zu joku'ya = he is playing
 * zu joku'fu = he will play
 * zu joku'pa = he has plaid
+
+**negative**
+
+* zu ka joku'pa = he has not play
+* zu ka joku'fu = he will not play
+* yo ka joku'ya = I do not play
+* yo sy joku'fu = Yes I will play
 
 Read more about: [verbs](verbs.md)
 

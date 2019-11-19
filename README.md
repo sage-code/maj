@@ -57,6 +57,12 @@ A   B   K   D   E   F   G   H   Y   J   L   Q   C
 M   N   O   P   R   S   X   T   U   I   W   V   Z   
 ---------------------------------------------------
 ```
+**Note:**
+
+Mah hand-written letters are called "script" and this looks like:
+
+* ɕ໒გჲ ოບჺგ = ciao muna
+* 
 
 **Read more:** 
 
