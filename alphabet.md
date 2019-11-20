@@ -118,7 +118,7 @@ Following letters are represented using digraphs in English.
 
 **examples:** 
 
-* xoka = ENG: "chocolate" => IPA:"ʂoka"    
+* qoka = ENG: "chocolate" => IPA:"qoka"    
 * xava = ENG: "shovel"    => IPA:"ʂava"    
 * koqa = ENG: "coach"     => IPA:"kot͡ɕa"  
 * qyka = ENG: "girl"      => IPA:"t͡ɕika"  

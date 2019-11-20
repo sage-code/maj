@@ -13,28 +13,24 @@ In this document we describe the basics of MAJ semantic.
 You can give greetings to one person or to everyone:
 
 
-Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian
-------|----------|------------|------------|-----------|-------------|----------
-ciao  |hello     | hola       | bienvenue  | salve     | salut       | ciao
-salu  |health    | salud      | la santé   | salutem   | sănătate    | salute
-adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio
+Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
+------|----------|------------|------------|-----------|-------------|----------|-----------
+qau   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
-* salu = bless you  (verb: when somebody is sneezing)
 * muna = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
 **examples:**
 
-* ciao muna = hello world
+* qau  muna = hello world
 * adio todo = farewell all
-* salu todo = health for all
-
 
 ## Words
 
-A word have a role in a sentence. Maj unlike most other languages is using a special syntax rule to differentiate word category by _coda_. The coda is the last letter of the word. In other languages the words are not differentiated in any way, therefore the same exact word can have multiple meanings. But not in Maj. If the meaning is different then we must change the coda or make another word for it.
+A word have a role in a sentence. Maj unlike most other languages is using a special syntax rule to differentiate word category by _coda_. The coda is the last letter of the word. Words that have different coda and same root have related meaning. 
 
 
 **notes:**
@@ -94,15 +90,14 @@ Is the person or the thing who receive the action.
 
 Is a composite word for a person or object who own something or have something.
 
-* haru = to have
-* posu = to posses
-* al   = for / to
+* ha = haru = to have
+* po = posu = to posses
 
 singular                | plural
 ------------------------|--------------------------------
- al'ma = mine           | al'na = ours
- al'ta = your           | al'va = yours
- al'sa = his, hers, its | al'za = theirs
+ ha ma = mine           | ha na = ours
+ ha ta = your           | ha va = yours
+ ha sa = his, hers, its | ha za = theirs
 
 **Reflexive**
 
@@ -115,14 +110,14 @@ To make reflexive we use coda "syfo" = "self"
 * vu syfo = yourselves; 
 * zu syfo = themselves; 
 
-**Sort adverbs**
+**Action**
 
-This is used as an augment for verb to create a new meaning.
+In Maj, "hay" is used as an encouragement:
 
-ha = let's
+hay = c'mon (come on)
 
-* nu haru bosu sa = we have search him
-* nu dovu bosu sa = we must search him
+* hay nu haru bosu sa = c'mon we have to search him
+* hay nu dovu bosu sa = c'mon we must search him
 
 ## Verbs
 
@@ -179,7 +174,7 @@ foa   = times (French fois)
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
-* al'foa = forever
+* et'foa = forever
 
 **using numerals**
 
@@ -226,8 +221,8 @@ de ke reza?|ura  | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke magu'fu tu  ?  = what are you going to eat ?
-* ky seru'pa der ?  = who was there?
-* ku seru'so tu  ?  = how are you ?   
+* ky seru'pa ybo ?  = who was there?
+* ku seru'ya tu  ?  = how are you ?   
 * ka magu'fu tu  ?  = you have not eaten ?
 
 Asking about location can be explicit using que:
@@ -249,7 +244,7 @@ You can use `von ubi`, or `tsu ubi` instead of `loka`.
 
 Possible answers:
 
-* von hir tsu ybi! = from here to there!
+* von hir tsu ybo! = from here to there!
 * von loka ke tu picu!  = from a place you like!
 * von tesa ke lo oviu!  = from a forgotten time!
 

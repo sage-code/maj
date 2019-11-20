@@ -1,16 +1,12 @@
 # Maj
 
-Maj is an artificial language for communication and artificial reasoning;
+Maj is designed to chat with your friends, community and family.
 
 **Attributes:**
 
 1. Accesible;
 2. Efficient;
 3. Deterministic;
-
-* Maj is pragmatic and regular. 
-* Maj has logical strictures easy to grasp;
-* Maj is using Latin alphabet with 26 letters;
 
 **Goals ...**
 
@@ -20,8 +16,6 @@ Maj is an artificial language for communication and artificial reasoning;
 4. Maj is for friendship;
 5. Maj is for entertainment;
 
-Maj is designed to chat with your friends, community and family.
-
 **Disclaimer ...**
 
 Maj is ...
@@ -29,8 +23,6 @@ Maj is ...
 1. not a cryptic language;
 1. not a mystic language;
 1. not a perfect language;
-
-Maj is not an designed as an academic or secret language.
 
 **Principles:**
 
@@ -48,7 +40,7 @@ Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Maj is using Latin alphabet with modified order:
+Maj is using Latin alphabet, 26 letters:
  
 ```
 ---------------------------------------------------
@@ -59,16 +51,19 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 ```
 **Note:**
 
-Mah hand-written letters are called "script" and this looks like:
+* The order of letter is modified;
+* Some letters have a distinct pronunciation;
+* Numerals are same as all Romance languages (0..9);
+* Script letters are distinctive bu some are similar;
 
-* ɕ໒გჲ ოບჺგ = ciao muna
-* 
+* ɕ໒გჲ.ოບჺგ;  = ciao muna;
+* ცຣჲ.ცຣ.ოგງ! = eso es maj!
 
 **Read more:** 
 
 * [The alphabet](alphabet.md)
-* [The script](script.md)
 * [The numerals](numerals.md)
+* [The script](script.md)
 
 ## Words
 
@@ -79,17 +74,12 @@ Maj is a compilation from 7 different languages.
 
 **technology:**
 
-* Maj alphabet is similar to English alphabet and use standard QWERTY keyboard;
-* Maj alphabet has modified letters pronounced different than English;
 * Maj alphabet is deterministic and precise. One distinct sound for each letter;
 * All words are created manually using a translation spreadsheet;
 * Words are abbreviated as much as possible not translated one to one;
-* When there is divergence between languages, Maj words is original;
 * We preserve significant syllables to create a shorter word;
 * Sometimes we add letters or coda, to improve pronunciation;
-* Sometimes we cut out letters to make words shorter;
-* Maj numerals are original but first letter is inspired from Romanic languages;
-* Most words including numerals are starting with consonant and end with vowel;
+* Maj numerals are original but first letter is inspired from Romance languages;
 * In Maj words, each letter is pronounced. Only letter "h" can be voiceless;
 
 ## Essential
@@ -101,13 +91,11 @@ Maj is using the power of 3 to organize sentences and words:
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases: {nominative, objective, possessive};
 
-Next 3 essential documents will teach you basic elements:
-
 Read more: [basic](basic.md)
 
 ## Grammar
 
-You can learn more Maj elements organized by word category:
+You can learn more Maj by reading about _word categories_:
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
@@ -117,11 +105,10 @@ You can learn more Maj elements organized by word category:
 
 ## Lexicon
 
-You can learn Maj words organized by specific knowledge domain:
+You can learn Maj words organized by domain:
 
-'xa  = xatu = to know
-
-The "a" is transformed to "o" for 'xa sufix.
+* Suffix: 'xa  = xatu = to know
+* The "a" is transformed to "o" for 'xa sufix.
 
 1. suto'xa = [structure](words/structure.md)
 1. ynfo'xa = [information](words/information.md)
@@ -139,16 +126,16 @@ The "a" is transformed to "o" for 'xa sufix.
 
 **Note:**
 
-* The above distribution do not include all Maj.
-* Maj dictionary is work in progress;
+* The above lexicon do not include all Maj words;
+* This lexicon is work in progress and subject to changes;
 
 ## Contribution
 
-Maj is work in progress so we are looking for contributors.
+Maj is team is looking for contributors:
 
-1. To review grimmer
-2. To improve lexicon
-3. To create examples
+1. To review grammar;
+2. To improve lexicon;
+3. To create examples;
 
 **Community:**
 

@@ -14,32 +14,43 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 * Composite words are using "'" to link two words close together,
 * Composite words are pronounced as a single word.
 
-**Preposition:** de = about of
-
-* tu dicu de la sota = you talk of the present
-* tu dicu de la futa = you talk of the future
-* tu dicu de la pasa = you talk of the past
-
-**Preposition:** von = from
-
-* nova von la Europa  = news from the Europe
-* nava von la Veta    = news from the west
-
 **time suffix:**
 
 Noun: tesa  = time
 
- Suffix  | English
----------|----------------------------
- fu      | future    
- ya      | present
- pa      | past
+ Suffix  | Maj       | English
+---------|-----------|----------------------------
+ fu      | fusa      | future    
+ ya      | yasa      | present
+ pa      | pasa      | past
 
 Using suffix:
 
 * joku'fu = future play
 * joku'ya = present play
 * joku'pa = past play
+
+## Determinant prepositions
+
+**de = of/about**
+
+* tu dicu des la yaxa = you talk of the present
+* tu dicu des la fuva = you talk of the future
+* tu dicu des la pasa = you talk of the past
+
+**vel = must/mandatory**
+
+* tu vel dicu des la yasa = you must talk of the present
+* tu vel dicu des la yasa = you must talk of the present
+
+**should = must/mandatory**
+
+ 
+**Preposition:** von = from
+
+* nova von la Europa  = news from the Europe
+* nava von la Veta    = news from the west
+
 
 ## Verb transformation
 
@@ -64,17 +75,6 @@ joku => joku'lo = playful
 * yo seru joku'lo = I'm playful
 * tu seru joku'lo = you are playful 
 * zu seru joku'lo = he is playful
-
-**ga = er**
-
-ga = gora = group
-
-Use termination 'ga to make a noun.
-
-* yo seru'pa una joku'ga = I was a player
-* nu seru'fu ale joku'ga = we will be all players
-* eso seru'ya una movu'ga pro paca = un movement for peace
-
 
 ## Reflexive form
 

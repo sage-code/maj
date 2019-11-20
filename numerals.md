@@ -78,13 +78,13 @@ Let's count a rocket lifting off:
 Repeting time is created using `foa` and `alu`
 
 foa  = times
-eti  = infinite/ eternity/ forever
-
+ety  = infinite/ eternity/ forever
+nyo  = never
 
 
 Forming ordinals with numeral prefix can be done from (1..10)
 
-* ny'foa = never
+* ny'foa = not even once
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
