@@ -1,6 +1,6 @@
 # Maj
 
-Maj is designed to chat with your friends, community and family.
+Maj is a simple language for quick chat.
 
 **Attributes:**
 
@@ -28,13 +28,12 @@ Maj is ...
 
 Basic principles for Maj construction:
 
-1. for writing system we use ISO Latin alphabet;
+1. regular typing is using ISO Latin alphabet;
 1. one letter do not represent anything else but itself;
 1. most letters represent a single sound (1:1);
-1. two letters can be combined to create a new sound (2:1);
-1. letters in words are oriented from left to right;
+1. words and letters in words are oriented from left to right;
 1. words are separated between them by one dot;
-1. words are ordered in propositions from left to right;
+1. one proposition is terminated with ";","!" or "?";
 
 Rad more: [use cases](case.md)
 
@@ -53,10 +52,10 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 
 * The order of letter is modified;
 * Some letters have a distinct pronunciation;
-* Numerals are same as all Romance languages (0..9);
-* Script letters are distinctive bu some are similar;
+* Numerals are Arabic as all Romance languages (0..9);
+* Script letters are distinctive but some are similar;
 
-* ɕ໒გჲ.ოບჺგ;  = ciao muna;
+* თგບ ოບჺგ;   = qau muna;
 * ცຣჲ.ცຣ.ოგງ! = eso es maj!
 
 **Read more:** 

@@ -54,17 +54,13 @@ Using suffix:
 
 ## Verb transformation
 
-Basic for of Wee verb into an adjective using suffix:
+Use coda 'a to make an adverb
 
-**ra = ed**
+joku => joka
 
-Use termination 'ra to make an adverb
-
-joku => joku'ra 
-
-* tu seru'pa la joku'ra de zu  = You have been played by him
-* la pala se joku'pa = The boll was played
-
+* tu seru'pa la joka de zu  = you have been played by him;
+* la joka sa joku'pa = the game it was played;
+* la joka sa fino    = the game is over;
 
 **lo = ul**
 

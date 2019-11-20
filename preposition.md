@@ -204,7 +204,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  dus | thus    | therefore, hence, so, then, thus 
  eta | and     | also
  fob | may not | is forbidden
- kan | not     | negative 
+ kan | non     | negative 
  kaz | case    | when is the case
  kum | as,like | comparative, how 
  mey | may     | is permitted

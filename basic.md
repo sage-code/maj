@@ -256,8 +256,8 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* sy / asi = ye / yes
-* ka / kan = no /  not
+* sy / asy = yes / so
+* ka / kan = not / non
 
 
 **polite**
@@ -270,7 +270,7 @@ The interogative question can be answered with affirmative or negative:
 
 * vero!  = true, affirmative
 * faso!  = false, negative, 
-* kaxo!  = unknown
+* xaku!  = unknown
 
 **scientific**
 For stronger assurance answer you can specify the logical values:
@@ -281,7 +281,7 @@ For stronger assurance answer you can specify the logical values:
 **composite**
 
 * kan-juso = incorrect, not justified
-* tum-juso = to be justified
+* nam-juso = to be justified
 
 ## Noun
 

@@ -62,13 +62,13 @@ Things and events start with uppercase when represent names.
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
 * kan  = not  - create antonyms
-* tum  = for  - specify purpose / person
+* nam  = for  - specify purpose / person
 * aty  = anti - against / opposite 
 * eko  = echo - environment friendly / organic
 
 **examples:**
 
-* tum-bebo = for drink
+* nam-bebo = for drink
 * kan-bebo = not for drink
 * aty-gera = anti war
 * eko-vaja = echo travel
