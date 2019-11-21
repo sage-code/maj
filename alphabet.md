@@ -88,9 +88,9 @@ _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. 
 
 _Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position. This letter is not silent, it must have one of these two pronunciations.
 
-1. Letter `h` is pronounced `ɦ` at beginning of words like "h" in "hoard";
-2. Letter `h` is pronounced `ɦ` after a vowel, usually in the middle of words;
-3. Letter `h` is pronounced `ə` after a consonant like `e` in `after`;
+1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
+2. Letter `h` is  `ɦ` after a vowel, usually in the middle of words;
+3. Letter `h` is  `ə` after a consonant like `e` in "after";
 
 * veha = "vehicle" in this case `h` is `x` like IPA:"vexa"
 
