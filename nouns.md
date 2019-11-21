@@ -57,7 +57,7 @@ Things and events start with uppercase when represent names.
 * Crimys    = Christmas 
 * Maj       = Language Maj
 
-## Determinant prefix
+## Prefix preposition
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 

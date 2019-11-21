@@ -78,12 +78,12 @@ Is the person or the thing who receive the action.
 
  ps | singular               | plural     
 ----|------------------------|-----------------------------
- 1  | la ma = to me          | la na = to us   
- 2  | la ta = to you         | la va = to y'all
- 3  | la sa = to him/her/it  | la za = to them 
+ 1  | la mh = to me          | la ne = to us   
+ 2  | la th = to you         | la ve = to y'all
+ 3  | la sh = to him/her/it  | la ze = to them 
  
 **note:* 
- * it is a total of 6+1 = 7 pronoun words
+ * it is a total of: 6 x 3 = 18 pronouns
  * yo/ma is the single irregular pronoun
  
 **Possessive**
@@ -202,11 +202,12 @@ Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
+ka      | no?      | non     | nu?
 ke      | what?    | qué     | ce
 ky      | who?     | quien   | cine
-ku      | how?     | como    | cum
-ko      | which?   | cual    | care
-ka      | no?      | non     | nu?
+ko      | how?     | como    | cum
+ku      | which?   | cual    | care
+
 
 Composite interrogations using preposition "de" and noun:
 
@@ -238,17 +239,10 @@ You can ask about location isomg `ubi` or time isomg `cud`:
 
 **expressions**
   
-You can use `von ubi`, or `tsu ubi` instead of `loka`.
+You can use `von uby`, or `com uby` instead of `loka`.
   
-* von ubi tsu ubi? = from where to where!
-
-Possible answers:
-
-* von hir tsu ybo! = from here to there!
-* von loka ke tu picu!  = from a place you like!
-* von tesa ke lo oviu!  = from a forgotten time!
-
-verb: oveu = to forget
+* von uby cum uby? = from where to where!
+* von hyr cum ybo! = from here to there!
 
 ## Responses
 
@@ -258,7 +252,6 @@ The interogative question can be answered with affirmative or negative:
 
 * sy / asy = yes / so
 * ka / kan = not / non
-
 
 **polite**
 
@@ -270,7 +263,7 @@ The interogative question can be answered with affirmative or negative:
 
 * vero!  = true, affirmative
 * faso!  = false, negative, 
-* xaku!  = unknown
+* xako!  = unknown
 
 **scientific**
 For stronger assurance answer you can specify the logical values:

@@ -19,11 +19,13 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   l   | ს  | lɨ   | w     | ຢ   | uʌ 
   q   | თ  | tʃʌ  | v     | ϑ   | vʌ  
   c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
+
+**Tools:**  
   
-* [Maj translator](https://lingojam.com/MajLettersTranslator)
+* [Maj alphabet](https://lingojam.com/MajAlphabet)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
-**Notes**
+**Notes:**
 
 * Maj script is for signs, labels and covers;
 * Maj can be written from left to right;
@@ -39,8 +41,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 **example:**
 
-1. de ke loka ti andu?
-2. მც.აც.სჲაგ.ჵ໒.გჺმບ?
+1. de ke loka ta andu?
+2. მც.აც.სჲაგ.ჵგ.გჺმບ?
 
 **note:**
 

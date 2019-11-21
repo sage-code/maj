@@ -12,6 +12,19 @@ m   n   o   p   r   s   x   t   u   i   w   v   z
 --------------------------------------------------
 ```
 
+**notes:**
+
+* the order of letters is changed from ISO standard;
+* these letters are not used for hand writing script;
+
+## Capitalization
+
+Maj uses both lowercase and uppercase letters. 
+
+* Names are written with uppercase letters;
+* Nouns are written with first capital letter;
+* Other words are written with lowercase letters;
+
 ## Pronunciation
 
 Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
@@ -20,10 +33,10 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 ```
 -----------------------------------------------------
 a   b   k   d   e   f   g   h   y   j   l   q    c   
-ʌ   be  kʌ  dʌ  e   fʌ  ɢʌ  xʌ  i   ʒe  le  tʃe  tse
+ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ  i   ʒɨ  lɨ  tʃʌ  tsʌ
 -----------------------------------------------------
 m   n   o   p   r   s   x   t   u   i   w    v   z        
-mʌ  nʌ  o   pe  re  se  ʂe  te  u   ɨ   uʌ   vʌ  zʌ       
+mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ       
 -----------------------------------------------------
 ```
 
@@ -58,14 +71,12 @@ The vowels are read like in Italian. Romanian and Spanish not English or German;
 
 ## Semi-vowels
 
-Letters {i, w} are almost like vowels.
+Letters {i, w, h} are not vowels but almost.
 
-* Letter `i`  is read `ɨ` like "eo" in "pigeon";
-* Letter `w`  is read `u` like "w" in "whiskey";
-   
-**Notes: **
+_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo`. The best ipa symbol for this letter is `ɨ` like "i" in "still";.
 
-_Letter `W`:_  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. The vowel after "w" is much longer than usual: 
+
+_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
 
 * wa: "ua" (administration)
 * wo: "uo" (surprise)
@@ -73,6 +84,16 @@ _Letter `W`:_  is called soft `u`, is mostly used at beginning of words. It is p
 * we: "we" (sadness, cry)
 * wu: "uu" (disapproval)
 * wi: "uɨ" (disgusting)
+* wh: "uə" (disgusting)
+
+_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position. This letter is not silent, it must have one of these two pronunciations.
+
+1. Letter `h` is pronounced `ɦ` at beginning of words like "h" in "hoard";
+2. Letter `h` is pronounced `ɦ` after a vowel, usually in the middle of words;
+3. Letter `h` is pronounced `ə` after a consonant like `e` in `after`;
+
+* veha = "vehicle" in this case `h` is `x` like IPA:"vexa"
+
 
 ## Consonants
 
@@ -82,7 +103,6 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `h`  is fricative, glottal like "h" in "hoard"
 * Letter  `j`  is palatal vibrated, similar to sound `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
@@ -149,13 +169,12 @@ In Maj the groups {ca, ce, cy, co, cu} are also read {tsa, tse, tsy, tso, tsu}. 
 
 **Modified: K**
 
-Letter "k" is used to avoid digraph: "ts". This sound similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. 
+Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj and is used to replace "c" in most words. 
 
-Some Maj words starting with "k":
+Maj words can starting with "k":
 
-* ka = "not?"  
-* ke = "what?" 
-* ky = "who?"  
+* ka = "not"  
+* ke = "what" 
 
 Special uses of "K" in science:
 
@@ -168,13 +187,13 @@ Letter "N" or "n" at beginning of words is nasal-alveolar. To make this sound pr
 
 **Palette: n* 
 
-Letter "n" is soft when followed by vowel in middle of words. It becomes like Spanish "ñ". IPA symbol for this sound is: "ɲ". If this rule is not fullw, "n" without softening is acceptable.
+Second "n" is soft when followed by vowel. In middle of words can sound like Spanish "ñ". IPA symbol for this sound is: "ɲ". This rule is not mandatory. "n" without softening is acceptable, it is the same word.
 
 **Practice IPA:**
 
 * nina => IPA:"niɲa"  = "child"
 * nine => IPA:"niɲe"  = "children"
-* pane => IPA:"paɲe"  = "breads" 
+* pane => IPA:"pane"  = "breads" 
 
 **Trilled R**
 
@@ -202,38 +221,31 @@ In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It soun
 
 Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `ks`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
-* Word: "xh" means "keep it quiet" similar to many languages;
+* Word: "xi" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
 * Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
-
-**Voiced `H`**
-
-Letter "h" is usually voiced but sometimes, silent.
-
-* Letter `h` is voiced at beginning of words;
-* Letter `h` is not voiced when is following a consonant;
-
 ## Maj phonetic
 
-You can learn how to read Maj by writing English words using Maj alphabet:
+You can learn how to read Maj by reading English words using Maj alphabet:
 
-* cerebellum=> MAJ:"ceribelum"       
-* generator => MAJ:"jenereta"  
+* cerebellum=> MAJ:"cerhbelim"       
+* generator => MAJ:"jenereth"  
 * pigeon    => MAJ:"pijin"      
 * giraffe   => MAJ:"jyraf"      
-* fusion    => MAJ:"fujin"      
+* fusion    => MAJ:"fujhn"      
 * guitar    => MAJ:"gytar"      
 * geese     => MAJ:"gys"        
 * cheese    => MAJ:"qyz"        
-* chocolate => MAJ:"qoklit"     
+* chocolate => MAJ:"qoklht"     
 * peach     => MAJ:"pyq"       
 * speech    => MAJ:"spyq"      
-* accident  => MAJ:"akside"     
-* initial   => MAJ:"ynyxil"     
-* fashion   => MAJ:"faxin"      
+* accident  => MAJ:"akcidh"     
+* initial   => MAJ:"inyxhl"     
+* fashion   => MAJ:"faxhn"    
+* vehicle   => MAJ:"veykil"
 
 
 ## Two consonants
@@ -244,7 +256,7 @@ Not all consonants are equal. Maj is dividing consonants in 5 categories:
 * nasal   :  m, n
 * trilled :  r, j, v, z
 * labial  :  l, r
-* fricative: f, s, c, h, q, x
+* fricative: f, s, c, q, x
 
 **combinations**
 
@@ -330,7 +342,7 @@ A syllable can not ...;
  
 ## Word formation
 
-1. Open vowels can be used as syllable at beginning of words: { a e i o u }
+1. Open vowels can be used as syllable at beginning of words: { a e y o u }
 2. Syllable that have "coda" are used only for end of words;
 3. Two words that have more then one syllable must sound different;
 
@@ -343,7 +355,7 @@ A syllable can not ...;
 
 **Weight:**
 
-Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to give a _cost_ for word complexity. Less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate more complex words that are rarely used.
+Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to give a _cost_ for word complexity. Less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate complex words that are more rarely used.
 
 Weight |Sounds
 -------|----------------------------------------
@@ -355,7 +367,7 @@ Weight |Sounds
 
 **Cost:**  
 
-Words with higher cost will be analyzed to reduce cost. The lower the cost, the better the language is. We can generalize this algorithm for other languages, to compare language complexity. So far after a quick computation of 500 samples Maj is about 50% more efficient than other Romance languages.
+We keep an aye on the word cost using an algorithm. The lower the cost, the better the language become. By using the same algorithm for other languages, we compare language complexity. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
 
 **Word divergence:**
 
@@ -365,14 +377,10 @@ light | heavy
 ------|----------
 b     | v
 l     | r
+j     | x
+q     | c
 
-Other considerations when making words is the coda. If a word is different from another word only by coda, and this is a vowel then the words are sound alike. The sound alike words must represent the same thing. 
-
-For noun "a"/"y"/"e", verb "u", adjective, adverb:"o" are sound alike. Therefore words must be distinguished with another letter to represent different words if they use sound-alike coda vowel. 
-
-For words terminated in sound alike consonants: consonant, the words must differ with another letter in the middle, otherwise they will represent the same word. This rule can have exceptions but preferable not to.
-
-The sound alike function is not yet created.
+Other considerations when making words is the coda. If a word is different from another word only by coda, and this is a vowel then one of the words must be changed or the words must be related. 
 
 ## Algorithm
 

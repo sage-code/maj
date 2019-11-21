@@ -130,7 +130,7 @@ You can learn Maj words organized by domain:
 
 ## Contribution
 
-Maj is team is looking for contributors:
+We are looking for volunteers to help:
 
 1. To review grammar;
 2. To improve lexicon;
@@ -138,7 +138,7 @@ Maj is team is looking for contributors:
 
 **Community:**
 
-We use Discord app to chat in English about Maj: 
+We use Discord application to chat in English about Maj: 
 
 [discord invitation](https://discord.gg/SRX3tse)
 

@@ -206,7 +206,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  fob | may not | is forbidden
  kan | non     | negative 
  kaz | case    | when is the case
- kum | as,like | comparative, how 
+ sym | like    | comparative, similar = symo
  mey | may     | is permitted
  mem | same    | identical
  nor | neither | alternative 
