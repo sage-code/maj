@@ -12,13 +12,25 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   d   | ძ  | dɨ   | p     | թ   | pɨ  
   e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
-  g   | ჹ  | ɢɨ   | x     | ອ   | ʂɨ  
+  g   | ფ  | ɢɨ   | x     | ອ   | ʂɨ  
   h   | ჩ  | ɦɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ა   | ɨ
   l   | ໒  | lɨ   | w     | ພ   | uʌ 
-  q   | ლ  | tʃʌ  | v     | ບ   | vʌ
+  q   | დ  | tʃʌ  | v     | ບ   | vʌ
   c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
+
+## Cost of writing
+
+The cost of witting can be calculated using 5 classes:
+
+Cost |  Letter
+-----|----------------------------
+  1  |b, d, o, i 
+  2  |a, c, t, e, z, h, y   
+  3  |l, j, s, m, n, u, v     
+  4  |q, x, p, r, f
+  5  |g, k, w 
 
 **Tools:**  
   
@@ -47,18 +59,6 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 **note:**
 
 In Maj script, words are separated by dot.
-
-## Cost of writing
-
-The cost of witting can be calculated using 5 classes:
-
-Cost |  Letter
------|-----------------
-  1  |b, d, o, v, k, l
-  2  |a, g, j, q, c  
-  3  |r, s, e, t
-  4  |w, x, z, p
-  5  |y, h, m, n 
  
 
 ## References:
