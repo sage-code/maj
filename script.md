@@ -59,46 +59,20 @@ Cost |  Letter
   3  |r, s, e, t
   4  |w, x, z, p
   5  |y, h, m, n 
+ 
 
 ## References:
 
-Maj script is a compilation from Georgian, Lao and Armenian
+Maj script is using a compilation of letters from Georgian, Lao and Armenian.
 
 ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿჀჁჂჃჄჅ
 
-ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
-ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-
-ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
-ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
-ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘
-໙ ໜ ໝ ໝ 
+* ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
+* ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
+* ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
+* ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
+* ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໜ ໝ ໝ 
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
 * [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
   
- 
-  
-  
-  
-  
- 
-  
-  
-  
-
-  
-
-
-  
- 
-  
-  
- 
-  
- 
- 
-      
-  
-
-

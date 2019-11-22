@@ -369,7 +369,48 @@ Weight |Sounds
 
 We keep an aye on the word cost using an algorithm. The lower the cost, the better the language become. By using the same algorithm for other languages, we compare language complexity. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
 
-**Word divergence:**
+## Cost of typing
+
+The cost of typing is different than speaking:
+
+Cost |  Letter
+-----|-------------------------------------------
+  1  |a, s, d, f, j, k, l, g, h
+  2  |q, w, e, r, u, i, o, p
+  3  |z, x, c, v, m 
+  4  |t, b, y, n 
+
+**extra:**
+
+There is an extra cost of 2 for one hand letters.
+
+Hand   | Letter
+-------|------------------------------------------
+left   |a,s,d,f,g,q,w,e,r,t,z,x,c,v,b
+right  |h,j,k,l,y,u,i,o,p,n,m  
+
+## Average cost
+
+For computing an average cost, we consider 3 functions:
+
+* tcos: cost of typing one word on keyboard 
+* rcos: cost of reading and speaking with your voice
+* wcos: cost of hand writing the word 
+
+We use a priority average function, to evaluate average cost:
+
+```
+function maj(w as string) as integer
+  cost = rcos(w)*3 + tcos(w)*2 + wcos(w) 
+  maj  = cost/6
+end function
+```
+
+Maj function is available for open office macro, and is used in Lexicon:NOV tab to create new words.
+
+[macro.bas](tools/macro.bas)
+
+## Word divergence:
 
 Some people may pronounce letters in the wrong way. Therefore word composition must consider to replace these letters to make the language lighter. When two words have these letters in same position one other letter must be different, otherwise the words are in conflict, one must be modified.
 

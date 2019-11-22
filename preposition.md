@@ -270,7 +270,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** amu = now
+**Maj:** aku = now
 
 * tesa = time
 * muro = dead
@@ -279,7 +279,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Translate:**
 
-la muro-tesa dovu rejo, amu es ka-poso!
+la muro-tesa dovu rejo, aku es ka seru!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

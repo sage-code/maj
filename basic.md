@@ -91,7 +91,6 @@ Is the person or the thing who receive the action.
 Is a composite word for a person or object who own something or have something.
 
 * ha = haru = to have
-* po = posu = to posses
 
 singular                | plural
 ------------------------|--------------------------------
@@ -289,6 +288,7 @@ A noun represents person, place, object, or idea.
 
 * pana  = bread
 * pane  = breads
+* pano  = kake 
 
 You can learn more about nouns in a separate document:
 [nouns](nouns.md)

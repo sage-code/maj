@@ -9,7 +9,7 @@ Nouns are words representing objects, persons or places.
 
 **rules:**
 
-* Most nouns are ending with letters {`a`,`e`};
+* Most nouns are ending with letters {`a`,`e`,`y`,`h`};
 * Most nouns have 2 syllables, quite rare 3 syllables;
 
 **examples:**
@@ -23,19 +23,12 @@ Same noun using 3 different coda. This is the regular case:
 
 For distinguish between male and female beings we use adjectives: 
 
-* maso  = male    (latin: masculum)
-* fimo  = female  (latin: feminam)
-
-**gender prefix**
-
-Observe prefix "Majo" or "Fimo" is used for gender not a suffix.
-
-* maso Kania = male dog 
-* fimo-Kania = female dog 
+* maqo Kania = male dog 
+* fimo Kania = female dog 
 
 **implicit gender**
 
-Some words include gender and do not require prefix:
+Some words include gender and do not require adjective:
 
 * Kida = child    
 * Kide = children 
@@ -112,32 +105,35 @@ Dangerous animals:
 
 ## Diminutives
 
-Maj enable diminutives using coda `i` and suffix 'ña
+Maj enable diminutives using coda `y` and suffix 'ña
 
-nito => MAJ:"nito"  = ENG: "bonito" / "nice"
-xero =	MAJ:"shera" = ENF: "dear" / FRA:"chery"
+nyto =  "nice"
+xero =	"dear" 
 
 **close persons**
-* Mami'na  => MAJ:"mamiña"
-* Papi'na  => MAJ:"papiña"
+* xero Mamy'na  => MAJ:"mamyña"
+* xero Papy'na  => MAJ:"papyña"
 
 **animals (pets)**
 
-* Gati'na => MAJ:"gatiña"
-* Kani'na => MAJ:"kaniña"
+* xero Gaty'na => MAJ:"gatiña"
+* xero Kany'na => MAJ:"kaniña"
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
 ## Group words
 
-For groups and categories we use suffix 'go
+For a scientific group of words we use suffix 'xa
+
+xatu = to know
+qysa = science
 
 gopa = group
 
-* pole'go = plants
-* fuje'go = fruits
-* veje'go = vegetables
-* viva'go = leaving, "life"
+* pole'xa = the science of plants
+* fuje'xa = the science of fruits
+* veje'xa = the science of vegetables
+* veva'xa = the science of leaving beans
 
 ## First nouns
 
@@ -152,7 +148,7 @@ Papa    | father         | tata
 Nana    | grand mother   | bunica
 Naxa    | grand father   | bunicu
 Homa    | men            | bărbat
-Fima    | women          | femeie
+Fema    | women          | femeie
 Frea    | brother        | frate
 Sora    | sister         | soră
 Bobo    | beby           | bebelus
