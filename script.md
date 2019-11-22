@@ -25,12 +25,12 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 
 The cost of witting can be calculated using 5 classes:
-
+```
 * თ, ხ, ຢ, ძ, ც, ຈ, ფ, ჩ, ყ, ງ, ໒, დ, ɕ
 * 2  1  5  1  2  4  5  2  2  3  3  5  2
 * ຕ, ດ, ჲ, թ, ໗, ຣ, ອ, ჵ, ມ, ა, ພ, ບ, ჴ
 * 3  3  1  4  4  3  4  2  3  1  5  3  3
-
+```
 Cost |  Letter
 -----|----------------------------
   1  |b, d, o, i 
