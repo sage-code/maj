@@ -29,8 +29,8 @@ Cost |  Letter
   1  |b, d, o, i 
   2  |a, c, t, e, z, h, y   
   3  |l, j, s, m, n, u, v     
-  4  |q, x, p, r, f
-  5  |g, k, w 
+  4  |x, p, r, f
+  5  |q, g, k, w 
 
 **Tools:**  
   
