@@ -17,7 +17,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ໒   | ɨ
   l   | ს  | lɨ   | w     | ຢ   | uʌ 
-  q   | თ  | tʃʌ  | v     | ϑ   | vʌ  
+  q   | თ  | tʃʌ  | v     | ϑ   | vʌ
   c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
 
 **Tools:**  
@@ -72,6 +72,7 @@ Maj script is using a compilation of letters from Georgian, Lao and Armenian.
 * ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
 * ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
 * ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໜ ໝ ໝ 
+* ϑ ϐ ϱ ϒ ⍺
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
 * [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
