@@ -6,18 +6,18 @@
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
-  a   | გ  | ʌ    | m     | ო   | mɨ  
-  b   | ხ  | bɨ   | n     | ჺ   | nɨ  
-  k   | ა  | kɨ   | o     | ჲ   | o    
+  a   | თ  | ʌ    | m     | ຕ   | mɨ
+  b   | ხ  | bɨ   | n     | ດ   | nɨ  
+  k   | ຢ  | kɨ   | o     | ჲ   | o    
   d   | ძ  | dɨ   | p     | թ   | pɨ  
   e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
   g   | ჹ  | ɢɨ   | x     | ອ   | ʂɨ  
   h   | ჩ  | ɦɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
-  j   | ງ  | ʒɨ   | i     | ໒   | ɨ
-  l   | ს  | lɨ   | w     | ຢ   | uʌ 
-  q   | თ  | tʃʌ  | v     | ϑ   | vʌ
+  j   | ງ  | ʒɨ   | i     | ა   | ɨ
+  l   | ໒  | lɨ   | w     | ພ   | uʌ 
+  q   | ლ  | tʃʌ  | v     | ບ   | vʌ
   c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
 
 **Tools:**  
@@ -70,8 +70,8 @@ Maj script is using a compilation of letters from Georgian, Lao and Armenian.
 * ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
 * ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
 * ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
-* ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ
-* ຽ ເ ແ ໂ ໃ ໄ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໜ ໝ ໝ 
+* ຜ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ
+* ຽ ເ ໂ ໃ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໝ 
 * ϑ ϐ ϱ ϒ ⍺
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
