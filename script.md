@@ -18,7 +18,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   j   | ງ  | ʒɨ   | i     | ა   | ɨ
   l   | ໒  | lɨ   | w     | ພ   | uʌ 
   q   | დ  | tʃʌ  | v     | ບ   | vʌ
-  c   | ɕ  | tsʌ  | z     | ჴ   | zʌ        
+  c   | ɕ  | tsʌ  | z     | ჳ   | zʌ        
 
 ## Writing direction
 
@@ -36,10 +36,10 @@ The cost of writing can be calculated using 5 classes:
 ```
 Cost |  Letter
 -----|----------------------------
-  1  |b, d, o, i 
-  2  |a, c, t, e, z, h, y   
-  3  |l, j, s, m, n, u, v     
-  4  |x, p, r, f
+  1  |b, d, o, i, u, v, n
+  2  |a, e, j, l, c  
+  3  |f, r, s, x, m 
+  4  |p, h, y, z, t
   5  |q, g, k, w 
 
 **Tools:**  
