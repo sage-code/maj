@@ -5,9 +5,8 @@ sub main
    print maj("barca")
 end sub
 
-function maj(w as string) as integer
-  cost = rcos(w)*3 + tcos(w)*2 + wcos(w) 
-  maj  = cost/6
+function cmaj(w as string) as integer
+  cmaj = (rcos(w)*3 + wcos(w)*2 + tcos(w))/6
 end function
 
 function belong(x, target)
@@ -23,12 +22,11 @@ function wcos(w as string) as integer
      x = mid(w,i,1)
      c = 0
      rem basic cost
-     if belong(x,"bdovkl") then let c = 1 else
-     if belong(x,"agjqc") then let c = 2 else
-     if belong(x,"rset") then let c = 3 else
-     if belong(x,"wxzp") then let c = 4 else
-     if belong(x,"yhmn") then let c = 5 else
-     if len(x)>0 then let c = 0
+     if belong(x,"bdoiuvn") then let c = 1 else
+     if belong(x,"aejlc") then let c = 2 else
+     if belong(x,"frsxm") then let c = 3 else
+     if belong(x,"phyzt") then let c = 4 else     
+     if belong(x,"qgkw") then let c = 5
      rem prepare result
      let r = r + c
   next   
@@ -91,7 +89,7 @@ function tcos(w as string) as integer
      rem extra cost, same hand
      if belong(x, right_hand) then        
         if prev = "right" then
-           let r = r + 2 rem same rigth
+           let r = r + 1 rem same rigth
         else
            prev = "right"   
         end if   
