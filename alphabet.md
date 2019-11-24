@@ -203,14 +203,14 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 **Vibrated J**
 
-Letter "J", "j" is vibrated-labial when used before vowels: {e, y}. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is IPA digraph: `dʒ`. 
+Letter "J", "j" is vibrated-labial when used before vowels: {e, y, i}. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is IPA digraph: `dʒ`. 
 
 * jela => IPA:"dʒela" = ENG: "jell"
 * jyro => IPA:"dʒiro" = ENG: "around"
 
 **Fricative J** 
 
-Letter "j" is pronounced different when followed by {o, u, i, h} or consonant. In these cases sound close to soft G, but it must be produced with the tip of your tongue. Best IPA symbol for this sound is "ʒ".
+Letter "j" is pronounced different when followed by {a, o, u, h} or consonant. In these cases sound close to soft G, but it must be produced with the tip of your tongue. Best IPA symbol for this sound is "ʒ".
 
 * joka	=> IPA:"ʒoka" = game 
 * yjma	=> IPA:"iʒma" = picture

@@ -11,20 +11,14 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   k   | ຢ  | kɨ   | o     | ჲ   | o    
   d   | ძ  | dɨ   | p     | Թ   | pɨ  
   e   | ც  | e    | r     | ໗   | rɨ  
-  f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
+  f   | φ  | fɨ   | s     | ຣ   | sɨ  
   g   | ფ  | ɢɨ   | x     | ອ   | ʂɨ  
   h   | ჩ  | ɦɨ   | t     | ჵ   | tɨ  
   y   | ყ  | i    | u     | ມ   | u   
-  j   | ງ  | ʒɨ   | i     | ა   | ɨ
-  l   | ໒  | lɨ   | w     | ພ   | uʌ 
+  j   | უ  | ʒɨ   | i     | ა   | ɨ
+  l   | ɣ  | lɨ   | w     | ພ   | uʌ 
   q   | დ  | tʃʌ  | v     | ϑ   | vʌ
-  c   | ɕ  | tsʌ  | z     | ჳ   | zʌ        
-
-
-
-* თ ხ ຢ ძ ც ຈ ფ ჩ 
-* ყ ງ ໒  დ ɕ ຕ ດ ჲ Թ 
-* ໗ ຣ ອ ჵ ມ ა ພ ϑ ჳ   
+  c   | Շ  | tsʌ  | z     | ჳ   | zʌ        
 
 
 ## Writing direction
@@ -84,10 +78,28 @@ Maj script is using a compilation of letters from Georgian, Lao and Armenian.
 * ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
 * ຜ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ
 * ຽ ເ ໂ ໃ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໝ 
-* ϑ ϐ ϱ ϒ ⍺
-* ɚ ɣ ɕ ɚ б Ժ Չ Շ Ծ Ձ Թ Ճ ռ ց
-* ϑ φ ϱ թ Թ Ժ Ճ ռ ց
 
+## First version
+
+This was our first version
+
+* თ ხ ຢ ძ ც ຈ ფ ჩ 
+* ყ ງ ໒  დ ɕ ຕ ດ ჲ Թ 
+* ໗ ຣ ອ ჵ ມ ა ພ ϑ ჳ   
+
+## Second version
+
+* ა ბ გ დ ე ვ ზ თ ი კ ლ 
+* მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
+* ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ 
+* ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
+* ջ Ձ δ ζ λ ω φ ε β ε υ 
+* ρ σ ϑ ο η Գ Թ Ձ Յ Չ Ր 
+* թ ժ ա և ո ռ Շ Ն Ղ Կ Ժ 
+* ƍ Ɣ ƨ ƪ Ʋ ɕ ɣ ɱ ɲ ɳ ʃ 
+* ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б Ձ 
+* Ո Չ Ր շ ջ ∂ ϑ ϐ ϱ ϒ ⍺
+* ɚ ɣ ɕ б Ծ ռ ց ϑ φ ϱ թ 
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
 * [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
