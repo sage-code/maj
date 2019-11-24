@@ -76,15 +76,17 @@ Is the person or the thing who perform the action.
 
 Is the person or the thing who receive the action.
 
+cu = to (preposition) 
+
  ps | singular               | plural     
 ----|------------------------|-----------------------------
- 1  | la mh = to me          | la ne = to us   
- 2  | la th = to you         | la ve = to y'all
- 3  | la sh = to him/her/it  | la ze = to them 
+ 1  | cu my = to me          | cu ne = to us   
+ 2  | cu te = to you         | cu vh = to y'all
+ 3  | cu sh = to him/her/it  | cu zh = to them 
  
 **note:* 
  * it is a total of: 6 x 3 = 18 pronouns
- * yo/ma is the single irregular pronoun
+ * yo/my/ma is the single irregular pronoun
  
 **Possessive**
 

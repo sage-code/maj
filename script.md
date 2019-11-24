@@ -60,13 +60,13 @@ Cost |  Letter
 
 **example:**
 
-1. noi vadu tsu cima uel vadu tsu goxa;
-2. ჺჲ໒.ϑგმບ.ჵຣບ.ɕ໒ოგ.ບცს.ϑგმບ.ჵຣບ.ჹჲອგ;
+1. noi vadu cu cima uel vadu cu goxa;
+2. ດჲა.ϑთმບ.ɕບ.ɕაຕთ.ບც໒.ϑთმບ.ɕບ.ფჲອთ;
 
 **example:**
 
 1. de ke loka ta andu?
-2. მც.აც.სჲაგ.ჵგ.გჺმບ?
+2. მც ຢც ໒ჲຢთ ჵთ თດმບ?
 
 **note:**
 

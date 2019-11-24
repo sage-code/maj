@@ -55,8 +55,8 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 * Numerals are Arabic as all Romance languages (0..9);
 * Script letters are distinctive but some are similar;
 
-* თგບ ოບჺგ;   = qau muna;
-* ცຣჲ.ცຣ.ოგງ! = eso es maj!
+* დთບ ຕບດთ;   = qau muna;
+* ცຣჲ ცຣ ຕთງ! = eso es maj!
 
 **Read more:** 
 

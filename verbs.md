@@ -76,23 +76,26 @@ joku => joku'lo = playful
 
 When you refer to some action performed by somebody on himself.
 
-kamu'sy  =>  to calm 
-hodu'sy  =>  to rest
-domu'sy  =>  to sleep
+**verbs:**
 
-** using reflexive pronoun **
+* kamu  =>  to calm 
+* hodu  =>  to rest
+* domu  =>  to sleep
+
+**determinants:**
 
 hay = let's  (leading/encouragement)
 rog = please (favor)
 
-* hay nu'sy hodu  = let's get rest ourselves
-* hay tu'sy kamu  = let's calm yourself 
-* rog vu'sy domu  = please sleep yourselves
+** using pronoun after verb:**
+
+* hay nu hodu'ne  = let's calm ourselves
+* rog tu kamu'te  = please calm yourself 
 
 ** using reflexive prefix**
 
-* nu dovu ke hodu'sy = we have to get rest ourselves
-* vu dovu ke kamu'sy = y'all have to calm yourselves
-* zu dovu ke domu'sy = they must go to sleep themselves
+* nu dovu ke hodu'ne = we have to rest ourselves
+* vu dovu ke kamu'vh = you have to calm yourselves
+* zu dovu ke domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)

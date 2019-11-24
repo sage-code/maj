@@ -238,7 +238,7 @@ Spanish | pero   | Es caro, pero de muy buena calidad.
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
 * yrdu  = to go
 
-:nu yrdu cum cima uel yrdu cum goxa;
+nu yrdu cum cima uel yrdu cum goxa;
 
 
 Lang    | Word   |  Example
