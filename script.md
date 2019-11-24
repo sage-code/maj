@@ -20,20 +20,22 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   q   | დ  | tʃʌ  | v     | ϑ   | vʌ
   c   | ɕ  | tsʌ  | z     | ჳ   | zʌ        
 
+
+```
+ თ ხ ຢ ძ ც ຈ ფ ჩ 
+ ყ ງ ໒  დ ɕ ຕ ດ ჲ Թ 
+   ໗ ຣ ອ ჵ ມ ა ພ ϑ ჴ   
+```
+
 ## Writing direction
 
 <img src="script.png" alt="Maj Script" width="600"></img>
 
 ## Cost of writing
 
-
 The cost of writing can be calculated using 5 classes:
-```
-* თ ხ ຢ ძ ც ຈ ფ ჩ ყ ງ ໒  დ ɕ
-* 2 1 5 1 2 4 5 2 2 3 3 5 2
-* ຕ ດ ჲ Թ ໗ ຣ ອ ჵ ມ ა ພ ϑ ჴ
-* 3 3 1 1 4 3 4 2 3 1 5 3 3
-```
+
+
 Cost |  Letter
 -----|----------------------------
   1  |b, d, o, i, u, v, n, p 
