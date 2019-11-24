@@ -24,7 +24,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 * თ ხ ຢ ძ ც ຈ ფ ჩ 
 * ყ ງ ໒  დ ɕ ຕ ດ ჲ Թ 
-* ໗ ຣ ອ ჵ ມ ა ພ ϑ ჴ   
+* ໗ ຣ ອ ჵ ມ ა ພ ϑ ჳ   
 
 
 ## Writing direction
