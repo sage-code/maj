@@ -22,7 +22,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 ## Writing direction
 
-<img src="script.png" alt="Maj Script" width="400"></img>
+<img src="maj-script.png" alt="Maj Script" width="400"></img>
 
 ## Cost of writing
 
