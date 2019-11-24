@@ -20,20 +20,6 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   k   | ϰ  | kʌ   | v     | ϑ   | vʌ
   q   | დ  | tʃʌ  | z     | ʓ   | zʌ        
 
-* ა ბ გ დ ე ვ ზ თ ი კ ლ 
-* მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
-* ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ 
-* ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-* α ⍺ β γ μ ν ρ σ υ φ ω 
-* ϑ ϱ Ձ δ ζ λ ε ο η Գ Թ 
-* Յ Չ Ր ժ ա և ո ռ Շ Ն Ղ 
-* Կ ƍ Ɣ ɣ ƨ ƪ Ʋ ɕ ɱ ɲ ɳ 
-* ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
-* Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
-* ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
-
-
-
 ## Writing direction
 
 <img src="script.png" alt="Maj Script" width="400"></img>
@@ -82,25 +68,7 @@ In Maj script, words are separated by dot.
 
 ## References:
 
-Maj script is using a compilation of letters from Georgian, Lao and Armenian.
-
-ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿჀჁჂჃჄჅ
-
-* ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
-* ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-* ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ 
-* ຜ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ
-* ຽ ເ ໂ ໃ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໝ 
-
-## First version
-
-This was our first version
-
-* თ ხ ຢ ძ ც ຈ ფ ჩ 
-* ყ ງ ໒  დ ɕ ຕ ດ ჲ Թ 
-* ໗ ຣ ອ ჵ ມ ა ພ ϑ ჳ   
-
-## Second version
+Maj script is using a compilation of letters from Georgian, Greek and Armenian.
 
 * ა ბ გ დ ე ვ ზ თ ი კ ლ 
 * მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
@@ -114,8 +82,4 @@ This was our first version
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
 * ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
 
-
-
-* [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
-* [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
   
