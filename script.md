@@ -17,8 +17,10 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   y   | ყ  | i    | u     | υ   | u   
   j   | უ  | ʒɨ   | i     | ა   | ɨ
   l   | ს  | lɨ   | w     | ω   | uʌ 
-  c   | Չ  | tsɨ  | v     | ϑ   | vʌ
+  c   | Ձ  | tsɨ  | v     | ϑ   | vʌ
   q   | დ  | tʃɨ  | z     | ʓ   | zʌ        
+
+ჵɚσჵձկɚ⍺ჵƍկ
 
 ## Writing direction
 
@@ -81,3 +83,4 @@ Maj script is using a compilation of letters from Georgian, Greek and Armenian.
 * ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
 * ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
+* ʑ ȼ ɔ ຄ ວ ມ ຫ ກ 
