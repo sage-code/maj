@@ -45,6 +45,8 @@ mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ
 * Maj has voiced, articulated and clear sounds easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
 * You will never bite yourself or spit around when you speak Maj;
+* In total, Maj has 26 letters, but 28 basic sounds;
+
 
 **Reference:**
 
@@ -86,14 +88,14 @@ _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. 
 * wi: "uɨ" (disgusting)
 * wh: "uə" (disgusting)
 
-_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position. This letter is not silent, it must have one of these two pronunciations.
+_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and sibling letters. In English the `h` is most of the time voiceless. In Maj it must have one of two pronunciations and is never silent.
 
 1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
 2. Letter `h` is  `ɦ` after a vowel, usually in the middle of words;
 3. Letter `h` is  `ə` after a consonant like `e` in "after";
 
-* veha = "vehicle" in this case `h` is `x` like IPA:"vexa"
-
+* veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
+* zh   = "they"    in this case `h` is `ə` like IPA:"zə"
 
 ## Consonants
 
@@ -187,24 +189,32 @@ Letter "N" or "n" at beginning of words is nasal-alveolar. To make this sound pr
 
 **Palette: n* 
 
-Second "n" is soft when followed by vowel. In middle of words can sound like Spanish "ñ". IPA symbol for this sound is: "ɲ". This rule is not mandatory. "n" without softening is acceptable, it is the same word.
+Second "n" is soft when followed by vowel "e", in middle of words. It can sound like Spanish "ñ". IPA symbol for this sound is: "ɲ". This rule is not mandatory, "n" without softening is acceptable, it is the same word.
 
 **Practice IPA:**
 
-* nina => IPA:"niɲa"  = "child"
-* nine => IPA:"niɲe"  = "children"
+* nyna => IPA:"nyɲa"  = "child"
+* nyne => IPA:"nyɲe"  = "children"
 * pane => IPA:"pane"  = "breads" 
 
 **Trilled R**
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-**Vibrate J**
+**Vibrated J**
 
-Letter "J", "j" is vibrated-labial when used before vowels. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is dʒ. 
+Letter "J", "j" is vibrated-labial when used before vowels: {e, y}. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is IPA digraph: `dʒ`. 
 
 * jela => IPA:"dʒela" = ENG: "jell"
-* jaza => IPA:"dʒaza" = ENG: "jaz" 
+* jyro => IPA:"dʒiro" = ENG: "around"
+
+**Fricative J** 
+
+Letter "j" is pronounced different when followed by {o, u, i, h} or consonant. In these cases sound close to soft G, but it must be produced with the tip of your tongue. Best IPA symbol for this sound is "ʒ".
+
+* joka	=> IPA:"ʒoka" = game 
+* yjma	=> IPA:"iʒma" = picture
+
 
 **Plosive G**
 
