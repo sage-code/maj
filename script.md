@@ -9,7 +9,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   a   | თ  | ʌ    | m     | ຕ   | mɨ
   b   | ხ  | bɨ   | n     | ດ   | nɨ  
   k   | ຢ  | kɨ   | o     | ჲ   | o    
-  d   | ძ  | dɨ   | p     | թ   | pɨ  
+  d   | ძ  | dɨ   | p     | Թ   | pɨ  
   e   | ც  | e    | r     | ໗   | rɨ  
   f   | ຈ  | fɨ   | s     | ຣ   | sɨ  
   g   | ფ  | ɢɨ   | x     | ອ   | ʂɨ  
@@ -17,7 +17,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   y   | ყ  | i    | u     | ມ   | u   
   j   | ງ  | ʒɨ   | i     | ა   | ɨ
   l   | ໒  | lɨ   | w     | ພ   | uʌ 
-  q   | დ  | tʃʌ  | v     | ບ   | vʌ
+  q   | დ  | tʃʌ  | v     | ϑ   | vʌ
   c   | ɕ  | tsʌ  | z     | ჳ   | zʌ        
 
 ## Writing direction
@@ -29,17 +29,17 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 The cost of writing can be calculated using 5 classes:
 ```
-* თ ხ ຢ ძ ც ຈ ფ ჩ ყ ງ ໒ დ ɕ
+* თ ხ ຢ ძ ც ຈ ფ ჩ ყ ງ ໒  დ ɕ
 * 2 1 5 1 2 4 5 2 2 3 3 5 2
-* ຕ ດ ჲ թ ໗ ຣ ອ ჵ ມ ა ພ ບ ჴ
-* 3 3 1 4 4 3 4 2 3 1 5 3 3
+* ຕ ດ ჲ Թ ໗ ຣ ອ ჵ ມ ა ພ ϑ ჴ
+* 3 3 1 1 4 3 4 2 3 1 5 3 3
 ```
 Cost |  Letter
 -----|----------------------------
-  1  |b, d, o, i, u, v, n
+  1  |b, d, o, i, u, v, n, p 
   2  |a, e, j, l, c  
   3  |f, r, s, x, m 
-  4  |p, h, y, z, t
+  4  |h, y, z, t
   5  |q, g, k, w 
 
 **Tools:**  
@@ -83,6 +83,9 @@ Maj script is using a compilation of letters from Georgian, Lao and Armenian.
 * ຜ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ
 * ຽ ເ ໂ ໃ ໄ ໆ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙ ໝ 
 * ϑ ϐ ϱ ϒ ⍺
+* ɚ ɣ ɕ ɚ б Ժ Չ Շ Ծ Ձ Թ Ճ ռ ց
+* ϑ φ ϱ թ Թ Ժ Ճ ռ ց
+
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
 * [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
