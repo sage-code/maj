@@ -119,7 +119,7 @@ hay = c'mon (come on)
 hay = let's (let us)
 
 * hay nu haru bosu sh = c'mon we have to search him
-* hay nu dovu bosu sh = c'mon we must search him
+* hay nu dovu bosu zh = c'mon we must search them
 
 ## Verbs
 
