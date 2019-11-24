@@ -92,13 +92,13 @@ cu = to (preposition)
 
 Is a composite word for a person or object who own something or have something.
 
-* ha = haru = to have
+al = belong
 
 singular                | plural
 ------------------------|--------------------------------
- ha ma = mine           | ha na = ours
- ha ta = your           | ha va = yours
- ha sa = his, hers, its | ha za = theirs
+ al ma = mine           | al na = ours
+ al ta = your           | al va = yours
+ al sa = his, hers, its | al za = theirs
 
 **Reflexive**
 
