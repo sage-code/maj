@@ -92,7 +92,7 @@ cu = to (preposition)
 
 Is a composite word for a person or object who own something or have something.
 
-al = belong
+determinant: al = belong, of the
 
 singular                | plural
 ------------------------|--------------------------------
@@ -104,7 +104,7 @@ singular                | plural
 
 To make reflexive we use coda "syfo" = "self"
 
-* ma syfo = myself;
+* yo syfo = myself;
 * tu syfo = yourself; 
 * su syfo = himself/ itself
 * nu syfo = ourselves; 
@@ -116,9 +116,10 @@ To make reflexive we use coda "syfo" = "self"
 In Maj, "hay" is used as an encouragement:
 
 hay = c'mon (come on)
+hay = let's (let us)
 
-* hay nu haru bosu sa = c'mon we have to search him
-* hay nu dovu bosu sa = c'mon we must search him
+* hay nu haru bosu sh = c'mon we have to search him
+* hay nu dovu bosu sh = c'mon we must search him
 
 ## Verbs
 
