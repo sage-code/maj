@@ -93,13 +93,14 @@ This was our first version
 * მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
 * ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ 
 * ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-* ջ Ձ δ ζ λ ω φ ε β ε υ 
-* ρ σ ϑ ο η Գ Թ Ձ Յ Չ Ր 
-* թ ժ ա և ո ռ Շ Ն Ղ Կ Ժ 
-* ƍ Ɣ ƨ ƪ Ʋ ɕ ɣ ɱ ɲ ɳ ʃ 
-* ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б Ձ 
-* Ո Չ Ր շ ջ ∂ ϑ ϐ ϱ ϒ ⍺
-* ɚ ɣ ɕ б Ծ ռ ց ϑ φ ϱ թ 
+* α ⍺ β γ μ ν ρ σ υ φ ω 
+* ϑ ϱ Ձ δ ζ λ ε ο η Գ Թ 
+* Յ Չ Ր ժ ա և ո ռ Շ Ն Ղ 
+* Կ ƍ Ɣ ɣ ƨ ƪ Ʋ ɕ ɱ ɲ ɳ 
+* ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
+* Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
+
+
 
 * [Georgian Script](https://en.wikipedia.org/wiki/Georgian_scripts)  
 * [Lao Script](https://en.wikipedia.org/wiki/Lao_script)
