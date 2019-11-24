@@ -83,4 +83,4 @@ Maj script is using a compilation of letters from Georgian, Greek and Armenian.
 * ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
 * ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
-* ʑ ȼ ɔ ຄ ວ ມ ຫ ກ 
+* ʑ ȼ ɔ ຄ ວ ມ ຫ ກ ჶ
