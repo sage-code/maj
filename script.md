@@ -7,10 +7,10 @@
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
   a   | ⍺  | ʌ    | m     | ო   | mʌ
-  b   | ხ  | be   | n     | ი   | ɲe
+  b   | ც  | be   | n     | ი   | ɲe
   c   | Չ  | tse  | o     | თ   | o    
   d   | ძ  | de   | p     | ρ   | pɨ  
-  e   | ც  | e    | r     | Կ   | rɨ  
+  e   | ɚ  | e    | r     | Կ   | rɨ  
   f   | φ  | ef   | s     | σ   | sɨ  
   g   | ɣ  | ɢe   | x     | ɕ   | ʂɨ  
   h   | ჩ  | ɦʌ   | t     | ჵ   | tɨ  
