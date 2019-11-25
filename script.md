@@ -53,7 +53,7 @@ Cost |  Letter
 
 **example:**
 
-1. ნʋ ყრდʋ ცʋ ციშ⍺ ʋɚჷ ცʋ ɣჲɕ⍺;;
+1. ნʋ.ყრდʋ.ცʋ.ციშ⍺.ʋɚჷ.ცʋ.ɣჲɕ⍺;
 1. nu yrdu cu cima uel cu goxa;
 1. we go to cinema or to supermarket;
 
