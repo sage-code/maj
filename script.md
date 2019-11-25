@@ -16,7 +16,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   h   | ჩ  | ɦɨ   | t     | თ   | tɨ  
   y   | ყ  | i    | u     | ʋ   | u   
   j   | უ  | ʒɨ   | i     | ი   | ɨ
-  l   | ჷ  | lɨ   | w     | ω   | uʌ 
+  l   | ჺ  | lɨ   | w     | ω   | uʌ 
   c   | ც  | tsɨ  | v     | ϑ   | vʌ
   q   | ƍ  | tʃɨ  | z     | ʓ   | zʌ        
 
@@ -53,7 +53,7 @@ Cost |  Letter
 
 **example:**
 
-1. ნʋ.ყრდʋ.ცʋ.ციშ⍺.ʋɚჷ.ცʋ.ɣჲɕ⍺;
+1. ნʋ.ყრდʋ.ცʋ.ციშ⍺.ʋɚჺ.ცʋ.ɣჲɕ⍺;
 1. nu yrdu cu cima uel cu goxa;
 1. we go to cinema or to supermarket;
 
