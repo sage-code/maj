@@ -22,11 +22,10 @@ function wcos(w as string) as integer
      x = mid(w,i,1)
      c = 0
      rem basic cost
-     if belong(x,"bdoiuvnp") then let c = 1 else
-     if belong(x,"aejlc") then let c = 2 else
-     if belong(x,"frsxm") then let c = 3 else
-     if belong(x,"hyzt") then let c = 4 else     
-     if belong(x,"qgkw") then let c = 5
+     if belong(x,"akyijlsxvg") then let c = 1 else
+     if belong(x,"behqortuw") then let c = 2 else
+     if belong(x,"cnpz") then let c = 3 else
+     if belong(x,"dfp") then let c = 4 
      rem prepare result
      let r = r + c
   next   

@@ -6,21 +6,22 @@
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
-  a   | ⍺  | ʌ    | m     | ო   | mɨ
-  b   | ც  | bɨ   | n     | ი   | nɨ
-  k   | ϰ  | kɨ   | o     | თ   | o    
-  d   | ძ  | dɨ   | p     | ƍ   | pɨ  
-  e   | ɚ  | e    | r     | Կ   | rɨ  
-  f   | φ  | fɨ   | s     | σ   | sɨ  
+  a   | ⍺  | ʌ    | m     | წ   | mɨ
+  b   | ჵ  | bɨ   | n     | ნ   | nɨ
+  k   | ე  | kɨ   | o     | ო   | o    
+  d   | დ  | dɨ   | p     | ფ   | pɨ  
+  e   | ɚ  | e    | r     | რ   | rɨ  
+  f   | ღ  | fɨ   | s     | σ   | sɨ  
   g   | ɣ  | ɢɨ   | x     | ɕ   | ʂɨ  
-  h   | ჩ  | ɦɨ   | t     | ჵ   | tɨ  
-  y   | ყ  | i    | u     | υ   | u   
-  j   | უ  | ʒɨ   | i     | ა   | ɨ
-  l   | ს  | lɨ   | w     | ω   | uʌ 
-  c   | Ձ  | tsɨ  | v     | ϑ   | vʌ
-  q   | დ  | tʃɨ  | z     | ʓ   | zʌ        
+  h   | ჩ  | ɦɨ   | t     | თ   | tɨ  
+  y   | ჲ  | i    | u     | უ   | u   
+  j   | ა  | ʒɨ   | i     | ი   | ɨ
+  l   | ჷ  | lɨ   | w     | ω   | uʌ 
+  c   | ც  | tsɨ  | v     | ʋ   | vʌ
+  q   | ƍ  | tʃɨ  | z     | ʓ   | zʌ        
 
-ჵɚσჵձկɚ⍺ჵƍկ
+* ⍺ჵედɚღɣჩჲაჷცƍ
+* წნოფრσɕთუიωʋʓ
 
 ## Writing direction
 
@@ -33,15 +34,15 @@ The cost of writing can be calculated using 5 classes:
 
 Cost |  Letter
 -----|----------------------------
-  1  |b, d, o, i, u, v, n, p 
-  2  |a, e, j, l, c  
-  3  |f, r, s, x, m 
-  4  |h, y, z, t
-  5  |q, g, k, w 
+  1  |akyijlsxvg
+  2  |behqortuw
+  3  |cnpz
+  4  |dfp
+
 
 **Tools:**  
   
-* [Maj alphabet](https://lingojam.com/MajAlphabet)
+* [Maj Script](https://lingojam.com/MajScript)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
 **Notes:**
@@ -55,18 +56,14 @@ Cost |  Letter
 
 **example:**
 
-1. noi vadu cu cima uel vadu cu goxa;
-2. ດჲა.ϑთმບ.ɕບ.ɕაຕთ.ບც໒.ϑთმບ.ɕບ.ფჲອთ;
-
-**example:**
-
-1. de ke loka ta andu?
-2. მც ຢც ໒ჲຢთ ჵთ თດმບ?
+1. ნუ.ჲრდუ.ცუ.ციწ⍺.უɚჷ.ცუ.ɣოɕ⍺;
+1. nu yrdu cu cima uel cu goxa;
+1. we go to cinema or to supermarket;
 
 **note:**
 
-In Maj script, words are separated by dot.
- 
+In Maj script, words are separated by dot instead of space.
+
 
 ## References:
 
