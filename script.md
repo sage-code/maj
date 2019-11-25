@@ -6,22 +6,19 @@
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
-  a   | ⍺  | ʌ    | m     | წ   | mɨ
+  a   | ⍺  | ʌ    | m     | შ   | mɨ
   b   | ჵ  | bɨ   | n     | ნ   | nɨ
-  k   | ე  | kɨ   | o     | ო   | o    
+  k   | ϰ  | kɨ   | o     | ჲ   | o    
   d   | დ  | dɨ   | p     | ფ   | pɨ  
   e   | ɚ  | e    | r     | რ   | rɨ  
   f   | ღ  | fɨ   | s     | σ   | sɨ  
   g   | ɣ  | ɢɨ   | x     | ɕ   | ʂɨ  
   h   | ჩ  | ɦɨ   | t     | თ   | tɨ  
-  y   | ჲ  | i    | u     | უ   | u   
-  j   | ა  | ʒɨ   | i     | ი   | ɨ
+  y   | ყ  | i    | u     | ʋ   | u   
+  j   | უ  | ʒɨ   | i     | ი   | ɨ
   l   | ჷ  | lɨ   | w     | ω   | uʌ 
-  c   | ც  | tsɨ  | v     | ʋ   | vʌ
+  c   | ც  | tsɨ  | v     | ე   | vʌ
   q   | ƍ  | tʃɨ  | z     | ʓ   | zʌ        
-
-* ⍺ჵედɚღɣჩჲაჷცƍ
-* წნოფრσɕთუიωʋʓ
 
 ## Writing direction
 
@@ -34,8 +31,8 @@ The cost of writing can be calculated using 5 classes:
 
 Cost |  Letter
 -----|----------------------------
-  1  |akyijlsxvg
-  2  |behqortuw
+  1  |akijlsxvgo
+  2  |behqrtuwy
   3  |cnpz
   4  |dfp
 
@@ -56,7 +53,7 @@ Cost |  Letter
 
 **example:**
 
-1. ნუ.ჲრდუ.ცუ.ციწ⍺.უɚჷ.ცუ.ɣოɕ⍺;
+1. ნʋ ყრდʋ ცʋ ციშ⍺ ʋɚჷ ცʋ ɣჲɕ⍺;;
 1. nu yrdu cu cima uel cu goxa;
 1. we go to cinema or to supermarket;
 
