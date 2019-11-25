@@ -48,15 +48,20 @@ A   B   K   D   E   F   G   H   Y   J   L   Q   C
 M   N   O   P   R   S   X   T   U   I   W   V   Z   
 ---------------------------------------------------
 ```
-**Note:**
+
+**Script:**
+
+Maj has simple handwriting easy to do using a stylus or a pen.
+
+* ƍ⍺ʋ.შʋნ⍺;   = qau muna;
+* ɚσჲ.ɚσ.შ⍺უ! = eso es maj!
+
+**Notes:**
 
 * The order of letter is modified;
 * Some letters have a distinct pronunciation;
 * Numerals are Arabic as all Romance languages (0..9);
-* Script letters are distinctive but some are similar;
-
-* ƍ⍺ʋ.შʋნ⍺;   = qau muna;
-* ɚσჲ.ɚσ.შ⍺უ! = eso es maj!
+* Script letters are selected from Georgian and Greek;
 
 **Read more:** 
 
@@ -115,10 +120,10 @@ You can learn Maj words organized by domain:
 1. teso'xa = [time](words/time.md)
 1. poco'xa = [processes](words/processes.md)
 1. movo'xa = [movement](words/movement.md)
-1. fizo'xa = [physical world](words/physical_world.md)
+1. fyzo'xa = [physical world](words/physical_world.md)
 1. naro'xa = [nature](words/nature.md)
-1. vivo'xa = [life](words/life.md)
-1. piho'xa = [psychology](words/psychology.md)
+1. vyvo'xa = [life](words/life.md)
+1. pyho'xa = [psychology](words/psychology.md)
 1. famo'xa = [family](words/family.md)
 1. kulo'xa = [human culture](words/human_culture.md)
 1. teho'xa = [technology](words/technology.md)

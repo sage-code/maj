@@ -29,7 +29,6 @@ Maj uses both lowercase and uppercase letters.
 
 Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
 
-
 ```
 -----------------------------------------------------
 a   b   k   d   e   f   g   h   y   j   l   q    c   

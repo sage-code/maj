@@ -17,8 +17,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   y   | ყ  | i    | u     | ʋ   | u   
   j   | უ  | ʒɨ   | i     | ი   | ɨ
   l   | ჺ  | lɨ   | w     | ω   | uʌ 
-  c   | ც  | tsɨ  | v     | ϑ   | vʌ
-  q   | ƍ  | tʃɨ  | z     | ʓ   | zʌ        
+  c   | ც  | tsʌ  | v     | ϑ   | vʌ
+  q   | ƍ  | tʃʌ  | z     | ʓ   | zʌ        
 
 ## Writing direction
 
