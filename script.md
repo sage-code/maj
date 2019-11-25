@@ -31,10 +31,10 @@ The cost of writing can be calculated using 5 classes:
 
 Cost |  Letter
 -----|----------------------------
-  1  |akijlsxvgo
+  1  |aijlsxvgo
   2  |behqrtuwy
   3  |cnpz
-  4  |dfp
+  4  |dfpk
 
 
 **Tools:**  
