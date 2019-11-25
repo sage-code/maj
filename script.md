@@ -64,7 +64,7 @@ In Maj script, words are separated by dot instead of space.
 
 ## References:
 
-Maj script is using a compilation of letters from Georgian, Greek and Armenian.
+Maj script is using a creole compilation from Georgian, Greek and Armenian. 
 
 * ა ბ გ დ ე ვ ზ თ ი კ ლ 
 * მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
@@ -77,4 +77,10 @@ Maj script is using a compilation of letters from Georgian, Greek and Armenian.
 * ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
 * ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
-* ʑ ȼ ɔ ຄ ວ ມ ຫ ກ ჶ
+
+**Note:** We could have invent our own letters, but we have selected these existing alphabets to enable Maj scholars to learn real life letters from different alphabets. This will introduce you to strange letters you are not familiar with and spark your imagination.
+
+
+And this is done. Great!
+
+Read next the Lating: [alphabet](alphabet.md)
