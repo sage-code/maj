@@ -2,11 +2,15 @@ REM *****  OPEN OFFICE BASIC  *****
 
 sub main
    rem let x = wcost("barca")
-   print maj("barca")
+   print cmaj("barca")
+   print rcos("barca")      
+   print tcos("barca")         
+   print wcos("barca")      
 end sub
 
+rem average cost of word
 function cmaj(w as string) as integer
-  cmaj = (rcos(w)*3 + wcos(w)*2 + tcos(w))/6
+  cmaj = (rcos(w)*3 + tcos(w)*2 + wcos(w))/6
 end function
 
 function belong(x, target)
@@ -22,10 +26,9 @@ function wcos(w as string) as integer
      x = mid(w,i,1)
      c = 0
      rem basic cost
-     if belong(x,"akyijlsxvg") then let c = 1 else
-     if belong(x,"behqortuw") then let c = 2 else
-     if belong(x,"cnpz") then let c = 3 else
-     if belong(x,"dfp") then let c = 4 
+     if belong(x,"aisxvgoune") then let c = 1 else
+     if belong(x,"jbcqtwym") then let c = 2 else
+     if belong(x,"rhlzdfpk") then let c = 3
      rem prepare result
      let r = r + c
   next   

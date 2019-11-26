@@ -24,21 +24,21 @@ Latin | Maj| IPA  | Latin | Maj | IPA
 
 ## Writing direction
 
-Each letter is written with a single stroke. That means you put your pen down for starting the letter and do not lift the pen until you finish the letter. The letters are not connected and stay close together to make a word.
+To write a Maj letter you start with position 1, then you continue with 2 and do not lift your pen until you finish the letter. 
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
 ## Cost of writing
 
-The cost of writing can be calculated using 5 classes:
-
+The cost of writing can be calculated using 3 classes depending on letter difficulty:
 
 Cost |  Letter
 -----|----------------------------
-  1  |aijlsxvgo
-  2  |behqrtuwy
-  3  |cnpz
-  4  |dfpk
+  1  |aisxvgoune
+  2  |jbcqtwym
+  3  |rhlzdfpk
+
+Const of writing can be used in an algorithm similar to cost of reading to evaluate word complexity.
 
 
 **Tools:**  
