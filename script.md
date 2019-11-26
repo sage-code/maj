@@ -1,8 +1,10 @@
 ## Maj script
 
-* Maj script is designed for writing with stylus or pen;
-* Script letters are not connected like Latin script;
-* Each letter is independent and represent one single sound;
+Maj script is a creole alphabet with letters from Georgian, Greek and Latin. 
+
+* Maj script do not have uppercase letters;  
+* Mak letters are continuous, single strike;
+* Maj script is for writing with stylus on tablet;
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------
@@ -21,6 +23,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA
   q   | ƍ  | tʃʌ  | z     | ʓ   | zʌ        
 
 ## Writing direction
+
+Each letter is written with a single stroke. That means you put your pen down for starting the letter and do not lift the pen until you finish the letter. The letters are not connected and stay close together to make a word.
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
@@ -42,12 +46,6 @@ Cost |  Letter
 * [Maj Script](https://lingojam.com/MajScript)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
-**Notes:**
-
-* Maj script is for signs, labels and covers;
-* Maj can be written from left to right;
-* Maj can be written from top to bottom;
-* Maj script do not have uppercase letters;  
 
 ## Examples of words in Maj
 
@@ -57,14 +55,14 @@ Cost |  Letter
 1. nu yrdu cu cima uel cu goxa;
 1. we go to cinema or to supermarket;
 
-**note:**
+**notes:**
 
-In Maj script, words are separated by dot instead of space.
-
+* In Maj script, words are separated by a dot instead of space. 
+* It is possible to add one space after the dot, before the next letter. 
 
 ## References:
 
-Maj script is using a creole compilation from Georgian, Greek and Armenian. 
+Next letters are the foreign letters used as candidates for Maj alphabet.
 
 * ა ბ გ დ ე ვ ზ თ ი კ ლ 
 * მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
@@ -78,7 +76,7 @@ Maj script is using a creole compilation from Georgian, Greek and Armenian.
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
 * ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
 
-**Note:** We could have invent our own letters, but we have selected these existing alphabets to enable Maj scholars to learn real life letters from different alphabets. This will introduce you to strange letters you are not familiar with and spark your imagination.
+**Note:** We could have invent our own letters, but we have preferred to do a compilation instead. This is an opportunity for Maj scholars to learn symbols from different alphabets. I thought this could be interesting since some of the letters should look familiar to you already.
 
 
 And this is done. Great!
