@@ -176,7 +176,7 @@ foa   = times (French fois)
 * un'foa = once
 * du'foa = twice
 * re'foa = three times
-* et'foa = forever
+* ym'foa = forever
 
 **using numerals**
 
@@ -319,16 +319,18 @@ In Maj, article is a short word you add in front of the noun.
 
 es = it is (seru) = to be
 
-Singular   |  Plural
------------|--------------
-eso = this |  ese = these 
-elo = that |  ele = those
+Location   | close       | far
+-----------|-------------|--------------
+Singular   | eta = this  |  ela = that
+Plural     | ete = these |  ele = those
 
 
 **example:**
 
-* eso pana = this bred
-* ese pane = these breads
+* eta pana = this bred
+* ete pane = these breads
+* ela pana = that bred
+* ele pane = those breads
 
 3. Descriptive article _descriptive form:_
 

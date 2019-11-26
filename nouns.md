@@ -57,14 +57,14 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 * kan  = not  - create antonyms
 * nam  = for  - specify purpose / person
 * aty  = anti - against / opposite 
-* eko  = echo - environment friendly / organic
+* eqo  = acho - environment friendly / organic
 
 **examples:**
 
 * nam-bebo = for drink
 * kan-bebo = not for drink
 * aty-gera = anti war
-* eko-vaja = echo travel
+* eqo-vaja = echo travel
    
 ## Noun suffix
 

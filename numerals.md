@@ -20,16 +20,16 @@ When used in text or expressions, symbols can have associated a name
 Symbol | Maj    | English
 -------|--------|---------------------
   ` `  | sao    | Space, gap, blank
-  `=`  | yko    | Equal sign
+  `=`  | eko    | Equal sign
   `>`  | gao    | Greater then sign
   `<`  | luo    | Less then sign
-  `+`  | eto    | Plus sign 
-  `-`  | meo    | Hyphen , minus sign 
+  `+`  | pyw    | Plus sign 
+  `-`  | myw    | Hyphen , minus sign 
   `/`  | rua    | Slash , forward slash 
   `.`  | opa    | Dot, full stop 
   `,`  | oma    | Comma 
-  `:`  | ypa    | Colon 
-  `;`  | yma    | Semicolon 
+  `:`  | epa    | Colon 
+  `;`  | eva    | Semicolon 
   `?`  | uha    | Question mark 
   `!`  | oha    | Exclamation mark 
   `\*` | sta    | Asterisk 
