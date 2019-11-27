@@ -30,29 +30,32 @@ adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 
 ## Words
 
-A word have a role in a sentence. Maj unlike most other languages is using a special syntax rule to differentiate word category by _coda_. The coda is the last letter of the word. Words that have different coda and same root have related meaning. 
+A word is a composition of sounds in a rapid succession without a pause. Maj have two kind of words: basic words and composite words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word can have a single role.
 
 
 **notes:**
-1. A word in general start with a consonant or a vowel but should end with a vowel. This rule makes words easy to connect together in a phrase using prepositions and articles.
-2. A word has a _root_ and _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The word meaning must be related somehow. If a word does not have a related meaning, it will be a funny mistake to use it.
-3. Words having root with coda can not exist without a coda. You can add a suffix to a word but a root word without the coda can means something different, a shorter word maybe totally unrelated to the word with coda.
-
-* qara   = square (shape)
-* qar'ma = square brackets [] (symbol)
-* pos    = behind
-* poso   = own/posses
+1. A word in general start with a consonant or a vowel but usually ends with a vowel. This rule makes words easy to connect together in propositions using articles.
+2. A word has a _root_ and _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
+3. Words having a root and coda can not exist without the coda. You can add a suffix to a word but a root word without the coda can be something else. A shorter word may be totally unrelated a longer word.
 
 **coda:**
 
-* Nouns are finalized with {"a", "e", "y", "h"} or consonant;
-* Verbs are finalized with {"o","u","a"} and suffix: { 'so, 'fu, 'pa };
-* Adjectives and Adverbs are finalized with {"o", "y"};
-* Prepositions are {1, 2, 3} letters long and finalized with one vowel;
+* Nouns are finalized with vowels: Group1: {"a", "e"}, Group2:{"y", "h"};
+* Verbs are finalized with vowels: Tense1:  {"o","u","a"} and Suffix: { 'so, 'fu, 'pa };
+* Adjectives and Adverbs are finalized with any letter and must agree with the verb;
+* Prepositions are two or three letter long and do not have coda;
+
+**root:**
+
+In dictionary the root is using a particular coda, to avoid large dictionary.
+
+* The nouns are terminated with "a"
+* The verbs are terminated with "u" 
+* The adverbs and adjectives with "o"
 
 ## Pronoun
 
-Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
+Is a word that can function as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
 
 * pronoun has 3 persons (I, II, III)
 * pronoun has 3 cases: nominative, objective, possessive
@@ -120,11 +123,11 @@ There are 3 time suffixes in Maj:
 
 tesa = time
 
-Suffix  | Maj       | English
---------|-----------|----------------------------
-ya      | yasa      | present (go now)
-fu      | fusa      | future
-pa      | pasa      | past
+ Suffix  | Maj       | English
+---------|-----------|----------------------------
+ fu      | futa      | future    
+ ya      | yata      | present
+ po      | posa      | past
 
 **undefined time**
 
@@ -136,9 +139,9 @@ verb: joku = to play
 
 **time suffix**
 
-* zu joku'ya = he is playing
+* zu joka'ya = he is playing
 * zu joku'fu = he will play
-* zu joku'pa = he has plaid
+* zu joko'po = he has plaid
 
 **negative**
 
@@ -151,9 +154,10 @@ Read more about: [verbs](verbs.md)
 
 ## Using adverb
 
-* suv   = often (French souvent)
-* mox   = soon  (Latin mox)
-* aku   = now   (Spanish ahora)
+* suvo  = often (French souvent)
+* moxo  = soon  (Latin mox)
+
+* zu joku' suvo = he play often
 
 **composite**
 

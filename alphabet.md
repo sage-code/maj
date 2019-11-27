@@ -200,16 +200,16 @@ Second "n" is soft when followed by vowel "e", in middle of words. It can sound 
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-**Vibrated J**
+**Valear J**
 
-Letter "J", "j" is vibrated-labial when used before vowels: {e, y, i}. That means your tongue tip will vibrate softly. To make this sound your tongue is relaxed and the tip of the tongue taps the roof of the mouth several times similar to "sh" but vibrated. The best symbol for this sound is IPA digraph: `dʒ`. 
+Letter "J", "j" is valear when used before vowels: {e, y}. That means your tongue front will vibrate softly. To make this sound your tongue is relaxed and the front of the tongue taps the roof of the mouth several times similar to "sh" with a vibration. The best symbol for this sound is IPA digraph: `dʒ`. 
 
 * jela => IPA:"dʒela" = ENG: "jell"
 * jyro => IPA:"dʒiro" = ENG: "around"
 
-**Fricative J** 
+**Vibrated J** 
 
-Letter "j" is pronounced different when followed by {a, o, u, h} or consonant. In these cases sound close to soft G, but it must be produced with the tip of your tongue. Best IPA symbol for this sound is "ʒ".
+Letter "j" is pronounced different when followed by {a, o, i, u} semivowels {h, w} or consonant. In these cases "j" must be produced with the tip of your tongue softly pressed on rooftop of your mouse. Best IPA symbol for this sound is "ʒ".
 
 * joka	=> IPA:"ʒoka" = game 
 * yjma	=> IPA:"iʒma" = picture

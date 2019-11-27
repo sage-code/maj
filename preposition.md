@@ -154,9 +154,8 @@ Maj     | English            | Spanish         | German
 --------|--------------------|-----------------|-------------- 
 auf     |on, in              |en               | im, auf
 aut     |out                 |fuera            | draußen
-avo     |above               |encima           | über
 ybo     |there               |ahi              | dort
-des     |of, about of        |de               | des
+von     |of                  |de               | von
 fra     |between             |entre            | zwischen
 hyr     |here                |aqui             | hier
 jos	    |down                |abajo            | nieder
@@ -202,7 +201,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  dar | but     | alternative
  den | then    | time consequence
  dus | thus    | therefore, hence, so, then, thus 
- eta | and     | also
+ ydo | and     | also
  fob | may not | is forbidden
  kan | non     | negative 
  kaz | case    | when is the case
@@ -276,10 +275,11 @@ Spanish | entonce| ¡Entonces fuiste tú!
 * muro = dead
 * dovu = must
 * rejo = reach
+* es   = to be
 
 **Translate:**
 
-la muro-tesa dovu rejo, aku es ka seru!
+la muro-tesa dovu rejo, aku esta ka seru!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

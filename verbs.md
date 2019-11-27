@@ -10,46 +10,46 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 
 ## Time prepositions
 
-* Verbs must be followed by time preposition to specify time,
+* Verbs can be followed by time preposition to specify time,
 * Composite words are using "'" to link two words close together,
 * Composite words are pronounced as a single word.
 
-**time suffix:**
+**prefix:**
 
 Noun: tesa  = time
 
- Suffix  | Maj       | English
----------|-----------|----------------------------
- fu      | futa      | future    
- ya      | yota      | present
- po      | posa      | past
+ Coda  | Suffix  | Maj       | English
+-------|---------|-----------|----------------------------
+ `u`   | fu      | futa      | future    
+ `a`   | ya      | yata      | present
+ `o`   | pa      | pasa      | past
 
-Using suffix:
+Verb suffox and coda must match with time.
 
 * joku'fu = future play
 * joka'ya = present play
-* joko'po = past play
+* joko'pa = past play
 
 ## Determinant prepositions
 
-**de = of/about**
+Infiniditve form of verbs can be: present, past and future indefinite.
 
-* tu dicu des la yaxa = you talk of the present
-* tu dicu des la fuva = you talk of the future
-* tu dicu des la pasa = you talk of the past
+**des = of/about**
 
-**vel = must/mandatory**
+* tu dica des la yata = you talk about the present
+* tu dico des la futa = you have talk about the future
+* tu dicu des la pasa = you will talk about the past
 
-* tu vel dicu des la yasa = you must talk of the present
-* tu vel dicu des la yasa = you must talk of the present
+**dovu = must/mandatory**
 
-**should = must/mandatory**
+* tu dovu dica'ya des la yata = you must talk now of the present
+* tu dovu dica'ya des la yata = you must talk now of the present
 
  
 **Preposition:** von = from
 
-* nova von la Europa  = news from the Europe
-* nova von la Veta    = news from the west
+* yo tara la nova von Europa  = I bring the news from Europe
+* tu tara la nova von Weta    = you bring the news from West
 
 
 ## Verb transformation
