@@ -5,6 +5,7 @@ Maj script is a creole alphabet with letters from Georgian, Greek and Latin.
 * Maj script do not have uppercase letters;  
 * Mak letters are continuous, single strike;
 * Maj script is for writing with stylus on tablet;
+* Maj script is mapped 1:1 with Lating alphabet;
 
 Latin | Maj| IPA  | Latin | Maj | IPA 
 ------|----|------|-------|-----|--------

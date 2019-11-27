@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj is using 26 letters: [ISO Latin Alphabet](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
+Maj is a Romance language. So it is using using 26 Lating letters: [ISO](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
 
 ```
 --------------------------------------------------
@@ -14,12 +14,12 @@ m   n   o   p   r   s   x   t   u   i   w   v   z
 
 **notes:**
 
-* the order of letters is changed from ISO standard;
-* these letters are not used for hand writing script;
+* the order of letters is different from ISO standard;
+* for hand writing (script) Maj is using different letters;
 
 ## Capitalization
 
-Maj uses both lowercase and uppercase letters. 
+Maj uses both lowercase and uppercase letters from Latin alphabet. 
 
 * Names are written with uppercase letters;
 * Nouns are written with first capital letter;

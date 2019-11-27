@@ -78,7 +78,7 @@ Let's count a rocket lifting off:
 Repeting time is created using `foa` and `alu`
 
 foa  = times
-ety  = infinite/ eternity/ forever
+ymo  = infinite/ eternity/ forever
 nyo  = never
 
 
@@ -90,19 +90,19 @@ Forming ordinals with numeral prefix can be done from (1..10)
 * re'foa = three times
 * ...
 * dy'foa = then thens
-* et'foa = forever
+* ym'foa = forever
           
 **positional**
 
-Position in a series or enumeration: lio (place)
+Position in a series or enumeration: lyo (place)
 
 English: place, order, position
 Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
-* una'lio = first place
-* dua'lio = second place
-* rea'lio = third place
+* una'lyo = first place
+* dua'lyo = second place
+* rea'lyo = third place
 
 ## Level 2
 

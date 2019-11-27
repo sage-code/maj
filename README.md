@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a simple language for quick chat.
+Maj is a Romance constructed language, designed for quick chat using a standard keyboard. 
 
 **Attributes:**
 
@@ -22,24 +22,23 @@ Maj is ...
 
 1. not a cryptic language;
 1. not a mystic language;
-1. not a perfect language;
+1. not an academic language;
 
 **Principles:**
 
 Basic principles for Maj construction:
 
-1. regular typing is using ISO Latin alphabet;
-1. one letter do not represent anything else but itself;
-1. most letters represent a single sound (1:1);
-1. words and letters in words are oriented from left to right;
-1. words are separated between them by one dot;
-1. one proposition is terminated with ";","!" or "?";
+1. Maj is using ISO Latin alphabet for regular typing;
+1. Words and letters in words are oriented from left to right;
+1. One proposition is terminated with ";","!" or "?";
 
 Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Maj is using Latin alphabet, 26 letters:
+Mission of Maj alphabet is to maximize the number of sounds using Latin letters.
+ 
+**Print:*** 
  
 ```
 ---------------------------------------------------
@@ -49,42 +48,42 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 ---------------------------------------------------
 ```
 
+Details: [Maj alphabet](alphabet.md)
+
 **Script:**
 
-Maj has simple handwriting easy to do using a stylus or a pen.
+Maj has an alternative alphabet for handwriting with stylus or a pen.
 
 * ƍ⍺ʋ.შʋნ⍺;   = qau muna;
 * ɚσჲ.ɚσ.შ⍺უ! = eso es maj!
 
-**Notes:**
+There is a dual conversion application to and from Latin to Maj script:
 
-* The order of letter is modified;
-* Some letters have a distinct pronunciation;
-* Numerals are Arabic as all Romance languages (0..9);
-* Script letters are selected from Georgian and Greek;
-
-**Read more:** 
-
-* [The alphabet](alphabet.md)
-* [The numerals](numerals.md)
 * [The script](script.md)
+* [The converter]((https://lingojam.com/MajScript))
+
+**Numerals:**
+
+For numerals, Maj is using Arabic symbols like all Romance languages:
+
+{ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
+
+Details: [The numerals](numerals.md)
 
 ## Words
 
 Maj is a compilation from 7 different languages.
 
-* **More:** Spanish, Italian, Romanian, 
+* **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
 
 **technology:**
 
-* Maj alphabet is deterministic and precise. One distinct sound for each letter;
-* All words are created manually using a translation spreadsheet;
-* Words are abbreviated as much as possible not translated one to one;
-* We preserve significant syllables to create a shorter word;
-* Sometimes we add letters or coda, to improve pronunciation;
-* Maj numerals are original but first letter is inspired from Romance languages;
-* In Maj words, each letter is pronounced. Only letter "h" can be voiceless;
+* Maj has one distinct sound for each letter from the alphabet;
+* Some letters have 2 different pronunciations: {h, j}; 
+* Maj words are created manually using a translation spreadsheet;
+* Maj is avoiding synonyms, therefore one word can have multiple meanings;
+* Maj words are already abbreviated so in Maj you can not use abbreviations;
 
 ## Essential
 
@@ -94,12 +93,13 @@ Maj is using the power of 3 to organize sentences and words:
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases: {nominative, objective, possessive};
+1. There are 3 cost algorithms: {reading, writing, typing};
 
 Read more: [basic](basic.md)
 
 ## Grammar
 
-You can learn more Maj by reading about _word categories_:
+More grammar is available in:  _word categories_
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
@@ -109,10 +109,10 @@ You can learn more Maj by reading about _word categories_:
 
 ## Lexicon
 
-You can learn Maj words organized by domain:
+The Lexicon contains most frequent Maj words organized by domain:
 
-* Suffix: 'xa  = xatu = to know
-* The "a" is transformed to "o" for 'xa sufix.
+* Suffix: 'xa: xatu = "to know"
+* The "a" is transformed to "o" for before 'xa sufix.
 
 1. suto'xa = [structure](words/structure.md)
 1. ynfo'xa = [information](words/information.md)
@@ -122,7 +122,7 @@ You can learn Maj words organized by domain:
 1. movo'xa = [movement](words/movement.md)
 1. fyzo'xa = [physical world](words/physical_world.md)
 1. naro'xa = [nature](words/nature.md)
-1. vyvo'xa = [life](words/life.md)
+1. vevo'xa = [life](words/life.md)
 1. pyho'xa = [psychology](words/psychology.md)
 1. famo'xa = [family](words/family.md)
 1. kulo'xa = [human culture](words/human_culture.md)
@@ -135,7 +135,7 @@ You can learn Maj words organized by domain:
 
 ## Contribution
 
-We are looking for volunteers to help:
+We are looking for volunteers:
 
 1. To review grammar;
 2. To improve lexicon;

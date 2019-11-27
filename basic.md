@@ -45,22 +45,18 @@ A word have a role in a sentence. Maj unlike most other languages is using a spe
 
 **coda:**
 
-* Nouns are finalized with {"a", "e"};
-* Verbs are finalized with {"u"} or suffix: { so, fu, pa};
-* Adjectives and Adverbs are finalized with {o, y};
-* Prepositions are also 1, 2 or 3 letter long and usually finalized with vowel;
+* Nouns are finalized with {"a", "e", "y", "h"} or consonant;
+* Verbs are finalized with {"o","u","a"} and suffix: { 'so, 'fu, 'pa };
+* Adjectives and Adverbs are finalized with {"o", "y"};
+* Prepositions are {1, 2, 3} letters long and finalized with one vowel;
 
 ## Pronoun
 
 Is a word that can function by itself as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
 
-**Features:**
-
-* pronouns do not have gender (Maj is gender-less)
-* it has 3 persons (I, II, III)
-* it has 3 cases: nominative, objective, possessive
-* it has 2 numeral forms: singular and plural
-* it combine with the article to form the cases.
+* pronoun has 3 persons (I, II, III)
+* pronoun has 3 cases: nominative, objective, possessive
+* pronoun has 2 numeral forms: singular and plural
 
 **Nominative**
 
@@ -84,10 +80,6 @@ cu = to (preposition)
  2  | cu te = to you         | cu vh = to y'all
  3  | cu sh = to him/her/it  | cu zh = to them 
  
-**note:* 
- * it is a total of: 6 x 3 = 18 pronouns
- * yo/my/ma is the single irregular pronoun
- 
 **Possessive**
 
 Is a composite word for a person or object who own something or have something.
@@ -100,7 +92,12 @@ singular                | plural
  al ta = your           | al va = yours
  al sa = his, hers, its | al za = theirs
 
-**Reflexive**
+**note:* 
+ * it is a total of: 6 x 3 = 18 pronouns
+ * yo/my/ma is the single irregular pronoun
+ * there is no gender differentiation for 3'rd person
+
+## Reflexive
 
 To make reflexive we use coda "syfo" = "self"
 
@@ -110,16 +107,6 @@ To make reflexive we use coda "syfo" = "self"
 * nu syfo = ourselves; 
 * vu syfo = yourselves; 
 * zu syfo = themselves; 
-
-**Action**
-
-In Maj, "hay" is used as an encouragement:
-
-hay = c'mon (come on)
-hay = let's (let us)
-
-* hay nu haru bosu sh = c'mon we have to search him
-* hay nu dovu bosu zh = c'mon we must search them
 
 ## Verbs
 
@@ -198,6 +185,17 @@ verb: vidu  = to see
 * tu vidu'fu ma suv!     = You will see me often!
 * nu podo vidu'so zu amu!= We can see them now!
 
+## Call to Action
+
+In Maj, "hay" is used as an determinant call, preposition:
+
+hay = c'mon (come on)
+hay = let's (let us)
+
+* hay nu haru bosu sh = c'mon we have to search him
+* hay nu dovu bosu zh = c'mon we must search them
+
+
 ## Interrogative
 
 Primitive interrogation is created with prepositions:
@@ -243,8 +241,8 @@ You can ask about location isomg `ubi` or time isomg `cud`:
   
 You can use `von uby`, or `com uby` instead of `loka`.
   
-* von uby cum uby? = from where to where!
-* von hyr cum ybo! = from here to there!
+* von uby cu uby? = from where to where!
+* von hyr cu ybo! = from here to there!
 
 ## Responses
 
@@ -317,20 +315,19 @@ In Maj, article is a short word you add in front of the noun.
 
 2. Definite article _determinant form:_
 
-es = it is (seru) = to be
-
 Location   | close       | far
 -----------|-------------|--------------
 Singular   | eta = this  |  ela = that
 Plural     | ete = these |  ele = those
 
-
 **example:**
 
-* eta pana = this bred
-* ete pane = these breads
-* ela pana = that bred
-* ele pane = those breads
+es (seru) = to be
+
+* eta es pana = this is bred
+* ete es pane = these are breads
+* ela es pana = that is bred
+* ele es pane = those are breads
 
 3. Descriptive article _descriptive form:_
 
@@ -339,15 +336,15 @@ Plural     | ete = these |  ele = those
 
 **example:**
 
-* English: the freckles on my face
-* Spanish: las pecas en mi cara
-* Maj: le pece de mia cara
+* English: the freckles of my face
+* Spanish: las pecas de mi cara
+* Maj: le pyce de mia cara
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
 
-* una Mergedes fon la gupa de auto = a Mercedes from the car lot
-* an event in history
+* una Mercedes fon la gupa de auto = "a Mercedes from the car lot"
+* una yova yn ysta = "an event in history"
 
 In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
 
@@ -357,10 +354,11 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 * oru = any
 * omy = every
-* aly = all
-* mot = many
+* ale = all
+* may = many
+* plu = more 
 * pau = few
-* van = several
+* van = several (some)
 * som = some 
 * yxo = approximative
 

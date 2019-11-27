@@ -135,7 +135,7 @@ Maj   | English  | German | Romanian | Franch  | Spanish
 von   | from     | von    | de       | de      | de
 cum   | toward   | zu     | la       | vers    | para
 bay   | by       | durch  | prin     | por     | por
-via   | via      | über   | via      | via     | vía
+vya   | via      | über   | via      | via     | vía
 aus   | off      | aus    | din      | de      | apagado
          
          
@@ -158,9 +158,9 @@ avo     |above               |encima           | über
 ybo     |there               |ahi              | dort
 des     |of, about of        |de               | des
 fra     |between             |entre            | zwischen
-hir     |here                |aqui             | hier
+hyr     |here                |aqui             | hier
 jos	    |down                |abajo            | nieder
-kot     |beside, next to     |al lado, cerca   | neben
+pro     |beside, next to     |al lado, cerca   | neben
 pos     |behind the          |detrás           | hinter
 pue     |after               |despue           | nach  
 sub     |under,beneath,below |debajo           | unter
@@ -168,10 +168,10 @@ sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
 top     |on top              |encima           | oben drauf
 uba	    |above	             |encima           | über
-ubi     |where               |donde            | wo
+uby     |where               |donde            | wo
 vor     |prior, in front of  |anterior         | vor
 yet     |yet                 |todavía          | noch 
-den     |inside              |dentro           | innerhalb
+yna     |inside              |dentro           | innerhalb
 
 
 **examples**

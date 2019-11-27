@@ -20,15 +20,15 @@ Noun: tesa  = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- fu      | fusa      | future    
- ya      | yasa      | present
- pa      | pasa      | past
+ fu      | futa      | future    
+ ya      | yota      | present
+ po      | posa      | past
 
 Using suffix:
 
 * joku'fu = future play
-* joku'ya = present play
-* joku'pa = past play
+* joka'ya = present play
+* joko'po = past play
 
 ## Determinant prepositions
 
@@ -49,7 +49,7 @@ Using suffix:
 **Preposition:** von = from
 
 * nova von la Europa  = news from the Europe
-* nava von la Veta    = news from the west
+* nova von la Veta    = news from the west
 
 
 ## Verb transformation
