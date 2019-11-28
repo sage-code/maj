@@ -20,16 +20,16 @@ Maj is a Romance constructed language, designed for quick chat using a standard 
 
 Maj is ...
 
-1. not a cryptic language;
+1. not a secret language;
 1. not a mystic language;
-1. not an academic language;
+1. not a religious language;
 
 **Principles:**
 
 Basic principles for Maj construction:
 
 1. Maj is using ISO Latin alphabet for regular typing;
-1. Words and letters in words are oriented from left to right;
+1. Letters and words are oriented from left to right;
 1. One proposition is terminated with ";","!" or "?";
 
 Rad more: [use cases](case.md)
@@ -38,7 +38,9 @@ Rad more: [use cases](case.md)
 
 Mission of Maj alphabet is to maximize the number of sounds using Latin letters.
  
-**Print:*** 
+**Print:**
+
+The print alphabet is for writing with QWERTY keyboard: 
  
 ```
 ---------------------------------------------------
@@ -48,19 +50,40 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 ---------------------------------------------------
 ```
 
+**Notes:**
+
+* Maj has a _deterministic_ alphabet, that means one sound for one letter;
+* Maj has a total of 26+3 = 29 sounds associated with letters;
+* There are 3 letters: {n, h, j} having 2 distinct sounds each;
+
+**Phoneme:**
+
+A phoneme is a vowel a consonant or a diphthong associated with one or more letters:
+
+* Maj has 49 phonemes 
+* English has 44 phonemes;
+* Italian has only 30 phonemes;
+* Romanian has 29 phonemes;
+
+from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
+
+
 Details: [Maj alphabet](alphabet.md)
 
 **Script:**
 
-Maj has an alternative alphabet for handwriting with stylus or a pen.
+Maj has an alternative alphabet optimized for stylus.
 
 * ƍ⍺ʋ.შʋნ⍺;   = qau muna;
 * ɚσჲ.ɚσ.შ⍺უ! = eso es maj!
 
-There is a dual conversion application to and from Latin to Maj script:
+The script alphabet is mapped 1:1 with the print alphabet.
 
-* [The script](script.md)
-* [The converter]((https://lingojam.com/MajScript))
+[Script details](script.md)
+
+There is a dual conversion from Latin and Maj and back:
+
+[Script converter](https://lingojam.com/MajScript)
 
 **Numerals:**
 
@@ -72,22 +95,24 @@ Details: [The numerals](numerals.md)
 
 ## Words
 
-Maj is a compilation from 7 different languages.
+Maj words are inspired from 7 different languages.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
 
-**technology:**
+**algorithm:**
 
-* Maj has one distinct sound for each letter from the alphabet;
-* Some letters have 2 different pronunciations: {h, j}; 
 * Maj words are created manually using a translation spreadsheet;
 * Maj is avoiding synonyms, therefore one word can have multiple meanings;
 * Maj words are already abbreviated so in Maj you can not use abbreviations;
 
 ## Essential
 
-Maj is using the power of 3 to organize sentences and words:
+Maj is an articulated language and the order of words in a proposition is significant.
+
+**technical:**
+
+Maj is using the _power of 3_ to organize words in propositions:
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
@@ -95,9 +120,9 @@ Maj is using the power of 3 to organize sentences and words:
 1. There are 3 cases: {nominative, objective, possessive};
 1. There are 3 cost algorithms: {reading, writing, typing};
 
-Read more: [basic](basic.md)
+Read more: [basic grammar](basic.md)
 
-## Grammar
+## Details
 
 More grammar is available in:  _word categories_
 
@@ -112,7 +137,7 @@ More grammar is available in:  _word categories_
 The Lexicon contains most frequent Maj words organized by domain:
 
 * Suffix: 'xa: xatu = "to know"
-* The "a" is transformed to "o" for before 'xa sufix.
+* The "a" is transformed to "o" before 'xa suffix.
 
 1. suto'xa = [structure](words/structure.md)
 1. ynfo'xa = [information](words/information.md)

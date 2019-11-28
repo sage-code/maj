@@ -56,13 +56,15 @@ We use phonetic symbols:
 
 **Phonetic:**
 
-* Maj phonetic is enclosed with double quotes: MAJ:"fonetik";
-* IPA phonetic is enclosed with double quotes: IPA:"fonetic";
+Maj is a phonetic language, which means it’s written the way it sounds, and visa versa.
+
+* Maj phonetic is enclosed with double quotes: MAJ:"fonetyk";
+* IPA phonetic is enclosed with double quotes: IPA:"fonetik";
 * English words are enclosed in double quotes: ENG:"phonetic";
 
 ## Vowels
 
-The vowels are read like in Italian. Romanian and Spanish not English or German;
+The vowels are read like in Italian, Romanian and Spanish;
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
@@ -301,18 +303,21 @@ Combination of 2 consonants is expensive. Therefore the total cost receive a pen
 
 Two vowels combined together into one are called diphthongs
 
-**Approved:**
+x |a  |e  |y  |o  |u  | i | h 
+--|---|---|---|---|---|---|----
+a | · |ae |ay |ao |au | · | ·
+e |ea | · |ey |eo |eu | · | eh
+y |ya |ye | · |yo |yu |yi | yh
+o |oa |oe |oy | · |ou | . | oh 
+i | . | . |iy | . |iu | . | .
+w |wa |we |wy |wo | · |wi | wh   
 
-x |a  |e  |y  |o  |u  | i 
---|---|---|---|---|---|--
-a | · |ae |ay |ao |au | ·
-e |ea | · |ey |eo |eu | ·  
-y |ya |ye | · |yo |yu |yi
-o |oa |oe |oy | · |ou | .
-u |ua |ue |uy |uo | · |ui 
-i | . | . |iy | . |iu | .  
+**Notes:**
 
-Combination of 2 vowels is expensive in a word. Therefore the total cost receive a penalty of "1".
+* there is a total of 22 diphthongs in Maj
+* u is replaced by w when is followed by a vowel
+* diphthong are more frequent in 3 letter words
+* presence of diphthong in a word increase its cost with 3 points
 
 ## Syllable
 
@@ -329,9 +334,9 @@ To describe the structure of a syllable we use following convention:
 
 ```
 rime     =  initial + nucleus +(coda)
-initial  =  V | C 
-nucleus  =  V | VV | CV
-coda     =  C | CC
+initial  =  V | C
+nucleus  =  V | C | CC
+coda     =  V 
 ```
 
 **Description:**
@@ -339,10 +344,10 @@ coda     =  C | CC
 A syllable can ...:
 
 * be a single vowel at beginning of word;
-* start with one consonant otherwise;
-* have a nucleus formed by one or two vowels;
-* have a coda formed with one or two consonants;
-* not all syllables have coda;
+* start with one vowel: `VC`
+* start with a consonant: `CV`
+* start with two consonants: `CCV`
+* end with two vowels: `CVV`
 
 A syllable can not ...;
 
@@ -353,18 +358,16 @@ A syllable can not ...;
 
 1. Open vowels can be used as syllable at beginning of words: { a e y o u }
 2. Syllable that have "coda" are used only for end of words;
-3. Two words that have more then one syllable must sound different;
 
 **Patterns:**
 
-* Two letter words {`CV`, `VV`, `VC`, ~`CC`~}
-* Three letter words {`VCV`, `VVC`, `VCC`, `CVV`, `CVC`}
-* Four letter words starting with vowel: {`~VCVC~`, `VVCV`,`VCCV`,`VCVV`}
-* Four letter words starting with consonant: {`CVCV`,`CCVV`,~`CVCC`~,~`CVVC`~}
+* Two letter words: {`CV`, `VV`, `VC`} never {`CC`}
+* Without penalty: {`VCV`, `CVC`} never {`CCC`}
+* With cost penalty: {`VVC`, `VCC`, `CCV`, `CVV`}
 
 **Weight:**
 
-Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to give a _cost_ for word complexity. Less expensive words can be learned faster and should be more frequent. Gradualy one can assimilate complex words that are more rarely used.
+Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to calculate a _cost_ that represents word complexity. More frequent words should have a lower cost. Gradualy one can assimilate more complex words, rarely used.
 
 Weight |Sounds
 -------|----------------------------------------
@@ -376,7 +379,7 @@ Weight |Sounds
 
 **Cost:**  
 
-We keep an aye on the word cost using an algorithm. The lower the cost, the better the language become. By using the same algorithm for other languages, we compare language complexity. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
+We keep an aye on the word cost using an algorithm. The lower the cost, the better the language become. By using the same algorithm to other languages, we can compare _language complexity_. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
 
 ## Cost of typing
 
@@ -389,7 +392,7 @@ Cost |  Letter
   3  |z, x, c, v, m 
   4  |t, b, y, n 
 
-**extra:**
+**penalty:**
 
 There is an extra cost of 2 for one hand letters.
 
@@ -409,13 +412,13 @@ For computing an average cost, we consider 3 functions:
 We use a priority average function, to evaluate average cost:
 
 ```
-function maj(w as string) as integer
+function cmaj(w as string) as integer
   cost = rcos(w)*3 + tcos(w)*2 + wcos(w) 
-  maj  = cost/6
+  cmaj  = cost/6
 end function
 ```
 
-Maj function is available for open office macro, and is used in Lexicon:NOV tab to create new words.
+CMaj function is available for open office macro, and is used in Lexicon:NOV tab to create new words.
 
 [macro.bas](tools/macro.bas)
 

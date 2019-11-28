@@ -2,13 +2,14 @@
 
 **facts:**
 
-Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500.
-Existing spoken languages add new words and become more complex.
+* Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500;
+* Existing spoken languages become more and more complex as time pass by and therefore difficult to learn;
+* Esisting spoken languages are wild and difficult to optimize due to schools and government intervention;
 
 **about Maj:** 
 
-* Maj is a Romance language derived from Latin;
-* Maj is using Latin alphabet and same script handwriting as English;
+* Maj is an open source, Romance language;
+* Maj is using Latin alphabet similar to English alphabet;
 * Maj in contrast to English is a deterministic language;
 
 **capital letters**
