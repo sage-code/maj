@@ -104,12 +104,13 @@ singular                | plural
 
 To make reflexive we use coda "syfo" = "self"
 
-* yo syfo = myself;
-* tu syfo = yourself; 
-* su syfo = himself/ itself
-* nu syfo = ourselves; 
-* vu syfo = yourselves; 
-* zu syfo = themselves; 
+* yo'syfo = myself;
+* tu'syfo = yourself; 
+* su'syfo = himself/ itself
+* nu'syfo = ourselves; 
+* vu'syfo = yourselves; 
+* zu'syfo = themselves; 
+
 
 ## Verbs
 
@@ -123,12 +124,12 @@ There are 3 time suffixes in Maj:
 
 tesa = time
 
- Suffix  | Maj       | English
----------|-----------|----------------------------
- fu      | futa      | future    
- ya      | yata      | present
- po      | posa      | past
-
+ Coda  | Suffix  | Maj       | English
+-------|---------|-----------|----------------------------
+ `u`   | fu      | futa      | future    
+ `a`   | ya      | yata      | present
+ `o`   | pa      | pasa      | past 
+ 
 **undefined time**
 
 verb: joku = to play
@@ -141,14 +142,18 @@ verb: joku = to play
 
 * zu joka'ya = he is playing
 * zu joku'fu = he will play
-* zu joko'po = he has plaid
+* zu joko'pa = he has plaid
 
 **negative**
 
-* zu ka joku'pa = he has not play
+* zu ka joko'pa = he has not played
 * zu ka joku'fu = he will not play
-* yo ka joku'ya = I do not play
-* yo sy joku'fu = Yes I will play
+* yo ka joka'ya = I do not play now
+
+**affirmative**
+
+* yo sy joku'fu yn la futa = Yes I will play in the future
+* tu sy joku'pa yn la pasa = Yes you have plaid in the past
 
 Read more about: [verbs](verbs.md)
 

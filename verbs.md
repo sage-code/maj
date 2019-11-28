@@ -1,6 +1,6 @@
 # Verbs & conjugation
 
-The verbs have a root of 3 - 5 character long and is terminated with `u`.
+Infinitive form of verbs have a root of 3 - 5 character long and is terminated with `u`.
 
 **rules:**
 
@@ -41,24 +41,28 @@ Infiniditve form of verbs can be: present, past and future.
 * tu dico des la futa = you have talk about the future
 * tu dicu des la pasa = you will talk about the past
 
-**dovu = must/mandatory**
-
-* tu dovu dica'ya des la yata = you must talk now of the present
-* tu dovu dica'ya des la yata = you must talk now of the present
-
- 
 **Preposition:** von = from
 
 * yo tara la nova von Europa  = I bring the news from Europe
 * tu tara la nova von Weta    = you bring the news from West
 
+## Imperative proposition
+
+For imperative form of verb, you change coda to {"e" or "h"}
+
+**dove = must/mandatory**
+
+* tu dove dica'ya des la yata = you must talk now of the present
+* su dove dica'ya des la pasa = you must talk now of the present
+
+
 ## Verb transformation
 
-Use coda 'a to make an adverb
+Verb can be used as different part of proposition:
 
-joku => joka
+joku => joku'ra
 
-* tu seru'pa la joka de zu  = you have been played by him;
+* tu seru'pa la joku'ra de zu  = you was playing with you;
 * la joka sa joku'pa = the game it was played;
 * la joka sa fino    = the game is over;
 
