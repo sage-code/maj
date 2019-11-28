@@ -6,12 +6,13 @@ The verbs have a root of 3 - 5 character long and is terminated with `u`.
 
 1. A verb is referring to somebody or something that is the subject of the discussion. The verb can be used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
 
-2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective.  For this you must change "u" into other vowel {"a","y","e","i","o"}
+2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective.  
 
-## Time prepositions
+## Time
 
-* Verbs can be followed by time preposition to specify time,
-* Composite words are using "'" to link two words close together,
+* Verbs are using coda: { u, a, o } to indicate time of action,
+* Verbs can also be followed by time suffix to determine the time,
+* Composite words are using "'" to link the word with time suffix,
 * Composite words are pronounced as a single word.
 
 **prefix:**
@@ -30,9 +31,9 @@ Verb suffox and coda must match with time.
 * joka'ya = present play
 * joko'pa = past play
 
-## Determinant prepositions
+## Informative proposition
 
-Infiniditve form of verbs can be: present, past and future indefinite.
+Infiniditve form of verbs can be: present, past and future.
 
 **des = of/about**
 
@@ -50,7 +51,6 @@ Infiniditve form of verbs can be: present, past and future indefinite.
 
 * yo tara la nova von Europa  = I bring the news from Europe
 * tu tara la nova von Weta    = you bring the news from West
-
 
 ## Verb transformation
 
