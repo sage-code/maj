@@ -1,12 +1,14 @@
 # Maj
 
-Maj is a Romance constructed language, designed for quick chat using a standard keyboard. 
+Maj is a Romance language constructed by Sage-Code research laboratory. 
 
 **Attributes:**
 
-1. Accesible;
-2. Efficient;
-3. Deterministic;
+Maj is a logic, open source language easy to learn and comprehend.
+
+1. Accesible - documentation is public;
+2. Efficient - short words and simple alphabet;
+3. Deterministic - with simple phonetic rules;
 
 **Goals ...**
 
@@ -22,7 +24,7 @@ Maj is ...
 
 1. not a secret language;
 1. not a mystic language;
-1. not a religious language;
+1. not bound to a nation;
 
 **Principles:**
 
