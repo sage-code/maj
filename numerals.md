@@ -23,16 +23,16 @@ Symbol | Maj    | English
   `=`  | eko    | Equal sign
   `>`  | gao    | Greater then sign
   `<`  | luo    | Less then sign
-  `+`  | pyw    | Plus sign 
-  `-`  | myw    | Hyphen , minus sign 
+  `+`  | pyo    | Plus sign 
+  `-`  | myo    | Hyphen , minus sign 
   `/`  | rua    | Slash , forward slash 
   `.`  | opa    | Dot, full stop 
   `,`  | oma    | Comma 
   `:`  | epa    | Colon 
   `;`  | eva    | Semicolon 
-  `?`  | uha    | Question mark 
-  `!`  | oha    | Exclamation mark 
-  `\*` | sta    | Asterisk 
+  `?`  | uya    | Question mark 
+  `!`  | oya    | Exclamation mark 
+  `\*` | ora    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
   `{}` | sra    | Curly brackets 
@@ -43,20 +43,20 @@ Symbol | Maj    | English
 * Each small number has a corresponding prefix;
 * Firs letter nyl and last dyz are terminated with consonant.
 
-**Ten = dyz** 
+**Ten = cen** 
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | nyl  | 10 | un'dyz+nyl   |    |        |
-1 | una  | 11 | un'dyz+una   | 10 | un'dyz |
-2 | dua  | 12 | un'dyz+dua   | 20 | du'dyz |
-3 | rea  | 13 | un'dyz+rea   | 30 | re'dyz |
-4 | qua  | 14 | un'dyz+qua   | 40 | qu'dyz |
-5 | pea  | 15 | un'dyz+pea   | 50 | pe'dyz |
-6 | sea  | 16 | un'dyz+sea   | 60 | se'dyz |
-7 | xea  | 17 | un'dyz+xea   | 70 | xe'dyz |
-8 | oka  | 18 | un'dyz+oka   | 80 | ok'dyz |
-9 | noa  | 19 | un'dyz+noa   | 90 | no'dyz | 
+0 | nyl  | 10 | un'cen+nyl   |    |        |
+1 | una  | 11 | un'cen+una   | 10 | un'cen |
+2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
+3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
+4 | pea  | 14 | un'cen+pea   | 40 | pe'cen |
+5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
+6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
+7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
+8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
+9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
 
 **Note** 
@@ -71,26 +71,26 @@ x | maj  | xx | maj          | xx | maj    |
 Let's count a rocket lifting off:
 
 * ... 3 2 1 0 and lift off
-* ... rea.dua.una.nyl.etu.razu.aus!
+* ... rea dua una nyl ydo razu aus!
                                          
 ## Ordinals
          
 Repeting time is created using `foa` and `alu`
 
-foa  = times
+ora  = times
 ymo  = infinite/ eternity/ forever
 nyo  = never
 
 
 Forming ordinals with numeral prefix can be done from (1..10)
 
-* ny'foa = not even once
-* un'foa = once
-* du'foa = twice
-* re'foa = three times
+* ny'ora = not even once
+* un'ora = once
+* du'ora = twice
+* re'ora = three times
 * ...
-* dy'foa = then thens
-* ym'foa = forever
+* ci'ora = then times
+* ym'ora = forever
           
 **positional**
 
@@ -106,20 +106,20 @@ Franch:  lieu,  ordre, position
 
 ## Level 2
 
-**Hundreds = cen**
+**Hundreds = han**
 
  Num |  Maj     |  Num | Maj
 -----|----------|------|-------------
- 100 |  un'cen  |  600 |  se'cen
- 200 |  du'cen  |  700 |  xe'cen
- 300 |  re'cen  |  800 |  ok'cen
- 400 |  qu'cen  |  900 |  no'cen
- 500 |  pe'cen  | 1000 |  un'myl 
+ 100 |  un'qen  |  600 |  ze'qen
+ 200 |  du'qen  |  700 |  xe'qen
+ 300 |  re'qen  |  800 |  ok'qen
+ 400 |  pe'qen  |  900 |  no'qen
+ 500 |  fe'qen  | 1000 |  un'myl 
 
 
-* 125 = un'cen+du'dyz+pea
-* 555 = pe'cen+pe'dyz+pea
-* 801 = ok'cen+una
+* 125 = un'qen+du'ten+fea
+* 555 = pe'qen+pe'ten+fea
+* 801 = ok'qen+una
 
 
 **Thousands = myl**
@@ -127,9 +127,9 @@ Franch:  lieu,  ordre, position
 * 1,000 = un'myl
 * 2,000 = du'myl
 * 3,000 = re'myl
-* 4,000 = qu'myl
+* 4,000 = pe'myl
 * 5,000 = pe'myl
-* 6,000 = se'myl
+* 6,000 = ze'myl
 * 7,000 = xe'myl
 * 8,000 = ok'myl
 * 9,000 = no'myl
@@ -169,7 +169,7 @@ bits| maj      | description
 0/1 | dva      | dua-vala (binary/bit)
 8   | ova      | oka-vala (word)
 16  | du'ova   | short integer
-32  | qu'ova   | integer
+32  | pe'ova   | integer
 64  | ok'ova   | long integer
 
 Griat!

@@ -75,13 +75,11 @@ Is the person or the thing who perform the action.
 
 Is the person or the thing who receive the action.
 
-cu = to (preposition) 
-
- ps | singular               | plural     
-----|------------------------|-----------------------------
- 1  | cu my = to me          | cu ne = to us   
- 2  | cu te = to you         | cu vh = to y'all
- 3  | cu sh = to him/her/it  | cu zh = to them 
+ ps | singular             | plural     
+----|----------------------|-----------------------------
+ 1  | mye = to me          | noh = to us   
+ 2  | tye = to you         | voh = to y'all
+ 3  | sye = to him/her/it  | zoh = to them 
  
 **Possessive**
 
@@ -89,28 +87,40 @@ Is a composite word for a person or object who own something or have something.
 
 determinant: al = belong, of the
 
-singular                | plural
-------------------------|--------------------------------
- al ma = mine           | al na = ours
- al ta = your           | al va = yours
- al sa = his, hers, its | al za = theirs
+singular                 | plural
+-------------------------|--------------------------------
+ al meu = mine           | al nua = ours
+ al thu = yours          | al vua = yours
+ al shu = his, hers, its | al zua = theirs
 
 **note:* 
- * it is a total of: 6 x 3 = 18 pronouns
- * yo/my/ma is the single irregular pronoun
+ * it is a total of: 6 x 4 = 24+1 pronouns
  * there is no gender differentiation for 3'rd person
 
 ## Reflexive
 
-To make reflexive we use coda "syfo" = "self"
+Maj has a reflexive pronoun and reflexive determinant preposition:
 
-* yo'syfo = myself;
-* tu'syfo = yourself; 
-* su'syfo = himself/ itself
-* nu'syfo = ourselves; 
-* vu'syfo = yourselves; 
-* zu'syfo = themselves; 
+singular                | plural
+------------------------|--------------------------------
+ yo mh = myself         | nu ne = ourself 
+ tu te = yourself       | vu vh = yourselves
+ su se = himself,itself | zu zh = themselves
 
+Full reflexive word: "syfo" = "self"
+
+* my syfo = myself;
+* tu syfo = yourself; 
+* su syfo = himself/ itself
+* nu syfo = ourselves; 
+* vu syfo = yourselves; 
+* zu syfo = themselves; 
+
+**examples**
+
+* yo mh leva = I wash myself
+* su se waza = he is resting himself
+* yo 
 
 ## Verbs
 
@@ -153,7 +163,11 @@ verb: joku = to play
 **affirmative**
 
 * yo sy joku'fu yn la futa = Yes I will play in the future
-* tu sy joku'pa yn la pasa = Yes you have plaid in the past
+* tu sy joku'pa yn la pasa = Yes you have played in the past
+
+**reflexive**
+
+* yo mh joka'ya 
 
 Read more about: [verbs](verbs.md)
 
@@ -166,22 +180,22 @@ Read more about: [verbs](verbs.md)
 
 **composite**
 
-foa   = times (French fois)
+ora   = times (* = ora)
 
-* ny'foa = never
-* un'foa = once
-* du'foa = twice
-* re'foa = three times
-* ym'foa = forever
+* ny'ora = never
+* un'ora = once
+* du'ora = twice
+* re'ora = three times
+* ym'ora = forever
 
 **using numerals**
 
-lio  = place (French lieu)
+lyo  = place (French lieu)
 
-* un'lio  = first  place
-* du'lio  = second place
-* re'lio  = third   place
-* ny'lio  = last place
+* un'lyo  = first  place
+* du'lyo  = second place
+* re'lyo  = third   place
+* ny'lyo  = last place
 
 ## Proposition
 

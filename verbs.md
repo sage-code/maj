@@ -37,9 +37,9 @@ Infiniditve form of verbs can be: present, past and future.
 
 **des = of/about**
 
-* tu dica des la yata = you talk about the present
-* tu dico des la futa = you have talk about the future
-* tu dicu des la pasa = you will talk about the past
+* su dica'ya una geza des la yata = he tel a stories about the present
+* su dico'pa una geza des la futa = he have told a story about the future
+* su dicu'fu una geza des la pasa = he will tel a story about the past
 
 **Preposition:** von = from
 
@@ -48,23 +48,25 @@ Infiniditve form of verbs can be: present, past and future.
 
 ## Imperative proposition
 
-For imperative form of verb, you change coda to {"e" or "h"}
+For imperative form of verb, you change coda to "h":
 
-**dove = must/mandatory**
+* dovu = must/mandatory
+* dygu = talk
 
-* tu dove dica'ya des la yata = you must talk now of the present
-* su dove dica'ya des la pasa = you must talk now of the present
+**examples:**
 
+* tu dove sh dygh'ya des la yata = you must talk now about the present
+* su dove sh dygh'ya des la pasa = you must talk now about the past
 
 ## Verb transformation
 
-Verb can be used as different part of proposition:
+Verb can be used as different part of proposition using a suffix:
 
 joku => joku'ra
 
-* tu seru'pa la joku'ra de zu  = you was playing with you;
-* la joka sa joku'pa = the game it was played;
-* la joka sa fino    = the game is over;
+* tu seru'pa la joku'ra de zu  = you have been his game;
+* la joku'ra sh joko'pa = the game it was played;
+* la joku'ra sh fina'ya = the game it is over now;
 
 **lo = ul**
 

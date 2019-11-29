@@ -33,7 +33,7 @@ ezato |exactly      |exactamente
 fato  |done         |hecho
 fie   |either       |ya sea
 fin   |finally      |finalmente
-foa   |times        |vez
+roa   |times        |vez
 fuso  |perhaps      |quizás
 gano  |again        |de nuevo
 jiro  |around       |alrededor

@@ -92,11 +92,12 @@ _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. 
 _Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and sibling letters. In English the `h` is most of the time voiceless. In Maj it must have one of two pronunciations and is never silent.
 
 1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
-2. Letter `h` is  `ɦ` after a vowel, usually in the middle of words;
+2. Letter `h` is  `ɦ` after a vowel, in the middle of words;
 3. Letter `h` is  `ə` after a consonant like `e` in "after";
+4. Letter `h` is  `ə` at end of words, even after vowels;
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
-* zh   = "they"    in this case `h` is `ə` like IPA:"zə"
+* zhy  = "they"    in this case `h` is `ə` like IPA:"zə"
 
 ## Consonants
 
