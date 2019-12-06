@@ -118,9 +118,9 @@ Full reflexive word: "syfo" = "self"
 
 **examples**
 
-* yo mh leva = I wash myself
-* su se waza = he is resting himself
-* yo 
+* tu te joka solo = you are playing alone
+* yo mh leva syfo = I am washing myself
+* su se waza syfo = he is resting himself
 
 ## Verbs
 
@@ -163,7 +163,7 @@ verb: joku = to play
 **affirmative**
 
 * yo sy joku'fu yn la futa = Yes I will play in the future
-* tu sy joku'pa yn la pasa = Yes you have played in the past
+* tu sy joko'pa yn la pasa = Yes you have played in the past
 
 **reflexive**
 
