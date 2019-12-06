@@ -34,24 +34,24 @@ A word is a composition of sounds in a rapid succession without a pause. Maj hav
 
 
 **notes:**
-1. A word in general start with a consonant or a vowel but usually ends with a vowel. This rule makes words easy to connect together in propositions using articles.
-2. A word has a _root_ and _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
-3. Words having a root and coda can not exist without the coda. You can add a suffix to a word but a root word without the coda can be something else. A shorter word may be totally unrelated a longer word.
+1. A word in general start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
+2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
+3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda, but a root word without the coda can be something else. A shorter root word may be totally unrelated a longer word created with the root + coda.
 
 **coda:**
 
 * Nouns are finalized with vowels: Group1: {"a", "e"}, Group2:{"y", "h"};
-* Verbs are finalized with vowels: Tense1:  {"o","u","a"} and Suffix: { 'so, 'fu, 'pa };
+* Verbs are finalized with vowels: Tense1:  {"a","u","o"} and Suffix: { 'ya, 'fu, 'pa };
 * Adjectives and Adverbs are finalized with any letter and must agree with the verb;
 * Prepositions are two or three letter long and do not have coda;
 
 **root:**
 
-In dictionary the root is using a particular coda, to avoid large dictionary.
+In dictionary the root is using a particular coda, to avoid a large dictionary.
 
-* The nouns are terminated with "a"
-* The verbs are terminated with "u" 
-* The adverbs and adjectives with "o"
+* The nouns are terminated with "a" (singular form)
+* The verbs are terminated with "u" (indefinite future) 
+* The adverbs and adjectives with ("o" or "y")
 
 ## Pronoun
 
