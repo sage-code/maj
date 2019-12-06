@@ -93,15 +93,15 @@ When you refer to some action performed by somebody on himself.
 hay = let's  (leading/encouragement)
 rog = please (favor)
 
-** using pronoun after verb:**
+**using pronoun after verb:**
 
-* hay nu hodu'ne  = let's calm ourselves
-* rog tu kamu'te  = please calm yourself 
+* hay sh hodu'ne  = let's calm ourselves
+* te rog kamu'te  = please calm yourself 
 
-** using reflexive prefix**
+**using reflexive prefix**
 
-* nu dovu ke hodu'ne = we have to rest ourselves
-* vu dovu ke kamu'vh = you have to calm yourselves
-* zu dovu ke domu'zh = they must sleep themselves
+* nu dovu sh hodu'ne = we have to rest ourselves
+* vu dovu sh kamu'vh = you have to calm yourselves
+* zu dovu sh domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)
