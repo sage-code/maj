@@ -12,19 +12,17 @@ Maj is a logic, open source language easy to learn and comprehend.
 
 **Goals ...**
 
-1. Maj is for study;
-2. Maj is for games;
+1. Maj is for games;
+2. Maj is for study;
 3. Maj is for family;
 4. Maj is for friendship;
 5. Maj is for entertainment;
 
-**Disclaimer ...**
+**Maj is not ...**
 
-Maj is ...
-
-1. not a secret language;
-1. not a mystic language;
-1. not bound to a nation;
+1. a secret language;
+1. a mystic language;
+1. bound to a nation;
 
 **Principles:**
 
@@ -38,7 +36,7 @@ Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Mission of Maj alphabet is to maximize the number of sounds using Latin letters.
+Mission of Maj alphabet is to maximize the number of sounds using all ISO Latin letters.
  
 **Print:**
 
@@ -54,15 +52,15 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 
 **Notes:**
 
-* Maj has a _deterministic_ alphabet, that means one sound for one letter;
-* Maj has a total of 26+3 = 29 sounds associated with letters;
-* There are 3 letters: {n, h, j} having 2 distinct sounds each;
+* Maj has a _phonetic_ alphabet, that means one sound for one letter;
+* Maj has a total of 26+2 = 28 sounds associated with letters;
+* There are 3 letters: {h, j} are having 2 distinct sounds each;
 
 **Phoneme:**
 
 A phoneme is a vowel a consonant or a diphthong associated with one or more letters:
 
-* Maj has 49 phonemes 
+* Maj has 48 phonemes 
 * English has 44 phonemes;
 * Italian has only 30 phonemes;
 * Romanian has 29 phonemes;
@@ -74,16 +72,16 @@ Details: [Maj alphabet](alphabet.md)
 
 **Script:**
 
-Maj has an alternative alphabet optimized for stylus.
+Maj has an alternative heand writing alphabet optimized for stylus.
 
 * ƍ⍺ʋ.შʋნ⍺;   = qau muna;
-* ɚσჲ.ɚσ.შ⍺უ! = eso es maj!
+* ɚთ⍺.ɚσ.შ⍺უ! = eta es maj!
 
-The script alphabet is mapped 1:1 with the print alphabet.
+The script alphabet is mapped 1:1 with the Latin print alphabet.
 
 [Script details](script.md)
 
-There is a dual conversion from Latin and Maj and back:
+There is a dual conversion tool from Latin into Maj script:
 
 [Script converter](https://lingojam.com/MajScript)
 
@@ -105,10 +103,10 @@ Maj words are inspired from 7 different languages.
 **algorithm:**
 
 * Maj words are created manually using a translation spreadsheet;
-* Maj is avoiding synonyms, therefore one word can have multiple meanings;
+* Maj is avoiding synonyms and one word have one single meaning;
 * Maj words are already abbreviated so in Maj you can not use abbreviations;
 
-## Essential
+## Essentials
 
 Maj is an articulated language and the order of words in a proposition is significant.
 
@@ -126,7 +124,7 @@ Read more: [basic grammar](basic.md)
 
 ## Details
 
-More grammar is available in:  _word categories_
+More grammar and examples are available in next:  _word categories_
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
