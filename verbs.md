@@ -1,21 +1,19 @@
 # Verbs & conjugation
 
-Infinitive form of verbs have a root of 3 - 5 character long and is terminated with `u`.
-
-**rules:**
 
 1. A verb is referring to somebody or something that is the subject of the discussion. The verb can be used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
 
 2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective.  
 
-## Time
+## Infinitive
+The infinitive form of a verb is the verb in its basic form. It is the version of the verb which will appear in the dictionary. The infinitive form of a verb in English is usually preceded by: "to" (e.g., to run, to dance, to think). In Maj the Infinitive form of verbs have a root of 3 - 5 character long and is terminated with coda "u". It is very similar to the future but is not the distant future is the immediate future.
+
+## Time sufix
 
 * Verbs are using coda: { u, a, o } to indicate time of action,
 * Verbs can also be followed by time suffix to determine the time,
 * Composite words are using "'" to link the word with time suffix,
 * Composite words are pronounced as a single word.
-
-**prefix:**
 
 Noun: tesa  = time
 
@@ -25,7 +23,7 @@ Noun: tesa  = time
  `a`   | ya      | yata      | present
  `o`   | pa      | pasa      | past
 
-Verb suffox and coda must match with time.
+Verb suffix and coda must match to represent time of action.
 
 * joku'fu = future play
 * joka'ya = present play
@@ -33,7 +31,7 @@ Verb suffox and coda must match with time.
 
 ## Informative proposition
 
-Infiniditve form of verbs can be: present, past and future.
+Informative propositions can use verbs coda: {a,o,u} for present, past and future.
 
 **des = of/about**
 
@@ -48,7 +46,7 @@ Infiniditve form of verbs can be: present, past and future.
 
 ## Imperative proposition
 
-For imperative form of verb, you change coda to "h":
+For imperative form of verb, you change coda to "h" but the suffix will specify also the time.
 
 * dovu = must/mandatory
 * dygu = talk
@@ -60,11 +58,11 @@ For imperative form of verb, you change coda to "h":
 
 ## Verb transformation
 
-Verb can be used as different part of proposition using a suffix:
+Verb can be used as different part of proposition using a different suffix and coda:"u"
 
 joku => joku'ra
 
-* tu seru'pa la joku'ra de zu  = you have been his game;
+* tu sero'pa la joku'ra de zu  = you have been his game;
 * la joku'ra sh joko'pa = the game it was played;
 * la joku'ra sh fina'ya = the game it is over now;
 
@@ -93,15 +91,15 @@ When you refer to some action performed by somebody on himself.
 hay = let's  (leading/encouragement)
 rog = please (favor)
 
-** using pronoun after verb:**
+**using pronoun after verb:**
 
-* hay nu hodu'ne  = let's calm ourselves
-* rog tu kamu'te  = please calm yourself 
+* hay sh hodu'ne  = let's calm ourselves
+* te rog kamu'te  = please calm yourself 
 
-** using reflexive prefix**
+**using reflexive prefix**
 
-* nu dovu ke hodu'ne = we have to rest ourselves
-* vu dovu ke kamu'vh = you have to calm yourselves
-* zu dovu ke domu'zh = they must sleep themselves
+* nu dovu sh hodu'ne = we have to rest ourselves
+* vu dovu sh kamu'vh = you have to calm yourselves
+* zu dovu sh domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)

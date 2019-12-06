@@ -74,9 +74,9 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 ## Semi-vowels
 
-Letters {i, w, h} are not vowels but almost.
+Letters {i, w, h} are not vowels but almost. They are called "semi-vowels".
 
-_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo`. The best ipa symbol for this letter is `ɨ` like "i" in "still";.
+_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo` in "pigeon". The best IPA symbol for this letter is `ɨ` like "i" in "still";
 
 
 _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
@@ -89,7 +89,7 @@ _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. 
 * wi: "uɨ" (disgusting)
 * wh: "uə" (disgusting)
 
-_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and sibling letters. In English the `h` is most of the time voiceless. In Maj it must have one of two pronunciations and is never silent.
+_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous sibling. In English the `h` is most of the time voiceless, but in Maj it must have one of the two pronunciations:
 
 1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
 2. Letter `h` is  `ɦ` after a vowel, in the middle of words;
@@ -123,7 +123,7 @@ Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spani
 
 ## Difficult sounds
 
-That was the basics of alphabet. Maj is a phonetic language so what you write is what you read. This is difficult to do if you do not use cedillas and accents to aid with the renunciation. Therefore you must to understand the rules for reading and writing different sounds using a limited alphabet. 
+That was the basics of alphabet. Maj is a phonetic language so what you write is what you read. However there are some extra rules and concepts you must understand for reading and writing different sounds using Maj alphabet: 
 
 **Digraphs**
 
@@ -150,19 +150,18 @@ Following letters are represented using digraphs in English.
 
 **Modified: C**
 
-Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
+Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "ts" instead. 
 
-1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ` or `k`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. Once you have learned the rules you can read and write any Maj word.
+1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. Once you have learned the rules you can read and write any Maj word.
 
 **IPA practice**
-
-* ENG: "chemical"  => IPA: "kemikəl"
-* ENG: "chocolate" => IPA: "ʂoklət"
+* ENG: "cats"  => IPA: "kat͡s"
+* MAK: "cen"   => IPA: "t͡s"
 
 2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "ts" like in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
 
-* ceba = ENG: "cerebellum" => IPA: "tseba"
-* ciga = ENG: "cigarette"  => IPA: "tsəga"
+* ceba = ENG: "cerebellum" => IPA: "t͡seba"
+* ciga = ENG: "cigarette"  => IPA: "t͡səga"
 
 In Maj the groups {ca, ce, cy, co, cu} are also read {tsa, tse, tsy, tso, tsu}. To prevent this effect you must use letter "k" instead of "c". Notice uppercase "C" represent "carbon" element that is written "carba" = IPA:"t͡sarba" no need to write "karba".
 
@@ -184,20 +183,6 @@ Special uses of "K" in science:
 
 * Kg = Kilogram (metric unit);
 * K  = Potassium chemical element;
-
-**Alveolar: n*
-
-Letter "N" or "n" at beginning of words is nasal-alveolar. To make this sound press the tip of the tongue on the rooftop of your mouth and voice using a vowel for example "no" like Eng: "north".
-
-**Palette: n* 
-
-Second "n" is soft when followed by vowel "e", in middle of words. It can sound like Spanish "ñ". IPA symbol for this sound is: "ɲ". This rule is not mandatory, "n" without softening is acceptable, it is the same word.
-
-**Practice IPA:**
-
-* nyna => IPA:"nyɲa"  = "child"
-* nyne => IPA:"nyɲe"  = "children"
-* pane => IPA:"pane"  = "breads" 
 
 **Trilled R**
 
@@ -236,6 +221,7 @@ Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by 
 * Word: "xi" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
 * Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
+* Word" "xokh" = ENG: "chocolate" => "ʂoklə"
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
