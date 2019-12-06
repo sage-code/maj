@@ -97,7 +97,7 @@ _Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending 
 4. Letter `h` is  `ə` at end of words, even after vowels;
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
-* zhy  = "they"    in this case `h` is `ə` like IPA:"zə"
+* zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
 ## Consonants
 
