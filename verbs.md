@@ -1,21 +1,19 @@
 # Verbs & conjugation
 
-Infinitive form of verbs have a root of 3 - 5 character long and is terminated with `u`.
-
-**rules:**
 
 1. A verb is referring to somebody or something that is the subject of the discussion. The verb can be used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
 
 2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective.  
 
-## Time
+## Infinitive
+The infinitive form of a verb is the verb in its basic form. It is the version of the verb which will appear in the dictionary. The infinitive form of a verb in English is usually preceded by: "to" (e.g., to run, to dance, to think). In Maj the Infinitive form of verbs have a root of 3 - 5 character long and is terminated with coda "u". It is very similar to the future but is not the distant future is the immediate future.
+
+## Time sufix
 
 * Verbs are using coda: { u, a, o } to indicate time of action,
 * Verbs can also be followed by time suffix to determine the time,
 * Composite words are using "'" to link the word with time suffix,
 * Composite words are pronounced as a single word.
-
-**prefix:**
 
 Noun: tesa  = time
 
@@ -25,7 +23,7 @@ Noun: tesa  = time
  `a`   | ya      | yata      | present
  `o`   | pa      | pasa      | past
 
-Verb suffox and coda must match with time.
+Verb suffix and coda must match to represent time of action.
 
 * joku'fu = future play
 * joka'ya = present play
