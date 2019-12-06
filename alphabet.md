@@ -76,7 +76,7 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 Letters {i, w, h} are not vowels but almost. They are called "semi-vowels".
 
-_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo`. The best ipa symbol for this letter is `ɨ` like "i" in "still";.
+_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo` in "pigeon". The best IPA symbol for this letter is `ɨ` like "i" in "still";
 
 
 _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
@@ -89,7 +89,7 @@ _Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. 
 * wi: "uɨ" (disgusting)
 * wh: "uə" (disgusting)
 
-_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and sibling letters. In English the `h` is most of the time voiceless. In Maj it must have one of two pronunciations and is never silent.
+_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous sibling. In English the `h` is most of the time voiceless, but in Maj it must have one of the two pronunciations:
 
 1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
 2. Letter `h` is  `ɦ` after a vowel, in the middle of words;
