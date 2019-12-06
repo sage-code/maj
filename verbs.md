@@ -33,7 +33,7 @@ Verb suffox and coda must match with time.
 
 ## Informative proposition
 
-Infiniditve form of verbs can be: present, past and future.
+Informative propositions can use verbs coda: {a,o,u} for present, past and future.
 
 **des = of/about**
 
@@ -48,7 +48,7 @@ Infiniditve form of verbs can be: present, past and future.
 
 ## Imperative proposition
 
-For imperative form of verb, you change coda to "h":
+For imperative form of verb, you change coda to "h" but the suffix will specify also the time.
 
 * dovu = must/mandatory
 * dygu = talk
@@ -60,11 +60,11 @@ For imperative form of verb, you change coda to "h":
 
 ## Verb transformation
 
-Verb can be used as different part of proposition using a suffix:
+Verb can be used as different part of proposition using a different suffix and coda:"u"
 
 joku => joku'ra
 
-* tu seru'pa la joku'ra de zu  = you have been his game;
+* tu sero'pa la joku'ra de zu  = you have been his game;
 * la joku'ra sh joko'pa = the game it was played;
 * la joku'ra sh fina'ya = the game it is over now;
 
