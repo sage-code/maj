@@ -1,14 +1,14 @@
 # Maj
 
-Maj is a constructed language by Sage Code Research Laboratory. 
+Maj is a new Romance language. It can be spoken and writen. 
 
 **Attributes:**
 
-Maj is a logic, open source language easy to learn and comprehend.
+Maj is a logic, easy to grock with following attributes.
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
-3. Deterministic - with simple phonetic rules;
+3. Pohnetic  - deterministic spelling rules;
 
 **Goals ...**
 
@@ -22,7 +22,7 @@ Maj is a logic, open source language easy to learn and comprehend.
 
 1. a secret language;
 1. a mystic language;
-1. bound to a nation;
+1. bound to any nation;
 
 **Principles:**
 
@@ -36,7 +36,7 @@ Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Mission of Maj alphabet is to maximize the number of sounds using all ISO Latin letters.
+Mission of Maj alphabet is to maximize the number of sounds using 26 ISO Latin letters.
  
 **Print:**
 
@@ -54,7 +54,7 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 
 * Maj has a _phonetic_ alphabet, that means one sound for one letter;
 * Maj has a total of 26+2 = 28 sounds associated with letters;
-* There are 3 letters: {h, j} are having 2 distinct sounds each;
+* There are 3 letters: {h, j} having each 2 distinct associated sounds;
 
 **Phoneme:**
 
@@ -64,6 +64,7 @@ A phoneme is a vowel a consonant or a diphthong associated with one or more lett
 * English has 44 phonemes;
 * Italian has only 30 phonemes;
 * Romanian has 29 phonemes;
+* French has 39 phonemes;
 
 from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
 
