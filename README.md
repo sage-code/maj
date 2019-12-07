@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a new Romance language. It can be spoken and writen. 
+Maj is a new human language. It is a creole language.
 
 **Attributes:**
 
@@ -96,7 +96,7 @@ Details: [The numerals](numerals.md)
 
 ## Words
 
-Maj words are inspired from 7 different languages.
+Maj will have about 2000 words, inspired from 7 different languages.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
@@ -109,7 +109,8 @@ Maj words are inspired from 7 different languages.
 
 ## Essentials
 
-Maj is an articulated language and the order of words in a proposition is significant.
+* Maj is an articulated language and the order of words in a proposition is significant.
+* Maj has root words and composite words created from a root + coda + suffix.
 
 **technical:**
 
@@ -121,11 +122,11 @@ Maj is using the _power of 3_ to organize words in propositions:
 1. There are 3 cases: {nominative, objective, possessive};
 1. There are 3 cost algorithms: {reading, writing, typing};
 
-Read more: [basic grammar](basic.md)
+**Read more about:** [basic grammar](basic.md)
 
 ## Details
 
-More grammar and examples are available in next:  _word categories_
+Advanced grammar rules and examples are explained by:  _word category_
 
 * [Prepositions](preposition.md)
 * [Nouns](nouns.md)
@@ -158,6 +159,7 @@ The Lexicon contains most frequent Maj words organized by domain:
 
 * The above lexicon do not include all Maj words;
 * This lexicon is work in progress and subject to changes;
+* This lexicon has about 1600 words in it;
 
 ## Contribution
 
