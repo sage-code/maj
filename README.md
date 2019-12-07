@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a Romance language constructed by Sage-Code research laboratory. 
+Maj is a constructed language by Sage Code Research Laboratory. 
 
 **Attributes:**
 
