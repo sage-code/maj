@@ -73,11 +73,11 @@ Next letters are the foreign letters used as candidates for Maj alphabet.
 * ϑ ϱ Ձ δ ζ λ ε ο η Գ Թ 
 * Յ Չ Ր ժ ա և ո ռ Շ Ն Ղ 
 * Կ ƍ Ɣ ɣ ƨ ƪ Ʋ ɕ ɱ ɲ ɳ 
-* ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω π б  
+* ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω б  
 * Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
-* ɀ ɡ ʚ s ʋ ʒ ʂ ʝ ɦ z ϰ
+* ɀ ɡ ʚ s ʋ ʒ ʂ ɦ z ϰ
 
-**Note:** We could have invent our own letters, but we have preferred to do a compilation instead. This is an opportunity for Maj scholars to learn symbols from different alphabets. I thought this could be interesting since some of the letters should look familiar to you already.
+**Note:** We could have invent our own letters, but we have preferred to do a compilation instead. This is an opportunity for Maj scholars to learn symbols from different alphabets. I thought this could be interesting since some of the letters should look familiar to you already. Some are Greek letters, some are Georgian letters and some are Latin letters. All these letters have something in common. They are easy to write with stylus using a single continuous movement of the pen on paper without interruptions.
 
 
 And this is done. Great!
