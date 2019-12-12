@@ -221,7 +221,7 @@ Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by 
 * Word: "xi" means "keep it quiet" similar to many languages;
 * Xue is pronounced "ʂue" and represent a Chinese name; 
 * Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
-* Word" "xokh" = ENG: "chocolate" => "ʂoklə"
+* Word "xokh" => Maj: "ʂoklə" = ENG:"chocolate" 
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
@@ -229,9 +229,10 @@ If you don't know, Luxembourg has became an independent town and state in 1867.
 
 You can learn how to read Maj by reading English words using Maj alphabet:
 
+* still     => MAJ:"stil"
 * cerebellum=> MAJ:"cerhbelim"       
 * generator => MAJ:"jenereth"  
-* pigeon    => MAJ:"pijin"      
+* pigeon    => MAJ:"pijhn"      
 * giraffe   => MAJ:"jyraf"      
 * fusion    => MAJ:"fujhn"      
 * guitar    => MAJ:"gytar"      
@@ -246,7 +247,17 @@ You can learn how to read Maj by reading English words using Maj alphabet:
 * vehicle   => MAJ:"veykil"
 
 
-## Two consonants
+## Clusters
+
+A clusters represents a group of several letters. We can have 3 kind of clusters:
+
+* consonant cluster
+* vowels cluster
+* mixed cluster
+
+To describe the structure of a cluster we use following convention:
+
+V = Vowel, C = Constant
 
 Not all consonants are equal. Maj is dividing consonants in 5 categories:
 
@@ -256,39 +267,37 @@ Not all consonants are equal. Maj is dividing consonants in 5 categories:
 * labial  :  l, r
 * fricative: f, s, c, q, x
 
-**combinations**
+**Rules:**
 
-* a single letter is never duplicated like "cc" in Maj,
-* combinations that can not be pronounced are not used in words,
+* a single letter is never duplicated in Maj like "cc" or "tt";
+* combinations that can not be pronounced are not used in words;
 
 **Examples**
 
-After a short analysis, these CC combinations are usable:
+After a short analysis, these CC clusters are usable in words:
 
 ```
 br bs bj
-cl cm cn cr cs ct cv cz cx
-dl dj dm dr dv gr tl tm tr 
+kl km kn kr ks kt kv kz kx
+dl dm dr dv gr tl tm tr 
 fl fr ft fj
-lb lc ld lf lg lj lm ln lp lq ls lt lv lz
-nb nc nd nf ng nh nj nl nm nq ns nt nv nz
+lb lk ld lf lg lj lm ln lp lq ls lt lv lz
+nb nk nd nf ng nh nj nl nm nq ns nt nv nz
 mf mn mp ms mz mx
 pl pr ps pt px 
-rb rc rd rf rg rh rl rm rn rq rp rs rt rz rx
+rb rk rd rf rg rh rl rm rn rq rp rs rt rz rx
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
 ``` 
 
-Combination of 2 consonants is expensive. Therefore the total cost receive a penalty of "2".
+Consonant clusters are expensive. Therefore the total cost receive a penalty of "2".
 
-## Two vowels
+## Diphthongs
+
+Two vowels combined together into one cluster are called diphthongs.
 
 * Maj has 5 vowels: { a e i o u } 
 * Two semivowel: { w y } 
-
-**diphthongs**
-
-Two vowels combined together into one are called diphthongs
 
 x |a  |e  |y  |o  |u  | i | h 
 --|---|---|---|---|---|---|----
@@ -303,34 +312,16 @@ w |wa |we |wy |wo | · |wi | wh
 
 * there is a total of 22 diphthongs in Maj
 * u is replaced by w when is followed by a vowel
-* diphthong are more frequent in 3 letter words
-* presence of diphthong in a word increase its cost with 3 points
+* diphthong in a word increase its cost with 1 point
 
 ## Syllable
 
-A combination of vowels and consonants are called syllable. 
-
-**structure:**	
-
-To describe the structure of a syllable we use following convention:
-
-* In parenthesis () optionals,
-* V = Vowel, C = Constant
-* Alternatives are separated with vertical bar: "\|",
-* We use + to suggest concatenation of two parts,
-
-```
-rime     =  initial + nucleus +(coda)
-initial  =  V | C
-nucleus  =  V | C | CC
-coda     =  V 
-```
+A cluster of vowels and consonants are called syllable. 
 
 **Description:**
 
 A syllable can ...:
 
-* be a single vowel at beginning of word;
 * start with one vowel: `VC`
 * start with a consonant: `CV`
 * start with two consonants: `CCV`
@@ -341,16 +332,14 @@ A syllable can not ...;
 * contain more then 2 consonants,
 * contain more then 3 letters.
  
-## Word formation
+## Patterns
 
-1. Open vowels can be used as syllable at beginning of words: { a e y o u }
-2. Syllable that have "coda" are used only for end of words;
+Words are created using following syllable patterns. 
 
-**Patterns:**
-
-* Two letter words: {`CV`, `VV`, `VC`} never {`CC`}
-* Without penalty: {`VCV`, `CVC`} never {`CCC`}
-* With cost penalty: {`VVC`, `VCC`, `CCV`, `CVV`}
+* Simple:  {`CV`, `VV`, `VC`}
+* Natural: {`VCV`, `CVC`} 
+* Light:   {`VVC`, `CVV`}
+* Heavy:   {`VCC`, `CCV`}
 
 **Weight:**
 
@@ -366,11 +355,11 @@ Weight |Sounds
 
 **Cost:**  
 
-We keep an aye on the word cost using an algorithm. The lower the cost, the better the language become. By using the same algorithm to other languages, we can compare _language complexity_. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
+We can compute the word cost using an algorithm. The lower the cost, the better. By using the same algorithm to other languages, we can evaluate _complexity_. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
 
 ## Cost of typing
 
-The cost of typing is different than speaking:
+The cost of typing on keyboard is different than speaking the words:
 
 Cost |  Letter
 -----|-------------------------------------------
