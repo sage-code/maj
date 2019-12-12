@@ -1,14 +1,14 @@
 # Maj
 
-Maj is a new human language. It is a creole language.
+Maj is a new creole language for young adults.
 
 **Attributes:**
 
-Maj is a logic, easy to grock with following attributes.
+Maj is a logic language with following addributes:
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
-3. Pohnetic  - deterministic spelling rules;
+3. Familiar  - uses familiar European phonetics;
 
 **Goals ...**
 
@@ -22,7 +22,7 @@ Maj is a logic, easy to grock with following attributes.
 
 1. a secret language;
 1. a mystic language;
-1. bound to any nation;
+1. a cryptic language;
 
 **Principles:**
 
@@ -54,7 +54,7 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 
 * Maj has a _phonetic_ alphabet, that means one sound for one letter;
 * Maj has a total of 26+2 = 28 sounds associated with letters;
-* There are 3 letters: {h, j} having each 2 distinct associated sounds;
+* There are 2 letters: {h, j} having each 2 distinct associated sounds;
 
 **Phoneme:**
 
@@ -68,12 +68,13 @@ A phoneme is a vowel a consonant or a diphthong associated with one or more lett
 
 from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
 
+Since Maj has more phonemes than other languages it can create shorter more interesting words.
 
 Details: [Maj alphabet](alphabet.md)
 
 **Script:**
 
-Maj has an alternative heand writing alphabet optimized for stylus.
+Maj has an alternative hand writing alphabet optimized for stylus.
 
 * ƍ⍺ʋ.შʋნ⍺;   = qau muna;
 * ɚთ⍺.ɚσ.შ⍺უ! = eta es maj!
