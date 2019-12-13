@@ -164,10 +164,10 @@ Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in En
 
 Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj and is used to replace "c" in most words. 
 
-Maj words can starting with "k":
+**examples:**
 
-* ka = "not"  
-* ke = "what" 
+* akwa = "water";
+* qoka = "chocolate";
 
 **Trilled R**
 
@@ -189,7 +189,8 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
 
 * qyka = "girl" is read like IPA: "t͡ʃika";
-* akwa = "water" is read like IPA: "akwa";
+* qesa = "ceez" is read like IPA: "t͡ʃesa";
+* qoka = "chocolate" is read like IPA: "t͡ʃoka";
 
 **Modified: X**
 
