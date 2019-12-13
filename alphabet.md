@@ -74,7 +74,6 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 ## Semi-vowels
 
-
 Letters {h, w} are called "semi-vowels". They have a special pronunciation: 
 
 
@@ -88,21 +87,18 @@ Letters {h, w} are called "semi-vowels". They have a special pronunciation:
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `W`:** or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel. It is pronounced like "w" in "whiskey". It creates diphthongs with vowels: {"wa","we", "wy", ,"wi", "wo", "wu"}. 
+**Letter `W`:** or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel to replace "u". It is pronounced like "w" in "whiskey". Showrt words starting with "w" are called: interjections and are usually followed by exclamation mark:
 
-**note:**
-
-Before a vowel we use "w" not "u". 
-
-* wa (administration)
-* wo (surprise)
-* wy (happiness)
-* we (sadness, cry)
-* wu (disapproval)
-* wi (disgusting)
-* wh (disgusting)
+* wa! (administration)
+* wo! (surprise)
+* wy! (happiness)
+* we! (sadness, cry)
+* wu! (disapproval)
+* wh! (disgusting)
 
 ## Consonants
+
+Maj is using 19 consonants:
 
 * plosive :  b, d, p, t, g, k 
 * nasal   :  m, n
@@ -110,7 +106,7 @@ Before a vowel we use "w" not "u".
 * labial  :  l, r
 * fricative: f, s, c, q, x
 
-Most consonants are read like in Latin ISO alphabet in: Italian. Romanian;
+Most consonants are read similar to: Italian. Romanian;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
@@ -133,7 +129,7 @@ Most consonants are read like in Latin ISO alphabet in: Italian. Romanian;
 
 ## Difficult sounds
 
-That was the basics of alphabet. Maj is a phonetic language so what you write is what you read. However there are some extra rules and concepts you must understand for reading and writing different sounds using Maj alphabet: 
+There are some rules and concepts you must understand for reading and writing Maj letters:
 
 **Digraphs**
 
@@ -145,14 +141,12 @@ Following letters are represented using digraphs in English.
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* Letter `j` sounds `dʒ` like `gi` in  "giraffe";
-[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Note:** Phonetic writing is using notation: IPA:"...".
 
 **examples:** 
 
-* qoka = ENG: "chocolate" => IPA:"qoka"    
+* qoka = ENG: "chocolate" => IPA:"t͡ɕoka"    
 * xava = ENG: "shovel"    => IPA:"ʂava"    
 * koqa = ENG: "coach"     => IPA:"kot͡ɕa"  
 * qyka = ENG: "girl"      => IPA:"t͡ɕika"  
@@ -162,23 +156,9 @@ Following letters are represented using digraphs in English.
 
 Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "ts" instead. 
 
-1. English is inconsistent. Sometimes "c" is read "k", other times `ʂ`. Therefore in English you must learn how to "spell" correctly. Maj can be rad and write using _deterministic rules_. Once you have learned the rules you can read and write any Maj word.
-
 **IPA practice**
-* ENG: "cats"  => IPA: "kat͡s"
-* MAK: "cen"   => IPA: "t͡s"
-
-2. In English sounds "ce", "ci" is pronounced "se", "si", but in Maj, "c" is pronounced "ts" like in "cats".  Let's make exercise using Maj alphabet to write phonetic for two English words: 
-
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
 * ciga = ENG: "cigarette"  => IPA: "t͡səga"
-
-In Maj the groups {ca, ce, cy, co, cu} are also read {tsa, tse, tsy, tso, tsu}. To prevent this effect you must use letter "k" instead of "c". Notice uppercase "C" represent "carbon" element that is written "carba" = IPA:"t͡sarba" no need to write "karba".
-
-**IPA practice**
-
-* ceba => IPA:"tseba"
-* ciga => IPA:"tsɨga"
 
 **Modified: K**
 
@@ -189,11 +169,6 @@ Maj words can starting with "k":
 * ka = "not"  
 * ke = "what" 
 
-Special uses of "K" in science:
-
-* Kg = Kilogram (metric unit);
-* K  = Potassium chemical element;
-
 **Trilled R**
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
@@ -202,22 +177,18 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 Letter "J", "j" is voiced affricate post-alveolar when used before vowels: {e, y, i, o, u}: This sound is produced with tongue front. The best symbol for this sound is IPA digraph: `dʒ`. 
 
-
 **Fricative J** 
 
 Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on top roof and softly vibrate. Best IPA symbol for this sound is `ʒ`. 
 
-* Maj   => IPA:"maʒ"  (name of this language)
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
-* jela  => IPA:"ʒela" = "jell"
-* jyro  => IPA:"ʒiro" = "around"
 
 **Modified: Q**
 
 In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
 
-* qyka = "girl" is read like IPA: "tʃika";
+* qyka = "girl" is read like IPA: "t͡ʃika";
 * akwa = "water" is read like IPA: "akwa";
 
 **Modified: X**
