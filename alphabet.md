@@ -76,10 +76,10 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 Letters {i, w, h} are not vowels but almost. They are called "semi-vowels".
 
-_Letter `I`_ or `i`, is very different than English letter "i". It is closed-central and is very rarely used in English like group `eo` in "pigeon". The best IPA symbol for this letter is `ɨ` like "i" in "still";
+_Letter `I`_ or `i` is closed-central like "i" in word "still". The best IPA symbol for this letter is `ɨ`. Second best IPA symbol is `ɘ`. Do not confound this sound with `ə` that is mid-central like group `ou` in "precious". 
 
 
-_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced "u" like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
+_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
 
 * wa: "ua" (administration)
 * wo: "uo" (surprise)
