@@ -44,7 +44,6 @@ mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ
 * Maj has voiced, articulated and clear sounds easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
 * You will never bite yourself or spit around when you speak Maj;
-* In total, Maj has 26 letters, but 28 basic sounds;
 
 
 **Reference:**
@@ -75,23 +74,11 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 ## Semi-vowels
 
-Letters {w, h} are not vowels but almost. They are called "semi-vowels". 
 
-_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel. It is pronounced like "w" in "whiskey". It creates diphthongs with vowels: {"wa","we", "wy", ,"wi", "wo", "wu"}. 
+Letters {h, w} are called "semi-vowels". They have a special pronunciation: 
 
-**note:**
 
-Following words are valid in Maj:
-
-* wa! "ua" (administration)
-* wo! "uo" (surprise)
-* wy! "ue" (happiness)
-* we! "we" (sadness, cry)
-* wu! "uu" (disapproval)
-* wi! "uɨ" (disgusting)
-* wh! "uə" (disgusting)
-
-_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous letter. This letter is never silenced like in other languages. It must have one of these two pronunciations: 
+**Letter `H`:** or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous letter. This letter is never silenced like in other languages. It must have one of these two pronunciations: 
 
 1. `ɦ` at beginning of words or after a vowel like "h" in "hoard";
 2. `ə` after a consonant or end of words like `e` in "after";
@@ -101,15 +88,36 @@ _Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
+**Letter `W`:** or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel. It is pronounced like "w" in "whiskey". It creates diphthongs with vowels: {"wa","we", "wy", ,"wi", "wo", "wu"}. 
+
+**note:**
+
+Before a vowel we use "w" not "u". 
+
+* wa (administration)
+* wo (surprise)
+* wy (happiness)
+* we (sadness, cry)
+* wu (disapproval)
+* wi (disgusting)
+* wh (disgusting)
+
 ## Consonants
 
-Most consonants are read like in Latin ISO alphabet, Italian. Romanian and Spanish;
+* plosive :  b, d, p, t, g, k 
+* nasal   :  m, n
+* trilled :  r, j, v, z
+* labial  :  l, r
+* fricative: f, s, c, q, x
+
+Most consonants are read like in Latin ISO alphabet in: Italian. Romanian;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `j`  is palatal vibrated, similar to sound `j` in "jell", "jet";
+* Letter  `g`  is plosive-uvular like `g` in "guitar";
+* Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
 * Letter  `m`  is nasal, bilabial, like `m` in "mule";
@@ -192,29 +200,25 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 **Affricate J**
 
-Letter "J", "j" is voiced affricate post-alveolar when used before vowels: {a, e, y, i, o, u}: This sound is produced with tongue front. The best symbol for this sound is IPA digraph: `dʒ`. 
+Letter "J", "j" is voiced affricate post-alveolar when used before vowels: {e, y, i, o, u}: This sound is produced with tongue front. The best symbol for this sound is IPA digraph: `dʒ`. 
 
-* jela => IPA:"dʒela" = "jell"
-* jyro => IPA:"dʒiro" = "around"
-* joka => IPA:"dʒoka" = "game"
 
 **Fricative J** 
 
-Letter "j" is fricative-post alveolar, when is last letter of the word or is followed by {w, h} or consonant.  This sound must be produced with the tip of your tongue not the front. Best IPA symbol for this sound is `ʒ`. 
+Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on top roof and softly vibrate. Best IPA symbol for this sound is `ʒ`. 
 
 * Maj   => IPA:"maʒ"  (name of this language)
 * yjma	=> IPA:"iʒma" = "picture"
-
-**Plosive G**
-
-Letter "G", "g" is plosive-uvular. To pronounce this sound you must press the back of your tongue on the back roof of your mouth and produce a plosive sound like "gue" or "gui". The best IPA symbol for this sound is "ɢ", also known as "Hard G"
+* joka  => IPA:"ʒoka" = "game"
+* jela  => IPA:"ʒela" = "jell"
+* jyro  => IPA:"ʒiro" = "around"
 
 **Modified: Q**
 
-In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken". Letter "Q" replace digraph "ch", thus making the words shorter. For original "Qu" is replaced by "Qw". 
+In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
 
-* Maj word "Qwyn" = ENG: "Queen" is read like IPA: "kwin";
-* Maj word "aqwa" = ENG: "water" is read like IPA: "akwa";
+* qyka = "girl" is read like IPA: "tʃika";
+* akwa = "water" is read like IPA: "akwa";
 
 **Modified: X**
 
@@ -227,56 +231,18 @@ Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by 
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
-## Maj phonetic
-
-You can learn how to read Maj by reading English words using Maj alphabet:
-
-* still     => MAJ:"stil"
-* cerebellum=> MAJ:"cerhbelim"       
-* generator => MAJ:"jenereth"  
-* pigeon    => MAJ:"pijhn"      
-* giraffe   => MAJ:"jyraf"      
-* fusion    => MAJ:"fujhn"      
-* guitar    => MAJ:"gytar"      
-* geese     => MAJ:"gys"        
-* cheese    => MAJ:"qyz"        
-* chocolate => MAJ:"qoklht"     
-* peach     => MAJ:"pyq"       
-* speech    => MAJ:"spyq"      
-* accident  => MAJ:"akcidh"     
-* initial   => MAJ:"inyxhl"     
-* fashion   => MAJ:"faxhn"    
-* vehicle   => MAJ:"veykil"
-
-
 ## Clusters
 
-A clusters represents a group of several letters. We can have 3 kind of clusters:
-
-* consonant cluster
-* vowels cluster
-* mixed cluster
-
-To describe the structure of a cluster we use following convention:
-
-V = Vowel, C = Constant
-
-Not all consonants are equal. Maj is dividing consonants in 5 categories:
-
-* plosive :  b, d, p, t, g, k 
-* nasal   :  m, n
-* trilled :  r, j, v, z
-* labial  :  l, r
-* fricative: f, s, c, q, x
+A clusters represents a group of two consonants.
 
 **Rules:**
 
-* a single letter is never duplicated in Maj like "cc" or "tt";
-* combinations that can not be pronounced are not used in words;
+* same letter can not be used twice in a cluster;
+* some combinations can not be pronounced;
 
 **Examples**
 
-After a short analysis, these CC clusters are usable in words:
+After a short analysis, these clusters are usable:
 
 ```
 br bs bj
@@ -290,6 +256,7 @@ pl pr ps pt px
 rb rk rd rf rg rh rl rm rn rq rp rs rt rz rx
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
+jb jk jd jl jm jn jr js jt jv 
 ``` 
 
 Consonant clusters are expensive. Therefore the total cost receive a penalty of "2".
@@ -298,8 +265,8 @@ Consonant clusters are expensive. Therefore the total cost receive a penalty of 
 
 Two vowels combined together into one cluster are called diphthongs.
 
-* Maj has 5 vowels: { a e i o u } 
-* Two semivowel: { w y } 
+* Maj has 6 vowels: { a e y i o u } 
+* Two semivowel: { w h } 
 
 x |a  |e  |y  |o  |u  | i | h 
 --|---|---|---|---|---|---|----
@@ -308,42 +275,15 @@ e |ea | · |ey |eo |eu | · | eh
 y |ya |ye | · |yo |yu |yi | yh
 o |oa |oe |oy | · |ou | . | oh 
 i | . | . |iy | . |iu | . | .
-w |wa |we |wy |wo | · |wi | wh   
+w |wa |we |wy |wo |.  |wi | wh   
 
 **Notes:**
 
 * there is a total of 22 diphthongs in Maj
 * u is replaced by w when is followed by a vowel
 * diphthong in a word increase its cost with 1 point
-
-## Syllable
-
-A cluster of vowels and consonants are called syllable. 
-
-**Description:**
-
-A syllable can ...:
-
-* start with one vowel: `VC`
-* start with a consonant: `CV`
-* start with two consonants: `CCV`
-* end with two vowels: `CVV`
-
-A syllable can not ...;
-
-* contain more then 2 consonants,
-* contain more then 3 letters.
  
-## Patterns
-
-Words are created using following syllable patterns. 
-
-* Simple:  {`CV`, `VV`, `VC`}
-* Natural: {`VCV`, `CVC`} 
-* Light:   {`VVC`, `CVV`}
-* Heavy:   {`VCC`, `CCV`}
-
-**Weight:**
+## Weight
 
 Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to calculate a _cost_ that represents word complexity. More frequent words should have a lower cost. Gradualy one can assimilate more complex words, rarely used.
 
