@@ -257,26 +257,26 @@ Letters and sounds are more or less expensive to make. This is call _weight_ and
 
 Weight |Sounds
 -------|----------------------------------------
-  1    |a, e, y, o, u, i 
-  2    |l, m, n, f, s, x 
-  3    |b, c, d, p, t, h  
-  4    |v, j, r, z, k, g
-  5    |q, w
+  1    |aeyiou 
+  2    |lmnfsx 
+  3    |bcdpth  
+  4    |vjrzkg
+  5    |qw
 
 **Cost:**  
 
-We can compute the word cost using an algorithm. The lower the cost, the better. By using the same algorithm to other languages, we can evaluate _complexity_. After a quick computation of only 500 samples Maj is about 50% more efficient than other Romance languages.
+We can compute the word cost using an algorithm. The lower the cost, the better. By using the same algorithm to other languages, we can evaluate _complexity_. After a quick computation of only 500 samples Maj prove to be about 50% more efficient than other Romance languages.
 
 ## Cost of typing
 
-The cost of typing on keyboard is different than speaking the words:
+The cost of typing on keyboard is different than speaking the word:
 
 Cost |  Letter
 -----|-------------------------------------------
-  1  |a, s, d, f, j, k, l, g, h
-  2  |q, w, e, r, u, i, o, p
-  3  |z, x, c, v, m 
-  4  |t, b, y, n 
+  1  |asdfjklgh
+  2  |qweruiop
+  3  |zxcvm 
+  4  |tbyn 
 
 **penalty:**
 
@@ -284,8 +284,8 @@ There is an extra cost of 2 for one hand letters.
 
 Hand   | Letter
 -------|------------------------------------------
-left   |a,s,d,f,g,q,w,e,r,t,z,x,c,v,b
-right  |h,j,k,l,y,u,i,o,p,n,m  
+left   |asdfgqwertzxcvb
+right  |hjklyuiopnm  
 
 ## Average cost
 
