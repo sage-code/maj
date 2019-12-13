@@ -63,7 +63,7 @@ Maj is a phonetic language, which means it’s written the way it sounds, and vi
 
 ## Vowels
 
-The vowels are read like in Italian, Romanian and Spanish;
+Maj has 6 vowels: { a e y i o u } unlike Italian that has only 5: 
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
@@ -74,10 +74,9 @@ The vowels are read like in Italian, Romanian and Spanish;
 
 ## Semi-vowels
 
-Letters {h, w} are called "semi-vowels". They have a special pronunciation: 
+Maj has two semi-vowels: {h, w} that have special pronunciation:
 
-
-**Letter `H`:** or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous letter. This letter is never silenced like in other languages. It must have one of these two pronunciations: 
+**Letter `h`:** has two pronunciations depending on it's position and previous letter:
 
 1. `ɦ` at beginning of words or after a vowel like "h" in "hoard";
 2. `ə` after a consonant or end of words like `e` in "after";
@@ -87,7 +86,11 @@ Letters {h, w} are called "semi-vowels". They have a special pronunciation:
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `W`:** or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel to replace "u". It is pronounced like "w" in "whiskey". Showrt words starting with "w" are called: interjections and are usually followed by exclamation mark:
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". Letter `u` is never used before a vowel but is replaced by `w`. 
+
+**interjections:**
+
+Two letter words starting with "w" and one vowel are called interjections. In these words the vowel is a little bit longer than usual but is not duplicated. We do not write: waaa! but wa!
 
 * wa! (administration)
 * wo! (surprise)
@@ -100,13 +103,13 @@ Letters {h, w} are called "semi-vowels". They have a special pronunciation:
 
 Maj is using 19 consonants:
 
-* plosive :  b, d, p, t, g, k 
+* plosive :  b, d, p, t, k 
 * nasal   :  m, n
-* trilled :  r, j, v, z
+* trilled :  r, j, v, z, g
 * labial  :  l, r
 * fricative: f, s, c, q, x
 
-Most consonants are read similar to: Italian. Romanian;
+Most consonants are similar to: Italian and Romanian;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
@@ -142,19 +145,19 @@ Following letters are represented using digraphs in English.
 * Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-**Note:** Phonetic writing is using notation: IPA:"...".
+**Note:** Phonetic writing is using notation: IPA:
 
 **examples:** 
 
-* qoka = ENG: "chocolate" => IPA:"t͡ɕoka"    
-* xava = ENG: "shovel"    => IPA:"ʂava"    
-* koqa = ENG: "coach"     => IPA:"kot͡ɕa"  
-* qyka = ENG: "girl"      => IPA:"t͡ɕika"  
-* cita = ENG: "target"    => IPA:"t͡sɨta"  
+* qoka = "chocolate" => IPA:"t͡ɕoka"    
+* xava = "shovel"    => IPA:"ʂava"    
+* koqa = "coach"     => IPA:"kot͡ɕa"  
+* qyka = "girl"      => IPA:"t͡ɕika"  
+* cita = "target"    => IPA:"t͡sɨta"  
 
 **Modified: C**
 
-Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "ts" instead. 
+Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
@@ -162,7 +165,7 @@ Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in En
 
 **Modified: K**
 
-Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj and is used to replace "c" in most words. 
+Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj.
 
 **examples:**
 
@@ -173,13 +176,9 @@ Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pro
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-**Affricate J**
-
-Letter "J", "j" is voiced affricate post-alveolar when used before vowels: {e, y, i, o, u}: This sound is produced with tongue front. The best symbol for this sound is IPA digraph: `dʒ`. 
-
 **Fricative J** 
 
-Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on top roof and softly vibrate. Best IPA symbol for this sound is `ʒ`. 
+Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
 
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
@@ -236,9 +235,6 @@ Consonant clusters are expensive. Therefore the total cost receive a penalty of 
 ## Diphthongs
 
 Two vowels combined together into one cluster are called diphthongs.
-
-* Maj has 6 vowels: { a e y i o u } 
-* Two semivowel: { w h } 
 
 x |a  |e  |y  |o  |u  | i | h 
 --|---|---|---|---|---|---|----
