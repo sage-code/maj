@@ -52,8 +52,8 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **example:**
 
-1. ნʋ.ყრდʋ.ცʋ.ციშ⍺.ʋɚჺ.ცʋ.ɣჲɕ⍺;
-1. nu yrdu cu cima uel cu goxa;
+1. ნʋ.ყრდʋ.ცʋ.ƍʚშ⍺.ωɚჺ.ცʋ.შ⍺ϰ⍺;
+1. nu yrdu cu qima wel cu maka;
 1. we go to cinema or to supermarket;
 
 **notes:**
