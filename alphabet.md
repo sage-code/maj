@@ -15,7 +15,7 @@ m   n   o   p   r   s   x   t   u   i   w   v   z
 **notes:**
 
 * the order of letters is different from ISO standard;
-* for hand writing (script) Maj is using different letters;
+* for handwriting Maj is using [script](script.md);
 
 ## Capitalization
 
@@ -69,32 +69,34 @@ The vowels are read like in Italian, Romanian and Spanish;
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
 * Letter `y`  is close front, like first `y` in "yellow";
+* Letter `i`  is closed-central like `i` in word "still";
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
 ## Semi-vowels
 
-Letters {i, w, h} are not vowels but almost. They are called "semi-vowels".
+Letters {w, h} are not vowels but almost. They are called "semi-vowels". 
 
-_Letter `I`_ or `i` is closed-central like "i" in word "still". The best IPA symbol for this letter is `ɨ`. Second best IPA symbol is `ɘ`. Do not confound this sound with `ə` that is mid-central like group `ou` in "precious". 
+_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words and before a vowel. It is pronounced like "w" in "whiskey". It creates diphthongs with vowels: {"wa","we", "wy", ,"wi", "wo", "wu"}. 
 
+**note:**
 
-_Letter `W`:_ or `w`  is called soft `u`, is mostly used at beginning of words. It is pronounced like "w" in "whiskey". It creates diphthongs: {"wa","we", "wy", "wo", "wu","wi"}. Single vowel after "w" is much longer than usual: 
+Following words are valid in Maj:
 
-* wa: "ua" (administration)
-* wo: "uo" (surprise)
-* wy: "ue" (happiness)
-* we: "we" (sadness, cry)
-* wu: "uu" (disapproval)
-* wi: "uɨ" (disgusting)
-* wh: "uə" (disgusting)
+* wa! "ua" (administration)
+* wo! "uo" (surprise)
+* wy! "ue" (happiness)
+* we! "we" (sadness, cry)
+* wu! "uu" (disapproval)
+* wi! "uɨ" (disgusting)
+* wh! "uə" (disgusting)
 
-_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous sibling. In English the `h` is most of the time voiceless, but in Maj it must have one of the two pronunciations:
+_Letter `H`:_ or `h` has two pronunciations: IPA: `ɦ` and IPA: `ə`, depending on it's position and previous letter. This letter is never silenced like in other languages. It must have one of these two pronunciations: 
 
-1. Letter `h` is  `ɦ` at beginning of words like "h" in "hoard";
-2. Letter `h` is  `ɦ` after a vowel, in the middle of words;
-3. Letter `h` is  `ə` after a consonant like `e` in "after";
-4. Letter `h` is  `ə` at end of words, even after vowels;
+1. `ɦ` at beginning of words or after a vowel like "h" in "hoard";
+2. `ə` after a consonant or end of words like `e` in "after";
+
+**examples:**
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -188,20 +190,20 @@ Special uses of "K" in science:
 
 Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-**Valear J**
+**Affricate J**
 
-Letter "J", "j" is valear when used before vowels: {e, y}. That means your tongue front will vibrate softly. To make this sound your tongue is relaxed and the front of the tongue taps the roof of the mouth several times similar to "sh" with a vibration. The best symbol for this sound is IPA digraph: `dʒ`. 
+Letter "J", "j" is voiced affricate post-alveolar when used before vowels: {a, e, y, i, o, u}: This sound is produced with tongue front. The best symbol for this sound is IPA digraph: `dʒ`. 
 
-* jela => IPA:"dʒela" = ENG: "jell"
-* jyro => IPA:"dʒiro" = ENG: "around"
+* jela => IPA:"dʒela" = "jell"
+* jyro => IPA:"dʒiro" = "around"
+* joka => IPA:"dʒoka" = "game"
 
-**Vibrated J** 
+**Fricative J** 
 
-Letter "j" is pronounced different when followed by {a, o, i, u} semivowels {h, w} or consonant. In these cases "j" must be produced with the tip of your tongue softly pressed on rooftop of your mouse. Best IPA symbol for this sound is "ʒ".
+Letter "j" is fricative-post alveolar, when is last letter of the word or is followed by {w, h} or consonant.  This sound must be produced with the tip of your tongue not the front. Best IPA symbol for this sound is `ʒ`. 
 
-* joka	=> IPA:"ʒoka" = game 
-* yjma	=> IPA:"iʒma" = picture
-
+* Maj   => IPA:"maʒ"  (name of this language)
+* yjma	=> IPA:"iʒma" = "picture"
 
 **Plosive G**
 

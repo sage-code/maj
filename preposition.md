@@ -212,7 +212,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  puo | can     | has the capability
  tal | maybe   | possible
  tan | so      | to such a great extent.
- uel | or      | either
+ wel | or      | either
  uta | when    | establish event
  ven | if      | conditional (German wenn)
  vyr | while   | while condition
@@ -233,11 +233,11 @@ Spanish | pero   | Es caro, pero de muy buena calidad.
 
 **Maj:**  uel = or
 
-* cima  = cinema
+* cyma  = cinema
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
 * yrdu  = to go
 
-nu yrdu cu cima uel yrdu cu goxa;
+nu yrdu cu cyma uel yrdu cu goxa;
 We go to cinema or we go to supermarket
 
 Lang    | Word   |  Example
