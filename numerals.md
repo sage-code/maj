@@ -2,10 +2,10 @@
 
 Maj numerals are build to be easy to comprehend and say.
 
-* Noun: "numa" = number
-* Noun: "vala" = value
-* Noun: "mark" = symbol
+* Noun: "kota" = number
 * Verb: "kotu" = counting
+* Noun: "vala" = value
+* Noun: "maka" = symbol
 
 **Note:**
 
@@ -31,7 +31,7 @@ Symbol | Maj    | English
   `:`  | epa    | Colon 
   `;`  | eva    | Semicolon 
   `?`  | uya    | Question mark 
-  `!`  | oya    | Exclamation mark 
+  `!`  | aha    | Exclamation mark 
   `\*` | ora    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
@@ -43,20 +43,20 @@ Symbol | Maj    | English
 * Each small number has a corresponding prefix;
 * Firs letter nyl and last dyz are terminated with consonant.
 
-**Ten = cen** 
+**Ten = cin** 
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | nyl  | 10 | un'cen+nyl   |    |        |
-1 | una  | 11 | un'cen+una   | 10 | un'cen |
-2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
-3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
-4 | pea  | 14 | un'cen+pea   | 40 | pe'cen |
-5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
-6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
-7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
-8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
-9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
+0 | nyl  | 10 | un'cin+nyl   |    |        |
+1 | una  | 11 | un'cin+una   | 10 | un'cin |
+2 | dua  | 12 | un'cin+dua   | 20 | du'cin |
+3 | rea  | 13 | un'cin+rea   | 30 | re'cin |
+4 | pea  | 14 | un'cin+pea   | 40 | pe'cin |
+5 | fea  | 15 | un'cin+fea   | 50 | fe'cin |
+6 | zea  | 16 | un'cin+zea   | 60 | ze'cin |
+7 | xea  | 17 | un'cin+xea   | 70 | xe'cin |
+8 | oka  | 18 | un'cin+oka   | 80 | ok'cin |
+9 | noa  | 19 | un'cin+noa   | 90 | no'cin | 
 
 
 **Note** 
@@ -75,34 +75,27 @@ Let's count a rocket lifting off:
                                          
 ## Ordinals
          
-Repeting time is created using `foa` and `alu`
+Repeting time is created using `kota` = number
 
-ora  = times
-ymo  = infinite/ eternity/ forever
-nyo  = never
-
-
-Forming ordinals with numeral prefix can be done from (1..10)
-
-* ny'ora = not even once
-* un'ora = once
-* du'ora = twice
-* re'ora = three times
+* ny'kota = not even once
+* un'kota = once
+* du'kota = twice
+* re'kota = three times
 * ...
-* ci'ora = then times
-* ym'ora = forever
+* ci'kota = then times
+* ym'kota = forever
           
 **positional**
 
-Position in a series or enumeration: lyo (place)
+Position in a series or enumeration: lysa (place)
 
 English: place, order, position
 Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
-* una'lyo = first place
-* dua'lyo = second place
-* rea'lyo = third place
+* un'lysa = first place
+* du'lysa = second place
+* re'lysa = third place
 
 ## Level 2
 

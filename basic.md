@@ -134,11 +134,11 @@ There are 3 time suffixes in Maj:
 
 tesa = time
 
- Coda  | Suffix  | Maj       | English
--------|---------|-----------|----------------------------
- `u`   | fu      | futa      | future    
- `a`   | ya      | yata      | present
- `o`   | pa      | pasa      | past 
+ Suffix  | Maj       | English
+---------|-----------|----------------------------
+ fu      | futa      | future    
+ ya      | yata      | present
+ pa      | pasa      | past 
  
 **undefined time**
 
@@ -146,28 +146,30 @@ verb: joku = to play
 
 * yo joku  = I play
 * tu joku  = you play
-* zu joku  = he  play
+* zu joku  = he play
 
 **time suffix**
 
-* zu joka'ya = he is playing
+* zu joku'ya = he is playing
 * zu joku'fu = he will play
-* zu joko'pa = he has plaid
+* zu joku'pa = he has plaid
 
 **negative**
 
-* zu ka joko'pa = he has not played
+* zu ka joku'pa = he has not played
 * zu ka joku'fu = he will not play
-* yo ka joka'ya = I do not play now
+* yo ka joku'ya = I do not play now
 
 **affirmative**
 
 * yo sy joku'fu yn la futa = Yes I will play in the future
-* tu sy joko'pa yn la pasa = Yes you have played in the past
+* tu sy joku'pa yn la pasa = Yes you have played in the past
 
 **reflexive**
 
-* yo mh joka'ya 
+* yo mh joku'ya solo = I play with myself now
+* tu te joju'ya solo = You play yourself now
+* su se joju'ya solo = He is playing himself now
 
 Read more about: [verbs](verbs.md)
 
@@ -375,7 +377,7 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* oru = any
+* ago = any
 * omy = every
 * ale = all
 * may = many
@@ -390,7 +392,7 @@ Common noun is using plural "e" or singular "a" with different articles:
 * una mela = one apple
 * dua mele = two apples
 * omy mela = every apple
-* oru mela = any apple
+* ago mela = any apple
 * som mele = some apples
 * aly mele = all apples
 * mot mele = many apples
@@ -399,7 +401,7 @@ Common noun is using plural "e" or singular "a" with different articles:
 Invariant noun is terminated in "s" or other consonant:
 
 * pau Mercedes = few Mercedes 
-* oru Mercedes = any Mercedes 
+* ago Mercedes = any Mercedes 
 
 **read next:**
 
