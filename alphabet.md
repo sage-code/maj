@@ -1,42 +1,48 @@
 # MAJ Alphabet
 
-Maj is a Romance language. So it is using using 26 Lating letters: [ISO](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
+Maj is using 27 letters all found on QUERTY keyboard:
 
 ```
---------------------------------------------------
-A   B   K   D   E   F   G   H   Y   J   L   Q   C
-a   b   k   d   e   f   g   h   y   j   l   q   c
---------------------------------------------------
-M   N   O   P   R   S   X   T   U   I   W   V   Z    
-m   n   o   p   r   s   x   t   u   i   w   v   z       
---------------------------------------------------
+-----------------------------------
+A   B   K   D   E   F   G   H   Y
+a   b   k   d   e   f   g   h   Y
+-----------------------------------
+ J   L   Q   C  M   N   O   P   R   
+ j   l   q   c  m   n   o   p   r  
+ ----------------------------------
+ S   X   T   U   I   W   V   Z  @   
+ s   x   t   u   i   w   v   z  &     
+-----------------------------------
 ```
 
 **notes:**
 
 * the order of letters is different from ISO standard;
-* for handwriting Maj is using [script](script.md);
+* for handwriting Maj has a [script](script.md) alphabet;
 
 ## Capitalization
 
 Maj uses both lowercase and uppercase letters from Latin alphabet. 
 
-* Names are written with uppercase letters;
-* Nouns are written with first capital letter;
-* Other words are written with lowercase letters;
+* Names of institutions, organizations, companies and countries are written with uppercase letters;
+* Names of persons, animals, streets and places are written with first capital letters;
+* Other things including noons, verbs, adverbs are written with lowercase letters;
 
 ## Pronunciation
 
 Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
 
 ```
------------------------------------------------------
-a   b   k   d   e   f   g   h   y   j   l   q    c   
-ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ  i   ʒɨ  lɨ  tʃʌ  tsʌ
------------------------------------------------------
-m   n   o   p   r   s   x   t   u   i   w    v   z        
-mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ       
------------------------------------------------------
+-------------------------------------
+a   b   k   d   e   f   g   h   y
+ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ  i
+-------------------------------------
+j   l   q    c   m   n   o   p   r 
+ʒɨ  lɨ  tʃʌ  tsʌ mɨ  nɨ  o   pɨ  rɨ
+------------------------------------
+s   x   t   u   i   w    v   z   &
+sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
+-------------------------------------
 ```
 
 **Notes:**
@@ -179,16 +185,16 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 **Fricative J** 
 
-Letter "j" is usually voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
+Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
 
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
-**Affricate J** 
+**Affricate @** 
 
-Letter "j" followed by vowels {a, e, y, o, u} is, voiced post-alveolar affricate. This sound must be produced with the midle of your tongue relaxed on roof top and softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. It sounds similar to `gi` in word "giraffe"
+Letter "@" = lowercase "&" must be followed by a vowel {a, e, y, i, o, u, h}. It represents a voiced post-alveolar affricate sound similar to `gi` in word "giraffe". This sound must be produced with the midle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
-* jema	 => IPA:"d͡ʒema" = "money"
+* &ema	 => IPA:"d͡ʒema" = "money"
 
 **Modified: Q**
 
