@@ -43,7 +43,7 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **Tools:**  
   
-* [Maj Script](https://lingojam.com/MajScript)
+* [Maj Script](https://lingojam.com/MajConvertor)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
 
