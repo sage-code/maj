@@ -1,65 +1,72 @@
 # MAJ Alphabet
 
-Maj is a Romance language. So it is using using 26 Lating letters: [ISO](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
+Maj is using 27 letters all found on QUERTY keyboard:
 
 ```
---------------------------------------------------
-A   B   K   D   E   F   G   H   Y   J   L   Q   C
-a   b   k   d   e   f   g   h   y   j   l   q   c
---------------------------------------------------
-M   N   O   P   R   S   X   T   U   I   W   V   Z    
-m   n   o   p   r   s   x   t   u   i   w   v   z       
---------------------------------------------------
+-----------------------------------
+A   B   K   D   E   F   G   H   Y
+a   b   k   d   e   f   g   h   Y
+-----------------------------------
+ J   L   Q   C  M   N   O   P   R   
+ j   l   q   c  m   n   o   p   r  
+ ----------------------------------
+ S   X   T   U   I   W   V   Z  @   
+ s   x   t   u   i   w   v   z  &     
+-----------------------------------
 ```
 
 **notes:**
 
 * the order of letters is different from ISO standard;
-* for handwriting Maj is using [script](script.md);
+* for handwriting Maj has a [script](script.md) alphabet;
 
 ## Capitalization
 
 Maj uses both lowercase and uppercase letters from Latin alphabet. 
 
-* Names are written with uppercase letters;
-* Nouns are written with first capital letter;
-* Other words are written with lowercase letters;
+* Names of institutions, organizations, companies and countries are written with uppercase letters;
+* Names of persons, animals, streets and places are written with first capital letters;
+* Other things including noons, verbs, adverbs are written with lowercase letters;
 
 ## Pronunciation
 
 Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
 
 ```
------------------------------------------------------
-a   b   k   d   e   f   g   h   y   j   l   q    c   
-ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ  i   ʒɨ  lɨ  tʃʌ  tsʌ
------------------------------------------------------
-m   n   o   p   r   s   x   t   u   i   w    v   z        
-mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ       
------------------------------------------------------
+-------------------------------------
+a   b   k   d   e   f   g   h    y
+ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ   i
+-------------------------------------
+j   l   q    c   m   n   o   p   r 
+ʒɨ  lɨ  t͡ʃʌ  t͡sʌ mɨ  nɨ  o   pɨ  rɨ
+------------------------------------
+s   x   t   u   i   w    v   z   &
+sɨ  ʃɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
+-------------------------------------
 ```
 
 **Notes:**
 
-* Maj has voiced, articulated and clear sounds easy to produce;
+* Maj has a large range of familiar sounds, easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
+* Maj do not use "th" and "sh" digraphs like English do;
 * You will never bite yourself or spit around when you speak Maj;
-
 
 **Reference:**
 
-We use phonetic symbols: 
+For pronounciation we have used phonetic symbols: 
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 **Phonetic:**
 
-Maj is a phonetic language, which means it’s written the way it sounds, and visa versa.
+Maj is a phonetic language, which means it’s written the way it sounds, and vice versa.
 
-* Maj phonetic is enclosed with double quotes: MAJ:"fonetyk";
-* IPA phonetic is enclosed with double quotes: IPA:"fonetik";
-* English words are enclosed in double quotes: ENG:"phonetic";
+* Maj phonetic:  MAJ:"word";
+* IPA phonetic:  IPA:"word";
+* English phonetic: ENG:"word";
+* Franch phonetic: FRA:"word";
 
 ## Vowels
 
@@ -86,7 +93,7 @@ Maj has two semi-vowels: {h, w} that have special pronunciation:
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". Letter `u` is never used before a vowel but is replaced by `w`. 
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you relace "u" with "w". 
 
 **interjections:**
 
@@ -101,13 +108,14 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Consonants
 
-Maj is using 19 consonants:
+Maj is using 21 consonants:
 
 * plosive :  b, d, p, t, k 
 * nasal   :  m, n
-* trilled :  r, j, v, z, g
+* trilled :  r, j, v, z, g, &
 * labial  :  l, r
 * fricative: f, s, c, q, x
+* glottal: h
 
 Most consonants are similar to: Italian and Romanian;
 
@@ -115,7 +123,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `g`  is plosive-uvular like `g` in "guitar";
+* Letter  `g`  is hard G plosive-uvular like `g` in "guitar";
 * Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
@@ -127,7 +135,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `v`  is vibrated, similar to `v` in "voice";
 * Letter  `z`  is dental, vibrated, similar to `z` in "zoo";
 * Letter  `s`  is fricative alveolar like `s` in "snake";
-* Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
+* Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
 ## Difficult sounds
@@ -138,21 +146,23 @@ There are some rules and concepts you must understand for reading and writing Ma
 
 Following letters are represented using digraphs in English.
 
-* Letter `c` sounds `ts` like `ts` in  "cats": 
+* Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
-* Letter `q` sounds `tʃ` like `ch` in  "peach": 
+* Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
-* Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
+* Letter `x` sounds `ʃ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* Letter `&` sounds `d͡ʒ`   like `gi` in  "giraff": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 
 **Note:** Phonetic writing is using notation: IPA:
 
 **examples:** 
 
-* qoka = "chocolate" => IPA:"t͡ɕoka"    
-* xava = "shovel"    => IPA:"ʂava"    
-* koqa = "coach"     => IPA:"kot͡ɕa"  
-* qyka = "girl"      => IPA:"t͡ɕika"  
+* qoka = "chocolate" => IPA:"t͡ʃoka"    
+* xava = "shovel"    => IPA:"ʃava"    
+* koqa = "coach"     => IPA:"kot͡ʃa"  
+* qyka = "girl"      => IPA:"t͡ʃika"  
 * cita = "target"    => IPA:"t͡sɨta"  
 
 **Modified: C**
@@ -183,6 +193,12 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
+**Affricate @** 
+
+Letter "@" = lowercase "&" must be followed by a vowel {a, e, y, i, o, u, h}. It represents a voiced post-alveolar affricate sound similar to `gi` in word "giraffe". This sound must be produced with the midle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+
+* &ema	 => IPA:"d͡ʒema" = "money"
+
 **Modified: Q**
 
 In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
@@ -196,9 +212,8 @@ In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It soun
 Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `ks`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
 * Word: "xi" means "keep it quiet" similar to many languages;
-* Xue is pronounced "ʂue" and represent a Chinese name; 
-* Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
-* Word "xokh" => Maj: "ʂoklə" = ENG:"chocolate" 
+* Xue is pronounced "ʃue" and represent a Chinese name; 
+* Luxembourg is written Luxemburg and is read "Luʃemburg" in Maj;
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
@@ -228,9 +243,8 @@ rb rk rd rf rg rh rl rm rn rq rp rs rt rz rx
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
 jb jk jd jl jm jn jr js jt jv 
+gn gl gm gr gv gs
 ``` 
-
-Consonant clusters are expensive. Therefore the total cost receive a penalty of "2".
 
 ## Diphthongs
 
@@ -247,9 +261,8 @@ w |wa |we |wy |wo |.  |wi | wh
 
 **Notes:**
 
-* there is a total of 22 diphthongs in Maj
+* there is a total of 28 diphthongs in Maj
 * u is replaced by w when is followed by a vowel
-* diphthong in a word increase its cost with 1 point
  
 ## Weight
 
@@ -261,7 +274,7 @@ Weight |Sounds
   2    |lmnfsx 
   3    |bcdpth  
   4    |vjrzkg
-  5    |qw
+  5    |&qw
 
 **Cost:**  
 
@@ -276,7 +289,8 @@ Cost |  Letter
   1  |asdfjklgh
   2  |qweruiop
   3  |zxcvm 
-  4  |tbyn 
+  4  |tbyn
+  5  |@&
 
 **penalty:**
 
@@ -325,8 +339,8 @@ Other considerations when making words is the coda. If a word is different from 
 
 We use this algorithm to compute cost of words:
 
-* for double consonants we add extra cost of 5
-* for double vowel we add extra cost of 2
+* for double consonants we add extra cost of 3
+* for double vowel we add extra cost of 1
 
 [macro.bas](tools/macro.bas)
 
