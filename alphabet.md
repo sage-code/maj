@@ -108,11 +108,11 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Consonants
 
-Maj is using 19 consonants:
+Maj is using 21 consonants:
 
 * plosive :  b, d, p, t, k 
 * nasal   :  m, n
-* trilled :  r, j, v, z, g
+* trilled :  r, j, v, z, g, &
 * labial  :  l, r
 * fricative: f, s, c, q, x
 * glottal: h
