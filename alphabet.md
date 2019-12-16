@@ -41,25 +41,25 @@ mɨ  nɨ  o   pɨ  rɨ  sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ
 
 **Notes:**
 
-* Maj has voiced, articulated and clear sounds easy to produce;
+* Maj has a large range of familiar sounds, easy to produce;
 * Maj sounds are produced with your tongue behind your teeth;
+* Maj do not use "th" and "sh" digraphs like English do;
 * You will never bite yourself or spit around when you speak Maj;
-
 
 **Reference:**
 
-We use phonetic symbols: 
+For pronounciation we have used phonetic symbols: 
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 **Phonetic:**
 
-Maj is a phonetic language, which means it’s written the way it sounds, and visa versa.
+Maj is a phonetic language, which means it’s written the way it sounds, and vice versa.
 
-* Maj phonetic is enclosed with double quotes: MAJ:"fonetyk";
-* IPA phonetic is enclosed with double quotes: IPA:"fonetik";
-* English words are enclosed in double quotes: ENG:"phonetic";
+* Maj phonetic:  MAJ:"word";
+* IPA phonetic:  IPA:"word";
+* English words: ENG:"word";
 
 ## Vowels
 
@@ -86,7 +86,7 @@ Maj has two semi-vowels: {h, w} that have special pronunciation:
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". Letter `u` is never used before a vowel but is replaced by `w`. 
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you relace "u" with "w". 
 
 **interjections:**
 
@@ -108,6 +108,7 @@ Maj is using 19 consonants:
 * trilled :  r, j, v, z, g
 * labial  :  l, r
 * fricative: f, s, c, q, x
+* glottal: h
 
 Most consonants are similar to: Italian and Romanian;
 
@@ -115,7 +116,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `g`  is plosive-uvular like `g` in "guitar";
+* Letter  `g`  is hard G plosive-uvular like `g` in "guitar";
 * Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
@@ -178,18 +179,16 @@ Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in En
 
 **Fricative J** 
 
-Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
+Letter "j" is usually voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
 
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
+**Affricate J** 
 
-**Affricate G** 
+Letter "j" followed by vowels {a, e, y, o, u} is, voiced post-alveolar affricate. This sound must be produced with the midle of your tongue relaxed on roof top and softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. It sounds similar to `gi` in word "giraffe"
 
-Letter "g" followed by vowel {a, e, y, o, u} is voiced post-alveolar affricate. This sound must be produced with the midle of your tongue relaxed on roof top and softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
-
-* gema	 => IPA:"d͡ʒema" = "money"
-
+* jema	 => IPA:"d͡ʒema" = "money"
 
 **Modified: Q**
 
