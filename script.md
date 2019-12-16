@@ -16,8 +16,8 @@ Latin | Maj| IPA  | Latin | Maj | IPA   | Latin | Maj | IPA
   e   | ɚ  | e    | m     | შ   | mɨ    | i     | ʚ   | ɨ      
   f   | ღ  | fɨ   | n     | ნ   | nɨ    | w     | ω   | uʌ     
   g   | ɣ  | ɢɨ   | o     | ჲ   | o     | v     | ϑ   | vʌ     
-  h   | ჩ  | ɦɨ   | p     | ფ   | pɨ    | z     | z   | zʌ     
-  y   | ყ  | i    | r     | რ   | rɨ    | &     | ʓ   | dʒʌ  
+  h   | ჩ  | ɦɨ   | p     | ფ   | pɨ    | z     | ʓ   | zʌ     
+  y   | ყ  | i    | r     | რ   | rɨ    | &     | &   | dʒʌ  
 
 **exception:**
 Additional letter  & = ʓ is pronounced like "g" in "giraffe".
