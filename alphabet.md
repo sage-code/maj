@@ -52,6 +52,10 @@ sɨ  ʃɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
 * Maj do not use "th" and "sh" digraphs like English do;
 * You will never bite yourself or spit around when you speak Maj;
 
+**Tools:**
+
+* Maj IPA: [phonetic translator](https://lingojam.com/MajIPA)
+
 **Reference:**
 
 For pronounciation we have used phonetic symbols: 

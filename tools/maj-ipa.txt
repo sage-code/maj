@@ -1,141 +1,115 @@
-﻿https://lingojam.com/edit/6ff43faa3e443651a1227d030bee68d1
+﻿https://lingojam.com/edit/064c243ccfaf91ad298b5a9db974787f
 
 
 ###name, Name of your translator...:
-Maj Script converter
+Maj IPA
 
 
 ###subtitle, Subtitle (optional):
-Version Two
+Maj to IPA convertor
 
 
 ###language1, Language1 name...:
-Latin
+MAJ
 
 
 ###language2, Language2 name...:
-Maj
+IPA
 
 
 ###description, Description...:
-Maj constructed script.
+This translator convert Maj words to IPA alphabet.
 
 
 ###email, Admin email (optional)...:
 elucian.moise@gmail.com
 
 
-###phrases1, Latin list...:
+###phrases1, MAJ list...:
 
 
 
-###phrases2, Maj list...:
+###phrases2, IPA list...:
 
 
 
-###words1, Latin list...:
+###words1, MAJ list...:
 
 
 
-###words2, Maj list...:
+###words2, IPA list...:
 
 
 
-###intraword1, Latin list...:
+###intraword1, MAJ list...:
 a
-b
-k
-d
-e
-f
 g
-h
 y
 j
-l
-c
 q
-m
-n
-o
-p
-r
-s
+c
 x
-t
-u
 i
-w
-v
-z
-
-
-###intraword2, Maj list...:
-⍺
-ჵ
-ϰ
-დ
-ɚ
-ღ
-ɣ
-ჩ
-ყ
-უ
-ჺ
-ც
-ƍ
-შ
-ნ
-ჲ
-ფ
-რ
-σ
-ɕ
-თ
-ʋ
-ʚ
-ω
-ϑ
-ʓ
-
-
-###prefixes1, Latin list...:
+&
 
 
 
-###prefixes2, Maj list...:
+###intraword2, IPA list...:
+ʌ
+ɢ
+i
+ʒ
+t͡ʃ
+t͡s
+ʃ
+ɨ
+d͡ʒ
 
 
 
-###suffixes1, Latin list...:
 
 
 
-###suffixes2, Maj list...:
+###prefixes1, MAJ list...:
+h
+
+
+###prefixes2, IPA list...:
+ɦ
+
+
+###suffixes1, MAJ list...:
+h
+
+
+###suffixes2, IPA list...:
+ə
+
+
+###regex1, MAJ list...:
+/([aeyiou])(h)/g
+/([bcdfgjklmnprstvxzw])(h)/g
+
+
+###regex2, IPA list...:
+$1ɦ
+$1ə
 
 
 
-###regex1, Latin list...:
-/([^\s+]) ?/g 
-
-
-###regex2, Maj list...:
-$1.
-
-
-###rev_regex1, Maj list...:
-/([^.]+)) ?/g 
-
-
-###rev_regex2, Latin list...:
- $1 
-
-
-###ordering1, Latin list...:
+###rev_regex1, IPA list...:
 
 
 
-###ordering2, Maj list...:
+###rev_regex2, MAJ list...:
+
+
+
+###ordering1, MAJ list...:
+
+
+
+###ordering2, IPA list...:
 
 
 
