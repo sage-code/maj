@@ -34,14 +34,14 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 ```
 -------------------------------------
-a   b   k   d   e   f   g   h   y
-ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ  i
+a   b   k   d   e   f   g   h    y
+ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ   i
 -------------------------------------
 j   l   q    c   m   n   o   p   r 
-ʒɨ  lɨ  tʃʌ  tsʌ mɨ  nɨ  o   pɨ  rɨ
+ʒɨ  lɨ  t͡ʃʌ  t͡sʌ mɨ  nɨ  o   pɨ  rɨ
 ------------------------------------
 s   x   t   u   i   w    v   z   &
-sɨ  ʂɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
+sɨ  ʃ   ɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
 -------------------------------------
 ```
 
@@ -134,7 +134,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `v`  is vibrated, similar to `v` in "voice";
 * Letter  `z`  is dental, vibrated, similar to `z` in "zoo";
 * Letter  `s`  is fricative alveolar like `s` in "snake";
-* Letter  `x`  is fricative post-alveolar like `sh` in "she" or "fashion";
+* Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
 ## Difficult sounds
@@ -145,21 +145,23 @@ There are some rules and concepts you must understand for reading and writing Ma
 
 Following letters are represented using digraphs in English.
 
-* Letter `c` sounds `ts` like `ts` in  "cats": 
+* Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
-* Letter `q` sounds `tʃ` like `ch` in  "peach": 
+* Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
-* Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
+* Letter `x` sounds `ʃ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* Letter `&` sounds `d͡ʒ`   like `gi` in  "giraff": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 
 **Note:** Phonetic writing is using notation: IPA:
 
 **examples:** 
 
-* qoka = "chocolate" => IPA:"t͡ɕoka"    
-* xava = "shovel"    => IPA:"ʂava"    
-* koqa = "coach"     => IPA:"kot͡ɕa"  
-* qyka = "girl"      => IPA:"t͡ɕika"  
+* qoka = "chocolate" => IPA:"t͡ʃoka"    
+* xava = "shovel"    => IPA:"ʃava"    
+* koqa = "coach"     => IPA:"kot͡ʃa"  
+* qyka = "girl"      => IPA:"t͡ʃika"  
 * cita = "target"    => IPA:"t͡sɨta"  
 
 **Modified: C**
@@ -209,9 +211,8 @@ In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It soun
 Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `ks`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
 
 * Word: "xi" means "keep it quiet" similar to many languages;
-* Xue is pronounced "ʂue" and represent a Chinese name; 
-* Luxembourg is written "Lucsemburg" in Maj to avoid reading "Luʂemburg" that will be incorrect;
-* Word "xokh" => Maj: "ʂoklə" = ENG:"chocolate" 
+* Xue is pronounced "ʃue" and represent a Chinese name; 
+* Luxembourg is written Luxemburg and is read "Luʃemburg" in Maj;
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
