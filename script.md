@@ -1,31 +1,30 @@
 ## Maj script
 
-Maj script is a creole alphabet with letters from Georgian, Greek and Latin. 
+Maj script is a creole alphabet with letters from Georgian, Greek and Latin. Maj script has 27 letters in contrast to Latin alphabet who has only 26 letters. 
 
 * Maj script do not have uppercase letters;  
 * Mak letters are continuous, single strike;
 * Maj script is for writing with stylus on tablet;
-* Maj script is mapped 1:1 with Lating alphabet;
+* Maj script is mapped almost 1:1 with Lating alphabet;
 
-Latin | Maj| IPA  | Latin | Maj | IPA 
-------|----|------|-------|-----|--------
-  a   | ⍺  | ʌ    | m     | შ   | mɨ
-  b   | ჵ  | bɨ   | n     | ნ   | nɨ
-  k   | ϰ  | kɨ   | o     | ჲ   | o    
-  d   | დ  | dɨ   | p     | ფ   | pɨ  
-  e   | ɚ  | e    | r     | რ   | rɨ  
-  f   | ღ  | fɨ   | s     | σ   | sɨ  
-  g   | ɣ  | ɢɨ   | x     | ɕ   | ʂɨ  
-  h   | ჩ  | ɦɨ   | t     | თ   | tɨ  
-  y   | ყ  | i    | u     | ʋ   | u   
-  j   | უ  | ʒɨ   | i     | ʚ   | ɨ
-  l   | ჺ  | lɨ   | w     | ω   | uʌ 
-  c   | ც  | tsʌ  | v     | ϑ   | vʌ
-  q   | ƍ  | tʃʌ  | z     | ʓ   | zʌ        
+Latin | Maj| IPA  | Latin | Maj | IPA   | Latin | Maj | IPA 
+------|----|------|-------|-----|-------|-------|-----|--------
+  a   | ⍺  | ʌ    | j     | უ   | ʒɨ    | s     | σ   | sɨ      
+  b   | ჵ  | bɨ   | l     | ჺ   | lɨ    | x     | ɕ   | ʂɨ      
+  k   | ϰ  | kɨ   | c     | ც   | tsʌ   | t     | თ   | tɨ      
+  d   | დ  | dɨ   | q     | ƍ   | tʃʌ   | u     | ʋ   | u       
+  e   | ɚ  | e    | m     | შ   | mɨ    | i     | ʚ   | ɨ      
+  f   | ღ  | fɨ   | n     | ნ   | nɨ    | w     | ω   | uʌ     
+  g   | ɣ  | ɢɨ   | o     | ჲ   | o     | v     | ϑ   | vʌ     
+  h   | ჩ  | ɦɨ   | p     | ფ   | pɨ    | z     | z   | zʌ     
+  y   | ყ  | i    | r     | რ   | rɨ    | &     | ʓ   | dʒʌ  
+
+**exception:**
+Additional letter  & = ʓ is pronounced like "g" in "giraffe".
 
 ## Writing direction
 
-To write a Maj letter you start with position 1, then you continue with 2 and do not lift your pen until you finish the letter. 
+To write a Maj letter you start with position 1, then you continue with move 2 and do not lift your pen until you finish the letter. Some letters have loops and some letters have full stop and return. The more movements a letter has the more expensive it is. 
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
