@@ -43,24 +43,29 @@ Mission of Maj alphabet is to maximize the number of sounds using 26 ISO Latin l
 The print alphabet is for writing with QWERTY keyboard: 
  
 ```
----------------------------------------------------
-A   B   K   D   E   F   G   H   Y   J   L   Q   C
----------------------------------------------------
-M   N   O   P   R   S   X   T   U   I   W   V   Z   
----------------------------------------------------
+-----------------------------------
+A   B   K   D   E   F   G   H   Y
+a   b   k   d   e   f   g   h   Y
+-----------------------------------
+ J   L   Q   C  M   N   O   P   R   
+ j   l   q   c  m   n   o   p   r  
+ ----------------------------------
+ S   X   T   U   I   W   V   Z  @   
+ s   x   t   u   i   w   v   z  &     
+-----------------------------------
 ```
 
 **Notes:**
 
 * Maj has a _phonetic_ alphabet, that means one sound for one letter;
-* Maj has a total of 26+2 = 28 sounds associated with letters;
-* There are 2 letters: {h, j} having each 2 distinct associated sounds;
+* Maj has a total of 27+1 = 28 sounds associated with letters;
+* There is 1 letters: h having 2 distinct associated sounds;
 
 **Phoneme:**
 
-A phoneme is a vowel a consonant or a diphthong associated with one or more letters:
+A phoneme is a consonant or a diphthong associated with one or more letters:
 
-* Maj has 52 phonemes 
+* Maj has 55 phonemes 
 * English has 44 phonemes;
 * Italian has only 30 phonemes;
 * Romanian has 29 phonemes;
@@ -68,7 +73,7 @@ A phoneme is a vowel a consonant or a diphthong associated with one or more lett
 
 from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
 
-Since Maj has more phonemes than other languages it can create shorter words.
+Since Maj has more phonemes than other languages it can have shorter words.
 
 Details: [Maj alphabet](alphabet.md)
 
@@ -121,6 +126,8 @@ Maj is using the _power of 3_ to organize words in propositions:
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases: {nominative, objective, possessive};
+1. There are 3 alphabets in Maj: Lowercase, Uppercase and Script;
+1. The alphabet has 3 x 3 x 3 = 27 distinct letters;
 1. There are 3 cost algorithms: {reading, writing, typing};
 
 **Read more about:** [basic grammar](basic.md)
