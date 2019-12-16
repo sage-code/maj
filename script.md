@@ -11,13 +11,13 @@ Latin | Maj| IPA  | Latin | Maj | IPA   | Latin | Maj | IPA
 ------|----|------|-------|-----|-------|-------|-----|--------
   a   | ⍺  | ʌ    | j     | უ   | ʒɨ    | s     | σ   | sɨ      
   b   | ჵ  | bɨ   | l     | ჺ   | lɨ    | x     | ɕ   | ʂɨ      
-  k   | ϰ  | kɨ   | c     | ც   | tsʌ   | t     | თ   | tɨ      
-  d   | დ  | dɨ   | q     | ƍ   | tʃʌ   | u     | ʋ   | u       
+  k   | ϰ  | kɨ   | c     | ც   | t͡sʌ   | t     | თ   | tɨ      
+  d   | დ  | dɨ   | q     | ƍ   | t͡ʃʌ   | u     | ʋ   | u       
   e   | ɚ  | e    | m     | შ   | mɨ    | i     | ʚ   | ɨ      
   f   | ღ  | fɨ   | n     | ნ   | nɨ    | w     | ω   | uʌ     
   g   | ɣ  | ɢɨ   | o     | ჲ   | o     | v     | ϑ   | vʌ     
   h   | ჩ  | ɦɨ   | p     | ფ   | pɨ    | z     | ʓ   | zʌ     
-  y   | ყ  | i    | r     | რ   | rɨ    | &     | &   | dʒʌ  
+  y   | ყ  | i    | r     | რ   | rɨ    | &     | &   | d͡ʒʌ
 
 **exception:**
 Additional letter  & = ʓ is pronounced like "g" in "giraffe".
