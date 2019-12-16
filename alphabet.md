@@ -246,8 +246,6 @@ jb jk jd jl jm jn jr js jt jv
 gn gl gm gr gv gs
 ``` 
 
-Consonant clusters are expensive. Therefore the total cost receive a penalty of "2".
-
 ## Diphthongs
 
 Two vowels combined together into one cluster are called diphthongs.
@@ -265,7 +263,6 @@ w |wa |we |wy |wo |.  |wi | wh
 
 * there is a total of 28 diphthongs in Maj
 * u is replaced by w when is followed by a vowel
-* diphthong in a word increase its cost with 1 point
  
 ## Weight
 
@@ -341,8 +338,8 @@ Other considerations when making words is the coda. If a word is different from 
 
 We use this algorithm to compute cost of words:
 
-* for double consonants we add extra cost of 5
-* for double vowel we add extra cost of 2
+* for double consonants we add extra cost of 3
+* for double vowel we add extra cost of 1
 
 [macro.bas](tools/macro.bas)
 
