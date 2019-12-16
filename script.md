@@ -20,7 +20,7 @@ Latin | Maj| IPA  | Latin | Maj | IPA   | Latin | Maj | IPA
   y   | ყ  | i    | r     | რ   | rɨ    | &     | &   | d͡ʒʌ
 
 **exception:**
-Additional letter  & = ʓ is pronounced like "g" in "giraffe".
+Additional letter  & = @ is pronounced like "g" in "giraffe".
 
 ## Writing direction
 
