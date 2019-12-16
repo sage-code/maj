@@ -274,7 +274,7 @@ Weight |Sounds
   2    |lmnfsx 
   3    |bcdpth  
   4    |vjrzkg
-  5    |qw
+  5    |&qw
 
 **Cost:**  
 
@@ -289,7 +289,8 @@ Cost |  Letter
   1  |asdfjklgh
   2  |qweruiop
   3  |zxcvm 
-  4  |tbyn 
+  4  |tbyn
+  5  |@&
 
 **penalty:**
 
