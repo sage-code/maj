@@ -60,7 +60,7 @@ M   N   O   P   R   S   X   T   U   I   W   V   Z
 
 A phoneme is a vowel a consonant or a diphthong associated with one or more letters:
 
-* Maj has 48 phonemes 
+* Maj has 52 phonemes 
 * English has 44 phonemes;
 * Italian has only 30 phonemes;
 * Romanian has 29 phonemes;
@@ -68,7 +68,7 @@ A phoneme is a vowel a consonant or a diphthong associated with one or more lett
 
 from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
 
-Since Maj has more phonemes than other languages it can create shorter more interesting words.
+Since Maj has more phonemes than other languages it can create shorter words.
 
 Details: [Maj alphabet](alphabet.md)
 
