@@ -183,6 +183,14 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 * yjma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
+
+**Affricate G** 
+
+Letter "g" followed by vowel {a, e, y, o, u} is voiced post-alveolar affricate. This sound must be produced with the midle of your tongue relaxed on roof top and softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+
+* gema	 => IPA:"d͡ʒema" = "money"
+
+
 **Modified: Q**
 
 In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
@@ -228,6 +236,7 @@ rb rk rd rf rg rh rl rm rn rq rp rs rt rz rx
 sc sf sl sm sn sp sr st sv 
 vr zb zd zg zm zn zv
 jb jk jd jl jm jn jr js jt jv 
+gn gl gm gr gv gs
 ``` 
 
 Consonant clusters are expensive. Therefore the total cost receive a penalty of "2".
@@ -247,7 +256,7 @@ w |wa |we |wy |wo |.  |wi | wh
 
 **Notes:**
 
-* there is a total of 22 diphthongs in Maj
+* there is a total of 28 diphthongs in Maj
 * u is replaced by w when is followed by a vowel
 * diphthong in a word increase its cost with 1 point
  
