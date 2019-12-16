@@ -63,7 +63,7 @@ a   b   k   d   e   f   g   h   Y
 
 **Phoneme:**
 
-A phoneme is a consonant or a diphthong associated with one or more letters:
+A phoneme is a consonant or a diphthong associated with two letters:
 
 * Maj has 55 phonemes 
 * English has 44 phonemes;
