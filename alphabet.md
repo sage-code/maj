@@ -65,7 +65,8 @@ Maj is a phonetic language, which means it’s written the way it sounds, and vi
 
 * Maj phonetic:  MAJ:"word";
 * IPA phonetic:  IPA:"word";
-* English words: ENG:"word";
+* English phonetic: ENG:"word";
+* Franch phonetic: FRA:"word";
 
 ## Vowels
 
