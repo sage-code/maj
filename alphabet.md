@@ -90,6 +90,7 @@ Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 * `ɦ` at beginning of words or after a vowel like "h" in "hoard";
 * `ə` after a consonant or end of words like `e` in "after";
+* `ə` can be used instead of `h` in chat or text when available;
 
 **examples:**
 
@@ -197,7 +198,7 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-Soft "g" is followed by vowel {`i`, `e`}. In this case it becomes post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+Soft "g" = "ġ" is followed by vowel {`i`, `e`}. In this case it becomes post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
 * gema	 => IPA:"d͡ʒema" = "money"
 
