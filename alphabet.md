@@ -1,6 +1,37 @@
 # MAJ Alphabet
 
-Maj is using 27 letters all found on QUERTY keyboard:
+Maj is using 28 letters:
+
+Latin | IPA  | MAJ 
+------|------|----- 
+  a   | a    | α   
+  b   | b    | β   
+  c   | ts   | ɕ   
+  d   | d    | δ   
+  e   | e    | ɛ   
+  f   | f    | φ   
+  G   | ɢ    | ɣ   
+  H   | ɦ    | ɦ   
+  h   | ə    | ə   
+  i   | i    | ʚ   
+  j   | ʒ    | ʒ   
+  g   | dʒ   | g   
+  k   | k    | k   
+  l   | l    | ʎ   
+  m   | m    | m   
+  n   | n    | n   
+  o   | o    | ჲ   
+  p   | p    | թ   
+  q   | tʃ   | q   
+  r   | r    | ρ   
+  s   | s    | σ   
+  x   | ʂ    | ϰ   
+  t   | t    | τ   
+  u   | u    | υ   
+  v   | v    | ϑ   
+  w   | u    | ω   
+  y   | y    | Կ  
+  z   | z    | z   
 
 ```
 -----------------------------------
