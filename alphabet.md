@@ -2,49 +2,36 @@
 
 Maj is using 28 letters:
 
-Latin | IPA  | MAJ 
-------|------|----- 
-  a   | a    | α   
-  b   | b    | β   
-  c   | ts   | ɕ   
-  d   | d    | δ   
-  e   | e    | ɛ   
-  f   | f    | φ   
-  G   | ɢ    | ɣ   
-  H   | ɦ    | ɦ   
-  h   | ə    | ə   
-  i   | i    | ʚ   
-  j   | ʒ    | ʒ   
-  g   | dʒ   | g   
-  k   | k    | k   
-  l   | l    | ʎ   
-  m   | m    | m   
-  n   | n    | n   
-  o   | o    | ჲ   
-  p   | p    | թ   
-  q   | tʃ   | q   
-  r   | r    | ρ   
-  s   | s    | σ   
-  x   | ʂ    | ϰ   
-  t   | t    | τ   
-  u   | u    | υ   
-  v   | v    | ϑ   
-  w   | u    | ω   
-  y   | y    | Կ  
-  z   | z    | z   
-
-```
------------------------------------
-A   B   K   D   E   F   G   H   Y
-a   b   k   d   e   f   g   h   Y
------------------------------------
- J   L   Q   C  M   N   O   P   R   
- j   l   q   c  m   n   o   p   r  
- ----------------------------------
- S   X   T   U   I   W   V   Z  @   
- s   x   t   u   i   w   v   z  &     
------------------------------------
-```
+Latin | IPA  | MAJ |Read
+------|------|-----|------
+  a   | a    | α   | ana
+  b   | b    | β   | boi
+  c   | ts   | ɕ   | tsa
+  d   | d    | დ   | dia
+  e   | e    | ɛ   | ela 
+  f   | f    | ღ   | foa
+  G   | ɢ    | ɣ   | goa
+  H   | ɦ    | ჩ   | hia
+  i   | i    | ʚ   | iwa 
+  h   | ə    | ɚ   | əia
+  j   | ʒ    | ʓ   | jia
+  k   | k    | ც   | kea
+  l   | l    | ჺ   | loa
+  m   | m    | შ   | moa
+  n   | n    | ნ   | noa
+  o   | o    | თ   | ova
+  p   | p    | թ   | poa
+  q   | tʃ   | ƍ   | qia
+  r   | r    | რ   | ria
+  s   | s    | σ   | sia 
+  x   | ʂ    | ϰ   | xia
+  t   | t    | ζ   | tau 
+  u   | u    | υ   | ura
+  v   | v    | ϑ   | vea
+  g   | dʒ   | ფ   | gea
+  y   | y    | Կ   | yna
+  w   | u    | ω   | wea  
+  z   | z    | z   | zen
 
 **notes:**
 
@@ -62,19 +49,6 @@ Maj uses both lowercase and uppercase letters from Latin alphabet.
 ## Pronunciation
 
 Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
-
-```
--------------------------------------
-a   b   k   d   e   f   g   h    y
-ʌ   bɨ  kɨ  dɨ  e   fɨ  ɢɨ  ɦɨ   i
--------------------------------------
-j   l   q    c   m   n   o   p   r 
-ʒɨ  lɨ  t͡ʃʌ  t͡sʌ mɨ  nɨ  o   pɨ  rɨ
-------------------------------------
-s   x   t   u   i   w    v   z   &
-sɨ  ʃɨ  tɨ  u   ɨ   uʌ   vʌ  zʌ  d͡ʒʌ
--------------------------------------
-```
 
 **Notes:**
 
