@@ -6,23 +6,21 @@ Latin | IPA  | MAJ
 ------|------|-----
   a   | a    | α
   b   | b    | β
-  c   | ts   | ɕ
+  c   | t͡s  | ɕ
   d   | d    | დ
   e   | e    | ɛ
   f   | f    | ღ
-  g   | g    | ɤ
-  h   | ɦ    | ჩ
+  g   | g,d͡ʒ| ɤ,ფ
+  h   | ɦ,ə  | ჩ,ɚ
   i   | i    | ʚ
-  j   | dʒ   | ფ
-  ə   | ə    | ɚ
-  ʒ   | ʒ    | ʓ
+  j   | ʒ    | ʓ
   k   | k    | ჺ
   l   | l    | ჲ
   m   | m    | შ
   n   | n    | ნ
   o   | o    | თ
   p   | p    | թ
-  q   | tʃ   | ƍ
+  q   | t͡ʃ  | ƍ
   r   | r    | რ
   s   | s    | σ
   x   | ʂ    | ϰ
@@ -36,15 +34,7 @@ Latin | IPA  | MAJ
 **notes:**
 
 * the order of letters is different from ISO standard;
-* for handwriting Maj has a [script](script.md) alphabet;
-
-## Capitalization
-
-Maj uses both lowercase and uppercase letters from Latin alphabet. 
-
-* Names of institutions, organizations, companies and countries are written with uppercase letters;
-* Names of persons, animals, streets and places are written with first capital letters;
-* Other things including noons, verbs, adverbs are written with lowercase letters;
+* for handwriting see also [script](script.md) alphabet;
 
 ## Pronunciation
 
@@ -52,10 +42,10 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 **Notes:**
 
-* Maj has a large range of familiar sounds, easy to produce;
+* Maj has a large range of sounds, easy to produce by humans;
 * Maj sounds are produced with your tongue behind your teeth;
-* Maj do not use "th" and "sh" digraphs like English do;
 * You will never bite yourself or spit around when you speak Maj;
+* Maj has deterministic phonetic rules, no need to spell words;
 
 **Tools:**
 
@@ -63,14 +53,14 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 **Reference:**
 
-For pronounciation we have used phonetic symbols: 
+For pronunciation we have used phonetic symbols: 
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 **Phonetic:**
 
-Maj is a phonetic language, which means it’s written the way it sounds, and vice versa.
+Phonetic notation haz language prefix and is enclosed in double quotes like this:
 
 * Maj phonetic:  MAJ:"word";
 * IPA phonetic:  IPA:"word";
@@ -79,28 +69,32 @@ Maj is a phonetic language, which means it’s written the way it sounds, and vi
 
 ## Vowels
 
-Maj has 6 vowels: { a e y i o u } unlike Italian that has only 5: 
+Maj has 5 vowels: { a e i o u } sounding like Italian: 
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
-* Letter `y`  is close front, like first `y` in "yellow";
-* Letter `i`  is closed-central like `i` in word "still";
+* Letter `i`  is close front, like `ee` in `geese`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
 ## Semi-vowels
 
-Maj has two semi-vowels: {h, w} that have special pronunciation:
+Maj has three semi-vowels: {y, h, w} that have special pronunciation:
+
+**Letter `y`:** Is close front, rounded vowel. [listen](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) This sound is similar to `i` in word "still". Ipa symbol for this sound is actually "y". 
+
+
+* zyna = "fairy"
 
 **Letter `h`:** has two pronunciations depending on it's position and previous letter:
 
-1. `ɦ` at beginning of words or after a vowel like "h" in "hoard";
-2. `ə` after a consonant or end of words like `e` in "after";
+* `ɦ` at beginning of words or after a vowel like "h" in "hoard";
+* `ə` after a consonant or end of words like `e` in "after";
 
 **examples:**
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
-* zhy  = "they"    in this case `h` is `ə` like IPA:"zəi"
+* zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
 **Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you relace "u" with "w". 
 
@@ -117,11 +111,11 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Consonants
 
-Maj is using 21 consonants:
+Maj is using 20 consonants:
 
 * plosive :  b, d, p, t, k 
 * nasal   :  m, n
-* trilled :  r, j, v, z, g, &
+* trilled :  r, j, v, z, g
 * labial  :  l, r
 * fricative: f, s, c, q, x
 * glottal: h
@@ -132,7 +126,6 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `g`  is hard G plosive-uvular like `g` in "guitar";
 * Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
@@ -159,22 +152,20 @@ Following letters are represented using digraphs in English.
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
 * Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
-* Letter `x` sounds `ʃ`   like `sh` in  "fashion": 
+* Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* Letter `&` sounds `d͡ʒ`   like `gi` in  "giraff": 
-[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 
 **Note:** Phonetic writing is using notation: IPA:
 
 **examples:** 
 
-* qoka = "chocolate" => IPA:"t͡ʃoka"    
-* xava = "shovel"    => IPA:"ʃava"    
-* koqa = "coach"     => IPA:"kot͡ʃa"  
-* qyka = "girl"      => IPA:"t͡ʃika"  
-* cita = "target"    => IPA:"t͡sɨta"  
+* qoka => IPA:"t͡ʃoka"  = "chocolate"   
+* xava => IPA:"ʃava"    = "shovel"    
+* koqa => IPA:"kot͡ʃa"  = "coach"     
+* qika => IPA:"t͡ʃika"  = "girl"      
+* cita => IPA:"t͡sita"  = "target"    
 
-**Modified: C**
+**Modified: c**
 
 Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
 
@@ -182,7 +173,7 @@ Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in En
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
 * ciga = ENG: "cigarette"  => IPA: "t͡səga"
 
-**Modified: K**
+**Modified: k**
 
 Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj.
 
@@ -191,24 +182,42 @@ Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pro
 * akwa = "water";
 * qoka = "chocolate";
 
-**Trilled R**
+**Trilled: r**
 
-Letter "R" and "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
+Letter "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
 
-**Fricative J** 
+**Fricative: j** 
 
 Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
 
-* yjma	=> IPA:"iʒma" = "picture"
+* ijma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
-**Affricate @** 
+**Soft: g** 
 
-Letter "@" = lowercase "&" must be followed by a vowel {a, e, y, i, o, u, h}. It represents a voiced post-alveolar affricate sound similar to `gi` in word "giraffe". This sound must be produced with the midle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-* &ema	 => IPA:"d͡ʒema" = "money"
+Soft "g" is followed by vowel {`i`, `e`}. In this case it becomes post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
-**Modified: Q**
+* gema	 => IPA:"d͡ʒema" = "money"
+
+Maj script is using letter `ფ` for soft g.
+
+**Hard: g** 
+
+[listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
+
+Hart "g" can be followed by vowels {`a`,`u`,`o`, `y`, `w`, `h`}. This sound is produced similar to K except it is softly vibrated. The IPA symbol for this sound is actually "g". It is a similar sound to `g` in "guitar".
+
+* goxa => IPA: "goʂa" = "left"
+* agra => IPA: "agra" = "farmer"
+
+Note: In most Romance languages "g" is problematic. Italian and Romanian is using silent "h" to create groups: "ghi" and "ghe". English and Spanish is using silenced "u" to make "gui" and "gue". In Maj we do not use silenced letters so we can not resolve this problem.
+
+Maj script is using letter `ɤ` for hard g.
+
+
+**Modified: q**
 
 In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
 
@@ -281,9 +290,9 @@ Weight |Sounds
 -------|----------------------------------------
   1    |aeyiou 
   2    |lmnfsx 
-  3    |bcdpth  
-  4    |vjrzkg
-  5    |&qw
+  3    |bkcdpt 
+  4    |vjrz
+  5    |hgqw
 
 **Cost:**  
 
@@ -299,7 +308,6 @@ Cost |  Letter
   2  |qweruiop
   3  |zxcvm 
   4  |tbyn
-  5  |@&
 
 **penalty:**
 
