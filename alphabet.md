@@ -2,36 +2,36 @@
 
 Maj is using 28 letters:
 
-Latin | IPA  | MAJ |Read
-------|------|-----|------
-  a   | a    | α   | ana
-  b   | b    | β   | boi
-  c   | ts   | ɕ   | tsa
-  d   | d    | დ   | dia
-  e   | e    | ɛ   | ela 
-  f   | f    | ღ   | foa
-  G   | ɢ    | ɣ   | goa
-  H   | ɦ    | ჩ   | hia
-  i   | i    | ʚ   | iwa 
-  h   | ə    | ɚ   | əia
-  j   | ʒ    | ʓ   | jia
-  k   | k    | ც   | kea
-  l   | l    | ჺ   | loa
-  m   | m    | შ   | moa
-  n   | n    | ნ   | noa
-  o   | o    | თ   | ova
-  p   | p    | թ   | poa
-  q   | tʃ   | ƍ   | qia
-  r   | r    | რ   | ria
-  s   | s    | σ   | sia 
-  x   | ʂ    | ϰ   | xia
-  t   | t    | ζ   | tau 
-  u   | u    | υ   | ura
-  v   | v    | ϑ   | vea
-  g   | dʒ   | ფ   | gea
-  y   | y    | Կ   | yna
-  w   | u    | ω   | wea  
-  z   | z    | z   | zen
+Latin | IPA  | MAJ 
+------|------|-----
+  a   | a    | α
+  b   | b    | β
+  c   | ts   | ɕ
+  d   | d    | დ
+  e   | e    | ɛ
+  f   | f    | ღ
+  g   | g    | ɤ
+  h   | ɦ    | ჩ
+  i   | i    | ʚ
+  j   | dʒ   | ფ
+  ə   | ə    | ɚ
+  ʒ   | ʒ    | ʓ
+  k   | k    | ჺ
+  l   | l    | ჲ
+  m   | m    | შ
+  n   | n    | ნ
+  o   | o    | თ
+  p   | p    | թ
+  q   | tʃ   | ƍ
+  r   | r    | რ
+  s   | s    | σ
+  x   | ʂ    | ϰ
+  t   | t    | უ
+  u   | u    | υ
+  v   | v    | ϑ
+  y   | y    | Կ
+  w   | u    | ω
+  z   | z    | z
 
 **notes:**
 
