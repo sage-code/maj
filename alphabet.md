@@ -52,7 +52,7 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 Maj has a very good tools for beginners to learn how to read correctly:
 
 * Maj IPA: [phonetic convertor](https://lingojam.com/MajIPA)
-* Maj Script: [script convertor](https://lingojam.com/MajConvertor)
+* Maj Script: [script convertor](https://lingojam.com/MajScript)
 
 **Reference:**
 
