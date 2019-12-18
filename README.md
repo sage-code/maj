@@ -1,28 +1,29 @@
 # Maj
 
-Maj is a new creole language for young adults.
+Maj is a community language for Sage Code members!
 
 **Attributes:**
 
-Maj is a logic language with following addributes:
+Maj is a logically correct language with following addributes:
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
 3. Familiar  - uses familiar European phonetics;
 
-**Goals ...**
+**Purpose ...**
 
-1. Maj is for games;
-2. Maj is for study;
-3. Maj is for family;
-4. Maj is for friendship;
-5. Maj is for entertainment;
+Maj should look familiar to a native Romance language speaker.
+
+1. Maj is for study;
+2. Maj is for business;
+3. Maj is for friendship;
+4. Maj is for entertainment;
 
 **Maj is not ...**
 
 1. a secret language;
-1. a mystic language;
 1. a cryptic language;
+1. a mystic language;
 
 **Principles:**
 
@@ -36,34 +37,15 @@ Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Mission of Maj alphabet is to maximize the number of sounds using 26 ISO Latin letters.
- 
-**Print:**
+Mission of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately print characters are not easy to write therefore Maj has actually two alphabets: print and script.
 
-The print alphabet is for writing with QWERTY keyboard: 
- 
-```
------------------------------------
-A   B   K   D   E   F   G   H   Y
-a   b   k   d   e   f   g   h   Y
------------------------------------
- J   L   Q   C  M   N   O   P   R   
- j   l   q   c  m   n   o   p   r  
- ----------------------------------
- S   X   T   U   I   W   V   Z  @   
- s   x   t   u   i   w   v   z  &     
------------------------------------
-```
-
-**Notes:**
-
-* Maj has a _phonetic_ alphabet, that means one sound for one letter;
-* Maj has a total of 27+1 = 28 sounds associated with letters;
-* There is 1 letters: h having 2 distinct associated sounds;
+* Maj has a total of 28 sounds associated with alphabet letters;
+* Maj has deterministic phonetic rules for reading;
+* There are 2 letters: {h, g} having associated 2 sounds each;
 
 **Phoneme:**
 
-A phoneme is a consonant or a diphthong associated with two letters:
+A phoneme is a consonant, vowel or a diphthong:
 
 * Maj has 55 phonemes 
 * English has 44 phonemes;
@@ -79,18 +61,18 @@ Details: [Maj alphabet](alphabet.md)
 
 **Script:**
 
-Maj has an alternative hand writing alphabet optimized for stylus.
+Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
 * ƍ⍺ʋ.შʋნ⍺;   = qau muna;
 * ɚთ⍺.ɚσ.შ⍺უ! = eta es maj!
 
-The script alphabet is mapped 1:1 with the Latin print alphabet.
+The script alphabet is mapped with the Latin print alphabet.
 
-[Script details](script.md)
+Read more: [Script details](script.md)
 
 There is a dual conversion tool from Latin into Maj script:
 
-[Script converter](https://lingojam.com/MajScript)
+Tool: [Script converter](https://lingojam.com/MajScript)
 
 **Numerals:**
 
@@ -120,14 +102,12 @@ Maj will have about 2000 words, inspired from 7 different languages.
 
 **technical:**
 
-Maj is using the _power of 3_ to organize words in propositions:
+Coincidental, Maj is using the _power of 3_ to organize itself:
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases: {nominative, objective, possessive};
-1. There are 3 alphabets in Maj: Lowercase, Uppercase and Script;
-1. The alphabet has 3 x 3 x 3 = 27 distinct letters;
 1. There are 3 cost algorithms: {reading, writing, typing};
 
 **Read more about:** [basic grammar](basic.md)
