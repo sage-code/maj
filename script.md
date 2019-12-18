@@ -35,7 +35,7 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **example:**
 
-1. ნυ.կრდυ.ɕυ.ƍʚშα.ωɛჲ.ɕυ.შαჺα;
+1. იυ.կუდυ.ɕυ.ƍʚრα.ωɛჲ.ɕυ.რαჺα.
 1. nu yrdu cu qima wel cu maka;
 1. we go to cinema or to supermarket;
 
@@ -43,24 +43,6 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 * In Maj script, words are separated by a dot instead of space. 
 * It is possible to add one space after the dot, before the next letter. 
-
-## References:
-
-Next letters are the foreign letters used as candidates for Maj alphabet.
-
-* ა ბ გ დ ე ვ ზ თ ი კ ლ 
-* მ ნ ო პ ჟ რ ს ტ უ ფ ქ 
-* ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ 
-* ჱ ჲ ჳ ჴ ჵ ჶ ჷ ჸ ჹ ჺ
-* α ⍺ β γ μ ν ρ σ υ φ ω 
-* ϑ ϱ Ձ δ ζ λ ε ο η Գ Թ 
-* Յ Չ Ր ժ ա և ո ռ Շ Ն Ղ 
-* Կ ƍ Ɣ ɣ ƨ ƪ Ʋ ɕ ɱ ɲ ɳ 
-* ʃ ʊ ʋ ʎ ʏ ʓ ʒ ʝ Ω б  
-* Ո շ ջ ∂ ϐ ϒ ɚ ɕ б Ծ ց 
-* ɀ ɡ ʚ s ʋ ʒ ʂ ɦ z ϰ
-
-**Note:** We could have invent our own letters, but we have preferred to do a compilation instead. This is an opportunity for Maj scholars to learn symbols from different alphabets. I thought this could be interesting since some of the letters should look familiar to you already. Some are Greek letters, some are Georgian letters and some are Latin letters. All these letters have something in common. They are easy to write with stylus using a single continuous movement of the pen on paper without interruptions.
 
 
 And this is done. Great!

@@ -115,12 +115,12 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 Maj is using 21 consonants:
 
-* plosive :  b, d, p, t, k 
-* nasal   :  m, n
-* trilled :  r, j, v, z, ğ, ĝ
-* labial  :  l, r
-* fricative: f, s, c, q, x
-* glottal : h
+* plosive  :  b, d, p, t, k 
+* nasal    :  m, n
+* trilled  :  r, j, v, z, ğ, ĝ
+* labial   :  l, r
+* fricative:  f, s, c, q, x
+* glottal  :  h
 
 Most consonants are similar to: Italian and Romanian;
 
