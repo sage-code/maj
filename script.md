@@ -1,30 +1,14 @@
 ## Maj script
 
-Maj script is a creole alphabet with letters from Georgian, Greek and Latin. Maj script has 27 letters in contrast to Latin alphabet who has only 26 letters. 
+Maj script is a creole alphabet with letters from Georgian, Greek and Latin. Maj script has 28 letters in contrast to Latin alphabet who has only 26 letters. 
 
-* Maj script do not have uppercase letters;  
 * Maj letters are continuous, single strike;
 * Maj script is for writing with stylus on tablet;
 * Maj script is mapped almost 1:1 with Lating alphabet;
 
-Latin | Maj| IPA  | Latin | Maj | IPA   | Latin | Maj | IPA 
-------|----|------|-------|-----|-------|-------|-----|--------
-  a   | ⍺  | ʌ    | j     | უ   | ʒɨ    | s     | σ   | sɨ      
-  b   | ჵ  | bɨ   | l     | ჺ   | lɨ    | x     | ɕ   | ʂɨ      
-  k   | ϰ  | kɨ   | c     | ც   | t͡sʌ   | t     | თ   | tɨ      
-  d   | დ  | dɨ   | q     | ƍ   | t͡ʃʌ   | u     | ʋ   | u       
-  e   | ɚ  | e    | m     | შ   | mɨ    | i     | ʚ   | ɨ      
-  f   | ღ  | fɨ   | n     | ნ   | nɨ    | w     | ω   | uʌ     
-  g   | ɣ  | ɢɨ   | o     | ჲ   | o     | v     | ϑ   | vʌ     
-  h   | ჩ  | ɦɨ   | p     | ფ   | pɨ    | z     | ʓ   | zʌ     
-  y   | ყ  | i    | r     | რ   | rɨ    | &     | &   | d͡ʒʌ
-
-**exception:**
-Additional letter  & = @ is pronounced like "g" in "giraffe".
-
 ## Writing direction
 
-To write a Maj letter you start with position 1, then you continue with move 2 and do not lift your pen until you finish the letter. Some letters have loops and some letters have full stop and return. The more movements a letter has the more expensive it is. 
+To write a Maj letter you start with move 1, then you continue with move 2 and do not lift your pen until you finish the letter. Some letters have loops and some letters have full stops wit return. The more movements a letter has the more expensive it is. 
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
@@ -43,7 +27,7 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **Tools:**  
   
-* [Maj Script Convertor](https://lingojam.com/MajConvertor)
+* [Maj Script Convertor](https://lingojam.com/MajScript)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
   
 
@@ -51,7 +35,7 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **example:**
 
-1. ნʋ.ყრდʋ.ცʋ.ƍʚშ⍺.ωɚჺ.ცʋ.შ⍺ϰ⍺;
+1. ნυ.կრდυ.ɕυ.ƍʚშα.ωɛჲ.ɕυ.შαჺα;
 1. nu yrdu cu qima wel cu maka;
 1. we go to cinema or to supermarket;
 
