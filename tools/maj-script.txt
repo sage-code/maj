@@ -2,11 +2,11 @@
 
 
 ###name, Name of your translator...:
-Maj Script converter
+Maj Script
 
 
 ###subtitle, Subtitle (optional):
-Version Two
+Reversible Latin to Maj Convertor
 
 
 ###language1, Language1 name...:
@@ -18,7 +18,7 @@ Maj
 
 
 ###description, Description...:
-Maj constructed script.
+Maj script converter.
 
 
 ###email, Admin email (optional)...:
@@ -44,91 +44,110 @@ elucian.moise@gmail.com
 ###intraword1, Latin list...:
 a
 b
-k
+c
 d
 e
 f
-g
-h
-y
+i
 j
+ə
+ʒ
+k
 l
-c
-q
 m
 n
 o
 p
+q
 r
 s
 x
 t
 u
-i
-w
 v
+y
+w
 z
+ĝ
+ğ
+ɦ
 
 
 ###intraword2, Maj list...:
-⍺
-ჵ
-ϰ
+α
+β
+ɕ
 დ
-ɚ
+ɛ
 ღ
-ɣ
-ჩ
-ყ
-უ
+ʚ
+ʓ
+ɚ
+ʓ
 ჺ
-ც
-ƍ
-შ
-ნ
 ჲ
-ფ
+შ
+წ
+თ
+թ
+ƍ
 რ
 σ
-ɕ
-თ
-ʋ
-ʚ
-ω
+ϰ
+უ
+υ
 ϑ
-ʓ
+Կ
+ω
+z
+ფ
+ɤ
+ჩ
 
 
 ###prefixes1, Latin list...:
-
+h
+g
 
 
 ###prefixes2, Maj list...:
-
+ჩ
+ɤ
 
 
 ###suffixes1, Latin list...:
-
+g
 
 
 ###suffixes2, Maj list...:
-
+ɤ
 
 
 ###regex1, Latin list...:
-/([^\s+]) ?/g 
+/([^\s]+) ?/g
+/([αɛʚთυկ])(h)/g
+/([gβɕდღɤფʓჺჲშნթრσუϑϰzω])(h)/g
+/[gɤ]([ɛʚ])/g
+/g([hɚαɛʚთυկβɕდღʓჺჲშნթრσუϑϰzω])/g
 
 
 ###regex2, Maj list...:
 $1.
+$1ჩ
+$1ɚ
+ფ$1
+ɤ$1
+
+
+
 
 
 ###rev_regex1, Maj list...:
-/([^.]+)) ?/g 
+/[.]([\s]+)/g 
 
 
 ###rev_regex2, Latin list...:
- $1 
+ $1
 
 
 ###ordering1, Latin list...:

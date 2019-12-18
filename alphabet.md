@@ -16,15 +16,15 @@ Latin | IPA  | MAJ
   j   | ʒ    | ʓ
   k   | k    | ჺ
   l   | l    | ჲ
-  m   | m    | შ
-  n   | n    | ნ
+  m   | m    | რ
+  n   | n    | ი
   o   | o    | თ
-  p   | p    | թ
+  p   | p    | წ
   q   | t͡ʃ  | ƍ
-  r   | r    | რ
+  r   | r    | უ
   s   | s    | σ
   x   | ʂ    | ϰ
-  t   | t    | უ
+  t   | t    | ζ
   u   | u    | υ
   v   | v    | ϑ
   y   | y    | Կ
