@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a community language for Sage Code members!
+Maj is a logic and comprehensive constructed language for Sage Code community.
 
 **Attributes:**
 
