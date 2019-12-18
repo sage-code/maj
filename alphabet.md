@@ -10,7 +10,7 @@ Latin | IPA  | MAJ
   d   | d    | დ
   e   | e    | ɛ
   f   | f    | ღ
-  g,ġ | g,d͡ʒ| ɤ,ფ
+  ğ,ĝ | g,d͡ʒ| ɤ,ფ
   h,ə | ɦ,ə  | ჩ,ɚ
   i   | i    | ʚ
   j   | ʒ    | ʓ
@@ -49,7 +49,10 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 **Tools:**
 
-* Maj IPA: [phonetic translator](https://lingojam.com/MajIPA)
+Maj has a very good tools for beginners to learn how to read correctly:
+
+* Maj IPA: [phonetic convertor](https://lingojam.com/MajIPA)
+* Maj Script: [script convertor](https://lingojam.com/MajConvertor)
 
 **Reference:**
 
@@ -62,8 +65,8 @@ For pronunciation we have used phonetic symbols:
 
 Phonetic notation haz language prefix and is enclosed in double quotes like this:
 
-* Maj phonetic:  MAJ:"word";
-* IPA phonetic:  IPA:"word";
+* Maj phonetic: MAJ:"word";
+* IPA phonetic: IPA:"word";
 * English phonetic: ENG:"word";
 * Franch phonetic: FRA:"word";
 
@@ -83,21 +86,19 @@ Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 **Letter `y`:** Is close front, rounded vowel. [listen](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) This sound is similar to `i` in word "still". Ipa symbol for this sound is actually "y". 
 
-
 * zyna = "fairy"
 
 **Letter `h`:** has two pronunciations depending on it's position and previous letter:
 
-* `ɦ` at beginning of words or after a vowel like "h" in "hoard";
-* `ə` after a consonant or end of words like `e` in "after";
-* `ə` can be used instead of `h` in chat or text when available;
+* `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
+* `ə` after a consonant or end of words, sounds like `e` in "after";
 
 **examples:**
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you relace "u" with "w". 
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you replace "u" with "w". 
 
 **interjections:**
 
@@ -112,14 +113,14 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Consonants
 
-Maj is using 20 consonants:
+Maj is using 21 consonants:
 
 * plosive :  b, d, p, t, k 
 * nasal   :  m, n
-* trilled :  r, j, v, z, g
+* trilled :  r, j, v, z, ğ, ĝ
 * labial  :  l, r
 * fricative: f, s, c, q, x
-* glottal: h
+* glottal : h
 
 Most consonants are similar to: Italian and Romanian;
 
@@ -129,7 +130,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
 * Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
-* Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church", "chin";
+* Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church";
 * Letter  `m`  is nasal, bilabial, like `m` in "mule";
 * Letter  `n`  is alveolar, nasal, like `n` in "novel";
 * Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
@@ -141,13 +142,15 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
+**Note:** Letters  `g` and `h` have two distinct pronounciations sounds that will be explained below, so keep reading to find out details.
+
 ## Difficult sounds
 
-There are some rules and concepts you must understand for reading and writing Maj letters:
+There are some concepts you must understand for reading and writing Maj correctly:
 
 **Digraphs**
 
-Following letters are represented using digraphs in English.
+Following letters are represented using digraphs in English but not in Maj.
 
 * Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
@@ -156,7 +159,7 @@ Following letters are represented using digraphs in English.
 * Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-**Note:** Phonetic writing is using notation: IPA:
+**Note:** Phonetic writing is quoted using IPA: notation. 
 
 **examples:** 
 
@@ -168,7 +171,7 @@ Following letters are represented using digraphs in English.
 
 **Modified: c**
 
-Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
+Maj letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
@@ -176,7 +179,7 @@ Te Letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in En
 
 **Modified: k**
 
-Letter "k" is similar to "g" (plosive-valear) but  is not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj.
+Maj letter "k" is plosive-valear not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj.
 
 **examples:**
 
@@ -194,29 +197,39 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 * ijma	=> IPA:"iʒma" = "picture"
 * joka  => IPA:"ʒoka" = "game"
 
-**Soft: g** 
+**Modified: g**
+
+Maj letter `g` has two versions: 
+
+* hard g = ğ
+* soft g = ĝ
+
+In most Romance languages "g" is problematic. Italian and Romanian is using "ge", "gi" for soft "g". However there are two problems with this: First the other vowels will not produce a soft "g". For example sound `d͡ʒa` can not be produced conveniently. Avoinding soft "g" is expensive. You must use groups "ghi" and "ghe" to resolve this problem.
+
+English and Spanish is using silenced "u" to make "gui" and "gue". However this introduce another problem. In old Spanish you must use u qirh diaeresis `ü` to make sound `u` audible. After Spanish reform you must know the word to pronounce it correctly. 
+
+Maj has a similar problem, resolved by using cedila for print alphabet and by making two letters in scripting alphabet: {ĝ = ფ, ğ = ɤ} 
+
+**Soft: g = ĝ** 
 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-Soft "g" = "ġ" is followed by vowel {`i`, `e`}. In this case it becomes post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth and is softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
-* gema	 => IPA:"d͡ʒema" = "money"
+* ĝema = gema	 => IPA:"d͡ʒema" = "money"
 
-Maj script is using letter `ფ` for soft g.
+Maj script is using letter `ფ` for `ĝ` and soft `g`.
 
-**Hard: g** 
+**Hard: g = ğ** 
 
 [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
-Hart "g" can be followed by vowels {`a`,`u`,`o`, `y`, `w`, `h`}. This sound is produced similar to K except it is softly vibrated. The IPA symbol for this sound is actually "g". It is a similar sound to `g` in "guitar".
+Letter "g" followed by vowels {`a`,`u`,`o`, `y`, `w`, `h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
 
-* goxa => IPA: "goʂa" = "left"
-* agra => IPA: "agra" = "farmer"
+* goxa = ğoxa => IPA: "goʂa" = "left"
+* agra = ağra => IPA: "agra" = "farmer"
 
-Note: In most Romance languages "g" is problematic. Italian and Romanian is using silent "h" to create groups: "ghi" and "ghe". English and Spanish is using silenced "u" to make "gui" and "gue". In Maj we do not use silenced letters so we can not resolve this problem.
-
-Maj script is using letter `ɤ` for hard g.
-
+Maj script is using letter `ɤ` for hard `g`.
 
 **Modified: q**
 
@@ -226,11 +239,13 @@ In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It soun
 * qesa = "ceez" is read like IPA: "t͡ʃesa";
 * qoka = "chocolate" is read like IPA: "t͡ʃoka";
 
-**Modified: X**
+**Note:** Letter "q" is always followed by a vowel or semivowel and can not be followed by a consonant. In many Romance alphabets this letter is restricted to be followed only by vowel "u" but Maj has modified this letter to make it more useful.
 
-Letters `X` and `x` are pronounced like: `sh` in `sheep`. You can avoid `ş` by using group `ks`.  To prodice "ş" sound you must softly press the middle of your tongue on the roof top of the mouth and produce a fricative whispering sound. 
+**Modified: x**
 
-* Word: "xi" means "keep it quiet" similar to many languages;
+Letters `x` is like: `sh` in `sheep`. To prodice this sound you must softly press the middle of the tongue on the roof top of your mouth and produce a fricative whispering sound. 
+
+* Word: "xi" means "keep it quiet" similar to many Romance languages;
 * Xue is pronounced "ʃue" and represent a Chinese name; 
 * Luxembourg is written Luxemburg and is read "Luʃemburg" in Maj;
 
