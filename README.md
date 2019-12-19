@@ -27,35 +27,45 @@ Maj should look familiar to a native Romance language speaker.
 
 **Principles:**
 
-Basic principles for Maj construction:
+Maj is a Logic and regular language. It is based on our natural ability to make associations. 
 
-1. Maj is using ISO Latin alphabet for regular typing;
-1. Letters and words are oriented from left to right;
-1. One proposition is terminated with ";","!" or "?";
+* The numers are ordered from 1 to 10
+* The days are ordered from 1 to 7
+* The month are ordered from 1 to 12
+
+The letters in words and words in propositions are ordered from left to right. Like any Romance languages.
 
 Rad more: [use cases](case.md)
 
 ## Alphabet
 
-Mission of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately print characters are not easy to write therefore Maj has actually two alphabets: print and script.
+Mission of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately print characters are not easy to write therefore Maj has actually two alphabets: print alphabet and script alphabet.
 
-* Maj has a total of 28 sounds associated with alphabet letters;
-* Maj has deterministic phonetic rules for reading;
+* Maj has a total of 28 letters in the alphabet;
+* Maj has deterministic phonetic rules for reading and writing;
 * There are 2 letters: {h, g} having associated 2 sounds each;
+
+The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently to include the missing letters: hard G = ğ and soft G = ĝ, plust the additional letter ə = ă that is not available in ISO Latin.
+
+```
+a	b	c	d	e	f	ğ ĝ	ɦ ə	i	j k l 
+m	n	o	p	q	r	s	x	t	u	v	y	w	z
+```
 
 **Phoneme:**
 
 A phoneme is a consonant, vowel or a diphthong:
 
 * Maj has 55 phonemes 
-* English has 44 phonemes;
+* English has only 44 phonemes;
 * Italian has only 30 phonemes;
-* Romanian has 29 phonemes;
-* French has 39 phonemes;
+* Romanian has only 29 phonemes;
+* French has only 39 phonemes;
 
 from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
 
-Since Maj has more phonemes than other languages it can have shorter words.
+**Notes:**
+Since Maj has more phonemes than other Romance languages it can have shorter words. We think it does. Two additional letters are little price to pay for a big advantage. Unfortunately we have introduced letters: "ğ ĝ ɦ ə" that are not on the keyboard. To compensate we have established reading rules so that you can use normal "g" and normal "h" to compensate for the missingl letters. 
 
 Details: [Maj alphabet](alphabet.md)
 
