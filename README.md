@@ -47,10 +47,10 @@ Mission of Maj alphabet is to maximize the number of sounds using ISO Latin lett
 
 The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently to include the missing letters: hard G = ğ and soft G = ĝ, plust the additional letter ə = ă that is not available in ISO Latin.
 
-```
-a	b	c	d	e	f	ğ ĝ	ɦ ə	i	j k l 
-m	n	o	p	q	r	s	x	t	u	v	y	w	z
-```
+
+a | b | c | d | e |f |ğ |ĝ |ɦ |ə |i |j |k |l |
+m |n  |o  |p  |q  |r |s |x |t |u |v |y |w |z |
+
 
 **Phoneme:**
 
