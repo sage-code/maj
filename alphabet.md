@@ -1,12 +1,12 @@
 # MAJ Alphabet
 
-Maj is using 28 letters. Each letter has a name.
+Maj alphabet has 28 letters. Each letter has am unique name.
 
 Latin | IPA  | MAJ | Name
 ------|------|-----|---------
   a   | a    | α   | alfa
-  b   | b    | β   | buba
-  c   | t͡s  | ɕ   | cyca
+  b   | b    | β   | beta
+  c   | t͡s  | ɕ   | cyka
   d   | d    | დ   | duda
   f   | f    | ღ   | fifa
   ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝa  
@@ -31,7 +31,6 @@ Latin | IPA  | MAJ | Name
   y   | y    | Կ   | ynka
   z   | z    | z   | zika
 
-
 **notes:**
 
 * the order of letters is different from ISO standard;
@@ -52,8 +51,8 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 Maj has a very good tools for beginners to learn how to read correctly:
 
-* Maj IPA: [phonetic convertor](https://lingojam.com/MajIPA)
-* Maj Script: [script convertor](https://lingojam.com/MajScript)
+* Maj IPA: [phonetic](https://lingojam.com/MajIPA)
+* Maj Script: [convertor](https://lingojam.com/MajScript)
 
 **Reference:**
 
