@@ -1,35 +1,36 @@
 # MAJ Alphabet
 
-Maj is using 28 letters:
+Maj is using 28 letters. Each letter has a name.
 
 Latin | IPA  | MAJ | Name
-------|------|-----|------
+------|------|-----|---------
   a   | a    | α   | alfa
-  b   | b    | β   | beta
-  c   | t͡s  | ɕ   | cona
-  d   | d    | დ   | dona 
-  f   | f    | ღ   | foma  
-  ğ,ĝ | g,d͡ʒ| ɤ,ფ | gama, gi  
-  ɦ,ə | ɦ,ə  | ჩ,ɚ | hana, hə
-  e   | e    | ɛ   | elon   
-  i   | i    | ʚ   | ilea
-  j   | ʒ    | ʓ   | jima
-  k   | k    | ჺ   | koma
-  l   | l    | ჲ   | lina
-  m   | m    | რ   | mana
+  b   | b    | β   | buba
+  c   | t͡s  | ɕ   | cyca
+  d   | d    | დ   | duda
+  f   | f    | ღ   | fifa
+  ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝa  
+  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦorə
+  e   | e    | ɛ   | enea
+  i   | i    | ʚ   | ilia
+  j   | ʒ    | ʓ   | juja
+  k   | k    | ჺ   | koka
+  l   | l    | ჲ   | lola
+  m   | m    | რ   | mona
   n   | n    | ი   | nina
-  o   | o    | თ   | oina
-  p   | p    | წ   | puma
-  q   | t͡ʃ  | ƍ   | quma
-  r   | r    | უ   | rima
-  s   | s    | σ   | sima
-  x   | ʂ    | ϰ   | xaka
-  y   | y    | Կ   | xyma  
-  t   | t    | ζ   | tuma  
-  u   | u    | υ   | ulma  
-  v   | v    | ϑ   | vila
-  w   | u    | ω   | waka
-  z   | z    | z   | zeta
+  o   | o    | თ   | oslo
+  p   | p    | წ   | pupa
+  q   | t͡ʃ  | ƍ   | qoka
+  r   | r    | უ   | rora
+  s   | s    | σ   | susa
+  t   | t    | ζ   | teta  
+  u   | u    | υ   | ursa
+  v   | v    | ϑ   | veva
+  w   | u    | ω   | dova
+  x   | ʂ    | ϰ   | xoka
+  y   | y    | Կ   | ynka
+  z   | z    | z   | zika
+
 
 **notes:**
 
