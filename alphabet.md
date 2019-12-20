@@ -2,34 +2,34 @@
 
 Maj is using 28 letters:
 
-Latin | IPA  | MAJ 
-------|------|-----
-  a   | a    | α
-  b   | b    | β
-  c   | t͡s  | ɕ
-  d   | d    | დ
-  e   | e    | ɛ
-  f   | f    | ღ
-  ğ,ĝ | g,d͡ʒ| ɤ,ფ
-  ɦ,ə | ɦ,ə  | ჩ,ɚ
-  i   | i    | ʚ
-  j   | ʒ    | ʓ
-  k   | k    | ჺ
-  l   | l    | ჲ
-  m   | m    | რ
-  n   | n    | ი
-  o   | o    | თ
-  p   | p    | წ
-  q   | t͡ʃ  | ƍ
-  r   | r    | უ
-  s   | s    | σ
-  x   | ʂ    | ϰ
-  t   | t    | ζ
-  u   | u    | υ
-  v   | v    | ϑ
-  y   | y    | Կ
-  w   | u    | ω
-  z   | z    | z
+Latin | IPA  | MAJ | Name
+------|------|-----|------
+  a   | a    | α   | alfa
+  b   | b    | β   | beta
+  c   | t͡s  | ɕ   | cona
+  d   | d    | დ   | dona 
+  f   | f    | ღ   | foma  
+  ğ,ĝ | g,d͡ʒ| ɤ,ფ | gama, gi  
+  ɦ,ə | ɦ,ə  | ჩ,ɚ | hana, hə
+  e   | e    | ɛ   | elon   
+  i   | i    | ʚ   | ilea
+  j   | ʒ    | ʓ   | jima
+  k   | k    | ჺ   | koma
+  l   | l    | ჲ   | lina
+  m   | m    | რ   | mana
+  n   | n    | ი   | nina
+  o   | o    | თ   | oina
+  p   | p    | წ   | puma
+  q   | t͡ʃ  | ƍ   | quma
+  r   | r    | უ   | rima
+  s   | s    | σ   | sima
+  x   | ʂ    | ϰ   | xaka
+  y   | y    | Կ   | xyma  
+  t   | t    | ζ   | tuma  
+  u   | u    | υ   | ulma  
+  v   | v    | ϑ   | vila
+  w   | u    | ω   | waka
+  z   | z    | z   | zeta
 
 **notes:**
 
