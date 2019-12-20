@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. For each letter letter there is an unique name so we have 26 named letters. Letter g and letter h have two distinct pronounciation but only one name for each.
+Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations and one one name each. So we have only 26 names, pne name for each Latin letter.
 
 **notes:**
 * the order of letters is different from ISO standard;
