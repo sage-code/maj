@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. Each letter has am unique name.
+Maj alphabet has 28 letters. For each letter letter there is an unique name so we have 26 named letters. Letter g and letter h have two distinct pronounciation but only one name for each.
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -12,10 +12,10 @@ Latin | IPA  | MAJ | Name
 ------|------|-----|---------
   a   | a    | α   | alfa
   b   | b    | β   | beta
-  c   | t͡s  | ɕ   | cuka
+  c   | t͡s   | ɕ   | cuka
   d   | d    | დ   | duda
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝə  
+  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝə  
   ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦorə
   e   | e    | ɛ   | enea
   i   | i    | ʚ   | ilia
@@ -26,7 +26,7 @@ Latin | IPA  | MAJ | Name
   n   | n    | ი   | nina
   o   | o    | თ   | oslo
   p   | p    | წ   | pupa
-  q   | t͡ʃ  | ƍ   | qoka
+  q   | t͡ʃ   | ƍ   | qoka
   r   | r    | უ   | roka
   s   | s    | σ   | susa
   t   | t    | ζ   | teta  
