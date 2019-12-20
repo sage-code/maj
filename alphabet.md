@@ -50,7 +50,7 @@ Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/P
 
 **Tools:**
 
-Maj has a very good tools for beginners to learn how to read correctly:
+Maj has some tools for beginners to learn how to read correctly:
 
 * Maj IPA: [phonetic](https://lingojam.com/MajIPA)
 * Maj Script: [convertor](https://lingojam.com/MajScript)
@@ -64,7 +64,7 @@ For pronunciation we have used phonetic symbols:
 
 **Phonetic:**
 
-Phonetic notation haz language prefix and is enclosed in double quotes like this:
+Phonetic notation has language prefix and is enclosed in double quotes like this:
 
 * Maj phonetic: MAJ:"word";
 * IPA phonetic: IPA:"word";
@@ -107,7 +107,7 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 * wa! (administration)
 * wo! (surprise)
-* wy! (happiness)
+* wi! (happiness)
 * we! (sadness, cry)
 * wu! (disapproval)
 * wh! (disgusting)
@@ -143,7 +143,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
-**Note:** Letters  `g` and `h` have two distinct pronounciations sounds that will be explained below, so keep reading to find out details.
+**Note:** Letters  `g` have two distinct pronounciations: `ğ`and `ĝ` that will be explained below.
 
 ## Difficult sounds
 
