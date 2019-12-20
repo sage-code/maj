@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations and one one name each. So we have only 26 names, pne name for each Latin letter.
+Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations but only one name. So we have only 26 names. The secondary promounciation has a shorter name.
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -15,7 +15,7 @@ Latin | IPA  | MAJ | Name
   c   | t͡s   | ɕ   | cuka
   d   | d    | დ   | duda
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝə  
+  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝy  
   ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦorə
   e   | e    | ɛ   | enea
   i   | i    | ʚ   | ilia
@@ -91,10 +91,12 @@ Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 **Letter `h`:** has two pronunciations depending on it's position and previous letter:
 
-* `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
-* `ə` after a consonant or end of words, sounds like `e` in "after";
+* `ɦ` name:(ɦo) at beginning of words or after a vowel sounds like "h" in "hoard";
+* `ə` name:(rə) after a consonant or end of words, sounds like `e` in "after";
 
 **examples:**
+
+Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert back to these symbols from Maj.
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -202,8 +204,12 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 
 Maj letter `g` has two versions: 
 
-* hard g = ğ
-* soft g = ĝ
+* hard g = ğ with name:(ğo) script:(ɤ) IPA:"g"
+* soft g = ĝ with name:(ĝy) script:(ფ) IPA:"d͡ʒ"
+
+Since on QUERTY KEYBOARD there is not `ğ` and no `ĝ` you can use "g" instead. We have rules to distinguish the two pronounciations. However if you can it is more correct to use cedilla for each pronounciation. The script conversion tool will use this symbols to convert a word from Maj to Latin.
+
+**notes:**
 
 In most Romance languages "g" is problematic. Italian and Romanian is using "ge", "gi" for soft "g". However there are two problems with this: First the other vowels will not produce a soft "g". For example sound `d͡ʒa` can not be produced conveniently. Avoinding soft "g" is expensive. You must use groups "ghi" and "ghe" to resolve this problem.
 
