@@ -93,10 +93,6 @@ singular                 | plural
  al thu = yours          | al vua = yours
  al shu = his, hers, its | al zua = theirs
 
-**note:* 
- * it is a total of: 6 x 4 = 24+1 pronouns
- * there is no gender differentiation for 3'rd person
-
 ## Reflexive
 
 Maj has a reflexive pronoun and reflexive determinant preposition:
@@ -121,6 +117,10 @@ Full reflexive word: "syfo" = "self"
 * tu te joka solo = you are playing alone
 * yo mh leva syfo = I am washing myself
 * su se waza syfo = he is resting himself
+
+**note:* 
+ * it is a total of: 6 x 4 = 24 pronouns
+ * there is no gender differentiation for 3'rd person
 
 ## Verbs
 

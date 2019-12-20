@@ -3,8 +3,11 @@
 **facts:**
 
 * Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500;
-* Existing spoken languages become more and more complex as time pass by and therefore difficult to learn;
-* Esisting spoken languages are wild and difficult to optimize due to schools and government intervention;
+* Existing spoken languages become more complex as time pass and therefore difficult to learn;
+* Existing spoken languages are difficult to optimize due to schools and government intervention;
+* Existing are thought in schools to be uses as it is not to improve the language;
+
+For learning English you need about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words.
 
 **about Maj:** 
 

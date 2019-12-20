@@ -33,7 +33,7 @@ Basic principles for Maj construction:
 1. Letters and words are oriented from left to right;
 1. One proposition is terminated with ";","!" or "?";
 
-Rad more: [use cases](case.md)
+**Rad more:** [case](case.md)
 
 ## Alphabet
 
