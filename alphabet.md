@@ -21,7 +21,7 @@ Latin | IPA  | MAJ | Name
   o   | o    | თ   | oslo
   p   | p    | წ   | pupa
   q   | t͡ʃ  | ƍ   | qoka
-  r   | r    | უ   | rora
+  r   | r    | უ   | roka
   s   | s    | σ   | susa
   t   | t    | ζ   | teta  
   u   | u    | υ   | ursa
