@@ -9,7 +9,7 @@ Latin | IPA  | MAJ | Name
   c   | t͡s  | ɕ   | cyka
   d   | d    | დ   | duda
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝa  
+  ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝə  
   ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦorə
   e   | e    | ɛ   | enea
   i   | i    | ʚ   | ilia
