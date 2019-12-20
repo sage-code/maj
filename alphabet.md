@@ -4,9 +4,9 @@ Maj alphabet has 28 letters. Each letter has am unique name.
 
 **notes:**
 * the order of letters is different from ISO standard;
-* for handwriting see also [script](script.md) alphabet;
 * letter name start with the letter it represents;
 * each letter represent one sound except `g` and `h`;
+* for handwriting see details on: [script](script.md) page;
 
 Latin | IPA  | MAJ | Name
 ------|------|-----|---------
@@ -388,7 +388,6 @@ Using this algorithm total cost for current: 542 word dictionary
 * 8793  in Franch
 * 7696  in Romanian
 * 9423  in German
-
 
 Read next: [numerals](numerals.md)
 
