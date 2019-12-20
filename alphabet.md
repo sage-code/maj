@@ -2,9 +2,11 @@
 
 Maj alphabet has 28 letters. Each letter has am unique name.
 
+**notes:**
+* the order of letters is different from ISO standard;
+* for handwriting see also [script](script.md) alphabet;
 * letter name start with the letter it represents;
-* letter name usually is ending with `a` except { g, h, o};
-* letter name usually contains the letter a second time;
+* each letter represent one sound except `g` and `h`;
 
 Latin | IPA  | MAJ | Name
 ------|------|-----|---------
@@ -34,11 +36,6 @@ Latin | IPA  | MAJ | Name
   x   | ʂ    | ϰ   | xaka
   y   | y    | Կ   | ynka
   z   | z    | z   | zika
-
-**notes:**
-
-* the order of letters is different from ISO standard;
-* for handwriting see also [script](script.md) alphabet;
 
 ## Pronunciation
 
