@@ -43,7 +43,7 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 * It is good to add one space after the dot, before the next letter;
 
 **test:**
-Before chosing these letters I have tested out each on paper. Here it is an example with IPA pronounciation for each letter on every second row:
+Next script handwriting for Maj has IPA pronounciation for each letter:
 
 <img src="alphabet.jpg" alt="Maj Alphabet" width="600"></img>
 
