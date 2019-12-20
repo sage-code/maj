@@ -29,7 +29,7 @@ Maj should look familiar to a native Romance language speaker.
 
 Maj is a Logic and regular language. It is based on our natural ability to make associations. 
 
-* The numers are ordered from 1 to 10
+* The numbers are ordered from 1 to 10
 * The days are ordered from 1 to 7
 * The month are ordered from 1 to 12
 
