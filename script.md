@@ -8,13 +8,13 @@ Maj script is a creole alphabet with letters from Georgian, Greek and Latin. It 
 
 ## Writing direction
 
-To write a Maj letter you start with move 1, then you continue with move 2 and do not lift your pen until you finish the letter. Some letters have loops and some letters have full stops wit return. The more movements a letter has the more expensive it is. 
+To write a Maj letter you start with move 1, then you continue with move 2 and do not lift your pen until you finish the letter. Some letters have loops and some have full stops with returns. The return is never 100% over like it is on some Latin letters. It is slightly off.
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
 ## Cost of writing
 
-The cost of writing can be calculated using 3 classes depending on letter difficulty:
+The more movements a letter has the more expensive it is. The cost of writing can be calculated using 3 classes depending on letter difficulty. We have selected this cost so that most frequent letters are less expensive while more rare laters are a bit more expensive.
 
 Cost |  Letter
 -----|----------------------------
@@ -22,7 +22,7 @@ Cost |  Letter
   2  |qtwymkzə
   3  |jxrhdfpk
 
-Const of writing can be used in an algorithm similar to cost of reading to evaluate word complexity.
+Const of writing can be used in an algorithms to evaluate word complexity during word creation. Names can be invented in Maj so this function could be used to establish popular names for persons and places.
 
 **Tools:**  
   
