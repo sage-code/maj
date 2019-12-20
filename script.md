@@ -42,8 +42,9 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 * In Maj script, words are separated by a dot instead of space; 
 * It is good to add one space after the dot, before the next letter;
 
-**test:**
-Next script handwriting for Maj has IPA pronounciation for each letter:
+**phonetic:**
+
+Next picture has IPA pronounciation for each Maj letter:
 
 <img src="alphabet.jpg" alt="Maj Alphabet" width="600"></img>
 
