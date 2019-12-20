@@ -31,7 +31,7 @@ Latin | IPA  | MAJ | Name
   u   | u    | υ   | ursa
   v   | v    | ϑ   | veva
   w   | u    | ω   | waka
-  x   | ʂ    | ϰ   | xoka
+  x   | ʂ    | ϰ   | xaka
   y   | y    | Կ   | ynka
   z   | z    | z   | zika
 
