@@ -1,6 +1,6 @@
 ## Maj script
 
-Maj script is a creole alphabet with letters from Georgian, Greek and Latin. Maj script has 28 letters in contrast to Latin alphabet who has only 26 letters. 
+Maj script is a creole alphabet with letters from Georgian, Greek and Latin. It has 28 letters in contrast to Latin alphabet who has only 26 letters. 
 
 * Maj letters are continuous, single strike;
 * Maj script is for writing with stylus on tablet;
@@ -18,18 +18,16 @@ The cost of writing can be calculated using 3 classes depending on letter diffic
 
 Cost |  Letter
 -----|----------------------------
-  1  |acisvgounel
-  2  |bqtwymkzə
+  1  |abcgouneilsv
+  2  |qtwymkzə
   3  |jxrhdfpk
 
 Const of writing can be used in an algorithm similar to cost of reading to evaluate word complexity.
-
 
 **Tools:**  
   
 * [Maj Script Convertor](https://lingojam.com/MajScript)
 * [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
-  
 
 ## Examples of words in Maj
 
@@ -41,10 +39,9 @@ Const of writing can be used in an algorithm similar to cost of reading to evalu
 
 **notes:**
 
-* In Maj script, words are separated by a dot instead of space. 
-* It is possible to add one space after the dot, before the next letter. 
-
+* In Maj script, words are separated by a dot instead of space; 
+* It is good to add one space after the dot, before the next letter;
 
 And this is done. Great!
 
-Read next the Lating: [alphabet](alphabet.md)
+Read next about the Latin: [alphabet](alphabet.md)
