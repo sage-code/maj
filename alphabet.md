@@ -30,7 +30,7 @@ Latin | IPA  | MAJ | Name
   t   | t    | ζ   | teta  
   u   | u    | υ   | ursa
   v   | v    | ϑ   | veva
-  w   | u    | ω   | dova
+  w   | u    | ω   | waka
   x   | ʂ    | ϰ   | xoka
   y   | y    | Կ   | ynka
   z   | z    | z   | zika
