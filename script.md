@@ -18,9 +18,9 @@ The cost of writing can be calculated using 3 classes depending on letter diffic
 
 Cost |  Letter
 -----|----------------------------
-  1  |aisxvgoune
-  2  |jbcqtwym
-  3  |rhlzdfpk
+  1  |acisvgounel
+  2  |bqtwymkzə
+  3  |jxrhdfpk
 
 Const of writing can be used in an algorithm similar to cost of reading to evaluate word complexity.
 
