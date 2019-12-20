@@ -288,22 +288,25 @@ gn gl gm gr gv gs
 ``` 
 
 ## Diphthongs
+ɦ,ə
 
 Two vowels combined together into one cluster are called diphthongs.
 
-x |a  |e  |y  |o  |u  | i | h 
+x |a  |e  |i  |o  |u  | y | ə
 --|---|---|---|---|---|---|----
-a | · |ae |ay |ao |au | · | ·
-e |ea | · |ey |eo |eu | · | eh
-y |ya |ye | · |yo |yu |yi | yh
-o |oa |oe |oy | · |ou | . | oh 
-i | . | . |iy | . |iu | . | .
-w |wa |we |wy |wo |.  |wi | wh   
+a | · |ae |ai |ao |au |ay | aə
+e |ea | · |ei |eo |eu |ey | eə
+i |ia |ie | . |io |iu |iy | iə
+o |oa |oe |oi | · |ou |oy | oə
+w |wa |we |wi |wo |.  |wy | wə
+y |ya |ye |iy |yo |yu | . | yə
+
 
 **Notes:**
 
-* there is a total of 28 diphthongs in Maj
-* u is replaced by w when is followed by a vowel
+* there is a total of 36 diphthongs in Maj;
+* u is replaced by w when is followed by a vowel;
+* h is pronounced ə when is following a vowel;  
  
 ## Weight
 
