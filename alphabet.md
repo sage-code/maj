@@ -6,7 +6,7 @@ Latin | IPA  | MAJ | Name
 ------|------|-----|---------
   a   | a    | α   | alfa
   b   | b    | β   | beta
-  c   | t͡s  | ɕ   | cyca
+  c   | t͡s  | ɕ   | cyka
   d   | d    | დ   | duda
   f   | f    | ღ   | fifa
   ğ,ĝ | g,d͡ʒ| ɤ,ფ | ğoĝa  
