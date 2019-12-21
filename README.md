@@ -1,10 +1,10 @@
 # Maj
 
-Maj is a logic and comprehensive constructed language for Sage Code community.
+Maj is a logic and comprehensive constructed language.
 
 **Attributes:**
 
-Maj is a logically correct language with following addributes:
+Maj is a logic language with following addributes:
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
