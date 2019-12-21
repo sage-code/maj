@@ -116,40 +116,44 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Consonants
 
-Maj is using 21 consonants:
+Maj is using 20 consonants:
 
-* plosive  :  b, d, p, t, k 
-* nasal    :  m, n
-* trilled  :  r, j, v, z, ğ, ĝ
-* labial   :  l, r
-* fricative:  f, s, c, q, x
-* glottal  :  h
+method   | bilaneal| labio dental | alveolar | valar | post alveolar | glottal 
+---------|---------|--------------|----------|-------|---------------|----------
+plosive  | p,b     |              | t, d     | k, ğ  |               |
+nasal    | m       |              | n        |       |               |
+trill    |         |              | r        |       |               | 
+fricative|         | f,v          | s,z      |       | x, j          | ɦ
+lateral  |         |              | l        |       |               |
+africate |         |              | c        |       | q, ĝ          |
 
-Most consonants are similar to: Italian and Romanian;
+
+Most consonants are similar to: Italian and Romanian but are also found in English;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
-* Letter  `c`  is fricative, alveolar, like `ts` in "cats" or `zz` in "pizza";
+* Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
+* Letter  `t`  is voiceless, plosive, alveolar like `t` in "test";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
-* Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
-* Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
-* Letter  `l`  is liquid, alveolar, like `l` in "lord";
-* Letter  `q`  is alveoli-palatal like "ch" in words like "charm", "church";
+* Letter  `k`  is voiceless velar stop like "k" in "kitten" or "c" in "color";
+* Letter  `ğ`  is voiced velar fricative like `gu` in "guitar";
 * Letter  `m`  is nasal, bilabial, like `m` in "mule";
 * Letter  `n`  is alveolar, nasal, like `n` in "novel";
-* Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
 * Letter  `r`  is trilled, similar to sound `r` in "rocket"
-* Letter  `t`  is voiceless, plosive, alveolar like `t` in "test";
-* Letter  `v`  is vibrated, similar to `v` in "voice";
-* Letter  `z`  is dental, vibrated, similar to `z` in "zoo";
+* Letter  `f`  is fricative, plosive, bilabial like `f` in "frog";
+* Letter  `v`  is fricative vibrated, similar to `v` in "voice";
 * Letter  `s`  is fricative alveolar like `s` in "snake";
+* Letter  `z`  is alveolar-dental, vibrated, similar to `z` in "zoo";
 * Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
-* Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
-
-**Note:** Letters  `g` have two distinct pronounciations: `ğ`and `ĝ` that will be explained later.
+* Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
+* Letter  `l`  is liquid, alveolar, like `l` in "lord";
+* Letter  `c`  is alveolar affricate, like `zz` in "pizza";
+* Letter  `q`  is voiceless postalveolar affricate like "ch" in "church";
+* Letter  `ĝ`  is voiced postalveolar affricate like "ge" in "genetic";
+* Letter  `ɦ`  is voiced fricative glottal like "h" in "happy";
 
 ## Difficult sounds
 
-There are some concepts you must understand for reading and writing Maj correctly:
+You should be familiar with most of these sounds if you speack English, but Maj has some unusual sounds, and rules of reading that require special study:
 
 **Digraphs**
 
@@ -162,9 +166,6 @@ Following letters are represented using digraphs in English but not in Maj.
 * Letter `x` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-**Notes:** 
-* letter `ʃ` can be retroflex `ʂ` for digraph `q` = `ʈ͡ʂ`
-
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
 
@@ -174,9 +175,19 @@ Phonetic writing is quoted using IPA: notation
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"    
 
+**Retroflex:**
+
+Retroflex sounds are produced with the back tip of your tongue pressing the roof top of your mounth. Several Maj sounds can be produced this way if you wish to give Maj an Indian accent:
+
+* Letter `t` can be retroflex: IPA: "ʈ"
+* Letter `d` can be retroflex: IPA: "ɖ"
+* Letter `x` cam be retroflex: IPA: "ʂ"
+* Letter `n` can be retroflex: IPA: `ɳ`
+* Letter `l` can be retroflex: IPA: `ɭ`
+
 **Modified: c**
 
-Maj letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is not used in Maj, it is replaced by "c".
+Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in English word "cats". To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is actually never used in Maj.
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
@@ -259,6 +270,10 @@ Letters `x` is like: `sh` in `sheep`. To prodice this sound you must softly pres
 * Luxembourg is written Luxemburg and is read "Luʃemburg" in Maj;
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
+
+** 
+
+Though Maj has strong influence from Spanish we have
 
 ## Clusters
 
