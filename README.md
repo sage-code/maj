@@ -25,15 +25,11 @@ Maj should look familiar to a native Romance language speaker.
 1. a cryptic language;
 1. a mystic language;
 
-**Principles:**
+**Cases:**
 
-Maj is a Logic and regular language. It is based on our natural ability to make associations. 
+Maj is designed for chat, to make friends and to learn other languages. Since it is a logic language it can be used also for debates, study and entertainement. Maj is a Romantic language. This is a word similar to Romance but not the same. Maj is designed for communication with persons who do not speak English or Spanish or Franch but Maj.
 
-* The numbers are ordered from 1 to 10
-* The days are ordered from 1 to 7
-* The month are ordered from 1 to 12
-
-The letters in words and words in propositions are ordered from left to right. Like any Romance languages.
+Maj is similar to Esperanto, except is much more simpler. Maj has shorter words and simpler grammar so it can be quicly learned by anyone who knows Latin alphabet. Our first instructions to learn Maj are in English but I hope someone will eventually translate the instructions into his native language.
 
 **Rad more:** [case](case.md)
 
