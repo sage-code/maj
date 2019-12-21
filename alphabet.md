@@ -21,7 +21,7 @@ Latin | IPA  | MAJ | Name
   i   | i    | ʚ   | iota
   j   | ʒ    | ʓ   | jona
   k   | k    | ჺ   | kapa
-  l   | l    | ჲ   | loka
+  l   | l    | ჲ   | lola
   m   | m    | რ   | mona
   n   | n    | ი   | nina
   o   | o    | თ   | oina
