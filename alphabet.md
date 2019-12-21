@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations but only one name. So we have only 26 names. The secondary promounciation has a shorter name.
+Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations but only one name rach. So we have only 26 names. The secondary promounciation has a shorter name that is the IPA sound.
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -13,24 +13,24 @@ Latin | IPA  | MAJ | Name
   a   | a    | α   | alfa
   b   | b    | β   | beta
   c   | t͡s   | ɕ   | ceta
-  d   | d    | დ   | duda
+  d   | d    | დ   | dota
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝa 
-  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦera
-  e   | e    | ɛ   | elka
-  i   | i    | ʚ   | ilia
-  j   | ʒ    | ʓ   | jola
-  k   | k    | ჺ   | koka
-  l   | l    | ჲ   | lola
-  m   | m    | რ   | mima
+  ğ,ĝ | g,d͡ʒ | ɤ,ფ | gama, d͡ʒe 
+  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦera, ə
+  e   | e    | ɛ   | elsa
+  i   | i    | ʚ   | iota
+  j   | ʒ    | ʓ   | jona
+  k   | k    | ჺ   | kapa
+  l   | l    | ჲ   | loka
+  m   | m    | რ   | mona
   n   | n    | ი   | nina
-  o   | o    | თ   | orka
-  p   | p    | წ   | popa
+  o   | o    | თ   | oina
+  p   | p    | წ   | pita
   q   | t͡ʃ   | ƍ   | qoka
-  r   | r    | უ   | roka
-  s   | s    | σ   | soka
+  r   | r    | უ   | rota
+  s   | s    | σ   | sota
   t   | t    | ζ   | teta  
-  u   | u    | υ   | ukra
+  u   | u    | υ   | ulma
   v   | v    | ϑ   | vera
   w   | u    | ω   | waka
   x   | ʂ    | ϰ   | xaka
