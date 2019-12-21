@@ -12,30 +12,30 @@ Latin | IPA  | MAJ | Name
 ------|------|-----|---------
   a   | a    | α   | alfa
   b   | b    | β   | beta
-  c   | t͡s   | ɕ   | ceka
-  d   | d    | დ   | deka
+  c   | t͡s   | ɕ   | ceta
+  d   | d    | დ   | duda
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝa
-  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦyrə
-  e   | e    | ɛ   | enea
+  ğ,ĝ | g,d͡ʒ | ɤ,ფ | ğoĝa 
+  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦera
+  e   | e    | ɛ   | elka
   i   | i    | ʚ   | ilia
-  j   | ʒ    | ʓ   | juja
+  j   | ʒ    | ʓ   | jola
   k   | k    | ჺ   | koka
-  l   | l    | ჲ   | loka
-  m   | m    | რ   | moka
-  n   | n    | ი   | nika
-  o   | o    | თ   | osko
-  p   | p    | წ   | puka
+  l   | l    | ჲ   | lola
+  m   | m    | რ   | mima
+  n   | n    | ი   | nina
+  o   | o    | თ   | orka
+  p   | p    | წ   | popa
   q   | t͡ʃ   | ƍ   | qoka
   r   | r    | უ   | roka
   s   | s    | σ   | soka
   t   | t    | ζ   | teta  
-  u   | u    | υ   | ura
-  v   | v    | ϑ   | veka
+  u   | u    | υ   | ukra
+  v   | v    | ϑ   | vera
   w   | u    | ω   | waka
   x   | ʂ    | ϰ   | xaka
   y   | y    | Կ   | ynka
-  z   | z    | z   | zeka
+  z   | z    | z   | zeta
 
 ## Pronunciation
 
