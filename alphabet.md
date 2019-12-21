@@ -91,8 +91,8 @@ Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 **Letter `h`:** has two pronunciations depending on it's position and previous letter:
 
-* `ɦ` name:(ɦo) at beginning of words or after a vowel sounds like "h" in "hoard";
-* `ə` name:(rə) after a consonant or end of words, sounds like `e` in "after";
+* `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
+* `ə` after a consonant or end of words, sounds like `e` in "after";
 
 **examples:**
 
@@ -145,7 +145,7 @@ Most consonants are similar to: Italian and Romanian;
 * Letter  `x`  is fricative post-alveolar like `sh` in "ashes" or "fashion";
 * Letter  `k`  is plosive velar like "k" in "kitten" or "c" in "color";
 
-**Note:** Letters  `g` have two distinct pronounciations: `ğ`and `ĝ` that will be explained below.
+**Note:** Letters  `g` have two distinct pronounciations: `ğ`and `ĝ` that will be explained later.
 
 ## Difficult sounds
 
@@ -157,28 +157,30 @@ Following letters are represented using digraphs in English but not in Maj.
 
 * Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
-* Letter `q` sounds `t͡ʃ` like `ch` in  "peach": 
+* Letter `q` sounds `t͡ʃ` or ʈ͡ʂ like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
-* Letter `x` sounds `ʂ`   like `sh` in  "fashion": 
+* Letter `x` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-**Note:** Phonetic writing is quoted using IPA: notation. 
+**Notes:** 
+* letter `ʃ` can be retroflex `ʂ` for digraph `q` = `ʈ͡ʂ`
 
-**examples:** 
+**Examples:** 
+Phonetic writing is quoted using IPA: notation 
 
 * qoka => IPA:"t͡ʃoka"  = "chocolate"   
-* xava => IPA:"ʃava"    = "shovel"    
+* xava => IPA:"ʃava"   = "shovel"    
 * koqa => IPA:"kot͡ʃa"  = "coach"     
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"    
 
 **Modified: c**
 
-Maj letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. 
+Maj letter "c" sounds like Latvian "c" not English "c". It sounds like "ts" in English word "cats". The best IPA sound is: `t͡s` To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is not used in Maj, it is replaced by "c".
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
-* ciga = ENG: "cigarette"  => IPA: "t͡səga"
+* cyga = ENG: "cigarette"  => IPA: "t͡syga"
 
 **Modified: k**
 
@@ -202,10 +204,10 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 
 **Modified: g**
 
-Maj letter `g` has two versions: 
+Maj letter `g` = gama has two versions: 
 
-* hard g = ğ with name:(ğo) script:(ɤ) IPA:"g"
-* soft g = ĝ with name:(ĝy) script:(ფ) IPA:"d͡ʒ"
+* hard g = ğ script:(ɤ) IPA:"g"
+* soft g = ĝ script:(ფ) IPA:"d͡ʒ"
 
 Since on QUERTY KEYBOARD there is not `ğ` and no `ĝ` you can use "g" instead. We have rules to distinguish the two pronounciations. However if you can it is more correct to use cedilla for each pronounciation. The script conversion tool will use this symbols to convert a word from Maj to Latin.
 
@@ -231,7 +233,7 @@ Maj script is using letter `ფ` for `ĝ` and soft `g`.
 
 [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
-Letter "g" followed by vowels {`a`,`u`,`o`, `y`, `w`, `h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
+Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
 
 * goxa = ğoxa => IPA: "goʂa" = "left"
 * agra = ağra => IPA: "agra" = "farmer"
@@ -240,13 +242,13 @@ Maj script is using letter `ɤ` for hard `g`.
 
 **Modified: q**
 
-In Maj, "Q" is used to create similar sound to Latvian "Č" = IPA:"tʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
+In Maj, "Q" is used to create similar sound to IPA:"t͡ʃ" or "ʈ͡ʂ" . It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
 
 * qyka = "girl" is read like IPA: "t͡ʃika";
 * qesa = "ceez" is read like IPA: "t͡ʃesa";
 * qoka = "chocolate" is read like IPA: "t͡ʃoka";
 
-**Note:** Letter "q" is always followed by a vowel or semivowel and can not be followed by a consonant. In many Romance alphabets this letter is restricted to be followed only by vowel "u" but Maj has modified this letter to make it more useful.
+**Note:** Letter "q" is always followed by a vowel or semivowel and can not be followed by a consonant. In many Romance alphabets this letter is restricted to be followed only by vowel "u" but Maj has extended this convention to make "q" more useful.
 
 **Modified: x**
 
