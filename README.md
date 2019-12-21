@@ -45,35 +45,31 @@ The alphabet starts with same letters "A, B, C" like any Romance languages but s
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13 | 14   
 ---|---|---|---|---|---|---|---|----|----|----|----|----|----
+A  | B | C | D | E | Ğ | Ĝ | H | Ә  | E   | I  | J  | K  | L 
 a  | b | c | d | f | ğ | ĝ | ɦ | ə  | e  | i  | j  | k  | l 
+M  | N | O | P | Q | R | S | T | U  | V  | W  | X  | Y  | Z 
 m  | n | o | p | q | r | s | t | u  | v  | w  | x  | y  | z 
 
-
-**Phoneme:**
-
-A phoneme is a consonant, vowel or a diphthong:
-
-* Maj has 55 phonemes 
-* English has only 44 phonemes;
-* Italian has only 30 phonemes;
-* Romanian has only 29 phonemes;
-* French has only 39 phonemes;
-
-from:[eupedia](https://www.eupedia.com/linguistics/number_of_phonemes_in_european_languages.shtml)
-
 **Notes:**
-Since Maj has more phonemes than other Romance languages it can have shorter words. We think it does. Two additional letters are little price to pay for a big advantage. Unfortunately we have introduced letters: "ğ ĝ ɦ ə" that are not on the keyboard. To compensate we have established reading rules so that you can use normal "g" and normal "h" to compensate for the missingl letters. 
+
+* Uppercase letters are used in text for names and titles;
+* We have introduced letters: "ğ ĝ ɦ ə" to enhance "g" and "h"; 
+* New letter "ə" and uppercase "Ә" is used only in middle of words;
 
 Details: [Maj alphabet](alphabet.md)
 
-**Script:**
+## Script
 
 Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
 * ƍαυ.რυიα;   = qau muna;
 * ɛζα.ɛσ.რαʓ! = eta es maj!
 
-The script alphabet is mapped with the Latin print alphabet.
+**Notes:**
+
+* The script alphabet is mapped with the Latin print alphabet;
+* The script alphabet is using same punctuation marks as Latin;
+* The script alphanet do not have uppercase letters;
 
 Read more: [Script details](script.md)
 
@@ -81,7 +77,7 @@ There is a dual conversion tool from Latin into Maj script:
 
 Tool: [Script converter](https://lingojam.com/MajScript)
 
-**Numerals:**
+## Numerals
 
 For numerals, Maj is using Arabic symbols like all Romance languages:
 
@@ -104,18 +100,18 @@ Maj will have about 2000 words, inspired from 7 different languages.
 
 ## Essentials
 
-* Maj is an articulated language and the order of words in a proposition is significant.
-* Maj has root words and composite words created from a root + coda + suffix.
+* Maj is an articulated language; 
+* Maj has root words and composite words;
+* The order of words in a proposition is significant;
 
 **technical:**
 
-Coincidental, Maj is using the _power of 3_ to organize itself:
+Coincidental, Maj is using the _power of 3_ to organize its grammar:
 
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
 1. There are 3 cases: {nominative, objective, possessive};
-1. There are 3 cost algorithms: {reading, writing, typing};
 
 **Read more about:** [basic grammar](basic.md)
 
@@ -133,7 +129,7 @@ Advanced grammar rules and examples are explained by:  _word category_
 
 The Lexicon contains most frequent Maj words organized by domain:
 
-* Suffix: 'xa: xatu = "to know"
+* Suffix: 'xa is a short form of word xatu = "to know"
 * The "a" is transformed to "o" before 'xa suffix.
 
 1. suto'xa = [structure](words/structure.md)
@@ -158,16 +154,16 @@ The Lexicon contains most frequent Maj words organized by domain:
 
 ## Contribution
 
-We are looking for volunteers:
+We accept volunteer work to improve the language.
 
-1. To review grammar;
-2. To improve lexicon;
-3. To create examples;
+1. To translate in other languages;
+2. To review grammar and text;
+3. To improve lexicon and examples;
 
 **Community:**
 
 We use Discord application to chat in English about Maj: 
 
-[discord invitation](https://discord.gg/SRX3tse)
+Join: [discord invitation](https://discord.gg/SRX3tse)
 
 Great!
