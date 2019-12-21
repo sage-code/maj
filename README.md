@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a logic and comprehensive constructed language.
+Maj is a comprehensive amd easy to learn constructed language.
 
 **Attributes:**
 
