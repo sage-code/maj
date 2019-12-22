@@ -118,7 +118,7 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 Maj is using 20 consonants:
 
-method   | bilaneal| labio dental | alveolar | valar | post alveolar | glottal 
+method   | bilabial| labio dental | alveolar | valar | post alveolar | glottal 
 ---------|---------|--------------|----------|-------|---------------|----------
 plosive  | p,b     |              | t, d     | k, ğ  |               |
 nasal    | m       |              | n        |       |               |
