@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. Usually for each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronounciations but only one name rach. So we have only 26 names. The secondary promounciation has a shorter name that is the IPA sound.
+Maj alphabet has 28 letters. For each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronunciations but only one name each. So Maj have only 26 names actually. 
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -8,15 +8,15 @@ Maj alphabet has 28 letters. Usually for each letter there is an unique name but
 * each letter represent one sound except `g` and `h`;
 * for handwriting see details on: [script](script.md) page;
 
-Latin | IPA  | MAJ | Name
-------|------|-----|---------
+Latin | IPA  | MAJ | Maj Name
+------|------|-----|-----------
   a   | a    | α   | alfa
   b   | b    | β   | beta
   c   | t͡s   | ɕ   | ceta
   d   | d    | დ   | dota
   f   | f    | ღ   | fifa
-  ğ,ĝ | g,d͡ʒ | ɤ,ფ | gama, d͡ʒe 
-  ɦ,ə | ɦ,ə  | ჩ,ɚ | ɦera, ə
+  ğ,ĝ | g,d͡ʒ | ɤ,ფ | gama
+  h,ə | ɦ,ə  | ჩ,ɚ | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
   j   | ʒ    | ʓ   | jona
@@ -37,15 +37,20 @@ Latin | IPA  | MAJ | Name
   y   | y    | Կ   | ynka
   z   | z    | z   | zeta
 
+**Exceptions:**
+
+* ფ sounds like `d͡ʒ` and is called "ğama ĝe"
+* ɚ sounds like `ə`  and is called  "ɦera ər"
+
+
 ## Pronunciation
 
-Alphabet pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
+Maj pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
 
 **Notes:**
 
-* Maj has a large range of sounds, easy to produce by humans;
-* Maj sounds are produced with your tongue behind your teeth;
-* You will never bite yourself or spit around when you speak Maj;
+* Maj sounds are influenced by Central European languages;
+* Maj sounds require healthy tongue, lips, teeth and vocal chords;
 * Maj has deterministic phonetic rules, no need to spell words;
 
 **Tools:**
@@ -69,7 +74,6 @@ Phonetic notation has language prefix and is enclosed in double quotes like this
 * Maj phonetic: MAJ:"word";
 * IPA phonetic: IPA:"word";
 * English phonetic: ENG:"word";
-* Franch phonetic: FRA:"word";
 
 ## Vowels
 
@@ -175,16 +179,6 @@ Phonetic writing is quoted using IPA: notation
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"    
 
-**Retroflex:**
-
-Retroflex sounds are produced with the back tip of your tongue pressing the roof top of your mounth. Several Maj sounds can be produced this way if you wish to give Maj an Indian accent:
-
-* Letter `t` can be retroflex: IPA: "ʈ"
-* Letter `d` can be retroflex: IPA: "ɖ"
-* Letter `x` cam be retroflex: IPA: "ʂ"
-* Letter `n` can be retroflex: IPA: `ɳ`
-* Letter `l` can be retroflex: IPA: `ɭ`
-
 **Modified: c**
 
 Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in English word "cats". To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is actually never used in Maj.
@@ -215,22 +209,22 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 
 **Modified: g**
 
-Maj letter `g` = gama has two versions: 
+Maj is a Romance language therefore it has two pronunciations for letter `g`: 
 
-* hard g = ğ script:(ɤ) IPA:"g"
-* soft g = ĝ script:(ფ) IPA:"d͡ʒ"
+* hard g = gama ğ, equivalent to script:(ɤ) IPA:"g"
+* soft g = gama ĝ, equivalent to script:(ფ) IPA:"d͡ʒ"
 
-Since on QUERTY KEYBOARD there is not `ğ` and no `ĝ` you can use "g" instead. We have rules to distinguish the two pronounciations. However if you can it is more correct to use cedilla for each pronounciation. The script conversion tool will use this symbols to convert a word from Maj to Latin.
+Regular QUERTY KEYBOARD do not include a method for cedilla: `ğ` and `ĝ` can not be produced. So you should use "g" to type the words. Maj have deterministic rules to distinguish the two pronunciations. An intelligent editor could make an automatic conversion while typing. If you have a smarter keyboard, it is good to type "g" symbol with cedilla. 
 
 **notes:**
 
-In most Romance languages "g" is problematic. Italian and Romanian is using "ge", "gi" for soft "g". However there are two problems with this: First the other vowels will not produce a soft "g". For example sound `d͡ʒa` can not be produced conveniently. Avoinding soft "g" is expensive. You must use groups "ghi" and "ghe" to resolve this problem.
+In all Romance languages "g" is problematic. Italian and Romanian is using "ge", "gi" for soft "g". However there are two problems with this: First the other vowels will not produce a soft "g". For example sound `d͡ʒa` or `d͡ʒu` can not be produced. For making the hard "g" follow by "e" or "i" is not possible.
 
-English and Spanish is using silenced "u" to make "gui" and "gue". However this introduce another problem. In old Spanish you must use u qirh diaeresis `ü` to make sound `u` audible. After Spanish reform you must know the word to pronounce it correctly. 
+Romanian and Italian is silenced "h" resolve the "g" problem. So there are:  "ghi" and "ghe" tree-graphs that are hard to explain to children. English and Spanish are using alternative silenced "u" to make "gui" and "gue". However this method introduce another problem. 
 
-Maj has a similar problem, resolved by using cedila for print alphabet and by making two letters in scripting alphabet: {ĝ = ფ, ğ = ɤ} 
+In old Spanish you must use `ü` (that is u with diaeresis) to make the sound `u` audible instead of silenced. Recent Spanish language reform has eliminated this rule so now you must know how to spell some words. 
 
-**Soft: g = ĝ** 
+**Soft: ĝ = ფ** 
 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
@@ -238,9 +232,8 @@ Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate s
 
 * ĝema = gema	 => IPA:"d͡ʒema" = "money"
 
-Maj script is using letter `ფ` for `ĝ` and soft `g`.
 
-**Hard: g = ğ** 
+**Hard: ğ = ɤ** 
 
 [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
@@ -248,8 +241,6 @@ Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `
 
 * goxa = ğoxa => IPA: "goʂa" = "left"
 * agra = ağra => IPA: "agra" = "farmer"
-
-Maj script is using letter `ɤ` for hard `g`.
 
 **Modified: q**
 
@@ -271,10 +262,6 @@ Letters `x` is like: `sh` in `sheep`. To prodice this sound you must softly pres
 
 If you don't know, Luxembourg has became an independent town and state in 1867.
 
-** 
-
-Though Maj has strong influence from Spanish we have
-
 ## Clusters
 
 A clusters represents a group of two consonants.
@@ -286,7 +273,7 @@ A clusters represents a group of two consonants.
 
 **Examples**
 
-After a short analysis, these clusters are usable:
+After a short analysis, these clusters are usable in Maj words:
 
 ```
 br bs bj
