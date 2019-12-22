@@ -30,7 +30,7 @@ Latin | IPA  | MAJ | Maj Name
   r   | r    | წ   | rota
   s   | s    | σ   | sota
   t   | t    | ծ   | teta  
-  u   | u    | υ   | ulma
+  u   | u    | և   | ulma
   v   | v    | ϑ   | vera
   w   | u    | ω   | waka
   x   | ʂ    | ϰ   | xaka
