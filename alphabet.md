@@ -32,8 +32,8 @@ Latin | IPA  | MAJ | Maj Name
   t   | t    | ծ   | teta  
   u   | u    | և   | ulma
   v   | v    | ϑ   | vera
-  w   | u    | ω   | waka
-  x   | ʂ    | ϰ   | xaka
+  w   | w    | ω   | waka
+  x   | ʃ    | ϰ   | xaka
   y   | y    | ყ   | ynka
   z   | z    | ʓ   | zeta
 
