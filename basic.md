@@ -136,8 +136,8 @@ tesa = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- fu      | futa      | future    
- ya      | yata      | present
+ va      | vata      | future    
+ sa      | sata      | present
  pa      | pasa      | past 
  
 **undefined time**
@@ -206,7 +206,7 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * yo vidu'pa ta un'foa!  = I have seen you one time!
-* su vidu'pa va ny'foa!  = He have never seen y'all!
+* su vidu'pa vo ny'foa!  = He have never seen y'all!
 * tu vidu'fu ma suv!     = You will see me often!
 * nu podo vidu'so zu amu!= We can see them now!
 
@@ -363,7 +363,7 @@ es (seru) = to be
 
 * English: the freckles of my face
 * Spanish: las pecas de mi cara
-* Maj: le pyce de mia cara
+* Maj: le peqe de mia cara
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:

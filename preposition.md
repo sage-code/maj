@@ -212,7 +212,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  puo | can     | has the capability
  tal | maybe   | possible
  tan | so      | to such a great extent.
- wel | or      | either
+ odh | or      | either
  uta | when    | establish event
  ven | if      | conditional (German wenn)
  vyr | while   | while condition

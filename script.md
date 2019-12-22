@@ -33,9 +33,9 @@ Const of writing can be used in an algorithms to evaluate word complexity during
 
 **example:**
 
-1. იυ.կუდυ.ɕυ.ƍʚრα.ωɛჲ.ɕυ.რαჺα.
-1. nu yrdu cu qima wel cu maka;
-1. we go to cinema or to supermarket;
+1. ღև.ყწმև.ɕև.ƍʚრα.თმh.ɕև.რαჺα;
+1. nu yrdu cu qima odh cu maka.
+1. we go to cinema or to supermarket.
 
 **notes:**
 

@@ -73,67 +73,47 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 
 You can use suffix to create a composite word for representing nouns:
 
-**harmful content**
-
-ja = jaru = warning / danger
-
-* beverage containing alcohol or drugs;
-* food prepared with alcohol or drugs; 
-* food that contains a lot of sugar;  
-* for dangerous or poisonous fruits;
-* for dangerous animals with horns, venom or sharp teeth;
-
-**examples:**
-
-For transformation using coda: "a" becomes "o"
-
-Dangerous food:
-
-* bero'ja  = large bear
-* beri'ja  = small bear
-* gazo'ja  = large energy drinks
-* gazi'ja  = small energy drink
-* xoko'ja  = large chocolate with alcohol
-* xoki'ja  = small chocolate drops with alcohol
-
-Dangerous animals:
-
-* saxo'ja  = large venomous snake
-* saxi'ja  = small venomous snake
-* gato'ja  = large wild cat
-* gati'ja  = small wild cat
-
 ## Diminutives
 
-Maj enable diminutives using coda `y` and suffix 'ña
+Maj enable diminutives using coda `i` and suffix 'na
 
-nyto =  "nice"
+nito =  "nice"
 xero =	"dear" 
 
 **close persons**
-* xero Mamy'na  => MAJ:"mamyña"
-* xero Papy'na  => MAJ:"papyña"
+* xero Mami'na  = "dear mother"
+* xero Papi'na  = "dear father"
 
 **animals (pets)**
 
-* xero Gaty'na => MAJ:"gatiña"
-* xero Kany'na => MAJ:"kaniña"
+* nito gati'na => nice kitty
+* nito kani'na => nice doggy
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
+## Large
+
+For substantive larger then usual, you must convert "a" to "o" and add 'ga
+
+* gaso = large
+* eta  = this
+
+**examples:**
+* eta gato'ga => this large kitten
+* eta kano'ga => this large dog
+
 ## Group words
 
-For a scientific group of words we use suffix 'xa
+For a scientific group of words we use suffix e'xa
 
-xatu = to know
-qysa = science
+* xatu = to know
 
-gopa = group
+**examples:**
 
-* pole'xa = the science of plants
-* fuje'xa = the science of fruits
-* veje'xa = the science of vegetables
-* veva'xa = the science of leaving beans
+* la pole'xa = the science of plants
+* la fuje'xa = the science of fruits
+* la veje'xa = the science of vegetables
+* la veva'xa = the science of leaving beans
 
 ## First nouns
 

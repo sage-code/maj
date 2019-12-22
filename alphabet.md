@@ -13,29 +13,29 @@ Latin | IPA  | MAJ | Maj Name
   a   | a    | α   | alfa
   b   | b    | β   | beta
   c   | t͡s   | ɕ   | ceta
-  d   | d    | დ   | dota
-  f   | f    | ღ   | fifa
+  d   | d    | მ   | dota
+  f   | f    | ჵ   | fifa
   ğ,ĝ | g,d͡ʒ | ɤ,ფ | gama
   h,ə | ɦ,ə  | ჩ,ɚ | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
-  j   | ʒ    | ʓ   | jona
+  j   | ʒ    | უ   | jona
   k   | k    | ჺ   | kapa
-  l   | l    | ჲ   | lola
+  l   | l    | ₰   | lola
   m   | m    | რ   | mona
-  n   | n    | ი   | nina
+  n   | n    | ღ   | nina
   o   | o    | თ   | oina
-  p   | p    | წ   | pita
+  p   | p    | დ   | pita
   q   | t͡ʃ   | ƍ   | qoka
-  r   | r    | უ   | rota
+  r   | r    | წ   | rota
   s   | s    | σ   | sota
-  t   | t    | ζ   | teta  
+  t   | t    | ծ   | teta  
   u   | u    | υ   | ulma
   v   | v    | ϑ   | vera
   w   | u    | ω   | waka
   x   | ʂ    | ϰ   | xaka
-  y   | y    | Կ   | ynka
-  z   | z    | z   | zeta
+  y   | y    | ყ   | ynka
+  z   | z    | ʓ   | zeta
 
 **Exceptions:**
 
@@ -49,7 +49,7 @@ Maj pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin
 
 **Notes:**
 
-* Maj sounds are influenced by Central European languages;
+* Maj sounds are influenced by Pinyin and Central European languages;
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
 * Maj has deterministic phonetic rules, no need to spell words;
 
@@ -93,14 +93,14 @@ Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 * zyna = "fairy"
 
-**Letter `h`:** has two pronunciations depending on it's position and previous letter:
+**Letter `h`:** has two pronunciations depending on it's position in word and previous letter:
 
 * `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
-* `ə` after a consonant or end of words, sounds like `e` in "after";
-
-**examples:**
+* `ə` after a consonant or at the end of words, sounds like `e` in "after";
 
 Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert back to these symbols from Maj.
+
+**Example:**
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -241,6 +241,7 @@ Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `
 
 * goxa = ğoxa => IPA: "goʂa" = "left"
 * agra = ağra => IPA: "agra" = "farmer"
+
 
 **Modified: q**
 
