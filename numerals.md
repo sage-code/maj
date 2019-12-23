@@ -49,7 +49,7 @@ x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
 0 | nil  | 10 | un'cen+nil   |    |        |
 1 | una  | 11 | un'cen+una   | 10 | un'cen |
-2 | doa  | 12 | un'cen+dua   | 20 | du'cen |
+2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
 3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
 4 | kua  | 14 | un'cen+pea   | 40 | pe'cen |
 5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
@@ -94,7 +94,7 @@ Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
 * un'lysa = first place
-* do'lysa = second place
+* du'lysa = second place
 * re'lysa = third place
 
 ## Level 2
@@ -106,7 +106,7 @@ Large numbers have singluar and plural form:
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
  100 |  un'sata  |  600 |  ze'sute
- 200 |  do'sate  |  700 |  xe'sute
+ 200 |  du'sate  |  700 |  xe'sute
  300 |  re'sate  |  800 |  ok'sute
  400 |  ku'sate  |  900 |  no'sute
  500 |  fe'sate  | 1000 |  un'mila
@@ -120,7 +120,7 @@ Large numbers have singluar and plural form:
 **Thousands = mila/mile**
 
 * 1,000 = un'mila
-* 2,000 = do'mile
+* 2,000 = du'mile
 * 3,000 = re'mile
 * 4,000 = ku'mile
 * 5,000 = fe'mile
@@ -135,7 +135,7 @@ Large numbers have singluar and plural form:
 1,000,000  = moja
 
 * 1,000,000 = un'moja
-* 2,000,000 = do'moje
+* 2,000,000 = du'moje
 * 3,000,000 = re'moje
 * ...
 * 9,000,000 = no'moje
@@ -147,7 +147,7 @@ Large numbers have singluar and plural form:
 
 
 * 1,000,000,000 = un'buja
-* 2,000,000,000 = do'buje
+* 2,000,000,000 = du'buje
 * 3,000,000,000 = re'buje
 * ...
 * 9,000,000,000 = no'buje
@@ -161,9 +161,9 @@ va = vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dova     | doa vala (binary/bit)
+0/1 | duva     | doa vala (binary/bit)
 8   | okva     | oka vala (word)
-16  | do'okva  | short integer
+16  | du'okva  | short integer
 32  | ku'okva  | integer
 64  | ok'okva  | long integer
 
