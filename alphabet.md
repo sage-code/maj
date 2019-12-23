@@ -77,7 +77,7 @@ Phonetic notation has language prefix and is enclosed in double quotes like this
 
 ## Vowels
 
-Maj has 5 vowels: { a e i o u } abd three semi-vowels: {y, h, w}:
+Maj has 5 vowels: { a e i o u } and three semi-vowels: {y, h, w}:
 
 method     |front    |central    |back 
 -----------|---------|-----------|---------
