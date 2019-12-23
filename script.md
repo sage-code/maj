@@ -15,7 +15,7 @@ To write a Maj letters correctly you must start with movement 1, then you contin
 
 ## Handwriting test 
 
-This is a test sample. As you can see the letters in this picture are not perfect. However if you start the letter from the correct point and do the directions correctly the writing will be probably good enaugh for reading by other person.
+The letters in next picture are not perfect. However if you start the letter from the correct point and do the directions correctly the writing will be probably good enaugh for reading by other person.
 
 <img src="demo/maj-script.jpg" alt="Maj Alphabet" width="600"></img>
 
