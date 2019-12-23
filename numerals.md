@@ -17,21 +17,21 @@ Maj numerals are build to be easy to comprehend and say.
 
 When used in text or expressions, symbols can have associated a name
 
-Symbol | Maj    | English
+Maka   | Maj    | English
 -------|--------|---------------------
   ` `  | sao    | Space, gap, blank
-  `=`  | eko    | Equal sign
-  `>`  | gao    | Greater then sign
-  `<`  | luo    | Less then sign
-  `+`  | pyo    | Plus sign 
-  `-`  | myo    | Hyphen , minus sign 
-  `/`  | rua    | Slash , forward slash 
+  `=`  | iko    | Equal sign
+  `>`  | gwo    | Greater then sign
+  `<`  | lwo    | Less then sign
+  `+`  | pio    | Plus sign 
+  `-`  | mio    | Hyphen , minus sign 
+  `/`  | rwa    | Slash , forward slash 
   `.`  | opa    | Dot, full stop 
   `,`  | oma    | Comma 
   `:`  | epa    | Colon 
   `;`  | eva    | Semicolon 
-  `?`  | uya    | Question mark 
-  `!`  | aha    | Exclamation mark 
+  `?`  | kre    | Question mark 
+  `!`  | ara    | Exclamation mark 
   `\*` | ora    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
@@ -39,9 +39,9 @@ Symbol | Maj    | English
 
 ## Level 1
 
-* First 9 numbers from one to nine are finalized with vowel;
-* Each small number has a corresponding prefix;
-* Firs letter nyl and last dyz are terminated with consonant.
+* First 9 numbers from one to nine are finalized with vowel "a";
+* Each small number has a corresponding prefix using two letters;
+* Firs number: nil and last: cen are terminated with consonant.
 
 **Ten = cen** 
 
@@ -62,9 +62,9 @@ x | maj  | xx | maj          | xx | maj    |
 **Note** 
 
 * The numbers do not have gender,
-* The numbers do not have plural form,
-* Small numbers have two forms, prefix and normal,
-* Two numerals are combined using symbol `+` (`plu` or `plu'ma`)
+* Snall numbers do not have plural form,
+* Small numbers have two forms, short form and long form,
+* Two numerals are combined using symbol `+` (silent)
 
 ## Counting:
 
@@ -99,15 +99,17 @@ Franch:  lieu,  ordre, position
 
 ## Level 2
 
+Large numbers have singluar and plural form:
+
 **Hundreds = sata/sate**
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'sata  |  600 |  ze'qen
- 200 |  do'sate  |  700 |  xe'qen
- 300 |  re'sate  |  800 |  ok'qen
- 400 |  ku'sate  |  900 |  no'qen
- 500 |  fe'sate  | 1000 |  un'myl 
+ 100 |  un'sata  |  600 |  ze'sute
+ 200 |  do'sate  |  700 |  xe'sute
+ 300 |  re'sate  |  800 |  ok'sute
+ 400 |  ku'sate  |  900 |  no'sute
+ 500 |  fe'sate  | 1000 |  un'mila
 
 
 * 125 = un'suta+du'cen+fea
@@ -159,8 +161,8 @@ va = vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dova     | doa-vala (binary/bit)
-8   | okva     | oka-vala (word)
+0/1 | dova     | doa vala (binary/bit)
+8   | okva     | oka vala (word)
 16  | do'okva  | short integer
 32  | ku'okva  | integer
 64  | ok'okva  | long integer
