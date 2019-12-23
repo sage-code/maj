@@ -45,24 +45,24 @@ Latin | IPA  | MAJ | Maj Name
 
 ## Pronunciation
 
-Maj pronunciation is inspired from [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
-
-**Notes:**
-
-* Maj sounds are influenced by Pinyin and Central European languages;
+* Maj sounds are influenced by Central European languages;
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
+* Maj is an articulate language with strong consonants and clear vowels;
+* Maj sounds do not require to put your tongue between your teeth;
+* Maj sounds do not require inverted tongue tip (retroflex);
 * Maj has deterministic phonetic rules, no need to spell words;
+* You will never byte your tongue or spit arround by speaking Maj;
 
 **Tools:**
 
-Maj has some tools for beginners to learn how to read correctly:
+Maj has some tools for beginners to learn how to read and write correctly:
 
-* Maj IPA: [phonetic](https://lingojam.com/MajIPA)
-* Maj Script: [convertor](https://lingojam.com/MajScript)
+* Maj IPA: [phonetics](https://lingojam.com/MajIPA)
+* Maj script: [convertor](https://lingojam.com/MajScript)
 
 **Reference:**
 
-For pronunciation we have used phonetic symbols: 
+For explaining the pronunciation we have used phonetic symbols: 
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
