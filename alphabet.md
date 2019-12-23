@@ -97,7 +97,9 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
-**Letter `y`:** Is close front, rounded vowel. [listen](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) This sound is similar to `i` in word "still". Ipa symbol for this sound is actually "y". 
+**Letter `y`:** Is close central, unrounded vowel. IPA symbol for this sound is actually "ɨ". This sound is very different than English sound `y`. It is very similar to sound `i` in word "still".
+
+Learn by: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
 * zyna = "fairy"
 
@@ -107,8 +109,6 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 * `ə` after a consonant or at the end of words, sounds like `e` in "after";
 
 Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert back to these symbols from Maj.
-
-**Example:**
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
