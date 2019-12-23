@@ -77,17 +77,25 @@ Phonetic notation has language prefix and is enclosed in double quotes like this
 
 ## Vowels
 
-Maj has 5 vowels: { a e i o u } sounding like Italian: 
+Maj has 5 vowels: { a e i o u } abd three semi-vowels: {y, h, w}:
+
+method     |front    |central    |back 
+-----------|---------|-----------|---------
+close      |i        |y          |u      
+close mid  |e        |           |o
+mid        |         |ə          |
+open       |a        |           |
+aproximant |         |w          | 
+
+**Italian:**
+
+Next 5 vowels are pronounced like in Italian and Romanian languages:
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
 * Letter `i`  is close front, like `ee` in `geese`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
-
-## Semi-vowels
-
-Maj has three semi-vowels: {y, h, w} that have special pronunciation:
 
 **Letter `y`:** Is close front, rounded vowel. [listen](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) This sound is similar to `i` in word "still". Ipa symbol for this sound is actually "y". 
 
@@ -105,7 +113,9 @@ Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. You never use "u" before a vowel but you replace "u" with "w". 
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. This letter is not closed and not open but tranzitional, aproximand. In some languages this letter is considered consonant.
+
+Learn by: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
 
 **interjections:**
 
