@@ -15,7 +15,7 @@ To write a Maj letters correctly you must start with movement 1, then you contin
 
 ## Handwriting test 
 
-This is a sample of many tests I have written by hand.
+This is a sample of many tests I have written by hand. As you can see the letters are a little bit different than the font. I guess if you respect the start point and direction of writing then the letters will be easy to understand. 
 
 <img src="demo/maj-script.jpg" alt="Maj Alphabet" width="600"></img>
 
