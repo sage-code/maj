@@ -172,6 +172,6 @@ We accept volunteer work to improve the language.
 
 We use Discord application to chat in English about Maj: 
 
-Join: [discord invitation](https://discord.gg/SRX3tse)
+Join: [discord invitation](https://discordapp.com/invite/CQWx8xc)
 
 Great!
