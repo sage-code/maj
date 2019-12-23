@@ -43,20 +43,20 @@ Symbol | Maj    | English
 * Each small number has a corresponding prefix;
 * Firs letter nyl and last dyz are terminated with consonant.
 
-**Ten = cin** 
+**Ten = cen** 
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | nyl  | 10 | un'cin+nyl   |    |        |
-1 | una  | 11 | un'cin+una   | 10 | un'cin |
-2 | dua  | 12 | un'cin+dua   | 20 | du'cin |
-3 | rea  | 13 | un'cin+rea   | 30 | re'cin |
-4 | pea  | 14 | un'cin+pea   | 40 | pe'cin |
-5 | fea  | 15 | un'cin+fea   | 50 | fe'cin |
-6 | zea  | 16 | un'cin+zea   | 60 | ze'cin |
-7 | xea  | 17 | un'cin+xea   | 70 | xe'cin |
-8 | oka  | 18 | un'cin+oka   | 80 | ok'cin |
-9 | noa  | 19 | un'cin+noa   | 90 | no'cin | 
+0 | nil  | 10 | un'cen+nil   |    |        |
+1 | una  | 11 | un'cen+una   | 10 | un'cen |
+2 | doa  | 12 | un'cen+dua   | 20 | du'cen |
+3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
+4 | kua  | 14 | un'cen+pea   | 40 | pe'cen |
+5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
+6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
+7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
+8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
+9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
 
 **Note** 
@@ -77,7 +77,7 @@ Let's count a rocket lifting off:
          
 Repeting time is created using `kota` = number
 
-* ny'kota = not even once
+* ni'kota = not even once
 * un'kota = once
 * du'kota = twice
 * re'kota = three times
@@ -94,76 +94,76 @@ Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
 * un'lysa = first place
-* du'lysa = second place
+* do'lysa = second place
 * re'lysa = third place
 
 ## Level 2
 
-**Hundreds = han**
+**Hundreds = sata/sate**
 
- Num |  Maj     |  Num | Maj
------|----------|------|-------------
- 100 |  un'qen  |  600 |  ze'qen
- 200 |  du'qen  |  700 |  xe'qen
- 300 |  re'qen  |  800 |  ok'qen
- 400 |  pe'qen  |  900 |  no'qen
- 500 |  fe'qen  | 1000 |  un'myl 
+ Num |  Maj      |  Num | Maj
+-----|-----------|------|-------------
+ 100 |  un'sata  |  600 |  ze'qen
+ 200 |  do'sate  |  700 |  xe'qen
+ 300 |  re'sate  |  800 |  ok'qen
+ 400 |  ku'sate  |  900 |  no'qen
+ 500 |  fe'sate  | 1000 |  un'myl 
 
 
-* 125 = un'qen+du'ten+fea
+* 125 = un'suta+du'cen+fea
 * 555 = pe'qen+pe'ten+fea
 * 801 = ok'qen+una
 
 
-**Thousands = myl**
+**Thousands = mila/mile**
 
-* 1,000 = un'myl
-* 2,000 = du'myl
-* 3,000 = re'myl
-* 4,000 = pe'myl
-* 5,000 = pe'myl
-* 6,000 = ze'myl
-* 7,000 = xe'myl
-* 8,000 = ok'myl
-* 9,000 = no'myl
+* 1,000 = un'mila
+* 2,000 = do'mile
+* 3,000 = re'mile
+* 4,000 = ku'mile
+* 5,000 = fe'mile
+* 6,000 = ze'mile
+* 7,000 = xe'mile
+* 8,000 = ok'mile
+* 9,000 = no'mile
 
 
-**Millions  = mon**
+**Millions  = moja/moje**
 
-1,000,000  = mon
+1,000,000  = moja
 
-* 1,000,000 = un'mon
-* 2,000,000 = du'mon
-* 3,000,000 = re'mon
+* 1,000,000 = un'moja
+* 2,000,000 = do'moje
+* 3,000,000 = re'moje
 * ...
-* 9,000,000 = no'mon
+* 9,000,000 = no'moje
 
 
-**Billions = byl**
+**Billions = buja**
 
-1,000.000.000   = byl
+1,000.000.000   = buja
 
 
-* 1,000,000,000 = un'byl
-* 2,000,000,000 = du'byl
-* 3,000,000,000 = re'byl
+* 1,000,000,000 = un'buja
+* 2,000,000,000 = do'buje
+* 3,000,000,000 = re'buje
 * ...
-* 9,000,000,000 = no'byl
+* 9,000,000,000 = no'buje
 
 
 ## Level 3
 
 **Binary**
 
-vala = value
+va = vala = value
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | dva      | dua-vala (binary/bit)
-8   | ova      | oka-vala (word)
-16  | du'ova   | short integer
-32  | pe'ova   | integer
-64  | ok'ova   | long integer
+0/1 | dova     | doa-vala (binary/bit)
+8   | okva     | oka-vala (word)
+16  | do'okva  | short integer
+32  | ku'okva  | integer
+64  | ok'okva  | long integer
 
 Griat!
 
