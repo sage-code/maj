@@ -10,7 +10,7 @@ Maj script is a creole alphabet with letters from Georgian, Greek and Latin. It 
 
 To write a Maj letters correctly you must start with movement 1, then you continue with movement 2 and do not lift your pen until you finish the letter. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle.
 
-<img src="maj-script.png" alt="Maj Script" width="400"></img>
+<img src="maj-script.jpg" alt="Maj Script" width="400"></img>
 
 
 ## Handwriting test 
