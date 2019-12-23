@@ -141,15 +141,15 @@ The Lexicon contains most frequent Maj words organized by domain:
 * The "a" is transformed to "o" before 'xa suffix.
 
 1. suto'xa = [structure](words/structure.md)
-1. ynfo'xa = [information](words/information.md)
+1. info'xa = [information](words/information.md)
 1. paqo'xa = [space](words/space.md)
 1. teso'xa = [time](words/time.md)
 1. poco'xa = [processes](words/processes.md)
 1. movo'xa = [movement](words/movement.md)
-1. fyzo'xa = [physical world](words/physical_world.md)
+1. fizo'xa = [physical world](words/physical_world.md)
 1. naro'xa = [nature](words/nature.md)
 1. vevo'xa = [life](words/life.md)
-1. pyho'xa = [psychology](words/psychology.md)
+1. piho'xa = [psychology](words/psychology.md)
 1. famo'xa = [family](words/family.md)
 1. kulo'xa = [human culture](words/human_culture.md)
 1. teho'xa = [technology](words/technology.md)
