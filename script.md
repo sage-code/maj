@@ -12,6 +12,14 @@ To write a Maj letters correctly you must start with movement 1, then you contin
 
 <img src="maj-script.png" alt="Maj Script" width="400"></img>
 
+
+## Handwriting test 
+
+This is a sample of many tests I have written by hand.
+
+<img src="demo/maj-script.png" alt="Maj Alphabet" width="600"></img>
+
+
 ## Cost of writing
 
 The more movements a letter has the more expensive it is. The cost of writing can be calculated using 3 classes depending on letter difficulty. We have selected this cost so that most frequent letters are less expensive while more rare laters are a bit more expensive.
