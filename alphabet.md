@@ -99,7 +99,7 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 
 **Letter `y`:** Is close central, unrounded vowel. IPA symbol for this sound is actually "ɨ". This sound is very different than English sound `y`. It is very similar to sound `i` in word "still".
 
-Learn by: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
+Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
 * zyna = "fairy"
 
@@ -115,7 +115,7 @@ Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. 
 
 **Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. This letter is not closed and not open but tranzitional, aproximand. In some languages this letter is considered consonant.
 
-Learn by: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
+Learn more: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
 
 **interjections:**
 
@@ -236,7 +236,7 @@ In old Spanish you must use `ü` (that is u with diaeresis) to make the sound `u
 
 **Soft: ĝ = ფ** 
 
-[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
@@ -245,7 +245,7 @@ Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate s
 
 **Hard: ğ = ɤ** 
 
-[listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
+Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
 Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
 
@@ -255,7 +255,9 @@ Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `
 
 **Modified: q**
 
-In Maj, "Q" is used to create similar sound to IPA:"t͡ʃ" or "ʈ͡ʂ" . It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
+In Maj, "Q" is used to create IPA sound:"t͡ʃ". It sounds like "ch" in "chin" or "chicken" or "peach". This replace digraph "ch", thus making the Maj words shorter. 
+
+Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 
 * qyka = "girl" is read like IPA: "t͡ʃika";
 * qesa = "ceez" is read like IPA: "t͡ʃesa";
@@ -265,7 +267,9 @@ In Maj, "Q" is used to create similar sound to IPA:"t͡ʃ" or "ʈ͡ʂ" . It soun
 
 **Modified: x**
 
-Letters `x` is like: `sh` in `sheep`. To prodice this sound you must softly press the middle of the tongue on the roof top of your mouth and produce a fricative whispering sound. 
+Letters `x` sounds like: `sh` in `sheep`. To prodice this sound you must softly press the middle of the tongue on the roof top of your mouth and produce a fricative whispering sound. In most other Romance languages this sound is "cs" but Maj has repurpose this letter.
+
+Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 
 * Word: "xi" means "keep it quiet" similar to many Romance languages;
 * Xue is pronounced "ʃue" and represent a Chinese name; 
