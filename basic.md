@@ -16,7 +16,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
 qau   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+ada   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -25,8 +25,8 @@ adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 
 **examples:**
 
-* qau  muna = hello world
-* adio todo = farewell all
+* qau muna = hello world
+* ada todo = farewell all
 
 ## Words
 
@@ -67,7 +67,7 @@ Is the person or the thing who perform the action.
 
   ps |singular          | plural
 -----|------------------|-----------------------------
-  1  | yo = I           | nu  = we
+  1  | io = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = he, she, it | zu  = they
 
@@ -77,9 +77,9 @@ Is the person or the thing who receive the action.
 
  ps | singular             | plural     
 ----|----------------------|-----------------------------
- 1  | mye = to me          | noh = to us   
- 2  | tye = to you         | voh = to y'all
- 3  | sye = to him/her/it  | zoh = to them 
+ 1  | mie = to me          | noə = to us   
+ 2  | cie = to you         | voə = to y'all
+ 3  | sie = to him/her/it  | zoə = to them 
  
 **Possessive**
 
@@ -90,8 +90,8 @@ determinant: al = belong, of the
 singular                 | plural
 -------------------------|--------------------------------
  al meu = mine           | al nua = ours
- al thu = yours          | al vua = yours
- al shu = his, hers, its | al zua = theirs
+ al təu = yours          | al vua = yours
+ al səu = his, hers, its | al zua = theirs
 
 ## Reflexive
 
@@ -99,24 +99,24 @@ Maj has a reflexive pronoun and reflexive determinant preposition:
 
 singular                | plural
 ------------------------|--------------------------------
- yo mh = myself         | nu ne = ourself 
- tu te = yourself       | vu vh = yourselves
- su se = himself,itself | zu zh = themselves
+ io mə = myself         | nu ne = ourself 
+ tu te = yourself       | vu və = yourselves
+ su se = himself,itself | zu zə = themselves
 
-Full reflexive word: "syfo" = "self"
+Full reflexive word: "sifo" = "self"
 
-* my syfo = myself;
-* tu syfo = yourself; 
-* su syfo = himself/ itself
-* nu syfo = ourselves; 
-* vu syfo = yourselves; 
-* zu syfo = themselves; 
+* mi sifo = myself;
+* tu sifo = yourself; 
+* su sifo = himself/ itself
+* nu sifo = ourselves; 
+* vu sifo = yourselves; 
+* zu sifo = themselves; 
 
 **examples**
 
 * tu te joka solo = you are playing alone
-* yo mh leva syfo = I am washing myself
-* su se waza syfo = he is resting himself
+* io mə leva sifo = I am washing myself
+* su se waza sifo = he is resting himself
 
 **note:* 
  * it is a total of: 6 x 4 = 24 pronouns
@@ -126,8 +126,8 @@ Full reflexive word: "syfo" = "self"
 
 Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
 
-* oyru = hear 
-* dyvu = become
+* oiru = hear 
+* divu = become
 * pasu = happen
 
 There are 3 time suffixes in Maj:
@@ -136,8 +136,8 @@ tesa = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- va      | vata      | future    
- sa      | sata      | present
+ fa      | fata      | future    
+ ia      | iata      | present
  pa      | pasa      | past 
  
 **undefined time**
@@ -150,26 +150,26 @@ verb: joku = to play
 
 **time suffix**
 
-* zu joku'ya = he is playing
-* zu joku'fu = he will play
+* zu joku'ia = he is playing
+* zu joku'fa = he will play
 * zu joku'pa = he has plaid
 
 **negative**
 
+* io ka joku'ia = I do not play now
 * zu ka joku'pa = he has not played
-* zu ka joku'fu = he will not play
-* yo ka joku'ya = I do not play now
+* zu ka joku'fa = he will not play
 
 **affirmative**
 
-* yo sy joku'fu yn la futa = Yes I will play in the future
-* tu sy joku'pa yn la pasa = Yes you have played in the past
+* io si joku'fa in la futa = Yes I will play in the future
+* tu si joku'pa in la pasa = Yes you have played in the past
 
 **reflexive**
 
-* yo mh joku'ya solo = I play with myself now
-* tu te joju'ya solo = You play yourself now
-* su se joju'ya solo = He is playing himself now
+* io mə joku'ia solo = I play with myself now
+* tu te joku'ia solo = You play yourself now
+* su se joku'ia solo = He is playing himself now
 
 Read more about: [verbs](verbs.md)
 
@@ -178,26 +178,26 @@ Read more about: [verbs](verbs.md)
 * suvo  = often (French souvent)
 * moxo  = soon  (Latin mox)
 
-* zu joku' suvo = he play often
+* zu joku suvo = he play often
 
 **composite**
 
 ora   = times (* = ora)
 
-* ny'ora = never
+* ni'ora = never
 * un'ora = once
 * du'ora = twice
 * re'ora = three times
-* ym'ora = forever
+* im'ora = forever
 
 **using numerals**
 
 lyo  = place (French lieu)
 
-* un'lyo  = first  place
-* du'lyo  = second place
-* re'lyo  = third   place
-* ny'lyo  = last place
+* un'lio  = first  place
+* du'lio  = second place
+* re'lio  = third   place
+* ni'lio  = last place
 
 ## Proposition
 
@@ -205,20 +205,20 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* yo vidu'pa ta un'foa!  = I have seen you one time!
+* io vidu'pa ta un'foa!  = I have seen you one time!
 * su vidu'pa vo ny'foa!  = He have never seen y'all!
-* tu vidu'fu ma suv!     = You will see me often!
-* nu podo vidu'so zu amu!= We can see them now!
+* tu vidu'fa ma suv!     = You will see me often!
+* nu podo vidu'ia zu amu!= We can see them now!
 
 ## Call to Action
 
 In Maj, "hay" is used as an determinant call, preposition:
 
-hay = c'mon (come on)
-hay = let's (let us)
+hai = c'mon (come on)
+hai = let's (let us)
 
-* hay nu haru bosu sh = c'mon we have to search him
-* hay nu dovu bosu zh = c'mon we must search them
+* hai nu haru bosu sə = c'mon we have to search him
+* hai nu dovu bosu zə = c'mon we must search them
 
 
 ## Interrogative
@@ -227,12 +227,11 @@ Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-ka      | no?      | non     | nu?
-ke      | what?    | qué     | ce
-ky      | who?     | quien   | cine
-ko      | how?     | como    | cum
-ku      | which?   | cual    | care
-
+ka?     | no?      | non     | nu?
+ke?     | what?    | qué     | ce
+ki?     | who?     | quien   | cine
+ko?     | how?     | como    | cum
+ku?     | which?   | cual    | care
 
 Composite interrogations using preposition "de" and noun:
 
@@ -246,28 +245,28 @@ de ke reza?|ura  | why?     | por qué | for what reason?
 
 Next examples show how to use interrogative prepositions:
 
-* ke magu'fu tu  ?  = what are you going to eat ?
-* ky seru'pa ybo ?  = who was there?
-* ku seru'ya tu  ?  = how are you ?   
-* ka magu'fu tu  ?  = you have not eaten ?
+* ke magu'fa tu  ?  = what are you going to eat ?
+* ki seru'pa ibo ?  = who was there?
+* ku seru'ia tu  ?  = how are you ?   
+* ka magu'fa tu  ?  = you have not eaten ?
 
 Asking about location can be explicit using que:
 
-* de ke loka ti andu ? = where are you going?
-* de ke loka ti venu ? = where are you coming from?
-* de ke loka ti seru ? = where are you from?
+* de ke loka ti andu? = where are you going?
+* de ke loka ti venu? = where are you coming from?
+* de ke loka ti seru? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
-* es la loka ke tu joku? = is the place you play?
-* es la tesa ke zu venu? = is the time they come?
+* es la loka ke te joku? = is the place you play?
+* es la tesa ke ze venu? = is the time they come?
 
 **expressions**
   
-You can use `von uby`, or `com uby` instead of `loka`.
+You can use `von ubi` instead of `loka`.
   
-* von uby cu uby? = from where to where!
-* von hyr cu ybo! = from here to there!
+* von ubi cu ubi? = from where to where!
+* von hir cu ibo! = from here to there!
 
 ## Responses
 
@@ -275,7 +274,7 @@ The interogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* sy / asy = yes / so
+* si / asi = yes / so
 * ka / kan = not / non
 
 **polite**
@@ -314,14 +313,13 @@ A noun represents person, place, object, or idea.
 
 * pana  = bread
 * pane  = breads
-* pano  = kake 
 
 You can learn more about nouns in a separate document:
 [nouns](nouns.md)
 
 ## Article
 
-In Maj, article is a short word you add in front of the noun.
+An article is a short word you add in front of the noun.
 
 * Articles are used to _point out_ or _refer_ nouns or a group of nouns. 
 * There are two different types of articles: definite and indefinite articles.
@@ -369,7 +367,7 @@ es (seru) = to be
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
 
 * una Mercedes fon la gupa de auto = "a Mercedes from the car lot"
-* una yova yn ysta = "an event in history"
+* una iova in hisa = "an event in history"
 
 In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
 
@@ -378,9 +376,9 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
 * ago = any
-* omy = every
+* omi = every
 * ale = all
-* may = many
+* mai = many
 * plu = more 
 * pau = few
 * van = several (some)
@@ -394,7 +392,7 @@ Common noun is using plural "e" or singular "a" with different articles:
 * omy mela = every apple
 * ago mela = any apple
 * som mele = some apples
-* aly mele = all apples
+* ali mele = all apples
 * mot mele = many apples
 * yxo diz male = approximative 10 apples
 
