@@ -55,8 +55,9 @@ Next picture has IPA pronounciation for each Maj letter:
 
 <img src="maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
 
-Listen:[maj-alphabet](maj-28-letters.mp3)
-
+<audio controls preload="auto"> 
+    <source src="Maj-28-letters.mp3" />
+</audio>
 
 And this is done. Great!
 
