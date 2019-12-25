@@ -57,6 +57,7 @@ Next picture has IPA pronounciation for each Maj letter:
 
 <audio controls preload="auto"> 
     <source src="Maj-28-letters.mp3" />
+    Sound file: Maj-28-letters.mp3 (not supported by your browser)
 </audio>
 
 And this is done. Great!
