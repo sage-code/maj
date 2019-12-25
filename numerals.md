@@ -127,7 +127,7 @@ Large numbers have singluar and plural form:
 * 6,000 = ze'mije
 * 7,000 = xe'mije
 * 8,000 = ok'mije
-* 9,000 = no'moje
+* 9,000 = no'mije
 
 
 **Millions  = mila/mile**
