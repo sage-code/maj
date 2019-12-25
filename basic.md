@@ -16,7 +16,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
 qau   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-ada   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+aba   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -26,7 +26,7 @@ ada   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **examples:**
 
 * qau muna = hello world
-* ada todo = farewell all
+* aba todo = farewell all
 
 ## Words
 
@@ -114,8 +114,8 @@ Full reflexive word: "sifo" = "self"
 
 **examples**
 
-* tu te joka solo = you are playing alone
 * io mə leva sifo = I am washing myself
+* tu te joka solo = you are playing alone
 * su se waza sifo = he is resting himself
 
 **note:* 
@@ -144,7 +144,7 @@ tesa = time
 
 verb: joku = to play
 
-* yo joku  = I play
+* io joku  = I play
 * tu joku  = you play
 * zu joku  = he play
 
