@@ -28,7 +28,7 @@ Latin | IPA  | MAJ | Maj Name
   p   | p    | დ   | pita
   q   | t͡ʃ   | ƍ   | qoka
   r   | r    | წ   | rota
-  s   | s    | σ   | sota
+  s   | s    | σ   | sita
   t   | t    | ծ   | teta  
   u   | u    | և   | ulma
   v   | v    | ϑ   | vera

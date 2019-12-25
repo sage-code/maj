@@ -109,7 +109,7 @@ Large numbers have singluar and plural form:
  200 |  du'sate  |  700 |  xe'sute
  300 |  re'sate  |  800 |  ok'sute
  400 |  ku'sate  |  900 |  no'sute
- 500 |  fe'sate  | 1000 |  un'mila
+ 500 |  fe'sate  | 1000 |  un'mija
 
 
 * 125 = un'suta+du'cen+fea
@@ -117,40 +117,40 @@ Large numbers have singluar and plural form:
 * 801 = ok'qen+una
 
 
-**Thousands = mila/mile**
+**Thousands = mija/mije**
 
-* 1,000 = un'mila
-* 2,000 = du'mile
-* 3,000 = re'mile
-* 4,000 = ku'mile
-* 5,000 = fe'mile
-* 6,000 = ze'mile
-* 7,000 = xe'mile
-* 8,000 = ok'mile
-* 9,000 = no'mile
+* 1,000 = un'mija
+* 2,000 = du'mije
+* 3,000 = re'mije
+* 4,000 = ku'mije
+* 5,000 = fe'mije
+* 6,000 = ze'mije
+* 7,000 = xe'mije
+* 8,000 = ok'mije
+* 9,000 = no'mije
 
 
-**Millions  = moja/moje**
+**Millions  = mila/mile**
 
-1,000,000  = moja
+1,000,000  = mila
 
-* 1,000,000 = un'moja
-* 2,000,000 = du'moje
-* 3,000,000 = re'moje
+* 1,000,000 = un'mila
+* 2,000,000 = du'mile
+* 3,000,000 = re'mile
 * ...
-* 9,000,000 = no'moje
+* 9,000,000 = no'mile
 
 
-**Billions = buja**
+**Billions = bila**
 
-1,000.000.000   = buja
+1,000.000.000   = mila
 
 
-* 1,000,000,000 = un'buja
-* 2,000,000,000 = du'buje
-* 3,000,000,000 = re'buje
+* 1,000,000,000 = un'mila
+* 2,000,000,000 = du'mile
+* 3,000,000,000 = re'mile
 * ...
-* 9,000,000,000 = no'buje
+* 9,000,000,000 = no'mile
 
 
 ## Level 3
