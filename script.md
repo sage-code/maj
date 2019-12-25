@@ -60,6 +60,5 @@ Next picture has IPA pronounciation for each Maj letter:
     Sound file: Maj-28-letters.mp3 (not supported by your browser)
 </audio>
 
-And this is done. Great!
 
 Read next about the Latin: [alphabet](alphabet.md)
