@@ -53,7 +53,12 @@ Const of writing can be used in an algorithms to evaluate word complexity during
 
 Next picture has IPA pronounciation for each Maj letter:
 
-<img src="maj_alphabet.png" alt="Maj Alphabet" width="600"></img>
+<img src="maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
+
+<audio controls>
+  <source src="maj-28-letters.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 And this is done. Great!
 
