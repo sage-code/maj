@@ -51,7 +51,7 @@ x | maj  | xx | maj          | xx | maj    |
 1 | una  | 11 | un'cen+una   | 10 | un'cen |
 2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
 3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
-4 | kua  | 14 | un'cen+pea   | 40 | pe'cen |
+4 | kua  | 14 | un'cen+kua   | 40 | ku'cen |
 5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
 6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
 7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
@@ -82,8 +82,8 @@ Repeting time is created using `kota` = number
 * du'kota = twice
 * re'kota = three times
 * ...
-* ci'kota = then times
-* ym'kota = forever
+* ce'kota = then times
+* im'kota = forever
           
 **positional**
 
@@ -113,8 +113,8 @@ Large numbers have singluar and plural form:
 
 
 * 125 = un'suta+du'cen+fea
-* 555 = pe'qen+pe'ten+fea
-* 801 = ok'qen+una
+* 555 = fe'sute+fe'ten+fea
+* 801 = ok'sute+una
 
 
 **Thousands = mija/mije**
@@ -157,12 +157,15 @@ Large numbers have singluar and plural form:
 
 **Binary**
 
-va = vala = value
+Note: TODO: Fix oes not work due to change in tense:
+
+se = to be
+un = one
 
 bits| maj      | description
 ----|----------|----------------------
-0/1 | duva     | doa vala (binary/bit)
-8   | okva     | oka vala (word)
+0/1 | unse     | one bit
+8   | okse     | oka vala (word)
 16  | du'okva  | short integer
 32  | ku'okva  | integer
 64  | ok'okva  | long integer

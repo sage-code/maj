@@ -16,7 +16,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
 qau   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-aba   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+bau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -26,7 +26,7 @@ aba   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **examples:**
 
 * qau muna = hello world
-* aba todo = farewell all
+* bau todo = farewell all
 
 ## Words
 
@@ -158,7 +158,7 @@ verb: joku = to play
 
 * io ka joku'ia = I do not play now
 * zu ka joku'pa = he has not played
-* zu ka joku'fa = he will not play
+* zu ka joku'va = he will not play
 
 **affirmative**
 
@@ -206,7 +206,7 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 verb: vidu  = to see
 
 * io vidu'pa ta un'foa!  = I have seen you one time!
-* su vidu'pa vo ny'foa!  = He have never seen y'all!
+* su vidu'pa vo ni'foa!  = He have never seen y'all!
 * tu vidu'fa ma suv!     = You will see me often!
 * nu podo vidu'ia zu amu!= We can see them now!
 
@@ -230,8 +230,8 @@ maj     | english  | spanish | romanian
 ka?     | no?      | non     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
-ko?     | how?     | como    | cum
-ku?     | which?   | cual    | care
+komo?   | how?     | como    | cum
+kuro?   | which?   | cual    | care
 
 Composite interrogations using preposition "de" and noun:
 
@@ -252,14 +252,14 @@ Next examples show how to use interrogative prepositions:
 
 Asking about location can be explicit using que:
 
-* de ke loka ti andu? = where are you going?
-* de ke loka ti venu? = where are you coming from?
-* de ke loka ti seru? = where are you from?
+* de ke loka te andu? = where are you going?
+* de ke loka te venu? = where are you coming from?
+* de ke loka te seru? = where are you from?
     
 You can ask about location isomg `ubi` or time isomg `cud`:
 
 * es la loka ke te joku? = is the place you play?
-* es la tesa ke ze venu? = is the time they come?
+* es la tesa ke zu venu? = is the time they come?
 
 **expressions**
   
@@ -270,7 +270,7 @@ You can use `von ubi` instead of `loka`.
 
 ## Responses
 
-The interogative question can be answered with affirmative or negative:
+The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
@@ -304,7 +304,7 @@ For stronger assurance answer you can specify the logical values:
 
 Noun is a word terminated with coda:
 
-* coda "a" = generic singular
+* coda "a" = singular
 * coda "e" = plural
 
 A noun represents person, place, object, or idea. 
@@ -383,18 +383,18 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 * pau = few
 * van = several (some)
 * som = some 
-* yxo = approximative
+* ixo = approximative
 
 Common noun is using plural "e" or singular "a" with different articles:
 
 * una mela = one apple
 * dua mele = two apples
-* omy mela = every apple
+* omi mela = every apple
 * ago mela = any apple
 * som mele = some apples
 * ali mele = all apples
 * mot mele = many apples
-* yxo diz male = approximative 10 apples
+* ixo diz male = approximative 10 apples
 
 Invariant noun is terminated in "s" or other consonant:
 
