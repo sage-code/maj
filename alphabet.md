@@ -1,10 +1,10 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. For each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronunciations but only one name each. So Maj have only 26 names actually. 
+Maj alphabet has 28 letters. For each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronunciations but only one name each. So Maj have only 26 names actually for the letters. Script alphabet is mapped to Latin alphabet. So Maj actually has two set of symbols for the alphabet one is the Latin symbol and the other one is the Maj symbol.
 
 **notes:**
 * the order of letters is different from ISO standard;
-* letter name start with the letter it represents;
+* name if letters start with the letter it represents;
 * each letter represent one sound except `g` and `h`;
 * for handwriting see details on: [script](script.md) page;
 
