@@ -231,7 +231,7 @@ ka?     | no?      | non     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
 komo?   | how?     | como    | cum
-kuro?   | which?   | cual    | care
+karo?   | which?   | cual    | care
 
 Composite interrogations using preposition "de" and noun:
 
