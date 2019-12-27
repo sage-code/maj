@@ -60,7 +60,7 @@ There is available a tool to convert Maj words into IPA alphabet:
 
 * Uppercase letters are used in text for names and titles;
 * We have introduced letters: "ğ ĝ ɦ ə" to enhance "g" and "h"; 
-* Letters "Ә" and "ə" can not be used ad beginning of words;
+* Letters "Ә" and "ə" can not be used at the beginning of words;
 
 Details: [Maj alphabet](alphabet.md)
 
