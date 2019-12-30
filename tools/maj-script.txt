@@ -18,7 +18,7 @@ Maj
 
 
 ###description, Description...:
-Maj script converter.
+Latin to Maj script converter. 
 
 
 ###email, Admin email (optional)...:
@@ -83,7 +83,7 @@ z
 უ
 ɚ
 ჺ
-₰
+ჲ
 რ
 ღ
 თ
@@ -122,30 +122,30 @@ g
 
 
 ###regex1, Latin list...:
-/([^\s]+) ?/g
+/[\s]([^\s]+)/g
 /([αɛʚთυկ])(h)/g
-/([ჵჩβɕდღɤფʓჺშრσუϑϰω₰ოծწ])(h)/g
+/([ჵჩβɕდღɤფʓჺშრσუϑϰωჲოծწ])(h)/g
 /[gɤ]([ɛʚ])/g
-/g([ɚαɛʚთևყβɕდღʓჺშრσუϑϰω₰ოծწ])/g
+/g([ɚαɛʚთևყβɕდღʓჺშრσუϑϰωჲოծწ])/g
 
 
 ###regex2, Maj list...:
-$1.
+.$1
 $1ჩ
 $1ɚ
 ფ$1
 ɤ$1
 
 
-
-
-
 ###rev_regex1, Maj list...:
-/[.]([\s]+)/g 
+/[\.]+([^\.]+)/g
+
 
 
 ###rev_regex2, Latin list...:
- $1
+t
+
+
 
 
 ###ordering1, Latin list...:

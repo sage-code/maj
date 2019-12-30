@@ -21,7 +21,7 @@ Latin | IPA  | MAJ | Maj Name
   i   | i    | ʚ   | iota
   j   | ʒ    | უ   | jona
   k   | k    | ჺ   | kapa
-  l   | l    | ₰   | lola
+  l   | l    | ჲ   | lola
   m   | m    | რ   | mona
   n   | n    | ღ   | nina
   o   | o    | თ   | oina
@@ -167,11 +167,11 @@ Most consonants are similar to: Italian and Romanian but are also found in Engli
 
 ## Difficult sounds
 
-You should be familiar with most of these sounds if you speack English, but Maj has some unusual sounds, and rules of reading that require special study:
+You should be familiar with most of these sounds if you speak English. However the sounds in Maj are associated differently with the letters. Next you will learn the rules to make Maj sounds.
 
 **Digraphs**
 
-Following letters are represented using digraphs in English but not in Maj.
+Maj do not have digraphs. Instead we associate letters { c, q, x } with digraphs: {ts, ch and sh}. This will enable creation of shorter words: 
 
 * Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
@@ -184,7 +184,7 @@ Following letters are represented using digraphs in English but not in Maj.
 Phonetic writing is quoted using IPA: notation 
 
 * qoka => IPA:"t͡ʃoka"  = "chocolate"   
-* xava => IPA:"ʃava"   = "shovel"    
+* xava => IPA:"ʃava"    = "shovel"    
 * koqa => IPA:"kot͡ʃa"  = "coach"     
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"    
@@ -195,11 +195,11 @@ Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
-* cyga = ENG: "cigarette"  => IPA: "t͡syga"
+* ciga = ENG: "cigarette"  => IPA: "t͡siga"
 
 **Modified: k**
 
-Maj letter "k" is plosive-valear not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj.
+Maj letter "k" is plosive-valear not trilled. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. 
 
 **examples:**
 
@@ -249,7 +249,7 @@ Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
 Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
 
-* goxa = ğoxa => IPA: "goʂa" = "left"
+* goxa = ğoxa => IPA: "goʃa" = "left"
 * agra = ağra => IPA: "agra" = "farmer"
 
 

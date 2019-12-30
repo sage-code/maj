@@ -51,10 +51,10 @@ x | maj  | xx | maj          | xx | maj    |
 1 | una  | 11 | un'cen+una   | 10 | un'cen |
 2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
 3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
-4 | kua  | 14 | un'cen+kua   | 40 | ku'cen |
+4 | qua  | 14 | un'cen+qua   | 40 | qu'cen |
 5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
 6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
-7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
+7 | xoa  | 17 | un'cen+xoa   | 70 | xo'cen |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
@@ -77,7 +77,7 @@ Let's count a rocket lifting off:
          
 Repeting time is created using `kota` = number
 
-* ni'kota = not even once
+* ni'kota = not even once (never)
 * un'kota = once
 * du'kota = twice
 * re'kota = three times
@@ -106,9 +106,9 @@ Large numbers have singluar and plural form:
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
  100 |  un'sata  |  600 |  ze'sute
- 200 |  du'sate  |  700 |  xe'sute
+ 200 |  du'sate  |  700 |  xo'sute
  300 |  re'sate  |  800 |  ok'sute
- 400 |  ku'sate  |  900 |  no'sute
+ 400 |  qu'sate  |  900 |  no'sute
  500 |  fe'sate  | 1000 |  un'mija
 
 
@@ -117,17 +117,17 @@ Large numbers have singluar and plural form:
 * 801 = ok'sute+una
 
 
-**Thousands = mija/mije**
+**Thousands = moja/moje**
 
-* 1,000 = un'mija
-* 2,000 = du'mije
-* 3,000 = re'mije
-* 4,000 = ku'mije
-* 5,000 = fe'mije
-* 6,000 = ze'mije
-* 7,000 = xe'mije
-* 8,000 = ok'mije
-* 9,000 = no'mije
+* 1,000 = un'moja
+* 2,000 = du'moje
+* 3,000 = re'moje
+* 4,000 = qu'moje
+* 5,000 = fe'moje
+* 6,000 = ze'moje
+* 7,000 = xo'moje
+* 8,000 = ok'moje
+* 9,000 = no'moje
 
 
 **Millions  = mila/mile**
@@ -143,15 +143,14 @@ Large numbers have singluar and plural form:
 
 **Billions = bila**
 
-1,000.000.000   = mila
+1,000.000.000   = bila
 
 
-* 1,000,000,000 = un'mila
-* 2,000,000,000 = du'mile
-* 3,000,000,000 = re'mile
+* 1,000,000,000 = un'bila
+* 2,000,000,000 = du'bile
+* 3,000,000,000 = re'bile
 * ...
-* 9,000,000,000 = no'mile
-
+* 9,000,000,000 = no'bile
 
 ## Level 3
 
@@ -159,16 +158,13 @@ Large numbers have singluar and plural form:
 
 Note: TODO: Fix oes not work due to change in tense:
 
-se = to be
-un = one
-
-bits| maj      | description
-----|----------|----------------------
-0/1 | unse     | one bit
-8   | okse     | oka vala (word)
-16  | du'okva  | short integer
-32  | ku'okva  | integer
-64  | ok'okva  | long integer
+bits| maj            | description
+----|----------------|----------------------
+0/1 | bin            | binary
+8   | rig            | octet
+16  | un'rig         | short integer
+32  | du'rig         | integer
+64  | qu'rig         | long integer
 
 Griat!
 

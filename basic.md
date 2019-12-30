@@ -136,7 +136,7 @@ tesa = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- fa      | fata      | future    
+ va      | fata      | future    
  ia      | iata      | present
  pa      | pasa      | past 
  
@@ -230,16 +230,14 @@ maj     | english  | spanish | romanian
 ka?     | no?      | non     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
-komo?   | how?     | como    | cum
-karo?   | which?   | cual    | care
 
 Composite interrogations using preposition "de" and noun:
 
 maj        |New  | english  | spanish | 1:1 translation
 -----------|-----|----------|---------|---------------
-de ke tesa?|uta  | when?    | cuando  | about what time?
-de ke loka?|ubi  | where?   | donde   | about what location?
-de ke reza?|ura  | why?     | por qué | for what reason?
+de ke tesa?| uta | when?    | cuando  | about what time?
+de ke loka?| ubi | where?   | donde   | about what location?
+de ke reza?| ura | why?     | por qué | for what reason?
 
 **examples**
 
@@ -250,18 +248,19 @@ Next examples show how to use interrogative prepositions:
 * ku seru'ia tu  ?  = how are you ?   
 * ka magu'fa tu  ?  = you have not eaten ?
 
-Asking about location can be explicit using que:
+Asking about location can be explicit using "ke loka":
 
 * de ke loka te andu? = where are you going?
 * de ke loka te venu? = where are you coming from?
 * de ke loka te seru? = where are you from?
     
-You can ask about location isomg `ubi` or time isomg `cud`:
+Sometimes "ke" is used to indicate a response and not a question:
 
-* es la loka ke te joku? = is the place you play?
-* es la tesa ke zu venu? = is the time they come?
+* es la loka ke te joku! = is the place you play!
+* es la tesa ke zu venu! = is the time they arrive!
 
 **expressions**
+
   
 You can use `von ubi` instead of `loka`.
   
