@@ -15,8 +15,8 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
-qau   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-bau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+salu  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -25,8 +25,8 @@ bau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 
 **examples:**
 
-* qau muna = hello world
-* bau todo = farewell all
+* salu muna = hello world
+* adio todo = farewell all
 
 ## Words
 

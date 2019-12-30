@@ -71,7 +71,8 @@ Details: [Maj alphabet](alphabet.md)
 
 Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
-* ƍαև.რևღα!   = qau muna;
+
+* σαჲև.რևღα!  = salu muna;
 * ɛծα.ɛσ.რαუ; = eta es maj!
 
 **Notes:**
