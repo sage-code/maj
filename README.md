@@ -1,29 +1,32 @@
 # Maj
 
-Maj is a comprehensive amd easy to learn constructed language.
+Maj is a light weight, easy to learn constructed language.
 
 **Attributes:**
 
-Maj is a logic language with following addributes:
+Maj is a logic language, with following addributes:
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
-3. Familiar  - uses familiar European phonetics;
+3. Familiar  - uses familiar sounds from Romance languages;
+4. Open      - it is open source so you can contribute;
 
 **Purpose ...**
 
-Maj should look familiar to a native Romance language speaker.
+Maj is designed for international unformal communication;
 
 1. Maj is for study;
 2. Maj is for business;
 3. Maj is for friendship;
 4. Maj is for entertainment;
+5. Maj is for experience exchange;
 
 **Maj is not ...**
 
 1. a secret language;
 1. a cryptic language;
 1. a mystic language;
+1. a superior language;
 
 **Cases:**
 
@@ -60,7 +63,7 @@ There is available a tool to convert Maj words into IPA alphabet:
 
 * Uppercase letters are used in text for names and titles;
 * We have introduced letters: "ğ ĝ ɦ ə" to enhance "g" and "h"; 
-* Letters "Ә" and "ə" can not be used ad beginning of words;
+* Letters "Ә" and "ə" can not be used at the beginning of words;
 
 Details: [Maj alphabet](alphabet.md)
 
