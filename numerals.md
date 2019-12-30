@@ -101,15 +101,15 @@ Franch:  lieu,  ordre, position
 
 Large numbers have singluar and plural form:
 
-**Hundreds = sata/sate**
+**Hundreds = suta/sute**
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'sata  |  600 |  ze'sute
- 200 |  du'sate  |  700 |  xo'sute
- 300 |  re'sate  |  800 |  ok'sute
- 400 |  qu'sate  |  900 |  no'sute
- 500 |  fe'sate  | 1000 |  un'mija
+ 100 |  un'suta  |  600 |  ze'sute
+ 200 |  du'sute  |  700 |  xo'sute
+ 300 |  re'sute  |  800 |  ok'sute
+ 400 |  qu'sute  |  900 |  no'sute
+ 500 |  fe'sute  | 1000 |  un'moja
 
 
 * 125 = un'suta+du'cen+fea
