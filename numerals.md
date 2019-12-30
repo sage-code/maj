@@ -19,19 +19,19 @@ When used in text or expressions, symbols can have associated a name
 
 Maka   | Maj    | English
 -------|--------|---------------------
-  ` `  | sao    | Space, gap, blank
+  ` `  | gap    | Space, gap, blank
   `=`  | iko    | Equal sign
-  `>`  | gwo    | Greater then sign
-  `<`  | lwo    | Less then sign
+  `>`  | guo    | Greater then sign
+  `<`  | luo    | Less then sign
   `+`  | pio    | Plus sign 
   `-`  | mio    | Hyphen , minus sign 
-  `/`  | rwa    | Slash , forward slash 
+  `/`  | lax    | Slash , forward slash 
   `.`  | opa    | Dot, full stop 
   `,`  | oma    | Comma 
   `:`  | epa    | Colon 
   `;`  | eva    | Semicolon 
   `?`  | kre    | Question mark 
-  `!`  | ara    | Exclamation mark 
+  `!`  | ira    | Exclamation mark 
   `\*` | ora    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
