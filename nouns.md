@@ -1,34 +1,38 @@
 ## Nouns
 
-Nouns are words representing objects, persons or places.  
+Nouns are words representing objects, materials, persons or places.  
 
 **examples:**
 
-* bana   = banana
-* akwa   = water
+* bana    = banana
+* akwa    = water
+* plumb   = lead
+* feron   = iron
+
 
 **rules:**
 
-* Most nouns are ending with letters {`a`,`e`,`y`,`h`};
+* Regular nouns are ending with letters {`a`,`e`};
+* Nouns ending with a consonant do not have a plural form;
 * Most nouns have 2 syllables, quite rare 3 syllables;
 
 **examples:**
 
-Same noun using 3 different coda. This is the regular case:
+Regular nouns are using different coda for singular and plural:
 
 * pana   = bread  (singular)
 * pane   = breads (plural)
 
 **gender**
 
-For distinguish between male and female beings we use adjectives: 
+In Maj, nouns do not have a specific coda for genre but use adjectives instead.
 
 * maqo Kania = male dog 
 * fimo Kania = female dog 
 
 **implicit gender**
 
-Some words include gender and do not require adjective:
+Some words include gender and do not require adjectives but some nouns do not have gender at all:
 
 * Kida = child    
 * Kide = children 
@@ -37,18 +41,20 @@ Some words include gender and do not require adjective:
 * Pare = parents 
 * Mama = mother
 * Papa = father
+* Kəpitan = captain
 
 ## Proper nouns
 
-Proper noun use uppercase when represent names.
+Proper noun use uppercase to represent names.
 
 * CHICAGO   = The city of Chicago
 * SANA      = Santa Claus
 
-Things and events start with uppercase when represent names.
+Things, titles and events start with uppercase when represent names.
 
 * Crimys    = Christmas 
 * Maj       = Language Maj
+* Kəpitan   = Captain
 
 ## Prefix preposition
 
@@ -56,15 +62,15 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 
 * kan  = not  - create antonyms
 * nam  = for  - specify purpose / person
-* aty  = anti - against / opposite 
-* eqo  = acho - environment friendly / organic
+* ati  = anti - against / opposite 
+* eko  = acho - environment friendly / organic
 
 **examples:**
 
 * nam-bebo = for drink
 * kan-bebo = not for drink
-* aty-gera = anti war
-* eqo-vaja = echo travel
+* ati-gera = anti war
+* eko-vaja = echo travel
    
 ## Noun suffix
 
@@ -93,7 +99,7 @@ xero =	"dear"
 
 ## Large
 
-For substantive larger then usual, you must convert "a" to "o" and add 'ga
+For substantive larger then usual, you must convert "a" to "o" and add o'ga
 
 * gaso = large
 * eta  = this
@@ -146,7 +152,7 @@ Locara  | worker         | ingrijitor
 
 Maj        | English      | Spanish
 -----------|--------------|-----------------
-Kanea      | dog          | perro               
+Kania      | dog          | perro               
 Cira       | squirrel     | ardilla               
 Cika       | boy          | chica
 Cike       | girls        | chicas
