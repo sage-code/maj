@@ -15,43 +15,55 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
-salu  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+qewo  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
 adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
-* muna = world      (from latin: mundo)
+* muda = world      (from latin: mundo)
 * luna = moon       (just in case you may be confused)
 
 **examples:**
 
-* salu muna = hello world
+* qawo muda = hello world
 * adio todo = farewell all
+
+**note:**
+
+Word "adio" is a morphologic word inherited from Latin that makes sense in Maj:
+
+dio   = god
+a'dio = with god
+
+Word "qawo" is a translation from Italian word: ciao that is an informal form of greetings.
 
 ## Words
 
-A word is a composition of sounds in a rapid succession without a pause. Maj have two kind of words: basic words and composite words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word can have a single role.
+A word is a rapid succession of sounds without pause. Maj have two kind of words: basic words and composite words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word have a single role.
 
 
 **notes:**
-1. A word in general start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
+1. A regular word start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
 2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
-3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda, but a root word without the coda can be something else. A shorter root word may be totally unrelated a longer word created with the root + coda.
+3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda. A short root word may be totally unrelated a longer word created with the root + coda.
+4. Longer words can end with a consonant. This is called stop consonant. These are called irregular words and are considered more expensive and therefore rarely used.
 
 **coda:**
 
-* Nouns are finalized with vowels: Group1: {"a", "e"}, Group2:{"y", "h"};
-* Verbs are finalized with vowels: Tense1:  {"a","u","o"} and Suffix: { 'ya, 'fu, 'pa };
-* Adjectives and Adverbs are finalized with any letter and must agree with the verb;
+* Nouns are finalized with vowels: {"a", "e"}
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ia, 'fu, 'pa };
+* Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
 **root:**
 
 In dictionary the root is using a particular coda, to avoid a large dictionary.
 
-* The nouns are terminated with "a" (singular form)
-* The verbs are terminated with "u" (indefinite future) 
-* The adverbs and adjectives with ("o" or "y")
+* Most nouns terminated with "a" 
+* Some nouns terminated with "e"
+* Most verbs are terminated with "u"
+* Some verbs are terminated with "o"
+* Adverbs and adjectives are terminated with ("o" or "i")
 
 ## Pronoun
 
@@ -262,10 +274,10 @@ Sometimes "ke" is used to indicate a response and not a question:
 **expressions**
 
   
-You can use `von ubi` instead of `loka`.
+You can use `fon ubi` instead of `loka`.
   
-* von ubi cu ubi? = from where to where!
-* von hir cu ibo! = from here to there!
+* fon ubi cu ubi? = from where to where!
+* fon hir cu ibo! = from here to there!
 
 ## Responses
 

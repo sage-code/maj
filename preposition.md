@@ -75,7 +75,7 @@ lon = far
 nah = near
 
 
-* MAJ: una loka mui lon von hir;
+* MAJ: una loka mui lon fon hir;
 * ENG: a location very far from here;
 
 
@@ -88,7 +88,7 @@ note: Symbol ":" is read "con"
 
 **examples**
 
-* von Mark Twain   = by Mark Twain
+* fon Mark Twain   = by Mark Twain
 * kon mia due mane = with my two hands
 * kon abe mane     = with both hands
 
@@ -132,7 +132,7 @@ Next directions are very important:
 
 Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
-von   | from     | von    | de       | de      | de
+fon   | from     | fon    | de       | de      | de
 cum   | toward   | zu     | la       | vers    | para
 bay   | by       | durch  | prin     | por     | por
 vya   | via      | über   | via      | via     | vía
@@ -141,7 +141,7 @@ aus   | off      | aus    | din      | de      | apagado
          
 **Examples**         
 
-* von apota     = from airport
+* fon apota     = from airport
 * aus trena     = off the train
 * cum Paris     = to Paris
 * par Luxemburg = by Luxemburg
@@ -154,12 +154,12 @@ Maj     | English            | Spanish         | German
 --------|--------------------|-----------------|-------------- 
 auf     |on, in              |en               | im, auf
 aut     |out                 |fuera            | draußen
-ybo     |there               |ahi              | dort
-von     |of                  |de               | von
+ala     |there               |ahi              | dort
+fon     |of                  |de               | von
 fra     |between             |entre            | zwischen
-hyr     |here                |aqui             | hier
+aki     |here                |aqui             | hier
 jos	    |down                |abajo            | nieder
-pro     |beside, next to     |al lado, cerca   | neben
+ako     |beside, next to     |al lado, cerca   | neben
 pos     |behind the          |detrás           | hinter
 pue     |after               |despue           | nach  
 sub     |under,beneath,below |debajo           | unter
@@ -195,8 +195,8 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
 
  Maj | English | Description
 -----|---------|------------------------------------
- asy | so      | as consequence
- axa | right   | correct, agree with
+ asi | so      | as consequence
+ aja | right   | correct, agree with
  vel | because | as, since, cause of a consequence
  dar | but     | alternative
  den | then    | time consequence

@@ -279,12 +279,13 @@ If you don't know, Luxembourg has became an independent town and state in 1867.
 
 ## Clusters
 
-A clusters represents a group of two consonants.
+A clusters represents a group of two consonants. 
 
 **Rules:**
 
 * same letter can not be used twice in a cluster;
 * some combinations can not be pronounced;
+* clusters of 3 consonants are forbidden;
 
 **Examples**
 

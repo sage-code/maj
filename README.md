@@ -1,10 +1,6 @@
 # Maj
 
-Maj is a light weight, easy to learn constructed language.
-
-**Attributes:**
-
-Maj is a logic language, with following addributes:
+Maj is a logic language, with following attributes:
 
 1. Accesible - documentation is public;
 2. Efficient - short words and simple alphabet;
@@ -13,7 +9,7 @@ Maj is a logic language, with following addributes:
 
 **Purpose ...**
 
-Maj is designed for international unformal communication;
+Maj is designed for international informal social chat;
 
 1. Maj is for study;
 2. Maj is for business;
@@ -30,21 +26,21 @@ Maj is designed for international unformal communication;
 
 **Cases:**
 
-Maj is designed for chat, to make friends and to learn other languages. Since it is a logic language it can be used also for debates, study and entertainement. Maj is a Romantic language. This is a word similar to Romance but not the same. Maj is designed for communication with persons who do not speak English or Spanish or Franch but Maj.
+Maj is designed for quick informal chat, and to make friends on-line. It is a logic language it can be used also for debates, study and entertainment. Maj is a Romance language. Words are similar to Romance languages but not the same. 
 
-Maj is similar to Esperanto, except is much more simpler. Maj has shorter words and simpler grammar so it can be quicly learned by anyone who knows Latin alphabet. Our first instructions to learn Maj are in English but I hope someone will eventually translate the instructions into his native language.
+Maj is similar to Esperanto, except is much more simpler. Maj has shorter words and simpler grammar so it can be quickly learned by anyone who knows Latin alphabet. Initial documentation to learn Maj is written using English but we hope someone will eventually help to make documentation in other languages.
 
 **Rad more:** [case](case.md)
 
 ## Alphabet
 
-Mission of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately print characters are not easy to write therefore Maj has actually two alphabets: print alphabet and script alphabet.
+Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately Latin characters are not easy to write therefore Maj has actually two alphabets: print alphabet and script alphabet.
 
 * Maj has a total of 28 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading and writing;
 * There are 2 letters: {h, g} having associated 2 sounds each;
 
-The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently to include the missing letters: hard G = ğ and soft G = ĝ, plust the additional letter ə = ă that is not available in ISO Latin.
+The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently to include the missing letters: hard G = ğ and soft G = ĝ, plus the additional letter ə = ă that is not available in ISO Latin.
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13 | 14   
 ---|---|---|---|---|---|---|---|----|----|----|----|----|----
@@ -57,7 +53,7 @@ m  | n | o | p | q | r | s | t | u  | v  | w  | x  | y  | z
 
 There is available a tool to convert Maj words into IPA alphabet:
 
-[Maj IPA phonetic convertor](https://lingojam.com/MajIPA)
+[Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 **Notes:**
 
@@ -83,7 +79,7 @@ Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
 **Tool:**
 
-There is a dual conversion tool from Latin into Maj script:
+There is a dual conversion tool from Latin to Maj script and back:
 
 [Maj script converter](https://lingojam.com/MajScript)
 
@@ -99,7 +95,7 @@ Details: [The numerals](numerals.md)
 
 ## Words
 
-Maj will have about 2000 words, inspired from 7 different languages.
+Maj will have about 2020 words, inspired from 7 different languages.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
@@ -107,7 +103,7 @@ Maj will have about 2000 words, inspired from 7 different languages.
 **algorithm:**
 
 * Maj words are created manually using a translation spreadsheet;
-* Maj is avoiding synonyms and one word have one single meaning;
+* Maj is avoiding synonyms and one word have one simple meaning;
 * Maj words are already abbreviated so in Maj you can not use abbreviations;
 
 ## Essentials

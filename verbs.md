@@ -20,13 +20,13 @@ Noun: tesa  = time
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
  fu      | futa      | future    
- ya      | yata      | present
+ ia      | iata      | present
  pa      | pasa      | past
 
 Verb suffix and coda must match to represent time of action.
 
 * joku'fu = future play
-* joku'ya = present play
+* joku'ia = present play
 * joku'pa = past play
 
 ## Informative proposition
@@ -35,28 +35,28 @@ Informative propositions can use verbs coda: {a,o,u} for present, past and futur
 
 **des = of/about**
 
-* su dicu'ya una geza des la yata = he tel a stories about the present
+* su dicu'ia una geza des la iata = he tel a stories about the present
 * su dicu'pa una geza des la futa = he have told a story about the future
 * su dicu'fu una geza des la pasa = he will tel a story about the past
 
-**Preposition:** von = from
+**Preposition:** fon = from
 
 For informative proposition we do not need 'ya for present.
 
-* yo taru la nova von Europa  = I bring the news from Europe
-* tu taru ke nova von Weta?   = you bring what news from West?
+* io taru la nova fon Europa  = I bring the news from Europe
+* tu taru ke nova fon Weta?   = you bring what news from West?
 
 ## Imperative coda
 
 For imperative form of verb, you change coda from "u" to "h".
 
 * dovu = must/mandatory
-* dygu = talk
+* digu = talk
 
 **examples:**
 
-* tu dovu sh dygh'ya des la yata! = you must talk now about the present
-* su dovu sh dygh'ya des la pasa! = you must talk now about the past
+* tu dovu sə digə'ia des la iata! = you must talk now about the present
+* su dovu sə digə'ia des la pasa! = you must talk now about the past
 
 ## Verb transformation
 
@@ -65,12 +65,12 @@ Verb can be used as different part of proposition using a coda:"e" and suffix 'r
 joku => joke'ra
 
 * tu seru'pa la joke'ra de zu  = you have been his game player;
-* yo ka seru la tu jobe'ra     = I'm not your game player;
+* io ka seru la tu joke'ra     = I'm not your game player;
 
 Ver can be used as noun if coda "u" is replaced by "a"
 
 * la joka se joku'pa = the game was played;
-* la joka se finu'ya = the game is over now;
+* la joka se finu'ia = the game is over now;
 
 **lo = ul**
 
@@ -78,7 +78,7 @@ Use coda "e" and suffix 'lo to make an adjective
 
 joku => joke'lo = playful
 
-* yo seru joke'lo = I'm playful
+* io seru joke'lo = I'm playful
 * tu seru joke'lo = you are playful 
 * zu seru joke'lo = he is playful
 
@@ -101,13 +101,13 @@ rog = please (favor)
 
 **using pronoun after verb:**
 
-* hay sh hodu'ne  = let's calm ourselves
+* hay sə hodu'ne  = let's calm ourselves
 * te rog kamu'te  = please calm yourself 
 
 **using reflexive prefix**
 
-* nu dovu sh hodu'ne = we have to rest ourselves
-* vu dovu sh kamu'vh = you have to calm yourselves
-* zu dovu sh domu'zh = they must sleep themselves
+* nu dovu sə hodu'ne = we have to rest ourselves
+* vu dovu sə kamu'və = you have to calm yourselves
+* zu dovu sə domu'zə = they must sleep themselves
 
 Read next: [nouns](nouns.md)
