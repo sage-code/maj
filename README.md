@@ -44,7 +44,7 @@ The alphabet starts with same letters "A, B, C" like any Romance languages but s
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13 | 14   
 ---|---|---|---|---|---|---|---|----|----|----|----|----|----
-A  | B | C | D | E | Ğ | Ĝ | H | Ә  | E  | I  | J  | K  | L 
+A  | B | C | D | F | Ğ | Ĝ | H | Ǝ  | E  | I  | J  | K  | L 
 a  | b | c | d | f | ğ | ĝ | ɦ | ə  | e  | i  | j  | k  | l 
 M  | N | O | P | Q | R | S | T | U  | V  | W  | X  | Y  | Z 
 m  | n | o | p | q | r | s | t | u  | v  | w  | x  | y  | z 
