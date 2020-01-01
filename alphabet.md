@@ -103,7 +103,7 @@ Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vo
 * `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
 * `ə` after a consonant or at the end of words, sounds like `e` in "after";
 
-Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert back to these symbols from Maj.
+Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert "h" into two different sounds using the rule,.
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -245,7 +245,7 @@ In all Romance languages "g" is problematic. Italian and Romanian is using group
 
 In English and Spanish the hard "g" can be followed by silent "u". This method is also problematic, sound "gu" can not be produced. However this method can not be used convenient in Maj since "u" must be read.
 
-Maj solve this problem only in Maj Script by making letter "ფ" that is always "soft g" and by making letter "ɤ" that is always "hard g". Maj Latin alphabet has this problem unsolved in Maj.
+Maj solve this problem only in Maj Script by making letter "ფ" that is always "soft g" and letter "ɤ" that is always "hard g". Latin "g" is converted automatically to proper IPA or Script by the conversion tools.
 
 
 **Modified: q**
@@ -303,18 +303,17 @@ gn gl gm gr gv gs
 ``` 
 
 ## Diphthongs
-ɦ,ə
 
 Two vowels combined together into one cluster are called diphthongs.
 
-x |a  |e  |i  |o  |u  | y | ə
---|---|---|---|---|---|---|----
-a | · |ae |ai |ao |au |ay | aə
-e |ea | · |ei |eo |eu |ey | eə
-i |ia |ie | . |io |iu |iy | iə
-o |oa |oe |oi | · |ou |oy | oə
-w |wa |we |wi |wo |.  |wy | wə
-y |ya |ye |iy |yo |yu | . | yə
+x |a  |e  |i  |o  |u  | y 
+--|---|---|---|---|---|---
+a | · |ae |ai |ao |au |ay 
+e |ea | · |ei |eo |eu |ey 
+i |ia |ie | . |io |iu |iy 
+o |oa |oe |oi | · |ou |oy 
+w |wa |we |wi |wo |.  |wy 
+y |ya |ye |iy |yo |yu | . 
 
 
 **Notes:**

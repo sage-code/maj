@@ -40,14 +40,16 @@ Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin lett
 * Maj has deterministic phonetic rules for reading and writing;
 * There are 2 letters: {h, g} having associated 2 sounds each;
 
-The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently to include the missing letters: hard G = ğ and soft G = ĝ, plus the additional letter ə = ă that is not available in ISO Latin.
+The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due put pronunciation sounds that can be more easy to learn this way in Maj. 
 
- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13 | 14   
----|---|---|---|---|---|---|---|----|----|----|----|----|----
-A  | B | C | D | F | Ğ | Ĝ | H | Ǝ  | E  | I  | J  | K  | L 
-a  | b | c | d | f | ğ | ĝ | ɦ | ə  | e  | i  | j  | k  | l 
-M  | N | O | P | Q | R | S | T | U  | V  | W  | X  | Y  | Z 
-m  | n | o | p | q | r | s | t | u  | v  | w  | x  | y  | z 
+ 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
+---|---|---|---|---|---|---|---|----|----|----|----|----
+ A | B | C | D | F | G | H | E | I  | J  | K  | L  | M  
+ a | b | c | d | f | g | h | e | i  | j  | k  | l  | m  
+ N | O | P | Q | R | S | T | U | V  | W  | X  | Y  | Z 
+ n | o | p | q | r | s | t | u | v  | w  | x  | y  | z 
+
+Details: [Maj alphabet](alphabet.md)
 
 **Tool:** 
 
@@ -55,13 +57,6 @@ There is available a tool to convert Maj words into IPA alphabet:
 
 [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
-**Notes:**
-
-* Uppercase letters are used in text for names and titles;
-* We have introduced letters: "ğ ĝ ɦ ə" to enhance "g" and "h"; 
-* Letters "Ә" and "ə" can not be used at the beginning of words;
-
-Details: [Maj alphabet](alphabet.md)
 
 ## Script
 
