@@ -1,0 +1,148 @@
+﻿https://lingojam.com/edit/064c243ccfaf91ad298b5a9db974787f
+
+
+###name, Name of your translator...:
+Maj IPA
+
+
+###subtitle, Subtitle (optional):
+Maj to IPA converter
+
+
+###language1, Language1 name...:
+MAJ
+
+
+###language2, Language2 name...:
+IPA
+
+
+###description, Description...:
+This translator convert Maj words to IPA alphabet.
+
+
+###email, Admin email (optional)...:
+elucian.moise@gmail.com
+
+
+###phrases1, MAJ list...:
+
+
+
+###phrases2, IPA list...:
+
+
+
+###words1, MAJ list...:
+
+
+
+###words2, IPA list...:
+
+
+
+###intraword1, MAJ list...:
+j
+x
+
+
+###intraword2, IPA list...:
+ʒ
+ʂ
+
+
+###prefixes1, MAJ list...:
+h
+
+
+###prefixes2, IPA list...:
+ɦ
+
+
+###suffixes1, MAJ list...:
+j
+
+
+###suffixes2, IPA list...:
+ʒ
+
+
+###regex1, MAJ list...:
+/g([ei])/g
+/([aeyiou])(h)/g
+/c([aəeiouwh])/g
+/q([aəeiouwh])/g
+/([bcdfgjklmnprstvxzwɢʒʃʂ])(h)/g
+
+
+
+
+
+###regex2, IPA list...:
+d͡ʒ$1
+$1ɦ
+t͡s$1
+t͡ʃ$1
+$1ə
+
+
+
+
+
+###rev_regex1, IPA list...:
+
+
+
+###rev_regex2, MAJ list...:
+
+
+
+###ordering1, MAJ list...:
+
+
+
+###ordering2, IPA list...:
+
+
+
+###defaulttext, One random default text string per line...:
+
+
+
+###disable-reverse, :
+on
+
+
+###custom-script, Define your functions here...:
+
+
+
+###title-extra, e.g. '(and reverse translation)':
+
+
+
+###background-image-source, http://example.com/my_image.png:
+
+
+
+###title-font-name, Name of custom font...:
+
+
+
+###title-font-size, Size of title (default=5.5)...:
+
+
+
+###language1-font, Language1 font...:
+
+
+
+###language2-font, Language2 font...:
+
+
+
+###language1-font-size, Language1 font size (default=24)...:
+
+
+
+###language2-font-size, Language2 font size (default=24)...:

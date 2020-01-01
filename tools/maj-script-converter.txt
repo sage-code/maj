@@ -6,7 +6,7 @@ Maj Script
 
 
 ###subtitle, Subtitle (optional):
-Reversible Latin to Maj Convertor
+Latin to Maj Script converter
 
 
 ###language1, Language1 name...:
@@ -50,7 +50,6 @@ e
 f
 i
 j
-ə
 k
 l
 m
@@ -67,9 +66,7 @@ v
 y
 w
 z
-ĝ
-ğ
-ɦ
+
 
 
 ###intraword2, Maj list...:
@@ -81,7 +78,6 @@ z
 ჵ
 ʚ
 უ
-ɚ
 ჺ
 ჲ
 რ
@@ -98,19 +94,16 @@ z
 ყ
 ω
 ʓ
-ფ
-ɤ
-ჩ
+
+
 
 
 ###prefixes1, Latin list...:
 h
-g
 
 
 ###prefixes2, Maj list...:
 ჩ
-ɤ
 
 
 ###suffixes1, Latin list...:
@@ -122,11 +115,12 @@ g
 
 
 ###regex1, Latin list...:
-/[\s]([^\s]+)/g
-/([αɛʚთυկ])(h)/g
-/([ჵჩβɕდღɤფʓჺშრσუϑϰωჲოծწ])(h)/g
+/[\x20^\R]([^\s]+)/g
+/([αɛʚთυկ])[h]/g
+/([ჵჩβɕდღɤფʓჺშრσუϑϰωჲოծწg])[h]/g
 /[gɤ]([ɛʚ])/g
-/g([ɚαɛʚთևყβɕდღʓჺშრσუϑϰωჲოծწ])/g
+/[g]([hɚαɛʚთևყβɕდღʓჺშრσუϑϰωჲოծწ])/g
+
 
 
 ###regex2, Maj list...:
@@ -137,14 +131,18 @@ $1ɚ
 ɤ$1
 
 
-###rev_regex1, Maj list...:
-/[\.]+([^\.]+)/g
 
+
+###rev_regex1, Maj list...:
+/([^\s^\.]+)[\.]([^\s^\.]+)/g
+/[ɤფ]/g
+/[ɚჩ]/g
 
 
 ###rev_regex2, Latin list...:
-t
-
+$1 $2
+g
+h
 
 
 

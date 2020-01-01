@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 28 letters. For each letter there is an unique name but there are two exceptions: Letter g and letter h have two distinct pronunciations but only one name each. So Maj have only 26 names actually for the letters. Script alphabet is mapped to Latin alphabet. So Maj actually has two set of symbols for the alphabet one is the Latin symbol and the other one is the Maj symbol.
+Maj alphabet has 26 Latin letters. Each letter has associated a unique pronunciations but there are two exceptions: Letter g and letter h have two distinct pronunciations. So Maj script have 28 letters.
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -15,8 +15,8 @@ Latin | IPA  | MAJ | Maj Name
   c   | t͡s   | ɕ   | ceta
   d   | d    | მ   | dota
   f   | f    | ჵ   | fifa
-  ğ,ĝ | g,d͡ʒ | ɤ,ფ | gama
-  h,ə | ɦ,ə  | ჩ,ɚ | ɦera
+  g   | g,d͡ʒ | ɤ,ფ | gama
+  h   | ɦ,ə  | ჩ,ɚ | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
   j   | ʒ    | უ   | jona
@@ -36,11 +36,6 @@ Latin | IPA  | MAJ | Maj Name
   x   | ʃ    | ϰ   | xaka
   y   | y    | ყ   | ykra
   z   | z    | ʓ   | zeta
-
-**Exceptions:**
-
-* ფ sounds like `d͡ʒ` and is called "ğama ĝe"
-* ɚ sounds like `ə`  and is called  "ɦera ər"
 
 
 ## Pronunciation
@@ -85,7 +80,7 @@ close      |i        |y          |u
 close mid  |e        |           |o
 mid        |         |ə          |
 open       |a        |           |
-aproximant |         |w          | 
+approximnt |         |w          | 
 
 **Italian:**
 
@@ -97,7 +92,7 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
 
-**Letter `y`:** Is close central, unrounded vowel. IPA symbol for this sound is actually "ɨ". This sound is very different than English sound `y`. It is very similar to sound `i` in word "still".
+**Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually "y". This sound is very different than English sound `y`. It is very similar to sound `i` in word "still".
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
@@ -139,7 +134,7 @@ nasal    | m       |              | n        |       |               |
 trill    |         |              | r        |       |               | 
 fricative|         | f,v          | s,z      |       | x, j          | ɦ
 lateral  |         |              | l        |       |               |
-africate |         |              | c        |       | q, ĝ          |
+affricate|         |              | c        |       | q, ĝ          |
 
 
 Most consonants are similar to: Italian and Romanian but are also found in English;
@@ -149,7 +144,6 @@ Most consonants are similar to: Italian and Romanian but are also found in Engli
 * Letter  `t`  is voiceless, plosive, alveolar like `t` in "test";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
 * Letter  `k`  is voiceless velar stop like "k" in "kitten" or "c" in "color";
-* Letter  `ğ`  is voiced velar fricative like `gu` in "guitar";
 * Letter  `m`  is nasal, bilabial, like `m` in "mule";
 * Letter  `n`  is alveolar, nasal, like `n` in "novel";
 * Letter  `r`  is trilled, similar to sound `r` in "rocket"
@@ -161,9 +155,12 @@ Most consonants are similar to: Italian and Romanian but are also found in Engli
 * Letter  `j`  is fricative-post alveolar, like `j` in "jell", "jet";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `c`  is alveolar affricate, like `zz` in "pizza";
-* Letter  `q`  is voiceless postalveolar affricate like "ch" in "church";
-* Letter  `ĝ`  is voiced postalveolar affricate like "ge" in "genetic";
-* Letter  `ɦ`  is voiced fricative glottal like "h" in "happy";
+* Letter  `q`  is voiceless post-alveolar affricate like "ch" in "church";
+* Letter  `ɤ`  is voiced post-alveolar affricate before "e" like "ge" in "genetic";
+* Letter  `ფ`  is voiced velar fricative like `gu` in "guitar";
+* Letter  `ჩ`  is voiced fricative glottal before vowels like "h" in "happy";
+
+
 
 ## Difficult sounds
 
@@ -221,20 +218,10 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 
 Maj is a Romance language therefore it has two pronunciations for letter `g`: 
 
-* hard g = gama ğ, equivalent to script:(ɤ) IPA:"g"
-* soft g = gama ĝ, equivalent to script:(ფ) IPA:"d͡ʒ"
+* hard g = equivalent to script:(ɤ) IPA:"g"
+* soft g = equivalent to script:(ფ) IPA:"d͡ʒ"
 
-Regular QUERTY KEYBOARD do not include a method for cedilla: `ğ` and `ĝ` can not be produced. So you should use "g" to type the words. Maj have deterministic rules to distinguish the two pronunciations. An intelligent editor could make an automatic conversion while typing. If you have a smarter keyboard, it is good to type "g" symbol with cedilla. 
-
-**notes:**
-
-In all Romance languages "g" is problematic. Italian and Romanian is using "ge", "gi" for soft "g". However there are two problems with this: First the other vowels will not produce a soft "g". For example sound `d͡ʒa` or `d͡ʒu` can not be produced. For making the hard "g" follow by "e" or "i" is not possible.
-
-Romanian and Italian is silenced "h" resolve the "g" problem. So there are:  "ghi" and "ghe" tree-graphs that are hard to explain to children. English and Spanish are using alternative silenced "u" to make "gui" and "gue". However this method introduce another problem. 
-
-In old Spanish you must use `ü` (that is u with diaeresis) to make the sound `u` audible instead of silenced. Recent Spanish language reform has eliminated this rule so now you must know how to spell some words. 
-
-**Soft: ĝ = ფ** 
+**Soft: g = ფ** 
 
 Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
@@ -243,7 +230,7 @@ Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate s
 * ĝema = gema	 => IPA:"d͡ʒema" = "money"
 
 
-**Hard: ğ = ɤ** 
+**Hard: g = ɤ** 
 
 Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
@@ -251,6 +238,14 @@ Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `
 
 * goxa = ğoxa => IPA: "goʃa" = "left"
 * agra = ağra => IPA: "agra" = "farmer"
+
+**notes:**
+
+In all Romance languages "g" is problematic. Italian and Romanian is using groups "ge", "gi" for soft "g" and "ghe", "ghi" for hard "g". This method is problematic. Sound "d͡ʒa" or "d͡ʒu" can not be produced. 
+
+In English and Spanish the hard "g" can be followed by silent "u". This method is also problematic, sound "gu" can not be produced. However this method can not be used convenient in Maj since "u" must be read.
+
+Maj solve this problem only in Maj Script by making letter "ფ" that is always "soft g" and by making letter "ɤ" that is always "hard g". Maj Latin alphabet has this problem unsolved in Maj.
 
 
 **Modified: q**
