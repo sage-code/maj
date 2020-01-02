@@ -41,13 +41,14 @@ Const of writing can be used in an algorithms to evaluate word complexity during
 **example:**
 
 1. ღև.ʚწმև.ɕև.ƍʚრα.თმɚ.ɕև.რαჺα;
-1. nu irdu cu qima odə cu maka.
+1. nu irdu cu qima odh cu maka.
 1. we go to cinema or to supermarket.
 
 **notes:**
 
-* In Maj script, words are separated by a dot instead of space; 
-* It is good to add one space after the dot, before the next letter;
+* In Maj script, words are separated by a dot or a comma; 
+* Comma after words ending with a vowel, indicate a higher tone;
+* Dot after words ending with a vowel, indicate a low tone;
 
 **phonetic:**
 

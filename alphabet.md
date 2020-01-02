@@ -82,7 +82,7 @@ mid        |         |ə          |
 open       |a        |           |
 approximnt |         |w          | 
 
-**Italian:**
+**Origin:**
 
 Next 5 vowels are pronounced like in Italian and Romanian languages:
 
@@ -123,6 +123,29 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 * wu! (disapproval)
 * wh! (disgusting)
 
+## Tone and accent
+
+Maj vowels can be pronounced with one of two tones.
+
+* Low tone, is normal tone;
+* Higher tone, is modified tone; 
+
+If a word is ending with space, "." or ";" you can use lower tone for last vowel;
+If a word is ending with comma, "," or "?" you should use higher tone for last vowel;
+
+**last vowel**
+
+Symbols: "!" and "?" are altering the last vowel. 
+
+* Using "!" will make a lower tone for last vowel;
+* Using "?" will make a higher tone for last vowel;
+
+For question mark: You should pronounce a longer vowel and gliding the tone from lower to higher level. Wehn the word is ending with a consonant, the vowel in front of the last consonant is modified.
+
+**accent:**
+
+Maj words do not have an accent per say. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the word is followed by comma. In this case the last vowel becomes a bit stronger and the first vowel is softening back to normal tone.
+
 ## Consonants
 
 Maj is using 20 consonants:
@@ -159,7 +182,6 @@ Most consonants are similar to: Italian and Romanian but are also found in Engli
 * Letter  `ɤ`  is voiced post-alveolar affricate before "e" like "ge" in "genetic";
 * Letter  `ფ`  is voiced velar fricative like `gu` in "guitar";
 * Letter  `ჩ`  is voiced fricative glottal before vowels like "h" in "happy";
-
 
 
 ## Difficult sounds

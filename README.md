@@ -63,18 +63,18 @@ There is available a tool to convert Maj words into IPA alphabet:
 Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
 
-* σαჲև.რևღα!  = salu muna;
+* ƍαև.რևმα!   = qau muda;
 * ɛծα.ɛσ.რαუ; = eta es maj!
 
 **Notes:**
 
 * The script alphabet is mapped with the Latin print alphabet;
 * The script alphabet is using same punctuation marks as Latin;
-* The script alphanet do not have uppercase letters;
+* The script alphabet do not have uppercase letters;
 
-**Tool:**
+**Tools:**
 
-There is a dual conversion tool from Latin to Maj script and back:
+There is a dual conversion tool from Latin to Maj script:
 
 [Maj script converter](https://lingojam.com/MajScript)
 
