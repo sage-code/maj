@@ -12,11 +12,11 @@ Latin | IPA  | MAJ | Maj Name
 ------|------|-----|-----------
   a   | a    | α   | alfa
   b   | b    | β   | beta
-  c   | t͡s   | ɕ   | ceta
+  c   | ts   | ɕ   | ceta
   d   | d    | მ   | dota
   f   | f    | ჵ   | fifa
-  g   | g,d͡ʒ | ɤ,ფ | gama
-  h   | ɦ,ə  | ჩ,ɚ | ɦera
+  g   | g,dʒ | ɤ,ფ | gama
+  h   | ɦ,ə  | ჩ,ⱷ | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
   j   | ʒ    | უ   | jona
@@ -26,7 +26,7 @@ Latin | IPA  | MAJ | Maj Name
   n   | n    | ღ   | nina
   o   | o    | თ   | oina
   p   | p    | დ   | pita
-  q   | t͡ʃ   | ƍ   | qoka
+  q   | tʃ   | ƍ   | qoka
   r   | r    | წ   | rota
   s   | s    | σ   | sita
   t   | t    | ծ   | teta  
@@ -436,3 +436,4 @@ Using this algorithm total cost for current: 542 word dictionary
 
 Read next: [numerals](numerals.md)
 
+∧
