@@ -106,7 +106,7 @@ Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vo
 Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert "h" into two different sounds using the rule,.
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
-* zhi  = "they"    in this case `h` is `ə` like IPA:"zhi"
+* zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
 **Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. This letter is not closed and not open but tranzitional, aproximand. In some languages this letter is considered consonant.
 

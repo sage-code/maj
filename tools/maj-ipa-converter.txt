@@ -44,11 +44,17 @@ elucian.moise@gmail.com
 ###intraword1, MAJ list...:
 j
 x
+h
+c
+q
 
 
 ###intraword2, IPA list...:
 ʒ
-ʂ
+ʃ
+ə
+t͡s
+t͡ʃ
 
 
 ###prefixes1, MAJ list...:

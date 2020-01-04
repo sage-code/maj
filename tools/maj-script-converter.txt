@@ -105,10 +105,12 @@ h
 
 ###suffixes1, Latin list...:
 g
+h
 
 
 ###suffixes2, Maj list...:
 ɤ
+ⱷ
 
 
 ###regex1, Latin list...:
