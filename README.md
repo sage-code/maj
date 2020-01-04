@@ -95,17 +95,13 @@ Maj will have about 2020 words, inspired from 7 different languages.
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
 
-**algorithm:**
-
-* Maj words are created manually using a translation spreadsheet;
-* Maj is avoiding synonyms and one word have one simple meaning;
-* Maj words are already abbreviated so in Maj you can not use abbreviations;
 
 ## Essentials
 
-* Maj is an articulated language; 
 * Maj has root words and composite words;
-* The order of words in a proposition is significant;
+* Maj words can have prefix or suffix;
+* Most words have a single meaning; 
+* Words are organized form left to right;
 
 **technical:**
 
@@ -114,7 +110,6 @@ Coincidental, Maj is using the _power of 3_ to organize its grammar:
 1. There are 3 kind of sentences: {interrogative, declarative, imperative};
 1. There are 3 kind of answers: { affirmative, negative, informative };
 1. There are 3 time periods: {past, present, future};
-1. There are 3 cases: {nominative, objective, possessive};
 
 **Read more about:** [basic grammar](basic.md)
 
