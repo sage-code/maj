@@ -73,13 +73,37 @@ Is a word that can function as a noun in a phrase to refer either to the partici
 * pronoun has 3 cases: nominative, objective, possessive
 * pronoun has 2 numeral forms: singular and plural
 
+I Nominative | Singular | Plural
+-------------|----------|--------------
+1            | jo       | nu
+2            | tu       | vu
+3            | su       | zu
+
+II Objective | Singular | Plural
+-------------|----------|--------------
+1            | mie      | noh
+2            | cie      | voh
+3            | sie      | zoh
+
+III Posesiv  | Singular | Plural
+-------------|----------|--------------
+1            | meu      | nua
+2            | thu      | vua
+3            | shu      | zua
+
+IV Reflexiv  | Singular | Plural
+-------------|----------|--------------
+1            | jo mh    | nu ne
+2            | tu te    | vu vh
+3            | su se    | zu zh
+
 **Nominative**
 
 Is the person or the thing who perform the action.
 
   ps |singular          | plural
 -----|------------------|-----------------------------
-  1  | io = I           | nu  = we
+  1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = he, she, it | zu  = they
 
@@ -102,8 +126,8 @@ determinant: al = belong, of the
 singular                 | plural
 -------------------------|--------------------------------
  al meu = mine           | al nua = ours
- al təu = yours          | al vua = yours
- al səu = his, hers, its | al zua = theirs
+ al thu = yours          | al vua = yours
+ al shu = his, hers, its | al zua = theirs
 
 ## Reflexive
 
@@ -111,9 +135,9 @@ Maj has a reflexive pronoun and reflexive determinant preposition:
 
 singular                | plural
 ------------------------|--------------------------------
- io mə = myself         | nu ne = ourself 
- tu te = yourself       | vu və = yourselves
- su se = himself,itself | zu zə = themselves
+ jo mh = myself         | nu ne = ourself 
+ tu te = yourself       | vu vh = yourselves
+ su se = himself,itself | zu zh = themselves
 
 Full reflexive word: "sifo" = "self"
 
@@ -126,7 +150,7 @@ Full reflexive word: "sifo" = "self"
 
 **examples**
 
-* io mə leva sifo = I am washing myself
+* jo mh leva sifo = I am washing myself
 * tu te joka solo = you are playing alone
 * su se waza sifo = he is resting himself
 
@@ -156,7 +180,7 @@ tesa = time
 
 verb: joku = to play
 
-* io joku  = I play
+* jo joku  = I play
 * tu joku  = you play
 * zu joku  = he play
 
@@ -168,18 +192,18 @@ verb: joku = to play
 
 **negative**
 
-* io ka joku'ia = I do not play now
+* jo ka joku'ia = I do not play now
 * zu ka joku'pa = he has not played
 * zu ka joku'va = he will not play
 
 **affirmative**
 
-* io si joku'fa in la futa = Yes I will play in the future
+* jo si joku'fa in la futa = Yes I will play in the future
 * tu si joku'pa in la pasa = Yes you have played in the past
 
 **reflexive**
 
-* io mə joku'ia solo = I play with myself now
+* jo mh joku'ia solo = I play with myself now
 * tu te joku'ia solo = You play yourself now
 * su se joku'ia solo = He is playing himself now
 
@@ -217,7 +241,7 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* io vidu'pa ta un'foa!  = I have seen you one time!
+* jo vidu'pa ta un'foa!  = I have seen you one time!
 * su vidu'pa vo ni'foa!  = He have never seen y'all!
 * tu vidu'fa ma suv!     = You will see me often!
 * nu podo vidu'ia zu amu!= We can see them now!
@@ -229,8 +253,8 @@ In Maj, "hay" is used as an determinant call, preposition:
 hai = c'mon (come on)
 hai = let's (let us)
 
-* hai nu haru bosu sə = c'mon we have to search him
-* hai nu dovu bosu zə = c'mon we must search them
+* hai nu haru bosu sh = c'mon we have to search him
+* hai nu dovu bosu zh = c'mon we must search them
 
 
 ## Interrogative

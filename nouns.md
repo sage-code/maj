@@ -41,7 +41,7 @@ Some words include gender and do not require adjectives but some nouns do not ha
 * Pare = parents 
 * Mama = mother
 * Papa = father
-* Kəpitan = captain
+* Khpitan = captain
 
 ## Proper nouns
 
@@ -54,7 +54,7 @@ Things, titles and events start with uppercase when represent names.
 
 * Crimys    = Christmas 
 * Maj       = Language Maj
-* Kəpitan   = Captain
+* Khpitan   = Captain
 
 ## Prefix preposition
 

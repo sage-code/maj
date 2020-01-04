@@ -26,7 +26,7 @@ The more movements a letter has the more expensive it is. The cost of writing ca
 Cost |  Letter
 -----|----------------------------
   1  |abcdgsv
-  2  |eiktlqouwyzə
+  2  |eiktlqouwyz
   3  |mnjxrhfp
 
 Const of writing can be used in an algorithms to evaluate word complexity during word creation. Names can be invented in Maj so this function could be used to establish popular names for persons and places.

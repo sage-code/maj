@@ -43,44 +43,43 @@ Informative propositions can use verbs coda: {a,o,u} for present, past and futur
 
 For informative proposition we do not need 'ya for present.
 
-* io taru la nova fon Europa  = I bring the news from Europe
+* jo taru la nova fon Europa  = I bring the news from Europe
 * tu taru ke nova fon Weta?   = you bring what news from West?
 
-## Imperative coda
+## Imperative form
 
-For imperative form of verb, you change coda from "u" to "h".
+For imperative case, you you must use an auxiliary verb:
 
-* dovu = must/mandatory
-* digu = talk
+dovu = must/mandatory
 
 **examples:**
 
-* tu dovu sə digə'ia des la iata! = you must talk now about the present
-* su dovu sə digə'ia des la pasa! = you must talk now about the past
+* tu dovu sh digu'ia des la iata! = you must talk now about the present!
+* su dovu sh digu'ia des la pasa! = you must talk now about the past!
 
 ## Verb transformation
 
-Verb can be used as different part of proposition using a coda:"e" and suffix 'ra.
+Verb can be used as noun by changing coda from "u" to "e'ra".
 
 joku => joke'ra
 
 * tu seru'pa la joke'ra de zu  = you have been his game player;
-* io ka seru la tu joke'ra     = I'm not your game player;
+* jo ka seru la tu joke'ra     = I'm not your game player;
 
-Ver can be used as noun if coda "u" is replaced by "a"
+Verb can be used as noun if coda "u" is replaced by "a".
 
 * la joka se joku'pa = the game was played;
 * la joka se finu'ia = the game is over now;
 
-**lo = ul**
+**ro = ul**
 
-Use coda "e" and suffix 'lo to make an adjective
+Use coda "e" and suffix 'ro to make an adjective.
 
-joku => joke'lo = playful
+joku => joke'ro = playful
 
-* io seru joke'lo = I'm playful
-* tu seru joke'lo = you are playful 
-* zu seru joke'lo = he is playful
+* jo seru joke'ro = I'm playful
+* tu seru joke'ro = you are playful 
+* zu seru joke'ro = he is playful
 
 ## Reflexive form
 
@@ -92,22 +91,22 @@ When you refer to some action performed by somebody on himself.
 * hodu'ne  =>  rest ourselves
 * domu'su  =>  sleep himself
 
-**prepositions:**
+**imperative:**
 
-Nex prepositions are used in imperative sentences to make them friendly.
+Next prepositions are used in imperative sentences to make them friendly.
 
-hay = let's  (leading/encouragement)
+hai = let's  (leading/encouragement)
 rog = please (favor)
 
 **using pronoun after verb:**
 
-* hay sə hodu'ne  = let's calm ourselves
+* hai sh hodu'ne  = let's calm ourselves
 * te rog kamu'te  = please calm yourself 
 
 **using reflexive prefix**
 
-* nu dovu sə hodu'ne = we have to rest ourselves
-* vu dovu sə kamu'və = you have to calm yourselves
-* zu dovu sə domu'zə = they must sleep themselves
+* nu dovu sh hodu'ne = we have to rest ourselves
+* vu dovu sh kamu'vh = you have to calm yourselves
+* zu dovu sh domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)
