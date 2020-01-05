@@ -11,15 +11,12 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 There is not yet a font for Maj script. We have reused different unicode symbols:
 
 ```
-α  β  ɕ  შ  ჵ  ɤ  გ  
-ჩ  ⱷ  ɛ  ʚ  უ  ჺ  ჲ  
-რ  ღ  თ  დ  ƍ  წ  σ  
-ծ  և  ϑ  ω  ϰ  ყ  ʓ  
+α  β  ɕ  შ  ჵ  ɤ  გ  ჩ  ⱷ  ɛ  ʚ  უ  ჺ  ჲ  რ  ღ  თ  დ  ƍ  წ  σ  ծ  և  ϑ  ω  ϰ  ყ  ʓ  
 ```
 
 **Demo: Everson Mono**
 
-<img src="maj-font.png" alt="Maj Font" width="400"></img>
+<img src="demo/maj-font.png" alt="Maj Font" width="400"></img>
 
 
 ## Writing direction
