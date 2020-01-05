@@ -37,6 +37,7 @@ Maka   | Maj    | English
   `[]` | kra    | Square brackets 
   `{}` | sra    | Curly brackets 
 
+
 ## Level 1
 
 * First 9 numbers from one to nine are finalized with vowel "a";
