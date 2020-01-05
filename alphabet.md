@@ -13,9 +13,9 @@ Latin | IPA  | MAJ | Maj Name
   a   | a    | α   | alfa
   b   | b    | β   | beta
   c   | ts   | ɕ   | ceta
-  d   | d    | მ   | dota
+  d   | d    | შ   | dota
   f   | f    | ჵ   | fifa
-  g   | g,dʒ | ɤ,ფ | gama
+  g   | g,dʒ | ɤ,გ | gama
   h   | ɦ,ə  | ჩ,ⱷ | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
