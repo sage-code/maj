@@ -190,7 +190,7 @@ You should be familiar with most of these sounds if you speak English. However t
 
 **Digraphs**
 
-Maj do not have digraphs. Instead we associate letters { c, q, x } with digraphs: {ts, ch and sh}. This will enable creation of shorter words: 
+Most frequent digraphs are associate with letters:
 
 * Letter `c` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
@@ -337,16 +337,10 @@ o |oa |oe |oi | · |ou |oy
 w |wa |we |wi |wo |.  |wy 
 y |ya |ye |iy |yo |yu | . 
 
-
-**Notes:**
-
-* there is a total of 36 diphthongs in Maj;
-* u is replaced by w when is followed by a vowel;
-* h is pronounced ə when is following a vowel;  
  
-## Weight
+## Letter weight 
 
-Letters and sounds are more or less expensive to make. This is call _weight_ and can be used to calculate a _cost_ that represents word complexity. More frequent words should have a lower cost. Gradualy one can assimilate more complex words, rarely used.
+Sounds are more or less difficult to make. This is call _weight_ and can be used to calculate _pronounciation complexity_ for a word. More frequent words should have a lower complexity. 
 
 Weight |Sounds
 -------|----------------------------------------
@@ -356,9 +350,6 @@ Weight |Sounds
   4    |vjrz
   5    |hgqw
 
-**Cost:**  
-
-We can compute the word cost using an algorithm. The lower the cost, the better. By using the same algorithm to other languages, we can evaluate _complexity_. After a quick computation of only 500 samples Maj prove to be about 50% more efficient than other Romance languages.
 
 ## Cost of typing
 
@@ -373,7 +364,7 @@ Cost |  Letter
 
 **penalty:**
 
-There is an extra cost of 2 for one hand letters.
+There is an extra cost of 2 for same hand consecutive letters.
 
 Hand   | Letter
 -------|------------------------------------------
@@ -425,7 +416,7 @@ We use this algorithm to compute cost of words:
 
 ## Total cost
 
-Using this algorithm total cost for current: 542 word dictionary
+Using this algorithm total cost for 542 words:
 
 * 4085  in Maj 
 * 7231  in English 
@@ -435,5 +426,3 @@ Using this algorithm total cost for current: 542 word dictionary
 * 9423  in German
 
 Read next: [numerals](numerals.md)
-
-∧

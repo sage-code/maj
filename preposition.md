@@ -17,7 +17,7 @@ Prepositions are very often used in Maj. Therefore they are important elements o
 
 **Category of prepositions**
 
-English preposition can be considered in this categories: 
+Preposition can be considered in this categories: 
 
 * time, place 
 * direction, movement
@@ -52,7 +52,7 @@ foa  = repetition/ number of times
 * du'foa = two times
 * re'foa = tbree times
 ....
-* ny'foa = never
+* ni'foa = never
 
 **Related nouns**
 
@@ -70,27 +70,27 @@ seza  = season
 
 **quantity prefix**
 
-muy = very
+mui = very
 lon = far
 nah = near
 
 
-* MAJ: una loka mui lon fon hir;
+* MAJ: una loka mui lon fon aki;
 * ENG: a location very far from here;
 
 
 ## Agent & Tools
 
-* von  = by    ( from German )
+* bai  = by    ( from German )
 * kon  = with  ( from Italian )
 
 note: Symbol ":" is read "con"
 
 **examples**
 
-* fon Mark Twain   = by Mark Twain
+* bai Mark Twain   = by Mark Twain
 * kon mia due mane = with my two hands
-* kon abe mane     = with both hands
+* kon bos mane     = with both hands
 
 
 ## Locations
@@ -100,7 +100,7 @@ note: Symbol ":" is read "con"
 
 loka = location / place (noun)
 
-maj  | english   | Spanish
+Maj  | English   | Spanish
 -----|-----------|-----------------
 nora | north     | norte
 sura | south     | sur
@@ -115,13 +115,13 @@ Movement prepositions indicating a direction of movement.
 Maj      | English  
 ---------|----------
 kro      |Across    
-yno      |Into      
+ino      |Into      
 lag      |Along     
 oto      |Onto      
-ovy      |End, Over 
+ovh      |End, Over 
 ozo      |Over the  
-par      |Through / by  
-ruc      |Back      
+sru      |Through / by  
+cua      |Back      
 sop      |Stop      
 uma      |Around    
 veg      |Away From 
@@ -134,8 +134,8 @@ Maj   | English  | German | Romanian | Franch  | Spanish
 ------|----------|--------|----------|---------|---------
 fon   | from     | fon    | de       | de      | de
 cum   | toward   | zu     | la       | vers    | para
-bay   | by       | durch  | prin     | por     | por
-vya   | via      | über   | via      | via     | vía
+bai   | by       | durch  | prin     | por     | por
+via   | via      | über   | via      | via     | vía
 aus   | off      | aus    | din      | de      | apagado
          
          
@@ -144,7 +144,7 @@ aus   | off      | aus    | din      | de      | apagado
 * fon apota     = from airport
 * aus trena     = off the train
 * cum Paris     = to Paris
-* par Luxemburg = by Luxemburg
+* via Luxemburg = by Luxemburg
          
 ## Relation
 
@@ -157,28 +157,27 @@ aut     |out                 |fuera            | draußen
 ala     |there               |ahi              | dort
 fon     |of                  |de               | von
 fra     |between             |entre            | zwischen
-aki     |here                |aqui             | hier
+aqi     |here                |aqui             | hier
 jos	    |down                |abajo            | nieder
-ako     |beside, next to     |al lado, cerca   | neben
+ako     |beside, next to     |al lado, cerca   | neben, etwa
 pos     |behind the          |detrás           | hinter
-pue     |after               |despue           | nach  
+afo     |after               |despue           | nach  
 sub     |under,beneath,below |debajo           | unter
-sur	    |about	             |acerca           | etwa
 sus	    |up	                 |arriba           | nach oben
 top     |on top              |encima           | oben drauf
 uba	    |above	             |encima           | über
-uby     |where               |donde            | wo
-vor     |prior, in front of  |anterior         | vor
-yet     |yet                 |todavía          | noch 
-yna     |inside              |dentro           | innerhalb
+ubi     |where               |donde            | wo
+for     |prior, in front of  |anterior         | vor
+iet     |yet                 |todavía          | noch 
+ino     |inside              |dentro           | innerhalb
 
 
 **examples**
 
-* ut 24 des Nove 2007 = at 24 of November 207
+* la 24 des Nove 2007 = at 24 of November 207
 * auf la mesa = on the table
-* yno la casa = inside the house
-* vor la casa = in front of the house
+* ino la casa = inside the house
+* for la casa = in front of the house
 
 # Logical
 
@@ -196,26 +195,24 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  Maj | English | Description
 -----|---------|------------------------------------
  asi | so      | as consequence
- aja | right   | correct, agree with
- vel | because | as, since, cause of a consequence
+ axa | right   | correct, agree with
+ kar | because | as, since, cause of a consequence
  dar | but     | alternative
- den | then    | time consequence
- dus | thus    | therefore, hence, so, then, thus 
- ydo | and     | also
- fob | may not | is forbidden
- kan | non     | negative 
+ tum | then    | time consequence
+ asi | thus    | therefore, hence, so, then, thus 
+ ido | and     | also
+ ban | non     | negative 
  kaz | case    | when is the case
- sym | like    | comparative, similar = symo
- mey | may     | is permitted
+ sim | like    | comparative, similar = symo
  mem | same    | identical
  nor | neither | alternative 
- puo | can     | has the capability
+ pwo | can     | has the capability
  tal | maybe   | possible
  tan | so      | to such a great extent.
  odh | or      | either
  uta | when    | establish event
  ven | if      | conditional (German wenn)
- vyr | while   | while condition
+ vir | while   | while condition
  
 Conjunction is used when...
 
@@ -261,7 +258,7 @@ Spanish | y      | Marc y Alice van a la playa
 
 * seru = to be
 
-asy seru'fu tu!
+asi seru'fu tu!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -275,11 +272,11 @@ Spanish | entonce| ¡Entonces fuiste tú!
 * muro = dead
 * dovu = must
 * rejo = reach
-* es   = to be
+* seru = to be
 
 **Translate:**
 
-la muro-tesa dovu rejo, aku esta ka seru!
+la muro-tesa dovu rejo, dar esta ban seru sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -290,8 +287,10 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **Maj:** nyq = neither 
 
-*  kan   = not (negative suffix)
-*  nyq   = nor (second negation)
+*  ban   = not (negative)
+*  nor   = first negation
+*  niq   = second negation
+
 
 **other words**
 
@@ -302,15 +301,15 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **translate:**
 
-* zu kan sohu nyq gema nyq reha;
-* zu kan keru nyq gema nyq reha;
+* zu ban sohu nor gema niq reha;
+* zu ban keru nor gema niq reha;
 
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
 Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
-English | nor    | He doesn’t want neither money nor gifts
 Spanish | ni     | No quiere ni dinero ni regalos.
+English | nor    | He doesn’t want neither money nor gifts
 
 **Maj:** vel = because
 
@@ -320,7 +319,7 @@ Spanish | ni     | No quiere ni dinero ni regalos.
 
 **translate:**
 
-zu xedu kamo vel zu es nito;
+zu xedu kamo kar zu es nito;
 
 
 Lang    | Word    |  Example
