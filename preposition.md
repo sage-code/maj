@@ -285,12 +285,10 @@ English | yet    | The deadlines must be met, yet this is not possible
 English | now    | The deadlines must be met, now this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
-**Maj:** nyq = neither 
+**Maj:** niq = neither, nor 
 
-*  ban   = not (negative)
-*  nor   = first negation
+*  ban   = first negation
 *  niq   = second negation
-
 
 **other words**
 
@@ -301,8 +299,8 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **translate:**
 
-* zu ban sohu nor gema niq reha;
-* zu ban keru nor gema niq reha;
+* zu ban sohu niq gema niq reha;
+* zu ban keru niq gema niq reha;
 
 
 Lang    | Word   |  Example
@@ -311,7 +309,7 @@ Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
 Spanish | ni     | No quiere ni dinero ni regalos.
 English | nor    | He doesn’t want neither money nor gifts
 
-**Maj:** vel = because
+**Maj:** kar = because
 
 * xedu  = to seat
 * kamo  = to be calm
@@ -327,5 +325,3 @@ Lang    | Word    |  Example
 Franch  | car     | Il reste calme _car_ il est gentil
 English | because | He stays calm _because_ he is nice    
 Spanish | porque  | Se mantiene tranquilo _porque_ es agradable.   
- 
- 

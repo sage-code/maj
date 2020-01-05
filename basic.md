@@ -15,27 +15,25 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
-qao   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+saga  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
 adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
-* muda = world      (from latin: mundo)
-* luna = moon       (just in case you may be confused)
+* muda = world      
+* todo = everyone
 
 **examples:**
 
-* qawo muda = hello world
-* adio todo = farewell all
+* saga muda = hello world
+* adio todo = farewell everyone
 
-**note:**
+**notes:**
 
-Word "adio" is a morphologic word inherited from Latin that makes sense in Maj:
+The origin of these two words:
 
-dio   = god
-a'dio = with god
-
-Word "qawo" is a translation from Italian word: ciao that is an informal form of greetings.
+* sag  = holy  
+* dio  = god
 
 ## Words
 
