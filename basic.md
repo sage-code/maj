@@ -15,7 +15,7 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
-qawo  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+qao   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
 adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
@@ -75,27 +75,27 @@ Is a word that can function as a noun in a phrase to refer either to the partici
 
 I Nominative | Singular | Plural
 -------------|----------|--------------
-1            | jo       | nu
-2            | tu       | vu
-3            | su       | zu
+  1          | jo       | nu
+  2          | tu       | vu
+  3          | su       | zu
 
 II Objective | Singular | Plural
 -------------|----------|--------------
-1            | mie      | noh
-2            | cie      | voh
-3            | sie      | zoh
+  1          | mie      | noh
+  2          | cie      | voh
+  3          | sie      | zoh
 
 III Posesiv  | Singular | Plural
 -------------|----------|--------------
-1            | meu      | nua
-2            | thu      | vua
-3            | shu      | zua
+  1          | meu      | nua
+  2          | thu      | vua
+  3          | shu      | zua
 
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
-1            | jo mh    | nu ne
-2            | tu te    | vu vh
-3            | su se    | zu zh
+  1          | jo mh    | nu ne
+  2          | tu te    | vu vh
+  3          | su se    | zu zh
 
 **Nominative**
 
@@ -172,7 +172,7 @@ tesa = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- va      | fata      | future    
+ fu      | futa      | future    
  ia      | iata      | present
  pa      | pasa      | past 
  
@@ -187,18 +187,18 @@ verb: joku = to play
 **time suffix**
 
 * zu joku'ia = he is playing
-* zu joku'fa = he will play
+* zu joku'fu = he will play
 * zu joku'pa = he has plaid
 
 **negative**
 
 * jo ka joku'ia = I do not play now
 * zu ka joku'pa = he has not played
-* zu ka joku'va = he will not play
+* zu ka joku'fu = he will not play
 
 **affirmative**
 
-* jo si joku'fa in la futa = Yes I will play in the future
+* jo si joku'fu in la futa = Yes I will play in the future
 * tu si joku'pa in la pasa = Yes you have played in the past
 
 **reflexive**
@@ -243,7 +243,7 @@ verb: vidu  = to see
 
 * jo vidu'pa ta un'foa!  = I have seen you one time!
 * su vidu'pa vo ni'foa!  = He have never seen y'all!
-* tu vidu'fa ma suv!     = You will see me often!
+* tu vidu'fu ma suv!     = You will see me often!
 * nu podo vidu'ia zu amu!= We can see them now!
 
 ## Call to Action
@@ -263,7 +263,6 @@ Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-ka?     | no?      | non     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
 
@@ -279,10 +278,10 @@ de ke reza?| ura | why?     | por qué | for what reason?
 
 Next examples show how to use interrogative prepositions:
 
-* ke magu'fa tu  ?  = what are you going to eat ?
+* ke magu'fu tu  ?  = what are you going to eat ?
 * ki seru'pa ibo ?  = who was there?
-* ku seru'ia tu  ?  = how are you ?   
-* ka magu'fa tu  ?  = you have not eaten ?
+* ki seru'ia tu  ?  = how are you ?   
+* ka magu'fu tu  ?  = you have not eaten ?
 
 Asking about location can be explicit using "ke loka":
 
@@ -301,7 +300,7 @@ Sometimes "ke" is used to indicate a response and not a question:
 You can use `fon ubi` instead of `loka`.
   
 * fon ubi cu ubi? = from where to where!
-* fon hir cu ibo! = from here to there!
+* fon aqi cu ala! = from here to there!
 
 ## Responses
 
@@ -310,7 +309,7 @@ The interrogative question can be answered with affirmative or negative:
 **familiar**
 
 * si / asi = yes / so
-* ka / kan = not / non
+* ba / ban = not / non
 
 **polite**
 
@@ -410,12 +409,12 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* ago = any
+* oru = any
 * omi = every
-* ale = all
+* tao = all
 * mai = many
 * plu = more 
-* pau = few
+* pao = few
 * van = several (some)
 * som = some 
 * ixo = approximative
@@ -425,16 +424,16 @@ Common noun is using plural "e" or singular "a" with different articles:
 * una mela = one apple
 * dua mele = two apples
 * omi mela = every apple
-* ago mela = any apple
+* oru mela = any apple
 * som mele = some apples
-* ali mele = all apples
-* mot mele = many apples
-* ixo diz male = approximative 10 apples
+* tao mele = all apples
+* mai mele = many apples
+* ixo cen male = approximative 10 apples
 
 Invariant noun is terminated in "s" or other consonant:
 
-* pau Mercedes = few Mercedes 
-* ago Mercedes = any Mercedes 
+* pao Mercedes = few Mercedes 
+* oru Mercedes = any Mercedes 
 
 **read next:**
 
