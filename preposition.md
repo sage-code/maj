@@ -54,6 +54,7 @@ foa  = repetition/ number of times
 ....
 * ni'foa = never
 
+
 **Related nouns**
 
 Location related nouns can be used with prepositions.
@@ -72,11 +73,21 @@ seza  = season
 
 mui = very
 lon = far
-nah = near
+qeo = near
 
 
-* MAJ: una loka mui lon fon aki;
+* MAJ: una loka mui lon fon aqi;
 * ENG: a location very far from here;
+
+**periodic events**
+
+Repetitive situations are using prepositions "omi"
+
+* repu omi ora = repeat every our
+
+In contrast with "foa" that can specify more precise how many times:
+
+* repu nam ok'foa omi ora  = repeat for eight times every our 
 
 
 ## Agent & Tools

@@ -111,9 +111,9 @@ Is the person or the thing who receive the action.
 
  ps | singular             | plural     
 ----|----------------------|-----------------------------
- 1  | mie = to me          | noə = to us   
- 2  | cie = to you         | voə = to y'all
- 3  | sie = to him/her/it  | zoə = to them 
+ 1  | mie = to me          | noh = to us   
+ 2  | cie = to you         | voh = to y'all
+ 3  | sie = to him/her/it  | zoh = to them 
  
 **Possessive**
 
@@ -216,13 +216,13 @@ Read more about: [verbs](verbs.md)
 
 **composite**
 
-ora   = times (* = ora)
+foa   = times (* = ora)
 
-* ni'ora = never
-* un'ora = once
-* du'ora = twice
-* re'ora = three times
-* im'ora = forever
+* ni'foa  = never
+* un'foa  = once 
+* du'foa  = twice
+* re'foa  = three times
+* im'foa  = forever
 
 **using numerals**
 
@@ -329,7 +329,7 @@ For stronger assurance answer you can specify the logical values:
 
 **composite**
 
-* kan-juso = incorrect, not justified
+* ban-juso = incorrect, not justified
 * nam-juso = to be justified
 
 ## Noun

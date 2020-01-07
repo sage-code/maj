@@ -60,7 +60,7 @@ Things, titles and events start with uppercase when represent names.
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
-* kan  = not  - create antonyms
+* ban  = not  - create antonyms
 * nam  = for  - specify purpose / person
 * ati  = anti - against / opposite 
 * eko  = acho - environment friendly / organic
@@ -68,7 +68,7 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 **examples:**
 
 * nam-bebo = for drink
-* kan-bebo = not for drink
+* ban-bebo = not for drink
 * ati-gera = anti war
 * eko-vaja = echo travel
    
@@ -101,8 +101,8 @@ xero =	"dear"
 
 For substantive larger then usual, you must convert "a" to "o" and add o'ga
 
+* ingo = huge
 * gaso = large
-* eta  = this
 
 **examples:**
 * eta gato'ga => this large kitten

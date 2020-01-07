@@ -110,3 +110,13 @@ rog = please (favor)
 * zu dovu sh domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)
+
+## Short verbs
+
+Short verbs are invariant with time. They can act like particles to make composite words.
+
+* es = to be (descriptive aspect)
+* ha = to have (inalienable possessions)
+* bo = to posses (transferable possessions)
+
+

@@ -59,7 +59,6 @@ x | maj  | xx | maj          | xx | maj    |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
-
 **Note** 
 
 * The numbers do not have gender,

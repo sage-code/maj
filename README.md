@@ -84,7 +84,20 @@ Read more: [Script details](script.md)
 
 For numerals, Maj is using Arabic symbols like all Romance languages:
 
-{ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
+| # | Maj  | IPA   |
+|------------------|
+| 0 | nil  | nil   |
+| 1 | una  | una   |
+| 2 | dua  | dua   |
+| 3 | rea  | rea   |
+| 4 | qua  | t͡ʃua |
+| 5 | fea  | fea   |
+| 6 | zea  | zea   |
+| 7 | xoa  | ʃoa   |
+| 8 | oka  | oka   |
+| 9 | noa  | noa   |
+| 10| cen  | t͡sen |
+
 
 Details: [The numerals](numerals.md)
 

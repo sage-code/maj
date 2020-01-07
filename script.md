@@ -53,9 +53,9 @@ Const of writing can be used in an algorithms to evaluate word complexity during
 
 **example:**
 
-1. ღև.ʚწმև.ɕև.ƍʚრα.თმɚ.ɕև.რαჺα;
-1. nu irdu cu qima odh cu maka.
-1. we go to cinema or to supermarket.
+*. ʚთ.შთწև.ɕև.ծთშთ.რևშთ.ღთϑთ.αღთ.ჵɛʓთ!
+*. io doru cu todo mudo novo ano fezo!
+*. I wish to the entire world happy new year!
 
 **notes:**
 
