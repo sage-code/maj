@@ -32,8 +32,8 @@ adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 
 The origin of these two words:
 
-* sag  = holy  
-* dio  = god
+* saga = heroic long story
+* adio = go with the gods
 
 ## Words
 

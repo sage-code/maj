@@ -98,19 +98,6 @@ For numerals, Maj is using Arabic symbols like all Romance languages:
  9 | noa  | noa   | ღთα
  10| cen  | t͡sen | ɕɛღ
 
-
-ღʚჲ
-ևღα
-შևα
-წɛα
-ƍևα
-ჵɛα
-ʓɛα
-ϰთα
-თჺα
-ღთα
-ɕɛღ
-
 Details: [The numerals](numerals.md)
 
 ## Words
