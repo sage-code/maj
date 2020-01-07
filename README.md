@@ -84,7 +84,7 @@ Read more: [Script details](script.md)
 
 For numerals, Maj is using Arabic symbols like all Romance languages:
 
- x | Maj  | IPA   | Script
+`#`| Maj  | IPA   | Script
 ---|------|-------|-------
  0 | nil  | nil   | ღʚჲ
  1 | una  | una   | ևღα
