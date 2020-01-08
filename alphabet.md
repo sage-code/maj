@@ -57,12 +57,19 @@ Maj has some tools for beginners to learn how to read and write correctly:
 
 **Reference:**
 
-For explaining the pronunciation we have used phonetic symbols: 
+For explaining the alphabet pronunciation we have used phonetic symbols: 
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 **Phonetic:**
+
+Maj phonetic writing is a precise form of Maj that uses diacritics to represent reading rules.
+
+* Letter "ə" is used instead of "h" after a consonant;
+* Letter "ə" is also used when "h" is the last letter in a word;
+* Grave accent can be used to stress a letter: {à è ì ò ù} that is not after "g";
+* Diaeresis { ä ë ï ö ü ӛ ÿ } can be used after "g" to prevent formation of "soft g";
 
 Phonetic notation has language prefix and is enclosed in double quotes like this:
 
@@ -70,17 +77,20 @@ Phonetic notation has language prefix and is enclosed in double quotes like this
 * IPA phonetic: IPA:"word";
 * English phonetic: ENG:"word";
 
+IPA phonetic is used only in Maj documentation. Maj phonetic is used only in training text. For chat you can use normal letters. English phonetic can be used to compare Maj with English.
+
+
 ## Vowels
 
-Maj has 5 vowels: { a e i o u } and three semi-vowels: {y, h, w}:
+Maj has 5 vowels: { a e i o u } and three semi-vowels: {ə, y, w}:
 
-method     |front    |central    |back 
------------|---------|-----------|---------
-close      |i        |y          |u      
-close mid  |e        |           |o
-mid        |         |ə          |
-open       |a        |           |
-approximnt |         |w          | 
+method      |front    |central    |back 
+------------|---------|-----------|---------
+close       |i        |y          |u      
+close mid   |e        |           |o
+mid         |         |ə          |
+open        |a        |           |
+approximate |         |w          | 
 
 **Origin:**
 
@@ -91,8 +101,9 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 * Letter `i`  is close front, like `ee` in `geese`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
+* Letter `ə`  is mid central, like `o` in baron;
 
-**Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually "y". This sound is very different than English sound `y`. It is very similar to sound `i` in word "still".
+**Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually "y". This sound is very different than English sound `y`. It is very similar to sound `i` in words "still" or "director".
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
@@ -103,7 +114,7 @@ Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vo
 * `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
 * `ə` after a consonant or at the end of words, sounds like `e` in "after";
 
-Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead. However it is more correct to use `ɦ` and `ə` if you can. The conversion tool will convert "h" into two different sounds using the rule,.
+Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead.
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -125,17 +136,16 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 
 ## Tone and accent
 
-Maj vowels can be pronounced with one of two tones.
+Maj vowels can be pronounced with one of two tones: Low tone and Higher tone: 
 
-* Low tone, is normal tone;
-* Higher tone, is modified tone; 
+**word ending**
 
-If a word is ending with space, "." or ";" you can use lower tone for last vowel;
-If a word is ending with comma, "," or "?" you should use higher tone for last vowel;
+* If a word is ending with space, "." or ";" you can use lower tone for last vowel;
+* If a word is ending with comma, "," or "?" you should use higher tone for last vowel;
 
-**last vowel**
+**sentence ending**
 
-Symbols: "!" and "?" are altering the last vowel. 
+Symbols: "!" and "?" are altering the last vowel of the last word. 
 
 * Using "!" will make a lower tone for last vowel;
 * Using "?" will make a higher tone for last vowel;
@@ -144,7 +154,7 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 
 **accent:**
 
-Maj words do not have an accent per say. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the word is followed by comma. In this case the last vowel becomes a bit stronger and the first vowel is softening back to normal tone.
+Maj words do not have an accent per say. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
 
 ## Consonants
 
@@ -152,12 +162,12 @@ Maj is using 20 consonants:
 
 method   | bilabial| labio dental | alveolar | valar | post alveolar | glottal 
 ---------|---------|--------------|----------|-------|---------------|----------
-plosive  | p,b     |              | t, d     | k, ğ  |               |
+plosive  | p,b     |              | t, d     | k, g  |               |
 nasal    | m       |              | n        |       |               |
 trill    |         |              | r        |       |               | 
 fricative|         | f,v          | s,z      |       | x, j          | ɦ
 lateral  |         |              | l        |       |               |
-affricate|         |              | c        |       | q, ĝ          |
+affricate|         |              | c        |       | q, dʒ         |
 
 
 Most consonants are similar to: Italian and Romanian but are also found in English;
@@ -179,9 +189,8 @@ Most consonants are similar to: Italian and Romanian but are also found in Engli
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
 * Letter  `c`  is alveolar affricate, like `zz` in "pizza";
 * Letter  `q`  is voiceless post-alveolar affricate like "ch" in "church";
-* Letter  `ɤ`  is voiced post-alveolar affricate before "e" like "ge" in "genetic";
-* Letter  `ფ`  is voiced velar fricative like `gu` in "guitar";
-* Letter  `ჩ`  is voiced fricative glottal before vowels like "h" in "happy";
+* Letter  `g`  is voiced velar fricative like `gu` in "guitar";
+* Letter  `h`  is voiced fricative glottal before vowels like "h" in "happy";
 
 
 ## Difficult sounds
@@ -197,6 +206,8 @@ Most frequent digraphs are associate with letters:
 * Letter `q` sounds `t͡ʃ` or ʈ͡ʂ like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Letter `x` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
+[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
+* Letter `g` sounds like `d͡ʒ` is like "ge" in "genetic";
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Examples:** 
@@ -241,16 +252,17 @@ Letter "j" is voiced fricative-post alveolar.  This sound must be produced with 
 Maj is a Romance language therefore it has two pronunciations for letter `g`: 
 
 * hard g = equivalent to script:(ɤ) IPA:"g"
-* soft g = equivalent to script:(ფ) IPA:"d͡ʒ"
+* soft g = equivalent to script:(გ) IPA:"d͡ʒ"
 
-**Soft: g = ფ** 
+**Soft: g = გ** 
 
 Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
-Letter "g" followed by vowels {`i`, `e`} becomes soft, post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
+Letter "g" followed by vowels {`e`, `i`} becomes soft, post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
 
-* ĝema = gema	 => IPA:"d͡ʒema" = "money"
+* gema = gema => IPA:"d͡ʒema" = "money"
 
+To prevent formation of soft g you must use diaeresis: {ë, ï} after "g" or use other vowel. 
 
 **Hard: g = ɤ** 
 
@@ -258,16 +270,16 @@ Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 
 Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
 
-* goxa = ğoxa => IPA: "goʃa" = "left"
-* agra = ağra => IPA: "agra" = "farmer"
+* goxa => MAJ:"göxa" => IPA: "goʃa" = "left"
+* agra => MAJ:"agra" => IPA: "agra" = "farmer"
 
 **notes:**
 
 In all Romance languages "g" is problematic. Italian and Romanian is using groups "ge", "gi" for soft "g" and "ghe", "ghi" for hard "g". This method is problematic. Sound "d͡ʒa" or "d͡ʒu" can not be produced. 
 
-In English and Spanish the hard "g" can be followed by silent "u". This method is also problematic, sound "gu" can not be produced. However this method can not be used convenient in Maj since "u" must be read.
+In English and Spanish the hard "g" can be followed by silent "u". This method is also problematic, sound "gu" can not be produced. To produce "u" after "g" in Spanish you must use diaeresis: "gü", a method which was recently deprecated.
 
-Maj solve this problem only in Maj Script by making letter "ფ" that is always "soft g" and letter "ɤ" that is always "hard g". Latin "g" is converted automatically to proper IPA or Script by the conversion tools.
+Maj solve this problem by making letter "გ" for "soft g" and letter "ɤ" for "hard g". For print alphabet, "g" in front of "e" or "i" becomes soft, except if you use diaeresis. 
 
 
 **Modified: q**
@@ -280,7 +292,7 @@ Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affrica
 * qesa = "ceez" is read like IPA: "t͡ʃesa";
 * qoka = "chocolate" is read like IPA: "t͡ʃoka";
 
-**Note:** Letter "q" is always followed by a vowel or semivowel and can not be followed by a consonant. In many Romance alphabets this letter is restricted to be followed only by vowel "u" but Maj has extended this convention to make "q" more useful.
+**Note:** In many Romance alphabets this letter is restricted. It must be followed by vowel "u". In Maj we eliminate this restriction. Letter "q" can be followed by any vowel or semivowel but can not be followed by a consonant.
 
 **Modified: x**
 

@@ -111,7 +111,6 @@ Maj will have about 2020 words, inspired from 7 different languages.
 
 One distinctive aspect of Maj are the way words are created.
 
-* Maj do not use diacritics in words;
 * Maj do not use digraphs in words;
 * Maj has root words and composite words;
 * Maj root words are very short;
