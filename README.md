@@ -84,19 +84,19 @@ Read more: [Script details](script.md)
 
 For numerals, Maj is using Arabic symbols like all Romance languages:
 
-`#`| Maj  | IPA   | Script
----|------|-------|-------
- 0 | nil  | nil   | ღʚჲ
- 1 | una  | una   | ևღα
- 2 | dua  | dua   | შևα
- 3 | rea  | rea   | წɛα
- 4 | qua  | t͡ʃua | ƍևα
- 5 | fea  | fea   | ჵɛα
- 6 | zea  | zea   | ʓɛα
- 7 | xoa  | ʃoa   | ϰთα
- 8 | oka  | oka   | თჺα
- 9 | noa  | noa   | ღთα
- 10| cen  | t͡sen | ɕɛღ
+|`#`| Maj  | IPA   | Script|
+|---|:-----|:------|:------|
+| 0 | nil  | nil   | ღʚჲ   |
+| 1 | una  | una   | ևღα   |
+| 2 | dua  | dua   | შևα   |
+| 3 | rea  | rea   | წɛα   |
+| 4 | qua  | t͡ʃua | ƍևα   |
+| 5 | fea  | fea   | ჵɛα   |
+| 6 | zea  | zea   | ʓɛα   |
+| 7 | xoa  | ʃoa   | ϰთα   |
+| 8 | oka  | oka   | თჺα   |
+| 9 | noa  | noa   | ღთα   |
+| 10| cen  | t͡sen | ɕɛღ   |
 
 Details: [The numerals](numerals.md)
 
@@ -110,10 +110,15 @@ Maj will have about 2020 words, inspired from 7 different languages.
 
 ## Essentials
 
+One distinctive aspect of Maj are the way words are created.
+
+* Maj do not use diacritics in words;
+* Maj do not use digraphs in words;
 * Maj has root words and composite words;
 * Maj words can have prefix or suffix;
-* Most words have a single meaning; 
-* Words are organized form left to right;
+* Maj root words are very short;
+* Maj longer words are rarely used;
+* Maj words usually have one base meaning;
 
 **technical:**
 
@@ -169,6 +174,7 @@ We accept volunteer work to improve the language.
 1. To translate in other languages;
 2. To review grammar and text;
 3. To improve lexicon and examples;
+4. To write short stories;
 
 **Community:**
 
