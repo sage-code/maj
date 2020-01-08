@@ -2,14 +2,13 @@
 
 Maj is a logic auxiliary language, with following attributes:
 
-1. Accesible - documentation is public;
-2. Efficient - short words and simple alphabet;
-3. Familiar  - uses familiar sounds from Romance languages;
-4. Open      - it is open source so you can contribute;
+1. Accesible - with public documentation;
+2. Efficient - simple alphabet and short words;
+3. Familiar  - uses  familiar sounds from Romance languages;
 
 **Purpose ...**
 
-Maj is designed for international and informal social chat;
+Maj is designed for informal social chat;
 
 1. Maj is for study;
 2. Maj is for business;
@@ -28,13 +27,13 @@ Maj is designed for international and informal social chat;
 
 Maj is designed for quick chat, and to make friends on-line. It is a logic language it can be used also for debates, study, programming and entertainment. Maj is a Romance language. Words are similar to other Romance languages but not the same. Maj words are abbreviated. 
 
-Maj is similar to Esperanto, except is much more simpler. Maj has shorter words and simpler grammar so it can be quickly learned by anyone who knows Latin alphabet. Initial documentation to learn Maj is written using English but we hope someone will eventually help us to make documentation in other languages.
+Maj is similar to Esperanto. Maj be learned quickly by anyone who knows standard Latin alphabet used by English. Initial documentation to learn Maj is written in English but we hope we will eventually  translate documentation in other languages.
 
 **Rad more:** [case](case.md)
 
 ## Alphabet
 
-Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin letters. We want to use a normal QUERTY keyboard to type Maj text but also to write Maj using a pen. Unfortunately Latin characters are not easy to write therefore Maj has actually two alphabets: print alphabet and script alphabet.
+Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin letters and avoiding digraphs. We want to use a normal QUERTY keyboard to type Maj text. Unfortunately Latin characters are not easy to write therefore Maj has actually two alphabets: "print alphabet" that uses Latin characters and "script alphabet" that is cursive.
 
 * Maj has a total of 28 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading and writing;
@@ -115,8 +114,8 @@ One distinctive aspect of Maj are the way words are created.
 * Maj do not use diacritics in words;
 * Maj do not use digraphs in words;
 * Maj has root words and composite words;
-* Maj words can have prefix or suffix;
 * Maj root words are very short;
+* Maj words can have prefix or suffix;
 * Maj longer words are rarely used;
 * Maj words usually have one base meaning;
 
