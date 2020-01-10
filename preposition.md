@@ -89,7 +89,6 @@ In contrast with "foa" that can specify more precise how many times:
 
 * repu nam ok'foa omi ora  = repeat for eight times every our 
 
-
 ## Agent & Tools
 
 * bai  = by    ( from German )
@@ -109,15 +108,14 @@ note: Symbol ":" is read "con"
 * Locations are very important in Maj.
 * Common locations are nouns so they are terminated in "a".
 
-loka = location / place (noun)
+la loka = location / place (noun)
 
-Maj  | English   | Spanish
------|-----------|-----------------
-nora | north     | norte
-sura | south     | sur
-yeta | est       | este
-weta | west      | oeste
-
+Maj     | English   | Spanish
+--------|-----------|-----------------
+la nora | north     | norte
+la sura | south     | sur
+la ieta | est       | este
+la weta | west      | oeste
 
 ## Movement
 
@@ -212,7 +210,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  tum | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
  ido | and     | also
- ban | non     | negative 
+ kan | non     | negative 
  kaz | case    | when is the case
  sim | like    | comparative, similar = symo
  mem | same    | identical
@@ -287,7 +285,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Translate:**
 
-la muro-tesa dovu rejo, dar esta ban seru sibo!
+la muro-tesa dovu rejo, dar esta kan seru sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -298,7 +296,7 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **Maj:** niq = neither, nor 
 
-*  ban   = first negation
+*  kan   = first negation
 *  niq   = second negation
 
 **other words**
@@ -310,8 +308,8 @@ Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **translate:**
 
-* zu ban sohu niq gema niq reha;
-* zu ban keru niq gema niq reha;
+* zu kan sohu niq gema niq reha;
+* zu kan keru niq gema niq reha;
 
 
 Lang    | Word   |  Example

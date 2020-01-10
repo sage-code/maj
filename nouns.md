@@ -13,7 +13,6 @@ Nouns are words representing objects, materials, persons or places.
 **rules:**
 
 * Regular nouns are ending with letters {`a`,`e`};
-* Nouns ending with a consonant do not have a plural form;
 * Most nouns have 2 syllables, quite rare 3 syllables;
 
 **examples:**
@@ -43,24 +42,34 @@ Some words include gender and do not require adjectives but some nouns do not ha
 * Papa = father
 * Khpitan = captain
 
+## Invariant nouns
+
+There are some nouns that you can not count. These nouns have volume and mass but do not represent individual objects. These nouns end with a consonant.
+
+* Some materials that can have weight but you can not count
+* Loquids that you can measure volume for but you can not count
+* Gases that you can measure volume for but you can not count
+
 ## Proper nouns
 
-Proper noun use uppercase to represent names.
+Proper noun use uppercase to represent names. 
 
 * CHICAGO   = The city of Chicago
 * SANA      = Santa Claus
 
-Things, titles and events start with uppercase when represent names.
+Things, titles and events start with uppercase.
 
 * Crimys    = Christmas 
 * Maj       = Language Maj
 * Khpitan   = Captain
+* Abora     = Tree      
+* Qerda     = Pig
 
 ## Prefix preposition
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
-* ban  = not  - create antonyms
+* kan  = not  - create antonyms
 * nam  = for  - specify purpose / person
 * ati  = anti - against / opposite 
 * eko  = acho - environment friendly / organic
@@ -68,49 +77,53 @@ Sometimes we use a preposition determinant as prefix to create a new meaning for
 **examples:**
 
 * nam-bebo = for drink
-* ban-bebo = not for drink
+* kan-bebo = not for drink
 * ati-gera = anti war
 * eko-vaja = echo travel
    
-## Noun suffix
+## Noun suffixes
 
 * You can add a suffix to a noun to add information about the noun properties.
 * After root you can use apostrophe `'` to connect with a suffix.
 
 You can use suffix to create a composite word for representing nouns:
 
-## Diminutives
+## Diminutives (small)
 
-Maj enable diminutives using coda `i` and suffix 'na
+Maj enable diminutives (likable) using suffix i'na
 
-nito =  "nice"
-xero =	"dear" 
+ni = nito = nice
 
 **close persons**
+
 * xero Mami'na  = "dear mother"
 * xero Papi'na  = "dear father"
 
 **animals (pets)**
 
-* nito gati'na => nice kitty
-* nito kani'na => nice doggy
+* Katia = cat
+* Kania = dog
+
+* nito Kari'na => nice kitty
+* nito Kani'na => nice doggy
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
-## Large
+## Superlative (large)
 
-For substantive larger then usual, you must convert "a" to "o" and add o'ga
+For substantive larger then usual, you can use ending: "o'ga"
 
-* ingo = huge
 * gaso = large
+* ingo = huge
 
 **examples:**
-* eta gato'ga => this large kitten
-* eta kano'ga => this large dog
+
+* eta ingo Kato'ga => this large kitten
+* eta gaso Kano'ga => this large dog
 
 ## Group words
 
-For a scientific group of words we use suffix e'xa
+For a scientific group of words we use plural + suffix "e'xa"
 
 * xatu = to know
 
@@ -119,13 +132,13 @@ For a scientific group of words we use suffix e'xa
 * la pole'xa = the science of plants
 * la fuje'xa = the science of fruits
 * la veje'xa = the science of vegetables
-* la veva'xa = the science of leaving beans
+* la veve'xa = the science of leaving beans
 
 ## First nouns
 
-First nouns represent close persons:
+First nouns examples represent close persons:
 
-**2 syllables**
+**Simple nouns**
 
 Maj     | English        | Romanian
 --------|----------------|-----------------
@@ -138,44 +151,7 @@ Fema    | women          | femeie
 Frea    | brother        | frate
 Sora    | sister         | soră
 Bobo    | beby           | bebelus
-
-**3 syllables**
-
-Maj     | English        | Romanian
---------|----------------|-----------------
-Enfera  | nurse          | doctorita
-Dotora  | doctor         | doctor
-Lolita  | baby sitter    | ingrijitoare
-Locara  | worker         | ingrijitor
-
-**Living things
-
-Maj        | English      | Spanish
------------|--------------|-----------------
-Kania      | dog          | perro               
-Cira       | squirrel     | ardilla               
-Cika       | boy          | chica
-Cike       | girls        | chicas
-Frea       | brother      | hermano               
-Gata       | cat          | gato               
-Huma       | man          | hombre               
-Hume       | men          | hombres             
-Nina       | boy          | niña                 
-Kide	   | children     | muchachos
-Lapa       | rabbit       | Conejo               
-Mama       | mother       | madre               
-Ozea       | bird         | pájaro               
-Papa       | father       | padre               
-Pata       | duck         | Pato               
-Pexa       | fish         | pescado               
-Piga       | pig          | cerdo     
-Poia       | chicken      | pollo               
-Robin      | robin        | Robin               
-Sora       | sister       | hermana               
-Ursa       | bear         | oso               
-Vaka       | cow          | vaca               
-Xava       | horse        | caballo               
-           
+       
 
 See next: [preposition](preposition.md)
 

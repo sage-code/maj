@@ -103,7 +103,7 @@ Is the person or the thing who perform the action.
 -----|------------------|-----------------------------
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
-  3  | su = he, she, it | zu  = they
+  3  | su = he, she     | zu  = they
 
 **Objective**
 
@@ -113,7 +113,7 @@ Is the person or the thing who receive the action.
 ----|----------------------|-----------------------------
  1  | mie = to me          | noh = to us   
  2  | cie = to you         | voh = to y'all
- 3  | sie = to him/her/it  | zoh = to them 
+ 3  | sie = to him/her     | zoh = to them 
  
 **Possessive**
 
@@ -261,6 +261,7 @@ Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
+ka?     | not?     | no?     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
 
@@ -306,8 +307,8 @@ The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* si / asi = yes / so
-* ba / ban = not / non
+* asi = yes / so
+* kan = not / non
 
 **polite**
 
@@ -329,7 +330,7 @@ For stronger assurance answer you can specify the logical values:
 
 **composite**
 
-* ban-juso = incorrect, not justified
+* kan-juso = incorrect, not justified
 * nam-juso = to be justified
 
 ## Noun

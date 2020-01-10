@@ -33,11 +33,14 @@ Verb suffix and coda must match to represent time of action.
 
 Informative propositions can use verbs coda: {a,o,u} for present, past and future.
 
-**des = of/about**
+des  = of/about
+palu = talk
 
-* su dicu'ia una geza des la iata = he tel a stories about the present
-* su dicu'pa una geza des la futa = he have told a story about the future
-* su dicu'fu una geza des la pasa = he will tel a story about the past
+**examples:**
+
+* su palu'ia una geza des la iata = he tel a stories about the present
+* su palu'pa una geza des la futa = he have told a story about the future
+* su palu'fu una geza des la pasa = he will tel a story about the past
 
 **Preposition:** fon = from
 
@@ -54,17 +57,17 @@ dovu = must/mandatory
 
 **examples:**
 
-* tu dovu sh digu'ia des la iata! = you must talk now about the present!
-* su dovu sh digu'ia des la pasa! = you must talk now about the past!
+* tu dovu sh palu'ia des la iata! = you must talk now about the present!
+* su dovu sh palu'ia des la pasa! = you must talk now about the past!
 
 ## Verb transformation
 
-Verb can be used as noun by changing coda from "u" to "e'ra".
+Verb can be used as noun by changing coda from "u" to "o'ra".
 
-joku => joke'ra
+joku => joko'ra
 
-* tu seru'pa la joke'ra de zu  = you have been his game player;
-* jo ka seru la tu joke'ra     = I'm not your game player;
+* tu seru'pa la joko'ra de zu  = you have been his game player;
+* jo ka seru la tu joko'ra     = I'm not your game player;
 
 Verb can be used as noun if coda "u" is replaced by "a".
 

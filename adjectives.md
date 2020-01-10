@@ -2,23 +2,31 @@
 
 Adjectives are 4 or 5 character long and are ending with:
 
-* vowels - {"o", "e", "i"} never {"a" or "u"}
-* semivowels - {"l","j","y"}
+* vowel  - {"o"}
+* suffix - {"ba"}
 
 ## Fundamental adjectives
 
-* bono = good  
-* malo = bad   
-* vero = true
-* faso = false
-* nyto = clean
-* salo = dirty
+These are some examples of core adjectives in Maj:
 
-## Positional adjectives
+ Positive | Negative
+---------------------------------------
 
-* fazo = first
-* mezo = median
-* lazo = last
+* vero, faso = true, false
+* bono, malo = good, bad
+* sano, ifeo = healthy, infirm
+* sato, kruo = saint, cruel
+* nito, salo = clean, dirty 
+* fazo, lazo = first, last
+
+## Imperative suffix
+
+Someone can transform and become or acquire a new quality:
+
+bovu = become
+
+* rog bo sato = please become good
+* rog salu'te = please get better
 
 ## Level 1
 
