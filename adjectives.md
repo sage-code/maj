@@ -16,8 +16,8 @@ These are some examples of core adjectives in Maj:
 * bono, malo = good, bad
 * sano, ifeo = healthy, infirm
 * sato, kruo = saint, cruel
-* nito, salo = clean, dirty 
-* fazo, lazo = first, last
+* nito, suxo = clean, dirty 
+* pimo, lazo = first, last
 
 ## Imperative suffix
 

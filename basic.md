@@ -104,6 +104,7 @@ Is the person or the thing who perform the action.
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = he, she     | zu  = they
+  4  | lu = it          | n/a
 
 **Objective**
 
@@ -207,12 +208,15 @@ verb: joku = to play
 
 Read more about: [verbs](verbs.md)
 
-## Using adverb
+## Adverb
+
+Sometimes we use adverbs to augment the verb:
 
 * suvo  = often (French souvent)
 * moxo  = soon  (Latin mox)
 
-* zu joku suvo = he play often
+* jo joku suvo = I play often
+* zu joku moxo
 
 **composite**
 

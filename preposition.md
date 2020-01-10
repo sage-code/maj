@@ -69,6 +69,12 @@ seda  = second
 asra  = the address
 seza  = season
 
+
+**Examples:**
+
+* vu rivu'pa la bono tesa = you have arrived in time
+* tu ka rivu'fu la bono tesa = you will not arrive in time 
+
 **quantity prefix**
 
 mui = very
