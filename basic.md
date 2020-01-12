@@ -15,8 +15,8 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
-saga  |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+ola   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
+sio   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -25,15 +25,8 @@ adio  |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 
 **examples:**
 
-* saga muda = hello world
-* adio todo = farewell everyone
-
-**notes:**
-
-The origin of these two words:
-
-* saga = heroic long story
-* adio = go with the gods
+* ola muda = hello world
+* sio todo = farewell everyone
 
 ## Words
 
@@ -75,7 +68,7 @@ I Nominative | Singular | Plural
 -------------|----------|--------------
   1          | jo       | nu
   2          | tu       | vu
-  3          | su       | zu
+  3          | su, lo   | zu, lo
 
 II Objective | Singular | Plural
 -------------|----------|--------------
@@ -104,7 +97,7 @@ Is the person or the thing who perform the action.
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = he, she     | zu  = they
-  4  | lu = it          | n/a
+  4  | lo = it          | lo  = they
 
 **Objective**
 
@@ -188,6 +181,7 @@ verb: joku = to play
 * zu joku'ia = he is playing
 * zu joku'fu = he will play
 * zu joku'pa = he has plaid
+* vu lo joku'pa = you have play it
 
 **negative**
 
@@ -365,8 +359,8 @@ An article is a short word you add in front of the noun.
 
 1. Definite article _indicative form:_
 
-* la  = the (singular)
-* le  = the (plural)
+* la = the (singular)
+* le = the (plural)
 
 **example**
 

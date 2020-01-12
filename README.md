@@ -62,7 +62,7 @@ There is available a tool to convert Maj words into IPA alphabet:
 Maj has an alternative hand writing alphabet optimized for stylus or pen.
 
 
-* σαɤα.რևმα!  = saga muda;
+* თჲα.რևშα!   = ola muda;
 * ɛծα.ɛσ.რαუ; = eta es maj!
 
 **Notes:**

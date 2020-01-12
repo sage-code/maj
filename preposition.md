@@ -212,7 +212,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  asi | so      | as consequence
  axa | right   | correct, agree with
  kar | because | as, since, cause of a consequence
- dar | but     | alternative
+ abh | but     | alternative
  tum | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
  ido | and     | also
@@ -235,7 +235,7 @@ Conjunction is used when...
 * an idea you have, depends on another idea;
 * you want to add a new idea into an existing one;
   
-**Maj:** dar = but
+**Maj:** abh = but
     
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -291,7 +291,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Translate:**
 
-la muro-tesa dovu rejo, dar esta kan seru sibo!
+la muro-tesa dovu rejo, abh esta kan seru sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
