@@ -12,16 +12,7 @@ Adverb can be:
 
 MAJ   |ENGLISH      |SPANISH
 ------|-------------|------------
-ale   |all          |todas
-ako   |too          |también
-ate   |forward      |adelante
-asi   |thus         |así
-aso   |also         |además
-fie   |either       |ya sea
-fin   |finally      |finalmente
-foa   |times        |vez
-mas   |most         |más
-ozo   |over the     |sobre
+tot   |all          |todas
 tan   |so           |tan
 ufo   |sometimes    |a veces
 ugo   |even         |incluso

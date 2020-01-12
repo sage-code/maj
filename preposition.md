@@ -138,7 +138,6 @@ ozo      |Over the
 sru      |Through / by  
 cua      |Back      
 sop      |Stop      
-uma      |Around    
 veg      |Away From 
          
 ## Direction
@@ -169,11 +168,9 @@ Maj     | English            | Spanish         | German
 --------|--------------------|-----------------|-------------- 
 auf     |on, in              |en               | im, auf
 aut     |out                 |fuera            | draußen
-ala     |there               |ahi              | dort
 fon     |of                  |de               | von
 fra     |between             |entre            | zwischen
 aqi     |here                |aqui             | hier
-jos	    |down                |abajo            | nieder
 ako     |beside, next to     |al lado, cerca   | neben, etwa
 pos     |behind the          |detrás           | hinter
 afo     |after               |despue           | nach  
@@ -182,7 +179,6 @@ sus	    |up	                 |arriba           | nach oben
 top     |on top              |encima           | oben drauf
 uba	    |above	             |encima           | über
 ubi     |where               |donde            | wo
-for     |prior, in front of  |anterior         | vor
 iet     |yet                 |todavía          | noch 
 ino     |inside              |dentro           | innerhalb
 
@@ -211,8 +207,8 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
 -----|---------|------------------------------------
  asi | so      | as consequence
  axa | right   | correct, agree with
- kar | because | as, since, cause of a consequence
- abh | but     | alternative
+ eka | because | as, since, cause of a consequence
+ uba | but     | alternative
  tum | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
  ido | and     | also
@@ -220,8 +216,8 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  kaz | case    | when is the case
  sim | like    | comparative, similar = symo
  mem | same    | identical
- nor | neither | alternative 
- pwo | can     | has the capability
+ niq | neither | alternative 
+ puo | can     | has the capability
  tal | maybe   | possible
  tan | so      | to such a great extent.
  odh | or      | either
@@ -281,7 +277,7 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** aku = now
+**Maj:** ia = now
 
 * tesa = time
 * muro = dead
@@ -291,7 +287,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Translate:**
 
-la muro-tesa dovu rejo, abh esta kan seru sibo!
+la muro-tesa dovu rejo, uba esta kan seru sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -324,7 +320,7 @@ Franch  | ni     | Il ne veut ni l’argent ni les cadeaux
 Spanish | ni     | No quiere ni dinero ni regalos.
 English | nor    | He doesn’t want neither money nor gifts
 
-**Maj:** kar = because
+**Maj:** eka = because
 
 * xedu  = to seat
 * kamo  = to be calm
@@ -332,7 +328,7 @@ English | nor    | He doesn’t want neither money nor gifts
 
 **translate:**
 
-zu xedu kamo kar zu es nito;
+zu xedu kamo eka zu es nito;
 
 
 Lang    | Word    |  Example

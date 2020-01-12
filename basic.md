@@ -16,7 +16,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
 ola   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-qao   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+qau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -26,7 +26,7 @@ qao   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **examples:**
 
 * ola muda = hello world
-* qao todo = farewell everyone
+* qau todo = farewell everyone
 
 ## Words
 
@@ -199,6 +199,17 @@ verb: joku = to play
 * jo mh joku'ia solo = I play with myself now
 * tu te joku'ia solo = You play yourself now
 * su se joku'ia solo = He is playing himself now
+
+**informative**
+
+* ola! mi noma es Eluqian; = Hello! my name is Eluchian;
+* mi buda se voku Marian;  = my brother is called Marian;
+
+**mono log**
+
+* jo, estu'pa dumo sh kedo, algo mi daru'fu juta; 
+* I, was fulish to believe someone will give me help.
+
 
 Read more about: [verbs](verbs.md)
 
