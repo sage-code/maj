@@ -16,7 +16,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
 ------|----------|------------|------------|-----------|-------------|----------|-----------
 ola   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-sio   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+qao   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
@@ -26,7 +26,7 @@ sio   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **examples:**
 
 * ola muda = hello world
-* sio todo = farewell everyone
+* qao todo = farewell everyone
 
 ## Words
 
