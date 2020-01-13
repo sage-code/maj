@@ -48,8 +48,6 @@ c
 d
 e
 f
-g
-h
 i
 j
 k
@@ -68,7 +66,6 @@ v
 y
 w
 z
-_
 
 
 ###intraword2, Maj list...:
@@ -78,8 +75,6 @@ _
 შ
 ɛ
 ჵ
-ɤ
-ჩ
 ʚ
 უ
 ჺ
@@ -98,41 +93,55 @@ _
 ყ
 ω
 ʓ
-.
-
 
 
 ###prefixes1, Latin list...:
-
+h
 
 
 ###prefixes2, Maj list...:
-
+ჩ
 
 
 ###suffixes1, Latin list...:
-
-
+g
+h
 
 
 ###suffixes2, Maj list...:
-
-
+ɤ
+ⱷ
 
 
 ###regex1, Latin list...:
+/[\x20^\R]([^\s]+)/g
+/([αɛʚთυկ])[h]/g
+/([ჵჩβɕდგɤფʓჺშრσუϑϰωჲოծწg])[h]/g
+/[gɤ]([ɛʚ])/g
+/[g]([hⱷαɛʚთևყβɕდღʓჺშრσუϑϰωჲოծწ])/g
 
 
 
 ###regex2, Maj list...:
+.$1
+$1ჩ
+$1ⱷ
+გ$1
+ɤ$1
+
 
 
 
 ###rev_regex1, Maj list...:
-
+/([^\s^\.]+)[\.]([^\s^\.]+)/g
+/[ɤფ]/g
+/[ɚჩ]/g
 
 
 ###rev_regex2, Latin list...:
+$1 $2
+g
+h
 
 
 
