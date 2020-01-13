@@ -44,7 +44,6 @@ elucian.moise@gmail.com
 ###intraword1, MAJ list...:
 j
 x
-h
 c
 q
 
@@ -52,9 +51,17 @@ q
 ###intraword2, IPA list...:
 ʒ
 ʃ
-ə
 t͡s
 t͡ʃ
+
+
+
+
+
+
+
+
+
 
 
 ###prefixes1, MAJ list...:
@@ -74,23 +81,17 @@ j
 
 
 ###regex1, MAJ list...:
-/g([ei])/g
-/([aeyiou])(h)/g
 /c([aəeiouwh])/g
 /q([aəeiouwh])/g
-/([bcdfgjklmnprstvxzwɢʒʃʂ])(h)/g
-
-
-
+/([aeyiouə])(h)/g
+/([bcdfgjklmnprstvxzwʃ])(h)/g
 
 
 ###regex2, IPA list...:
-d͡ʒ$1
-$1ɦ
 t͡s$1
 t͡ʃ$1
+$1ɦ
 $1ə
-
 
 
 
