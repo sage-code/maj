@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 26 letters. Each letter has associated a unique pronunciation.
+Maj alphabet has 26 letters.
 
 **notes:**
 * the order of letters is different from ISO standard;
@@ -40,10 +40,11 @@ Latin | IPA  | MAJ | Maj Name
 
 ## Pronunciation
 
+Maj pronunciation is simple and easy to learn. It has well defined phonetic rules, no need to spell words;
+
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
 * Maj sounds do not require to put your tongue between your teeth;
 * Maj sounds do not require inverted tongue tip (retroflex);
-* Maj has deterministic phonetic rules, no need to spell words;
 * Maj has strong consonants and clear vowels similar to Portuguese;
 * You will never byte your tongue or spit around by speaking Maj;
 
@@ -101,7 +102,7 @@ Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vo
 
 * zyna = "fairy"
 
-**Letter `h`:** has two pronunciations depending on it's position in word and previous letter:
+**Letter `h`:** has two pronunciations depending on its position in word and previous letter:
 
 * `h` at beginning of words or after a vowel sounds like "h" in "hoard";
 * `ə` at the end of words or after a consonant sounds like `e` in "after";
@@ -126,6 +127,8 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 * wu! (disapproval)
 * wh! (disgusting)
 
+Observe that wh si pronounced IPA:"wə"
+
 ## Tone and accent
 
 Maj vowels can be pronounced with one of two tones: Low tone and Higher tone: 
@@ -149,7 +152,7 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 Maj words have a constant accent. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
 
 * Grave accent can be used to stress a letter: {à è ì ò ù};
-* Letter "h" is read "ə" after a consonant but it can not have an accent. 
+* Letter "h" is read "ə" but it can not have an accent; 
 
 ## Consonants
 
@@ -165,7 +168,7 @@ lateral  |         |              | l        |       |               |
 affricate|         |              | c        |       | q             |
 
 
-Most consonants are similar to: Italian and Romanian but are also found in English;
+Most consonants are similar to: Italian and Romanian but are similar to in English;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
 * Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
