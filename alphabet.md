@@ -149,11 +149,11 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 Maj words have a constant accent. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
 
 * Grave accent can be used to stress a letter: {à è ì ò ù};
-* Letter "ə" can not have an accent. @
+* Letter "h" is read "ə" after a consonant but it can not have an accent. 
 
 ## Consonants
 
-Maj is using 20 consonants:
+Maj is using 19 consonants:
 
 method   | bilabial| labio dental | alveolar | valar | post alveolar | glottal 
 ---------|---------|--------------|----------|-------|---------------|----------
@@ -162,7 +162,7 @@ nasal    | m       |              | n        |       |               |
 trill    |         |              | r        |       |               | 
 fricative|         | f,v          | s,z      |       | x, j          | ɦ
 lateral  |         |              | l        |       |               |
-affricate|         |              | c        |       | q, ʤ          |
+affricate|         |              | c        |       | q             |
 
 
 Most consonants are similar to: Italian and Romanian but are also found in English;

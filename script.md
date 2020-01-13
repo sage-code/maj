@@ -8,7 +8,7 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 
 ## Font
 
-There is not yet a font for Maj script. We have reused different unicode symbols:
+There is not yet a font for Maj script. We have reused different Unicode symbols:
 
 ```
 α  β  ɕ  შ  ჵ  ɤ  გ  ჩ  ⱷ  ɛ  ʚ  უ  ჺ  ჲ  რ  ღ  თ  დ  ƍ  წ  σ  ծ  և  ϑ  ω  ϰ  ყ  ʓ  
@@ -31,6 +31,8 @@ To write a Maj letter correctly you must start with movement 1, then you continu
 The letters in next picture are not perfect. However if you start the letter from the correct point and do the directions correctly the writing will be probably good enough for reading by other persons.
 
 <img src="demo/maj-script.jpg" alt="Maj Alphabet" width="600"></img>
+
+Deprecated letters: { გ  ⱷ }
 
 ## Cost of writing
 
