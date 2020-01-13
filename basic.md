@@ -72,9 +72,9 @@ I Nominative | Singular | Plural
 
 II Objective | Singular | Plural
 -------------|----------|--------------
-  1          | mie      | noh
-  2          | cie      | voh
-  3          | sie      | zoh
+  1          | mie      | nuo
+  2          | cie      | vuo
+  3          | sie      | zuo
 
 III Posesiv  | Singular | Plural
 -------------|----------|--------------
@@ -105,9 +105,9 @@ Is the person or the thing who receive the action.
 
  ps | singular             | plural     
 ----|----------------------|-----------------------------
- 1  | mie = to me          | noh = to us   
- 2  | cie = to you         | voh = to y'all
- 3  | sie = to him/her     | zoh = to them 
+ 1  | mie = to me          | nuo = to us   
+ 2  | cie = to you         | vuo = to y'all
+ 3  | sie = to him/her     | zuo = to them 
  
 **Possessive**
 
@@ -419,7 +419,7 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 * oru = any
 * omi = every
-* tao = all
+* tot = all
 * mai = many
 * plu = more 
 * pao = few
@@ -434,7 +434,7 @@ Common noun is using plural "e" or singular "a" with different articles:
 * omi mela = every apple
 * oru mela = any apple
 * som mele = some apples
-* tao mele = all apples
+* tot mele = all apples
 * mai mele = many apples
 * ixo cen male = approximative 10 apples
 

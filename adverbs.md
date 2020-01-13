@@ -14,7 +14,7 @@ MAJ   |ENGLISH      |SPANISH
 ------|-------------|------------
 tot   |all          |todas
 tan   |so           |tan
-ufo   |sometimes    |a veces
+avo   |sometimes    |a veces
 ugo   |even         |incluso
 veg   |away         |lejos
 

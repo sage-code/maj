@@ -160,11 +160,11 @@ Note: TODO: Fix oes not work due to change in tense:
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | bin            | binary
-8   | rig            | octet
-16  | un'rig         | short integer
-32  | du'rig         | integer
-64  | qu'rig         | long integer
+0/1 | bina           | binary
+8   | riga           | octet
+16  | un'riga        | short integer
+32  | du'rige        | integer
+64  | qu'rige        | long integer
 
 Griat!
 

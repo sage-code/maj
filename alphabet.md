@@ -1,12 +1,10 @@
 # MAJ Alphabet
 
-Maj alphabet has 26 Latin letters. Each letter has associated a unique pronunciations but there are two exceptions: Letter g and letter h have two distinct pronunciations. So Maj script have 28 letters.
+Maj alphabet has 26 letters. Each letter has associated a unique pronunciation.
 
 **notes:**
 * the order of letters is different from ISO standard;
-* name if letters start with the letter it represents;
-* each letter represent one sound except `g` and `h`;
-* for handwriting see details on: [script](script.md) page;
+* letters name start with the letter it represents;
 
 Latin | IPA  | MAJ | Maj Name
 ------|------|-----|-----------
@@ -15,8 +13,8 @@ Latin | IPA  | MAJ | Maj Name
   c   | ts   | ɕ   | ceta
   d   | d    | შ   | dota
   f   | f    | ჵ   | fifa
-  g   | g,dʒ | ɤ,გ | gama
-  h   | ɦ,ə  | ჩ,ⱷ | ɦera
+  g   | g    | ɤ   | gama
+  h   | h    | ჩ   | ɦera
   e   | e    | ɛ   | elsa
   i   | i    | ʚ   | iota
   j   | ʒ    | უ   | jona
@@ -37,16 +35,17 @@ Latin | IPA  | MAJ | Maj Name
   y   | y    | ყ   | ykra
   z   | z    | ʓ   | zeta
 
+**See also:** [script](script.md) page;
+
 
 ## Pronunciation
 
-* Maj sounds are influenced by Central European languages;
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
-* Maj is an articulate language with strong consonants and clear vowels;
 * Maj sounds do not require to put your tongue between your teeth;
 * Maj sounds do not require inverted tongue tip (retroflex);
 * Maj has deterministic phonetic rules, no need to spell words;
-* You will never byte your tongue or spit arround by speaking Maj;
+* Maj has strong consonants and clear vowels similar to Portuguese;
+* You will never byte your tongue or spit around by speaking Maj;
 
 **Tools:**
 
@@ -63,13 +62,6 @@ For explaining the alphabet pronunciation we have used phonetic symbols:
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 **Phonetic:**
-
-Maj phonetic writing is a precise form of Maj that uses diacritics to represent reading rules.
-
-* Letter "ə" is used instead of "h" after a consonant;
-* Letter "ə" is also used when "h" is the last letter in a word;
-* Grave accent can be used to stress a letter: {à è ì ò ù} that is not after "g";
-* Diaeresis { ä ë ï ö ü ӛ ÿ } can be used after "g" to prevent formation of "soft g";
 
 Phonetic notation has language prefix and is enclosed in double quotes like this:
 
@@ -111,10 +103,10 @@ Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vo
 
 **Letter `h`:** has two pronunciations depending on it's position in word and previous letter:
 
-* `ɦ` at beginning of words or after a vowel sounds like "h" in "hoard";
-* `ə` after a consonant or at the end of words, sounds like `e` in "after";
+* `h` at beginning of words or after a vowel sounds like "h" in "hoard";
+* `ə` at the end of words or after a consonant sounds like `e` in "after";
 
-Since on QUERTY KEYBOARD there is not `ɦ` and no `ə` you can use "h" instead.
+Since on QUERTY KEYBOARD there is not `ə` you can use "h" instead.
 
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
@@ -154,7 +146,10 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 
 **accent:**
 
-Maj words do not have an accent per say. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
+Maj words have a constant accent. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
+
+* Grave accent can be used to stress a letter: {à è ì ò ù};
+* Letter "ə" can not have an accent. @
 
 ## Consonants
 
@@ -167,7 +162,7 @@ nasal    | m       |              | n        |       |               |
 trill    |         |              | r        |       |               | 
 fricative|         | f,v          | s,z      |       | x, j          | ɦ
 lateral  |         |              | l        |       |               |
-affricate|         |              | c        |       | q, dʒ         |
+affricate|         |              | c        |       | q, ʤ          |
 
 
 Most consonants are similar to: Italian and Romanian but are also found in English;
@@ -207,8 +202,6 @@ Most frequent digraphs are associate with letters:
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Letter `x` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
-* Letter `g` sounds like `d͡ʒ` is like "ge" in "genetic";
-[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
@@ -217,7 +210,7 @@ Phonetic writing is quoted using IPA: notation
 * xava => IPA:"ʃava"    = "shovel"    
 * koqa => IPA:"kot͡ʃa"  = "coach"     
 * qika => IPA:"t͡ʃika"  = "girl"      
-* cita => IPA:"t͡sita"  = "target"    
+* cita => IPA:"t͡sita"  = "target"
 
 **Modified: c**
 
@@ -239,47 +232,6 @@ Maj letter "k" is plosive-valear not trilled. It may be pronounced like "c" in "
 **Trilled: r**
 
 Letter "r" is trill-alveolar in Maj. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. 
-
-**Fricative: j** 
-
-Letter "j" is voiced fricative-post alveolar.  This sound must be produced with the tip of your tongue relaxed on  roof top and softly vibrated. Best IPA symbol for this sound is `ʒ`. 
-
-* ijma	=> IPA:"iʒma" = "picture"
-* joka  => IPA:"ʒoka" = "game"
-
-**Modified: g**
-
-Maj is a Romance language therefore it has two pronunciations for letter `g`: 
-
-* hard g = equivalent to script:(ɤ) IPA:"g"
-* soft g = equivalent to script:(გ) IPA:"d͡ʒ"
-
-**Soft: g = გ** 
-
-Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-
-Letter "g" followed by vowels {`e`, `i`} becomes soft, post-alveolar affricate similar to `gi` in word "giraffe". This sound must be produced with the middle of your tongue relaxed on roof top of your mouth softly vibrated. Best IPA symbol for this sound is `d͡ʒ`. 
-
-* gema = gema => IPA:"d͡ʒema" = "money"
-
-To prevent formation of soft g you must use diaeresis: {ë, ï} after "g" or use other vowel. 
-
-**Hard: g = ɤ** 
-
-Learn more: [listen](https://en.wikipedia.org/wiki/Voiced_velar_stop)
-
-Letter "g" followed by {`a`,`u`,`o`,`y`,`w`,`h`} or any consonant becomes hard `g` = `ğ`. This sound is produced similar to `k` except it is vibrated. The IPA symbol for hard `g` is actually "g". It sounds similar to `g` in "guitar".
-
-* goxa => MAJ:"göxa" => IPA: "goʃa" = "left"
-* agra => MAJ:"agra" => IPA: "agra" = "farmer"
-
-**notes:**
-
-In all Romance languages "g" is problematic. Italian and Romanian is using groups "ge", "gi" for soft "g" and "ghe", "ghi" for hard "g". This method is problematic. Sound "d͡ʒa" or "d͡ʒu" can not be produced. 
-
-In English and Spanish the hard "g" can be followed by silent "u". This method is also problematic, sound "gu" can not be produced. To produce "u" after "g" in Spanish you must use diaeresis: "gü", a method which was recently deprecated.
-
-Maj solve this problem by making letter "გ" for "soft g" and letter "ɤ" for "hard g". For print alphabet, "g" in front of "e" or "i" becomes soft, except if you use diaeresis. 
 
 
 **Modified: q**
