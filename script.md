@@ -23,7 +23,7 @@ There is not yet a font for Maj script. We have reused different Unicode symbols
 
 To write a Maj letter correctly you must start with movement 1, then you continue with movement 2 and do not lift your pen until you finish the letter. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle.
 
-<img src="maj-script.png" alt="Maj Script" width="400"></img>
+<img src="maj-script.png" alt="Maj Script" width="600"></img>
 
 
 ## Handwriting test 
