@@ -5,25 +5,27 @@
 * Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500;
 * Existing spoken languages become more complex as time pass and therefore difficult to learn;
 * Existing spoken languages are difficult to optimize due to schools and government intervention;
-* Existing are thought in schools to be uses as it is not to improve the language;
+* Existing languages are thought in schools to be uses as it is not to improve the language;
 
-For learning English you need about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words.
+For learning English you need about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words. The rest of your life you learn English. Even if you are born in US or England you will not know every words of English.
 
 **about Maj:** 
 
 * Maj is an open source, Romance language;
 * Maj is using Latin alphabet similar to English alphabet;
 * Maj in contrast to English is a deterministic language;
+* Maj is limited in scope and you can learn it all in one year;
 
-**capital letters**
+**punctuation:**
 
-in this document I use Maj capitalization:
+in this document I use Maj pnctuation style:
 
 * sentences start with lowercase letters;
 * names start with capital letters;
 * informative propositions end with ;
 * imperative propositions end with !
 * interrogative propositions end with ?
+* enumerations start with star (*)
 
 there are some good reasons to make a new and different language:
 
@@ -33,14 +35,15 @@ there are some good reasons to make a new and different language:
 * experiment with different words and sounds;
 * making demo software for string manipulations;
 
-**as a product**
+**as a product:**
 
 once the language is established it can be usable for:
 
-* chat with friends;
-* outdoor activity and sport;
-* making fantastic movies;
-* making video games;
+* friendly chat;
+* making comments;
+* outdoor activity;
+* taking notes;
+* video games;
 * artificial intelligence;
 * knowledge repository;
 
@@ -56,41 +59,41 @@ Maj can be spoken in public but nobody will understand you; especially if you ar
 
 # but how
 
-we shorten the longer words to reduce cost of pronunciation; we use mono syllabic words for most frequent words and _bi-syllabic_ or _tree-syllabic_ words for less frequent words; so Maj can be faster and more efficient than other Romanic languages; after initial calculation we estimate Maj is 50% more efficient than other languages;
+we shorten the words to reduce cost of pronunciation; so Maj can be faster and more efficient than other Romance languages; after initial calculation we estimate Maj is 30% more efficient than other languages;
 
-in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated so further abbreviation makes no sense therefore is prohibited. foreign words can be used in Maj but must be enclosed with double quotes "française" is pronounced: /fʁɑ̃.sɛz/ for example. 
+in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; therefore further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
-We use two functions to compute cost of words during word design. one is considering pronunciation and another one is considering the cost of writing. We replace expensive letters with simple letters to make the language more efficient.
+We use two functions to compute cost of words during word design. one is considering pronunciation and another one is considering the cost of writing. We replace expensive letters with simpler letters to make the language more efficient.
 
 **design:**
 
-* Maj re-purpose some redundant letters: { K, X, Y };
+* Maj re-purpose some redundant letters: { Q, K, X, Y };
 * Maj do not use cedilla letters like: Franch, Romanian or German;
 * Maj is using root words and avoid composite long words;
 * Maj is using simple grammar rules to reduce complexity;
-* Maj has a reduced numbers of sounds easy to produce;
-* Maj will have a reduced vocabulary, about 1000 words;
+* Maj has a reduced numbers of sounds, easy to produce;
+* Maj will have a reduced vocabulary, about 2200 words;
 
 **rules:**
 
 * Maj can use prefixes and suffixes to make a new word from a root;
-* Maj prefix is using dash `-` to connect with the root word;
-* Maj suffix is using quote `'` to connect with the root word;
-* Maj avoid synonyms and is using a single meaning for each word;
-* Maj frequent words are short and less frequent words are longer;
+* Maj is using quote `'` to connect with the root word with suffix or prefix;
+* Maj avoid synonyms and is using mostly a single meaning for each word;
+* Maj frequent words are shorter while less frequent words are longer;
 * Maj words can differ from one to other by a single letter;
 
 # but why
 
 a constructed language can have good _use-cases_.
 
-* Maj is using an experimental Latin writing;
+* Maj is using an experimental Script writing;
 * Maj ideas can be used for some other languages;
 * Maj can be used to learn other Romantic languages;
+* Maj can be used to comment software source code;
 
 **for Internet**
 
-Maj is for Internet; it is for software developers from diverse countries to be able to work together in a large team even if they do not know English at all; Maj can enable communities of exceptional persons to improve themselves;
+Maj is for Internet; it is for software developers from diverse countries to be able to work together in a larger team, even if they do not know English; Maj enable communities of exceptional persons to improve themselves;
 
 **for Peace**
 
