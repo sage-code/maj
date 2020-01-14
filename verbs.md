@@ -118,16 +118,17 @@ Read next: [nouns](nouns.md)
 
 Short verbs are invariant with time. They can act like particles to make composite words.
 
-* es = to be (description)
-* ha = to have (possession)
-* bo = to become (transformation)
+* bo = to become
+* es = to be
+* ha = to have
+* da = to give
 
 **example:**
 
 The following two messages convey the same message:
 
-* tu bo malo     = you have become bad
-* tu te soxu'pa  = you have get dirty
+* tu bo malo  = you become bad
+* tu te soxo  = you get dirty
 
 The second idea is using a metaphor: becoming dirty is equivalent to becoming bad.
 

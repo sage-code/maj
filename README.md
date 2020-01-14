@@ -23,11 +23,14 @@ Maj is designed for informal social chat;
 1. a mystic language;
 1. a superior language;
 
+
 **Cases:**
 
 Maj is designed for quick chat, and to make friends on-line. It is a logic language it can be used also for debates, study, programming and entertainment. Maj is a Romance language. Words are similar to other Romance languages but not the same. Maj words are abbreviated. 
 
 Maj is similar to Esperanto. Maj be learned quickly by anyone who knows standard Latin alphabet used by English. Initial documentation to learn Maj is written in English but we hope we will eventually  translate documentation in other languages.
+
+Maj is not designed to be used as a scientific language it does not have words from advanced science like: physics, electronics, mechanics, mathematics and chemistry. For this you must use English or Franch. The advanced of a reduced scope is the possibility to use shorter words.
 
 **Rad more:** [case](case.md)
 
@@ -35,11 +38,10 @@ Maj is similar to Esperanto. Maj be learned quickly by anyone who knows standard
 
 Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin letters and avoiding digraphs. We want to use a normal QUERTY keyboard to type Maj text. Unfortunately Latin characters are not easy to write therefore Maj has actually two alphabets: "print alphabet" that uses Latin characters and "script alphabet" that is cursive.
 
-* Maj has a total of 28 letters in the alphabet;
+* Maj has a total of 26 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading and writing;
-* There are 2 letters: {h, g} having associated 2 sounds each;
 
-The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due put pronunciation sounds that can be more easy to learn this way in Maj. 
+The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorize more easily in this order: 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
 ---|---|---|---|---|---|---|---|----|----|----|----|----
@@ -59,8 +61,18 @@ There is available a tool to convert Maj words into IPA alphabet:
 
 ## Script
 
-Maj has an alternative hand writing alphabet optimized for stylus or pen.
+Maj has an alternative hand writing script optimized for stylus or pen.
 
+```
+ 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
+---|---|---|---|---|---|---|---|----|----|----|----|----
+ α | β | ɕ | შ | ჵ | ɤ | ჩ | ɛ | ʚ  | უ  | ჺ  | ჲ  | რ  
+ a | b |t͡s| d | f | g | h | e | i  | ʒ  | k  | l  | m  
+ ღ | თ | დ | ƍ | წ | σ | ծ | և | ϑ  | ω  | ϰ  | ყ  | ʓ  
+ n | o | p |t͡ʃ| r | s | t | u | v  | w  | ʃ  | y  | z 
+```
+
+**Examples:**
 
 * თჲα.რևშα!   = ola muda;
 * ɛծα.ɛσ.რαუ; = eta es maj!
