@@ -13,42 +13,61 @@ Nouns are words representing objects, materials, persons or places.
 **rules:**
 
 * Regular nouns are ending with letters {`a`,`e`};
+* Nouns that end in a consonant are invariant nouns;
 * Most nouns have 2 syllables, quite rare 3 syllables;
+* Nouns that represent leaving beens start with uppercase;
 
-**examples:**
+Examples:
 
-Regular nouns are using different coda for singular and plural:
+* Kide   = children    
+* Pare   = parents 
+* Kania  = dog
+
+**plural:**
+
+Regular nouns are using different ending for singular and plural:
 
 * pana   = bread  (singular)
 * pane   = breads (plural)
 
-**gender**
+**gender:**
 
-In Maj, nouns do not have a specific coda for genre but use adjectives instead.
+In Maj, nouns do not have a specific ending for genre but use adjectives instead.
 
 * maqo Kania = male dog 
 * fimo Kania = female dog 
 
+Note: in this case, since the adjective is the defining nature of the noun it is placed before the noun. In general the adjective is placed after the noun:
+
+* la Kania es niso = this dog is nice
+* la Kania es nito = this dog is clean
+
 **implicit gender**
 
-Some words include gender and do not require adjectives but some nouns do not have gender at all:
+Some words include gender and do not require adjective.
 
-* Kida = child    
-* Kide = children 
 * Cika = girl 
 * Nina = boy
-* Pare = parents 
 * Mama = mother
 * Papa = father
-* Khpitan = captain
 
 ## Invariant nouns
 
-There are some nouns that you can not count. These nouns have volume and mass but do not represent individual objects. These nouns end with a consonant.
+Some nouns are representing materials or substances not individual objects. In this case the nouns end with a consonant. For these there is not plural available:
 
-* Some materials that can have weight but you can not count
-* Loquids that you can measure volume for but you can not count
-* Gases that you can measure volume for but you can not count
+* Materials
+* Liquids
+* Gases
+* Chemicals
+* Processes
+
+**examples:**
+
+* karbon = charbon
+* klorin = chlor
+* kodes  = condensation
+* 
+
 
 ## Proper nouns
 
@@ -59,13 +78,18 @@ Proper noun use uppercase to represent names.
 
 Things, titles and events start with uppercase.
 
-* Crimys    = Christmas 
+* Navida    = Christmas 
 * Maj       = Language Maj
-* Khpitan   = Captain
+* Kapta     = Captain
 * Abora     = Tree      
 * Qerda     = Pig
 
-## Prefix preposition
+**note:* The word Kapth represents an occupation. Sometimes the occupation becomes the occupation and is considered proper noun. So it can be written with uppercase or lowercase. Ocupation names also can terminate in "h". 
+
+* tu es la Kapta = you are the captain
+* io doru bo kapth = I wish to be captain
+
+## Prefix particles
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 

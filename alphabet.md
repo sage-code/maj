@@ -313,8 +313,8 @@ Weight |Sounds
 -------|----------------------------------------
   1    |aeyiou 
   2    |lmnfsx 
-  3    |bkcdpt 
-  4    |vjrz
+  3    |bkdpt 
+  4    |vjrzc
   5    |hgqw
 
 

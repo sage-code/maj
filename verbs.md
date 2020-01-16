@@ -76,7 +76,7 @@ Verb can be used as noun if coda "u" is replaced by "a".
 
 **ro = ul**
 
-Use coda "e" and suffix 'ro to make an adjective.
+Use coda "e" and suffix "e'ro" to make an adjective.
 
 joku => joke'ro = playful
 
