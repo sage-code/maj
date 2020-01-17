@@ -205,6 +205,8 @@ Most frequent digraphs are associate with letters:
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Letter `x` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
+* Group `dj` sounds `d͡ʒ` like `g` in  "giraffe": 
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
@@ -214,6 +216,8 @@ Phonetic writing is quoted using IPA: notation
 * koqa => IPA:"kot͡ʃa"  = "coach"     
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"
+* djia => IPA:"d͡ʒia"   = "day"
+* adja => IPA:"ad͡ʒa"   = "today"
 
 **Modified: c**
 

@@ -334,8 +334,8 @@ The interrogative question can be answered with affirmative or negative:
 **scientific**
 For stronger assurance answer you can specify the logical values:
 
-* bono! = good, tasteful
-* malo! = bad, repulsive
+* bon, bono! = good, tasteful
+* mal, malo! = bad, repulsive
 
 **composite**
 
