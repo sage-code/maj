@@ -253,7 +253,7 @@ verb: vidu  = to see
 * tu vidu'fu ma suv!     = You will see me often!
 * nu podo vidu'ia zu amu!= We can see them now!
 
-## Call to Action
+## Imperative
 
 In Maj, "hay" is used as an determinant call, preposition:
 
