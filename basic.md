@@ -146,8 +146,8 @@ Full reflexive word: "sifo" = "self"
 * tu te joka solo = you are playing alone
 * su se waza sifo = he is resting himself
 
-**note:* 
- * it is a total of: 6 x 4 = 24 pronouns
+**notes:** 
+ * it is a total of: 6 x 4 + 4 = 28 pronouns
  * there is no gender differentiation for 3'rd person
 
 ## Verbs
