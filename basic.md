@@ -115,11 +115,11 @@ Is a composite word for a person or object who own something or have something.
 
 determinant: al = belong, of the
 
-singular                 | plural
--------------------------|--------------------------------
- al meu = mine           | al nua = ours
- al thu = yours          | al vua = yours
- al shu = his, hers, its | al zua = theirs
+singular                      | plural
+------------------------------|--------------------------------
+ al meu, mia = mine           | al nua. nia = ours
+ al thu, tia = yours          | al vua, vua = yours
+ al shu, sia = his, hers, its | al zua, zua = theirs
 
 ## Reflexive
 
