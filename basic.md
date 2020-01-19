@@ -1,6 +1,6 @@
 # Basic Grammar
 
-In this document we describe the basics of MAJ semantic.
+In this document we describe the basics of MAJ grammar.
 
 * How to say greetings
 * Pronouns and cases
