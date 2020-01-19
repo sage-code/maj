@@ -115,11 +115,11 @@ Is a composite word for a person or object who own something or have something.
 
 determinant: al = belong, of the
 
-singular                      | plural
-------------------------------|--------------------------------
- al meu, mia = mine           | al nua. nia = ours
- al thu, tia = yours          | al vua, vua = yours
- al shu, sia = his, hers, its | al zua, zua = theirs
+singular              | plural
+----------------------|--------------------------------
+ mia = mine           | nua = ours
+ tia = yours          | vua = yours
+ sia = his, hers, its | zua = theirs
 
 ## Reflexive
 
@@ -147,7 +147,7 @@ Full reflexive word: "sifo" = "self"
 * su se waza sifo = he is resting himself
 
 **notes:** 
- * it is a total of: 6 x 4 + 4 = 28 pronouns
+ * it is a total of: 6 x 4 = 24 pronouns
  * there is no gender differentiation for 3'rd person
 
 ## Verbs
