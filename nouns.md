@@ -39,7 +39,7 @@ In Maj, nouns do not have a specific ending for genre but use adjectives instead
 
 **adjective:**
 
-In maj you can use an adjective before or after the noun to describe some of its defomotove properties: 
+In maj you can use an adjective before or after the noun to describe some of its properties: 
 
 * la niso Kania es mia = this nice dog is mine
 * la Kania es niso = this dog is nice
