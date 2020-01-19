@@ -41,8 +41,8 @@ In Maj, nouns do not have a specific ending for genre but use adjectives instead
 
 In maj you can use an adjective before or after the noun to describe some of its properties: 
 
-* la niso Kania es mia = this nice dog is mine
-* la Kania es niso = this dog is nice
+* eta niso Kania es mia = this nice dog is mine
+* eta Kania es niso = this dog is nice
 
 **implicit gender**
 
