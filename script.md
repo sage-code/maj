@@ -51,7 +51,7 @@ Const of writing can be used in an algorithms to evaluate word complexity during
 
 **example:**
 
-* ʚთ.შთწև.ɕև.ծთშთ.რևშთ.ღთϑთ.αღთ.ჵɛʓთ!
+* ʚთ.შთწև.ɕև.ծთშთ.რևშთ,ღთϑთ.αღთ.ჵɛʓთ!
 * io doru cu todo mudo novo ano fezo!
 * I wish to the entire world happy new year!
 
