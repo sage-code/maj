@@ -48,8 +48,8 @@ In maj you can use an adjective before or after the noun to describe some of its
 
 Some words include gender and do not require adjective.
 
-* Cika = girl 
-* Nina = boy
+* Qika = girl 
+* Gaco = boy
 * Mama = mother
 * Papa = father
 
