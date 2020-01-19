@@ -37,10 +37,12 @@ In Maj, nouns do not have a specific ending for genre but use adjectives instead
 * maqo Kania = male dog 
 * fimo Kania = female dog 
 
-Note: in this case, since the adjective is the defining nature of the noun it is placed before the noun. In general the adjective is placed after the noun:
+**adjective:**
 
+In maj you can use an adjective before or after the noun to describe some of its defomotove properties: 
+
+* la niso Kania es mia = this nice dog is mine
 * la Kania es niso = this dog is nice
-* la Kania es nito = this dog is clean
 
 **implicit gender**
 
