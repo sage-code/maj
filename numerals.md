@@ -5,13 +5,12 @@ Maj numeral system and symbols are related so we put them together.
 * kota = number
 * kotu = counting
 * koto = accounted for
-* maka = symbol
 
 ## Symbols
 
 When used in text or expressions, symbols can have associated a name:
 
-Maka   | Maj    | English
+Symbol | Maj    | English
 -------|--------|---------------------
   ` `  | eka    | Space, gap, blank
   `=`  | iko    | Equal sign
