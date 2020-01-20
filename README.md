@@ -38,7 +38,7 @@ Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin lett
 * Maj has a total of 26 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading and writing;
 
-The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorize more easily in this order: 
+The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorized more easily in this order: 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
 ---|---|---|---|---|---|---|---|----|----|----|----|----
