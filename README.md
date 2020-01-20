@@ -2,15 +2,15 @@
 
 Maj is a Romance language with short words and simple grammar. It can be used for debates, study, and entertainment.  Maj words are similar to other Romance languages but not the same. 
 
-Maj can be learned quick by anyone who knows Latin alphabet. Initial documentation to learn Maj is written in English but we hope we will eventually  translate documentation in other languages.
+Maj can be learned quickly by anyone who knows Latin alphabet. Initial documentation for Maj is written in English but we hope we will translate documentation in other languages.
 
 **Attributes ...**
 
 Maj is a logic auxiliary language, with following attributes:
 
-1. Accesible - with public documentation;
+1. Familiar  - uses familiar and popular sounds;
 2. Efficient - simple alphabet and short words;
-3. Familiar  - uses  familiar sounds from Romance languages;
+3. Accesible - has comprehensive and public documentation;
 
 **Purpose ...**
 
@@ -26,17 +26,17 @@ Maj is designed for informal social chat;
 
 Maj has a humble purpose, and is not.
 
+1. a scientific language;
 1. a superior language;
 1. a cryptic language;
 1. a mystic language;
 1. a secret language;
-1: an academic language;
 
 **Rad more:** [case](case.md)
 
 ## Alphabet
 
-The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorized more easily in this order: 
+The alphabet starts with same letters "A, B, C" like any Romance language but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorized more easily in this order: 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
 ---|---|---|---|---|---|---|---|----|----|----|----|----
@@ -79,9 +79,11 @@ Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Uni
 
 **Notes:**
 
+Due to this alphabet and word mixture, Maj is so an artificial _creole_ language;
+
 * The script alphabet is mapped with the Latin print alphabet;
-* The script alphabet is using same punctuation marks as Latin;
 * The script alphabet do not have uppercase letters;
+* The script alphabet is using same punctuation marks as Latin;
 
 **Tools:**
 
@@ -93,7 +95,7 @@ Read more: [Script details](script.md)
 
 ## Numerals
 
-For numerals, Maj is using Arabic symbols like all Romance languages:
+For numbers, Maj is using Arabic symbols associated with short words called: numerals:
 
 |`#`| Maj  | IPA   | Script|
 |---|:-----|:------|:------|
@@ -113,10 +115,12 @@ Details: [The numerals](numerals.md)
 
 ## Words
 
-Maj will have this year about 2020 root words, inspired from 7 different languages.
+Maj words are inspired from 7 different languages.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
+
+This year, Maj will have about 2000 root words.
 
 ## Essentials
 
@@ -152,8 +156,7 @@ Advanced grammar rules and examples are explained by:  _word category_
 
 The Lexicon contains most frequent Maj words organized by domain:
 
-* Suffix: 'xa is a short form of word xatu = "to know"
-* The "a" is transformed to "o" before 'xa suffix.
+* Suffix: 'xa is comes form word: xatu = "to know"
 
 1. suto'xa = [structure](words/structure.md)
 1. info'xa = [information](words/information.md)
@@ -173,7 +176,7 @@ The Lexicon contains most frequent Maj words organized by domain:
 
 * The above lexicon do not include all Maj words;
 * This lexicon is work in progress and subject to changes;
-* This lexicon has about 1600 words in it;
+* This lexicon will have about 1000 words in it;
 
 ## Contribution
 
