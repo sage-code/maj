@@ -79,7 +79,7 @@ Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Uni
 
 **Notes:**
 
-Due to this alphabet and word mixture, Maj is so an artificial _creole_ language;
+Due to this alphabet and word mixture, Maj is an artificial _creole_ language;
 
 * The script alphabet is mapped with the Latin print alphabet;
 * The script alphabet do not have uppercase letters;

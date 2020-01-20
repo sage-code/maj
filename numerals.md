@@ -1,44 +1,42 @@
 ## Numerals 
 
-Maj numerals are build to be easy to comprehend and say.
+Maj numeral system and symbols are related so we put them together.
 
-* Noun: "kota" = number
-* Verb: "kotu" = counting
-* Noun: "vala" = value
-* Noun: "maka" = symbol
-
-**Note:**
-
-* The noun mark is ending in a consonant and it does not have plural.
-* The verb "kotu" can become adjective: "koto" = "accounted for".
-* The verb "numu" is possible but not used. Use "kotu" instead.
+* kota = number
+* kotu = counting
+* koto = accounted for
+* maka = symbol
 
 ## Symbols
 
-When used in text or expressions, symbols can have associated a name
+When used in text or expressions, symbols can have associated a name:
 
 Maka   | Maj    | English
 -------|--------|---------------------
-  ` `  | gap    | Space, gap, blank
+  ` `  | eka    | Space, gap, blank
   `=`  | iko    | Equal sign
   `>`  | guo    | Greater then sign
   `<`  | luo    | Less then sign
   `+`  | pio    | Plus sign 
   `-`  | mio    | Hyphen , minus sign 
-  `/`  | lax    | Slash , forward slash 
+  `/`  | sla    | Slash , forward slash 
   `.`  | opa    | Dot, full stop 
-  `,`  | oma    | Comma 
+  `,`  | ova    | Comma 
   `:`  | epa    | Colon 
   `;`  | eva    | Semicolon 
-  `?`  | kre    | Question mark 
+  `?`  | kra    | Question mark 
   `!`  | ira    | Exclamation mark 
   `\*` | ora    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
   `{}` | sra    | Curly brackets 
 
+**notes:**
 
-## Level 1
+Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. This is possible for all symbols.
+
+
+## Numbers
 
 * First 9 numbers from one to nine are finalized with vowel "a";
 * Each small number has a corresponding prefix using two letters;
