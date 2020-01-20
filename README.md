@@ -24,19 +24,17 @@ Maj is designed for informal social chat;
 
 **Maj is not ...**
 
-1. a secret language;
+Maj has a humble purpose, and is not.
+
+1. a superior language;
 1. a cryptic language;
 1. a mystic language;
-1. a superior language;
+1. a secret language;
+1: an academic language;
 
 **Rad more:** [case](case.md)
 
 ## Alphabet
-
-Purpose of Maj alphabet is to maximize the number of sounds using ISO Latin letters and avoiding digraphs. We want to use a normal QUERTY keyboard to type Maj text. Unfortunately Latin characters are not easy to write therefore Maj has actually two alphabets: "print alphabet" that uses Latin characters and "script alphabet" that is cursive.
-
-* Maj has a total of 26 letters in the alphabet;
-* Maj has deterministic phonetic rules for reading and writing;
 
 The alphabet starts with same letters "A, B, C" like any Romance languages but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorized more easily in this order: 
 
@@ -46,6 +44,11 @@ The alphabet starts with same letters "A, B, C" like any Romance languages but s
  a | b | c | d | f | g | h | e | i  | j  | k  | l  | m  
  N | O | P | Q | R | S | T | U | V  | W  | X  | Y  | Z 
  n | o | p | q | r | s | t | u | v  | w  | x  | y  | z 
+
+**Notes:**
+
+* Maj has a total of 26 letters in the alphabet;
+* Maj has deterministic phonetic rules for reading and writing;
 
 Details: [Maj alphabet](alphabet.md)
 
@@ -58,7 +61,7 @@ There is available a tool to convert Maj words into IPA alphabet:
 
 ## Script
 
-Maj has an alternative hand writing script optimized for stylus or pen.
+Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Unicode symbols found in other alphabets: Greek, Georgian, Armenian and Latin. 
 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
@@ -110,17 +113,15 @@ Details: [The numerals](numerals.md)
 
 ## Words
 
-Maj will have about 2020 words, inspired from 7 different languages.
+Maj will have this year about 2020 root words, inspired from 7 different languages.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
-
 
 ## Essentials
 
 One distinctive aspect of Maj are the way words are created.
 
-* Maj do not use digraphs in words;
 * Maj has root words and composite words;
 * Maj root words are very short;
 * Maj words can have prefix or suffix;
