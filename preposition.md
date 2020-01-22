@@ -207,9 +207,9 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
 -----|---------|------------------------------------
  asi | so      | as consequence
  axa | right   | correct, agree with
- eka | because | as, since, cause of a consequence
+ ero | because | as, since, cause of a consequence
  uba | but     | alternative
- tum | then    | time consequence
+ poi | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
  ado | and     | also
  kan | non     | negative 
@@ -217,12 +217,11 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  mem | same    | identical
  niq | neither | alternative 
  puo | can     | has the capability
- tal | maybe   | possible
- tan | so      | to such a great extent.
+ uma | maybe   | possible
  odh | or      | either
  uta | when    | establish event
- ven | if      | conditional (German wenn)
- vir | while   | while condition
+ wen | if      | conditional (German wenn)
+ voh | while   | while condition
  
 Conjunction is used when...
 
