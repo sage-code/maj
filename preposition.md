@@ -211,7 +211,7 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  uba | but     | alternative
  tum | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
- ido | and     | also
+ ado | and     | also
  kan | non     | negative 
  sim | like    | comparative, similar = symo
  mem | same    | identical

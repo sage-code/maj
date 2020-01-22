@@ -84,6 +84,18 @@ joku => joke'ro = playful
 * tu seru joke'ro = you are playful 
 * zu seru joke'ro = he is playful
 
+## Vowel inversion
+
+Nouns can invert vowels to become verbs:
+
+* buga	= quarrel
+* bogu  = brawl
+
+**example:**
+
+* tu dibu'ia una buga? = you are starting a quarrel? 
+* tu te bogu'pa en la bura? = do you had a fight in the bar?
+
 ## Reflexive form
 
 When you refer to some action performed by somebody on himself.

@@ -25,7 +25,7 @@ Symbol | Maj    | English
   `;`  | eva    | Semicolon 
   `?`  | kra    | Question mark 
   `!`  | ira    | Exclamation mark 
-  `\*` | ora    | Asterisk 
+  `\*` | sta    | Asterisk 
   `()` | bra    | Round brackets 
   `[]` | kra    | Square brackets 
   `{}` | sra    | Curly brackets 
