@@ -72,15 +72,15 @@ I Nominative | Singular | Plural
 
 II Objective | Singular | Plural
 -------------|----------|--------------
-  1          | mie      | nuo
-  2          | cie      | vuo
-  3          | sie      | zuo
+  1          | mie      | nowh
+  2          | cie      | vowh
+  3          | sie      | zowh
 
 III Posesiv  | Singular | Plural
 -------------|----------|--------------
-  1          | meu      | nua
-  2          | thu      | vua
-  3          | shu      | zua
+  1          | mia      | nua
+  2          | tua      | vua
+  3          | sua      | zua
 
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
@@ -96,7 +96,7 @@ Is the person or the thing who perform the action.
 -----|------------------|-----------------------------
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
-  3  | su = he, she     | zu  = they
+  3  | su = him, she    | zu  = they
   4  | lo = it          | lo  = they
 
 **Objective**
@@ -118,8 +118,8 @@ determinant: al = belong, of the
 singular              | plural
 ----------------------|--------------------------------
  mia = mine           | nua = ours
- tia = yours          | vua = yours
- sia = his, hers, its | zua = theirs
+ tua = yours          | vua = yours
+ sua = his, hers, its | zua = theirs
 
 ## Reflexive
 
@@ -221,7 +221,7 @@ Sometimes we use adverbs to augment the verb:
 * moxo  = soon  (Latin mox)
 
 * jo joku suvo = I play often
-* zu joku moxo
+* zu joku'fu moxo = I will play soon
 
 **composite**
 
@@ -248,10 +248,10 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* jo vidu'pa ta un'foa!  = I have seen you one time!
-* su vidu'pa vo ni'foa!  = He have never seen y'all!
-* tu vidu'fu ma suv!     = You will see me often!
-* nu podo vidu'ia zu amu!= We can see them now!
+* jo vidu'pa tu un'foa!  = I have seen you one time!
+* su vidu'pa vu ni'foa!  = He have never seen y'all!
+* tu vidu'fu mh suv!     = You will see me often!
+* nu podo vidu'ia zu!    = We can see them now!
 
 ## Imperative
 
@@ -260,8 +260,8 @@ In Maj, "hay" is used as an determinant call, preposition:
 hai = c'mon (come on)
 hai = let's (let us)
 
-* hai nu haru bosu sh = c'mon we have to search him
-* hai nu dovu bosu zh = c'mon we must search them
+* hai nu haru bosu su = c'mon we have to search him
+* hai nu dovu bosu zu = c'mon we must search them
 
 
 ## Interrogative
