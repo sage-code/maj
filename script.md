@@ -28,7 +28,6 @@ The letters in next picture are not perfect. However if you start the letter fro
 
 <img src="demo/new-script.jpg" alt="Maj Alphabet" width="600"></img>
 
-Deprecated letters: { გ  ⱷ }
 
 ## Cost of writing
 

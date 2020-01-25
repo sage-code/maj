@@ -37,9 +37,9 @@ Symbols are nouns so they end with "a". We will learn later this can be changed 
 
 ## Numbers
 
-* First 9 numbers from one to nine are finalized with vowel "a";
-* Each small number has a corresponding prefix using two letters;
-* Firs number: nil and last: cen are terminated with consonant.
+* Each number has a corresponding prefix using two letters;
+* The prefix can be used to create a larger number;
+
 
 **Ten = cen** 
 
@@ -59,9 +59,8 @@ x | maj  | xx | maj          | xx | maj    |
 **Note** 
 
 * The numbers do not have gender,
-* Snall numbers do not have plural form,
+* Small numbers do not have plural form,
 * Small numbers have two forms, short form and long form,
-* Two numerals are combined using symbol `+` (silent)
 
 ## Counting:
 
@@ -96,7 +95,8 @@ Franch:  lieu,  ordre, position
 
 ## Level 2
 
-Large numbers have singluar and plural form:
+* Large numerals are combined using symbol `+` (pio);
+* Large numbers have singular and plural forms;
 
 **Hundreds = suta/sute**
 
@@ -110,7 +110,7 @@ Large numbers have singluar and plural form:
 
 
 * 125 = un'suta+du'cen+fea
-* 555 = fe'sute+fe'ten+fea
+* 555 = fe'sute+fe'cen+fea
 * 801 = ok'sute+una
 
 
