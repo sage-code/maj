@@ -6,13 +6,12 @@ Nouns are words representing objects, materials, persons or places.
 
 <img src="demo/maj-animals.png" alt="Maj Animals" width="300"></img>
 
-**examples:**
+**other:**
 
 * bana    = banana
 * akwa    = water
 * plumb   = lead
 * feron   = iron
-
 
 **rules:**
 
@@ -41,14 +40,7 @@ In Maj, nouns do not have a specific ending for genre but use adjectives instead
 * maqo Kania = male dog 
 * fimo Kania = female dog 
 
-**adjective:**
-
-In maj you can use an adjective before or after the noun to describe some of its properties: 
-
-* eta niso Kania es mia = this nice dog is mine
-* eta Kania es niso = this dog is nice
-
-**implicit gender**
+**included:**
 
 Some words include gender and do not require adjective.
 
@@ -56,6 +48,24 @@ Some words include gender and do not require adjective.
 * Gaco = boy
 * Mama = mother
 * Papa = father
+
+**adjectives:**
+
+In maj you can use an adjective before or after the noun to describe some of its properties: 
+
+* eta Kania es niso = this dog is nice
+* eta niso Kania es mia = this nice dog is mine
+
+**composite:**
+
+Sometimes an adjective + noun can have a new meaning that may be translated to other word:
+
+* mano bara = handrail
+* kaso dona = housewife
+* novo djia = tomorrow
+* veho djia = yesterday
+
+
 
 ## Invariant nouns
 
