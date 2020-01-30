@@ -20,11 +20,11 @@ These are some examples of core adjectives in Maj:
 
 Someone or something can transform and become or acquire a new form or quality:
 
-bovu = become
+bo = bovu = become
 
-* hai bo sato = come on become good
-* rog salu'te = please get better
-
+* hai boku bon = come on become good
+* te favu bo sano = please get better
+* mi da una fava bo sano = give me a favor get better
 
 
 

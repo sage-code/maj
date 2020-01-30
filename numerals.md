@@ -64,10 +64,10 @@ x | maj  | xx | maj          | xx | maj    |
 
 ## Counting:
 
-Let's count a rocket lifting off:
+Let's count a rocket launch:
 
-* ... 3 2 1 0 and lift off
-* ... rea dua una nyl ydo razu aus!
+* ... 3 2 1 0 and launch!
+* ... rea dua una nil ado lazu!
                                          
 ## Ordinals
          

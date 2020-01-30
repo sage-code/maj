@@ -12,11 +12,11 @@ Adverb can be:
 
 MAJ   |ENGLISH      |SPANISH
 ------|-------------|------------
-tot   |all          |todas
-tan   |so           |tan
+amo   |all          |todas
+den   |then         |entonces
 avo   |sometimes    |a veces
 ugo   |even         |incluso
-veg   |away         |lejos
+lwa   |away         |lejos
 
 ## Adverb Position
 

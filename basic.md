@@ -270,7 +270,7 @@ Primitive interrogation is created with prepositions:
  
 maj     | english  | spanish | romanian
 --------|----------|---------|---------
-ka?     | not?     | no?     | nu?
+pa?     | not?     | no?     | nu?
 ke?     | what?    | qué     | ce
 ki?     | who?     | quien   | cine
 

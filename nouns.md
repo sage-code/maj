@@ -2,6 +2,10 @@
 
 Nouns are words representing objects, materials, persons or places.  
 
+**animals:**
+
+<img src="demo/maj-animals.png" alt="Maj Animals" width="300"></img>
+
 **examples:**
 
 * bana    = banana
@@ -116,22 +120,22 @@ You can use suffix to create a composite word for representing nouns:
 
 ## Diminutives (small)
 
-Maj enable diminutives (likable) using suffix i'na
+Maj enable diminutives (likable) using suffix "i'ca". 
 
-ni = nito = nice
+ca = caga = sugar
 
 **close persons**
 
-* xero Mami'na  = "dear mother"
-* xero Papi'na  = "dear father"
+* xero Mami'ca  = "dear mother"
+* xero Papi'ca  = "dear father"
 
 **animals (pets)**
 
 * Katia = cat
 * Kania = dog
 
-* nito Kari'na => nice kitty
-* nito Kani'na => nice doggy
+* nito Kati'ca => nice kitty
+* nito Kani'ca => nice doggy
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 

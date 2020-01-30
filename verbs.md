@@ -19,14 +19,14 @@ Noun: tesa  = time
 
  Suffix  | Maj       | English
 ---------|-----------|----------------------------
- fu      | futa      | future    
- ia      | iata      | present
- pa      | pasa      | past
+ do      | dopo      | future    
+ no      | nava      | present
+ bi      | bifa      | past
 
 Verb suffix and coda must match to represent time of action.
 
-* joku'fu = future play
-* joku'ia = present play
+* joku'do = future play
+* joku'ma = present play
 * joku'pa = past play
 
 ## Informative proposition
@@ -89,7 +89,7 @@ joku => joke'ro = playful
 Nouns can invert vowels to become verbs:
 
 * buga	= quarrel
-* bogu  = brawl
+* bogu  = to brawl
 
 **example:**
 
@@ -110,13 +110,13 @@ When you refer to some action performed by somebody on himself.
 
 Next prepositions are used in imperative sentences to make them friendly.
 
-hai = let's  (leading/encouragement)
-rog = please (favor)
+hai  = let's  (leading/encouragement)
+favu = please (make me favor)
 
 **using pronoun after verb:**
 
 * hai sh hodu'ne  = let's calm ourselves
-* te rog kamu'te  = please calm yourself 
+* te favu kamu'te  = please calm yourself 
 
 **using reflexive prefix**
 
@@ -126,21 +126,25 @@ rog = please (favor)
 
 Read next: [nouns](nouns.md)
 
-## Short verbs
+## Verb examples
 
-Short verbs are invariant with time. They can act like particles to make composite words.
+In next examples we use two verbs: 
 
-* bo = to become
-* es = to be
-* ha = to have
-* da = to give
-
-**example:**
+* boku = to become
+* doru = wish, desire
 
 The following two messages convey the same message:
 
-* tu bo malo  = you become bad
-* tu te soxo  = you get dirty
+* tu boku malo  = you become bad (literal)
+* tu boku soxo  = you get dirty (figurative)
 
-The second idea is using a metaphor: becoming dirty is equivalent to becoming bad.
+**Note:** The second idea is using a metaphor: becoming dirty is equivalent to becoming bad.
 
+## Verb vs Noun
+
+In next example "besa" is a noun but this can be verb:
+
+* jo doru tu daru'mi una besa = I wish you give me a kiss
+* jo dour tu besu'mi = I wish you kiss me
+
+**Read next abount:** [adverbs](adverbs.md)
