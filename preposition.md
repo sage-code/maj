@@ -15,6 +15,37 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 
 Prepositions are very often used in Maj. Therefore they are important elements of the language. We use only 2-3 characters to create the prepositions. These are the shortest words in Maj.
 
+## Proposition
+
+Structure of proposition: SVO = Subject Verb Object.
+
+**Object:**
+
+The object can be a composite object described with more then one word:
+
+**Preposition:** da  = about
+
+Note: In next example we change coda "o" into "a" to make nouns from time adjectives:
+
+* jo vobu'do una saga da la nova = I will tell a stories about the present
+* tu vobu'do una saga da la dopa = you will tell a story about the future
+* su vobu'do una saga da la befa = he will tell a story about the past
+
+**Preposition:** de = from (location)
+
+Notes: Using coda "e" we create plural from word "nova" that is translated: "news"
+
+* jo taru la nove de Europa!  = I bring the news from Europe;
+* tu taru ke nove de Weta?    = you bring what news from West?
+
+**Prepositions:** 
+
+ku = with (compozition), di = from (composition)
+
+* jo doru dua weve ku kesa = I with two eggs with cheese
+* jo qeru una omla di kesa = I ask for one omelet with cheese
+
+
 **Category of prepositions**
 
 Preposition can be considered in this categories: 
@@ -72,18 +103,18 @@ seza  = season
 
 **Examples:**
 
-* vu rivu'pa la bono tesa = you have arrived in time
-* tu ka rivu'fu la bono tesa = you will not arrive in time 
+* vu ha rivu la tesa = yes you have arrived just in time
+* tu pa rivu la tesa = you have not arrived in time 
 
 **quantity prefix**
 
 mui = very
 lon = far
-qeo = near
+aqi = here
 
 
-* MAJ: una loka mui lon fon aqi;
-* ENG: a location very far from here;
+* MAJ: una loka mui lon de aqi;
+* ENG: a place very far from here;
 
 **periodic events**
 

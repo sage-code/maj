@@ -51,7 +51,7 @@ x | maj  | xx | maj          | xx | maj    |
 3 | rea  | 13 | un'cen+rea   | 30 | re'cen |
 4 | qua  | 14 | un'cen+qua   | 40 | qu'cen |
 5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
-6 | zea  | 16 | un'cen+zea   | 60 | ze'cen |
+6 | sia  | 16 | un'cen+sia   | 60 | si'cen |
 7 | xoa  | 17 | un'cen+xoa   | 70 | xo'cen |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
@@ -102,7 +102,7 @@ Franch:  lieu,  ordre, position
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  ze'sute
+ 100 |  un'suta  |  600 |  si'sute
  200 |  du'sute  |  700 |  xo'sute
  300 |  re'sute  |  800 |  ok'sute
  400 |  qu'sute  |  900 |  no'sute
@@ -114,40 +114,44 @@ Franch:  lieu,  ordre, position
 * 801 = ok'sute+una
 
 
-**Thousands = moja/moje**
+**Thousands = mila/mile**
 
-* 1,000 = un'moja
-* 2,000 = du'moje
-* 3,000 = re'moje
-* 4,000 = qu'moje
-* 5,000 = fe'moje
-* 6,000 = ze'moje
-* 7,000 = xo'moje
-* 8,000 = ok'moje
-* 9,000 = no'moje
+* 1,000 = un'mila
+* 2,000 = du'mile
+* 3,000 = re'mile
+* 4,000 = qu'mile
+* 5,000 = fe'mile
+* 6,000 = si'mile
+* 7,000 = xo'mile
+* 8,000 = ok'mile
+* 9,000 = no'mile
 
 
-**Millions  = mila/mile**
+**Millions  = milona/milone**
 
-1,000,000  = mila
+For millions we do not use prefix.
 
-* 1,000,000 = un'mila
-* 2,000,000 = du'mile
-* 3,000,000 = re'mile
+1,000,000  = milona
+
+* 1,000,000 = una milona
+* 2,000,000 = dua milone
+* 3,000,000 = rea milone
 * ...
-* 9,000,000 = no'mile
+* 9,000,000 = noa milone
 
 
-**Billions = bila**
+**Billions = bilona/bilone**
 
-1,000.000.000   = bila
+For billions we do not use prefix.
+
+1,000.000.000   = bilona
 
 
-* 1,000,000,000 = un'bila
-* 2,000,000,000 = du'bile
-* 3,000,000,000 = re'bile
+* 1,000,000,000 = una bilona
+* 2,000,000,000 = dua bilone
+* 3,000,000,000 = rea bilone
 * ...
-* 9,000,000,000 = no'bile
+* 9,000,000,000 = noa bilone
 
 ## Level 3
 

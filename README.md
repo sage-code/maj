@@ -105,7 +105,7 @@ For numbers, Maj is using Arabic symbols associated with short words called: num
 | 3 | rea  | rea   | წɛα   |
 | 4 | qua  | t͡ʃua | ƍևα   |
 | 5 | fea  | fea   | ჵɛα   |
-| 6 | zea  | zea   | ʓɛα   |
+| 6 | sia  | sia   | σɛα   |
 | 7 | xoa  | ʃoa   | ϰთα   |
 | 8 | oka  | oka   | თჺα   |
 | 9 | noa  | noa   | ღთα   |

@@ -6,59 +6,43 @@
 2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective by changing its coda.  
 
 ## Infinitive
-The infinitive form of a verb is the verb in its root form. It is the version of the verb which will appear in the dictionary. The infinitive form of a verb in English is usually preceded by: "to" (e.g., to run, to dance, to think)
 
-In Maj the Infinitive form of verbs have a root of 3 - 5 character long and is terminated with coda "u". It can be used in this form or it can be used with time suffix.
+In Maj the Infinitive form of verbs is terminated with coda "u". It can be used in this form or it can be used with a time suffix: {'do, 'na, 'be}.
 
 ## Time suffix
 
-* Time is using "'" before suffix to link with the root,
-* Composite words are pronounced legato as a single word.
+* Suffix is using apostrophe before suffix to link with the root;
+* Composite words are pronounced legato as a single word;
 
-Noun: tesa  = time
+Related noun: tesa = time
 
- Suffix  | Maj       | English
----------|-----------|----------------------------
- do      | dopo      | future    
- no      | nava      | present
- bi      | bifa      | past
+ Suffix  | From Adjective     
+---------|-------------------
+ do      | dopo = after  
+ na      | navo = now    
+ be      | befo = before 
 
-Verb suffix and coda must match to represent time of action.
+**verb conjugation:**
 
-* joku'do = future play
-* joku'ma = present play
-* joku'pa = past play
+In Maj, the verb conjuration include only time information: 
 
-## Informative proposition
-
-Informative propositions can use verbs coda: {a,o,u} for present, past and future.
-
-des  = of/about
-palu = talk
-
-**examples:**
-
-* su palu'ia una geza des la iata = he tel a stories about the present
-* su palu'pa una geza des la futa = he have told a story about the future
-* su palu'fu una geza des la pasa = he will tel a story about the past
-
-**Preposition:** fon = from
-
-For informative proposition we do not need 'ya for present.
-
-* jo taru la nova fon Europa  = I bring the news from Europe
-* tu taru ke nova fon Weta?   = you bring what news from West?
+* jo joku'do = I will play
+* tu joku'na = you are playing
+* su joku'be = he is playing
 
 ## Imperative form
 
 For imperative case, you you must use an auxiliary verb:
 
-dovu = must/mandatory
+* saga = story
+* dovu = must/mandatory
+* diku = to talk/discuss 
 
 **examples:**
 
-* tu dovu sh palu'ia des la iata! = you must talk now about the present!
-* su dovu sh palu'ia des la pasa! = you must talk now about the past!
+* jo vobu'na una saga da la befa! = I will tell a story about the past!
+* nu dovu sh diku'do  da la befa! = we must talk after about the past!
+* tu dovu sh vobu igo da la nava! = you must tell next about the present!
 
 ## Verb transformation
 
@@ -121,8 +105,8 @@ favu = please (make me favor)
 **using reflexive prefix**
 
 * nu dovu sh hodu'ne = we have to rest ourselves
-* vu dovu sh kamu'vh = you have to calm yourselves
-* zu dovu sh domu'zh = they must sleep themselves
+* vu dovu sh kamu've = you have to calm yourselves
+* zu dovu sh domu'ze = they must sleep themselves
 
 Read next: [nouns](nouns.md)
 
@@ -140,11 +124,20 @@ The following two messages convey the same message:
 
 **Note:** The second idea is using a metaphor: becoming dirty is equivalent to becoming bad.
 
-## Verb vs Noun
+## Verb to noun
 
-In next example "besa" is a noun but this can be verb:
+In next example "besa" is a noun but can become verb:
 
 * jo doru tu daru'mi una besa = I wish you give me a kiss
 * jo dour tu besu'mi = I wish you kiss me
 
-**Read next abount:** [adverbs](adverbs.md)
+
+## Subjunctive mod
+
+Maj verbs can use determinant particle "sh" to create subjunctive mode.
+
+* Jo povu sh fabu pana = I can make bred
+* su povu sh somu paqo = he can sleep peacefully
+
+
+**Read next about:** [adverbs](adverbs.md)

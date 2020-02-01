@@ -109,17 +109,15 @@ Things, titles and events start with uppercase.
 
 Sometimes we use a preposition determinant as prefix to create a new meaning for words:
 
-* kan  = not  - create antonyms
-* nam  = for  - specify purpose / person
-* ati  = anti - against / opposite 
-* eko  = acho - environment friendly / organic
+* pa  = not  - create antonyms
+* ma  = may  - purpose / possible
+* 
 
 **examples:**
 
-* nam-bebo = for drink
-* kan-bebo = not for drink
-* ati-gera = anti war
-* eko-vaja = echo travel
+* ma-bebo = for drink
+* pa-bebo = not for drink
+* bu-gera = anti war
    
 ## Noun suffixes
 
@@ -163,16 +161,16 @@ For substantive larger then usual, you can use ending: "o'ga"
 
 ## Group words
 
-For a scientific group of words we use plural + suffix "e'xa"
+For a scientific group of words we use plural + suffix "o'xa"
 
-* xatu = to know
+* xa = xaka = science
 
 **examples:**
 
-* la pole'xa = the science of plants
-* la fuje'xa = the science of fruits
-* la veje'xa = the science of vegetables
-* la veve'xa = the science of leaving beans
+* la polo'xa = the science of plants
+* la furo'xa = the science of fruits
+* la vego'xa = the science of vegetables
+* la vivo'xa = the science of leaving beans
 
 ## First nouns
 
@@ -183,9 +181,9 @@ First nouns examples represent close persons:
 Maj     | English        | Romanian
 --------|----------------|-----------------
 Mama    | mother         | mama
-Papa    | father         | tata
+Tata    | father         | tata
 Nana    | grand mother   | bunica
-Naxa    | grand father   | bunicu
+Papa    | grand father   | bunicu
 Homa    | men            | bărbat
 Fema    | women          | femeie
 Frea    | brother        | frate

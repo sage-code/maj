@@ -18,15 +18,11 @@ These are some examples of core adjectives in Maj:
 
 ## Imperative suffix
 
-Someone or something can transform and become or acquire a new form or quality:
+Someone or something can acquire a new quality:
 
-bo = bovu = become
+bovu = become
 
-* hai boku bon = come on become good
-* te favu bo sano = please get better
-* mi da una fava bo sano = give me a favor get better
-
-
-
-
+* bovu bono = get well
+* bovu sano = get healthy
+* bovu meho = get better
 

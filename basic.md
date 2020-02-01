@@ -85,8 +85,8 @@ III Posesiv  | Singular | Plural
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
   1          | jo mh    | nu ne
-  2          | tu te    | vu vh
-  3          | su se    | zu zh
+  2          | tu te    | vu ve
+  3          | su se    | zu ze
 
 **Nominative**
 
@@ -97,17 +97,18 @@ Is the person or the thing who perform the action.
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
-  4  | lo = it          | lo  = they
+  4  | lo = it          | lu  = they
+
 
 **Objective**
 
 Is the person or the thing who receive the action.
 
- ps | singular             | plural     
-----|----------------------|-----------------------------
- 1  | mie = to me          | nuo = to us   
- 2  | cie = to you         | vuo = to y'all
- 3  | sie = to him/her     | zuo = to them 
+ ps | singular                 | plural     
+----|--------------------------|-----------------------------
+ 1  | cu mi, mie = to me       | cu no, nuo = to us   
+ 2  | cu te, cie = to you      | cu vo, vuo = to y'all
+ 3  | cu se, sie = to him/her  | cu zo, zuo = to them 
  
 **Possessive**
 
@@ -123,15 +124,21 @@ singular              | plural
 
 ## Reflexive
 
-Maj has a reflexive pronoun and reflexive determinant preposition:
+Maj has two reflexive forms: firs is using pronoun
 
 singular                | plural
 ------------------------|--------------------------------
  jo mh = myself         | nu ne = ourself 
- tu te = yourself       | vu vh = yourselves
- su se = himself,itself | zu zh = themselves
+ tu te = yourself       | vu ve = yourselves
+ su se = himself,itself | zu ze = themselves
 
-Full reflexive word: "sifo" = "self"
+**examples**
+
+* jo mh joku = I'm playing
+* tu te joku = you are playing
+* su se joku = he is playing
+
+Second reflexive is using word: "sifo" = "self"
 
 * mi sifo = myself;
 * tu sifo = yourself; 
@@ -142,9 +149,9 @@ Full reflexive word: "sifo" = "self"
 
 **examples**
 
-* jo mh leva sifo = I am washing myself
-* tu te joka solo = you are playing alone
-* su se waza sifo = he is resting himself
+* jo levu sifo = I am washing myself
+* su wazu sifo = he is resting himself
+* tu joku da solo = you are playing by yourself
 
 **notes:** 
  * it is a total of: 6 x 4 = 24 pronouns
@@ -152,64 +159,20 @@ Full reflexive word: "sifo" = "self"
 
 ## Verbs
 
-Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
-
-* oiru = hear 
-* divu = become
-* pasu = happen
-
-There are 3 time suffixes in Maj:
-
-tesa = time
-
- Suffix  | Maj       | English
----------|-----------|----------------------------
- fu      | futa      | future    
- ia      | iata      | present
- pa      | pasa      | past 
+Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen. Maj verbs are ending with "u". 
  
-**undefined time**
+**example**
 
-verb: joku = to play
+Verbs are invariant relative to person or gender.
+
+joku = to play
 
 * jo joku  = I play
 * tu joku  = you play
 * zu joku  = he play
-
-**time suffix**
-
-* zu joku'ia = he is playing
-* zu joku'fu = he will play
-* zu joku'pa = he has plaid
-* vu lo joku'pa = you have play it
-
-**negative**
-
-* jo ka joku'ia = I do not play now
-* zu ka joku'pa = he has not played
-* zu ka joku'fu = he will not play
-
-**affirmative**
-
-* jo si joku'fu in la futa = Yes I will play in the future
-* tu si joku'pa in la pasa = Yes you have played in the past
-
-**reflexive**
-
-* jo mh joku'ia solo = I play with myself now
-* tu te joku'ia solo = You play yourself now
-* su se joku'ia solo = He is playing himself now
-
-**informative**
-
-* ola! mi noma es Eluqian; = Hello! my name is Eluchian;
-* mi buda se voku Marian;  = my brother is called Marian;
-
-**mono log**
-
-* jo, estu'pa dumo sh kedo, algo mi daru'fu juta; 
-* I, was fulish to believe someone will give me help.
-
+* nu joku  = we play
+* vu joku  = you play
+* zu joku  = they play
 
 Read more about: [verbs](verbs.md)
 
@@ -221,7 +184,7 @@ Sometimes we use adverbs to augment the verb:
 * moxo  = soon  (Latin mox)
 
 * jo joku suvo = I play often
-* zu joku'fu moxo = I will play soon
+* zu joku moxo = I play soon
 
 **composite**
 
@@ -235,7 +198,7 @@ foa   = times (* = ora)
 
 **using numerals**
 
-lyo  = place (French lieu)
+lio  = place (French lieu)
 
 * un'lio  = first  place
 * du'lio  = second place
@@ -248,10 +211,10 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* jo vidu'pa tu un'foa!  = I have seen you one time!
-* su vidu'pa vu ni'foa!  = He have never seen y'all!
-* tu vidu'fu mh suv!     = You will see me often!
-* nu podo vidu'ia zu!    = We can see them now!
+* jo vidu tu un'foa!  = I seen you one time!
+* su vidu vu ni'foa!  = He never seen y'all!
+* tu vidu mi suv!     = You will see me often!
+* nu podo vidu zu!    = We can see them!
 
 ## Imperative
 
@@ -289,7 +252,6 @@ Next examples show how to use interrogative prepositions:
 * ke magu'fu tu  ?  = what are you going to eat ?
 * ki seru'pa ibo ?  = who was there?
 * ki seru'ia tu  ?  = how are you ?   
-* ka magu'fu tu  ?  = you have not eaten ?
 
 Asking about location can be explicit using "ke loka":
 
@@ -316,14 +278,16 @@ The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* asi = yes / so
-* kan = not / non
+* ha = yes/ affirmative
+* pa = not/ negative
 
 **polite**
 
 * cero = indeed
 * juso = right
-* fawo = wrong
+* vero = true
+* faso = false
+
 
 **logical**
 
