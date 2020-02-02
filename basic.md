@@ -249,9 +249,9 @@ de ke reza?| ura | why?     | por qué | for what reason?
 
 Next examples show how to use interrogative prepositions:
 
-* ke magu'fu tu  ?  = what are you going to eat ?
-* ki seru'pa ibo ?  = who was there?
-* ki seru'ia tu  ?  = how are you ?   
+* ke moku tu  ?  = what are you eating ?
+* ki seru tu  ?  = how are you ?   
+* ki seru ala ?  = who was there?
 
 Asking about location can be explicit using "ke loka":
 
@@ -278,7 +278,7 @@ The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* ha = yes/ affirmative
+* ia = yes/ affirmative
 * pa = not/ negative
 
 **polite**

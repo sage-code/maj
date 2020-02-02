@@ -21,6 +21,7 @@ Related noun: tesa = time
  do      | dopo = after  
  na      | navo = now    
  be      | befo = before 
+ 
 
 **verb conjugation:**
 
@@ -29,6 +30,7 @@ In Maj, the verb conjuration include only time information:
 * jo joku'do = I will play
 * tu joku'na = you are playing
 * su joku'be = he is playing
+
 
 ## Imperative form
 
@@ -42,7 +44,7 @@ For imperative case, you you must use an auxiliary verb:
 
 * jo vobu'na una saga da la befa! = I will tell a story about the past!
 * nu dovu sh diku'do  da la befa! = we must talk after about the past!
-* tu dovu sh vobu igo da la nava! = you must tell next about the present!
+* tu kotu'do vobu da la nava! = you will continue to speak about the present!
 
 ## Verb transformation
 
@@ -68,7 +70,7 @@ joku => joke'ro = playful
 * tu seru joke'ro = you are playful 
 * zu seru joke'ro = he is playful
 
-## Vowel inversion
+**vowel inversion:**
 
 Nouns can invert vowels to become verbs:
 
@@ -132,12 +134,33 @@ In next example "besa" is a noun but can become verb:
 * jo dour tu besu'mi = I wish you kiss me
 
 
+## Related words
+
+In next example we use rood word "lufa" that means influence to create two other words:
+
+* lufa = influence
+* lufo = influenced
+* lofu = to influence
+
+**example:**
+
+* jo lofu tu 
+
 ## Subjunctive mod
 
 Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
+**example 1:**
+
 * Jo povu sh fabu pana = I can make bred
 * su povu sh somu paqo = he can sleep peacefully
 
+**example 2:**
+
+* voru = will, demand
+* vora = order
+
+* jo voru la hola ku keso! = I want the omelet with cheese
+* la vora se daru! = the order was given
 
 **Read next about:** [adverbs](adverbs.md)
