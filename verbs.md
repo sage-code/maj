@@ -48,17 +48,17 @@ For imperative case, you you must use an auxiliary verb:
 
 ## Verb transformation
 
-Verb can be used as noun by changing coda from "u" to "o'ra".
+Verb can be used as noun by changing coda from "u" to "e'ra".
 
-joku => joko'ra
+joku => joke'ra
 
-* tu seru'pa la joko'ra de zu  = you have been his game player;
-* jo ka seru la tu joko'ra     = I'm not your game player;
+* tu seru'be la joke'ra de zu  = you have been his game player;
+* jo ka seru la tu joke'ra     = I'm not your game player;
 
 Verb can be used as noun if coda "u" is replaced by "a".
 
-* la joka se joku'pa = the game was played;
-* la joka se finu'ia = the game is over now;
+* la joka se joku'be = the game was played;
+* la joka se finu'na = the game is over now;
 
 **ro = ul**
 
@@ -75,12 +75,12 @@ joku => joke'ro = playful
 Nouns can invert vowels to become verbs:
 
 * buga	= quarrel
-* bogu  = to brawl
+* raju  = to brawl
 
 **example:**
 
-* tu dibu'ia una buga? = you are starting a quarrel? 
-* tu te bogu'pa en la bura? = do you had a fight in the bar?
+* tu dibu'na una buga? = you are starting a quarrel? 
+* tu te raju'be en la bura? = do you had a fight in the bar?
 
 ## Reflexive form
 

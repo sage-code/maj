@@ -285,7 +285,7 @@ Spanish | o      | Vamos al cine o vamos al supermercado
 
 **Maj:**  etu  = and
 
-Marc etu Alice andu'pa la plaia;
+Marc etu Alice andu'be la plaia;
 
 
 Lang    | Word   |  Example
@@ -298,7 +298,7 @@ Spanish | y      | Marc y Alice van a la playa
 
 * seru = to be
 
-asi seru'fu tu!
+asi seru'do tu!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ia, 'fu, 'pa };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'do, 'be };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
@@ -85,8 +85,8 @@ III Posesiv  | Singular | Plural
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
   1          | jo mh    | nu ne
-  2          | tu te    | vu ve
-  3          | su se    | zu ze
+  2          | tu te    | vu vh
+  3          | su se    | zu zh
 
 **Nominative**
 
@@ -242,8 +242,8 @@ Composite interrogations using preposition "de" and noun:
 maj        |New  | english  | spanish | 1:1 translation
 -----------|-----|----------|---------|---------------
 de ke tesa?| uta | when?    | cuando  | about what time?
-de ke loka?| ubi | where?   | donde   | about what location?
-de ke reza?| ura | why?     | por qué | for what reason?
+de ke loka?| uda | where?   | donde   | about what location?
+de ke reza?| uka | why?     | por qué | for what reason?
 
 **examples**
 
@@ -267,10 +267,10 @@ Sometimes "ke" is used to indicate a response and not a question:
 **expressions**
 
   
-You can use `fon ubi` instead of `loka`.
+You can use `uda` instead of `loka`.
   
-* fon ubi cu ubi? = from where to where!
-* fon aqi cu ala! = from here to there!
+* de uda cu uda? = from where to where!
+* de aki cu ala! = from here to there!
 
 ## Responses
 
@@ -283,7 +283,7 @@ The interrogative question can be answered with affirmative or negative:
 
 **polite**
 
-* cero = indeed
+* ceto = indeed
 * juso = right
 * vero = true
 * faso = false
@@ -293,7 +293,6 @@ The interrogative question can be answered with affirmative or negative:
 
 * vero!  = true, affirmative
 * faso!  = false, negative, 
-* xako!  = unknown
 
 **scientific**
 For stronger assurance answer you can specify the logical values:
@@ -303,7 +302,7 @@ For stronger assurance answer you can specify the logical values:
 
 **composite**
 
-* kan-juso = incorrect, not justified
+* pan-juso = incorrect, not justified
 * nam-juso = to be justified
 
 ## Noun
@@ -381,31 +380,33 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* oru = any
-* omi = every
-* tot = all
-* mai = many
+* emo = any
+* oni = every
+* amo = all
+* mua = many
 * plu = more 
 * pao = few
 * van = several (some)
-* som = some 
+* ago = some 
 * ixo = approximative
 
 Common noun is using plural "e" or singular "a" with different articles:
 
 * una mela = one apple
 * dua mele = two apples
-* omi mela = every apple
-* oru mela = any apple
-* som mele = some apples
-* tot mele = all apples
-* mai mele = many apples
+* oni mela = every apple
+* emi mela = any apple
+* ago mele = some apples
+* amo mele = all apples
+* mua mele = many apples
 * ixo cen male = approximative 10 apples
+
+
 
 Invariant noun is terminated in "s" or other consonant:
 
 * pao Mercedes = few Mercedes 
-* oru Mercedes = any Mercedes 
+* emo Mercedes = any Mercedes 
 
 **read next:**
 
@@ -414,6 +415,5 @@ Invariant noun is terminated in "s" or other consonant:
 * [verbs](verbs.md)
 * [adjectives](adjectives.md)
 * [adverbs](adverbs.md)
-
 
 Great!

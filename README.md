@@ -26,8 +26,6 @@ Maj is designed for informal social chat;
 
 Maj has a humble purpose, and is not.
 
-1. a scientific language;
-1. a superior language;
 1. a cryptic language;
 1. a mystic language;
 1. a secret language;
@@ -75,7 +73,7 @@ Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Uni
 **Examples:**
 
 * თჲα.რևშα!   = ola muda;
-* ɛծα.ɛσ.რαუ; = eta es maj!
+* ɛծα.ɛσ.რαუ; = eta maj!
 
 **Notes:**
 
