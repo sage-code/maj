@@ -29,7 +29,7 @@ Note: In next example we change coda "o" into "a" to make nouns from time adject
 
 * jo vobu'do una saga da la nova = I will tell a stories about the present
 * tu vobu'do una saga da la dopa = you will tell a story about the future
-* su vobu'do una saga da la befa = he will tell a story about the past
+* su vobu'do una saga da la rama = he will tell a story about the past
 
 **Preposition:** de = from (location)
 
@@ -162,14 +162,14 @@ Maj      | English
 ---------|----------
 kro      |Across    
 ino      |Into      
-lag      |Along     
+ilo      |Along     
 oto      |Onto      
-ovh      |End, Over 
-ozo      |Over the  
-sru      |Through / by  
-cua      |Back      
+ovh      |Above
+ovo      |Over the  
+tru      |Through / by  
+rio      |Back      
 sop      |Stop      
-veg      |Away From 
+fao      |far away
          
 ## Direction
 
@@ -285,7 +285,7 @@ Spanish | o      | Vamos al cine o vamos al supermercado
 
 **Maj:**  etu  = and
 
-Marc etu Alice andu'be la plaia;
+Marc etu Alice andu'ra la plaia;
 
 
 Lang    | Word   |  Example
@@ -296,9 +296,9 @@ Spanish | y      | Marc y Alice van a la playa
 
 **Maj:** asy = so, thus
 
-* seru = to be
+* senu = to be
 
-asi seru'do tu!
+asi senu'do tu!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -312,11 +312,11 @@ Spanish | entonce| ¡Entonces fuiste tú!
 * muro = dead
 * dovu = must
 * rejo = reach
-* seru = to be
+* senu = to be
 
 **Translate:**
 
-la muro-tesa dovu rejo, uba esta kan seru sibo!
+la muro-tesa dovu rejo, uba esta kan senu sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

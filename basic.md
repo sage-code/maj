@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'do, 'be };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'do, 'ra };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
@@ -250,14 +250,14 @@ de ke reza?| uka | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke moku tu  ?  = what are you eating ?
-* ki seru tu  ?  = how are you ?   
-* ki seru ala ?  = who was there?
+* ki senu tu  ?  = how are you ?   
+* ki senu ala ?  = who was there?
 
 Asking about location can be explicit using "ke loka":
 
 * de ke loka te andu? = where are you going?
 * de ke loka te venu? = where are you coming from?
-* de ke loka te seru? = where are you from?
+* de ke loka te senu? = where are you from?
     
 Sometimes "ke" is used to indicate a response and not a question:
 
@@ -350,7 +350,7 @@ Plural     | ete = these |  ele = those
 
 **example:**
 
-es (seru) = to be
+es (senu) = to be
 
 * eta es pana = this is bred
 * ete es pane = these are breads
@@ -372,7 +372,7 @@ es (seru) = to be
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
 
 * una Mercedes fon la gupa de auto = "a Mercedes from the car lot"
-* una iova in hisa = "an event in history"
+* una iova en hisa = "an event in history"
 
 In each case, the noun is not specific. The Mercedes could be any Mercedes car available for purchase, and the event could be any event in the history of the world.
 

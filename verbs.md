@@ -7,7 +7,7 @@
 
 ## Infinitive
 
-In Maj the Infinitive form of verbs is terminated with coda "u". It can be used in this form or it can be used with a time suffix: {'do, 'na, 'be}.
+In Maj the Infinitive form of verbs is terminated with coda "u". It can be used in this form or it can be used with a time suffix: {'do, 'na, 'ra}.
 
 ## Time suffix
 
@@ -19,8 +19,8 @@ Related noun: tesa = time
  Suffix  | From Adjective     
 ---------|-------------------
  do      | dopo = after  
- na      | navo = now    
- be      | befo = before 
+ na      | navo = new    
+ ra      | rama = past
  
 
 **verb conjugation:**
@@ -29,7 +29,7 @@ In Maj, the verb conjuration include only time information:
 
 * jo joku'do = I will play
 * tu joku'na = you are playing
-* su joku'be = he is playing
+* su joku'ra = he was playing
 
 
 ## Imperative form
@@ -42,33 +42,27 @@ For imperative case, you you must use an auxiliary verb:
 
 **examples:**
 
-* jo vobu'na una saga da la befa! = I will tell a story about the past!
-* nu dovu sh diku'do  da la befa! = we must talk after about the past!
+* jo vobu'na una saga da la rama! = I will tell a story about the past!
+* nu dovu sh diku'do  da la rama! = we must talk after about the past!
 * tu kotu'do vobu da la nava! = you will continue to speak about the present!
 
 ## Verb transformation
 
-Verb can be used as noun by changing coda from "u" to "e'ra".
+Verb can be used as noun by changing coda from "u" to "a".
 
-joku => joke'ra
+joku => joku
 
-* tu seru'be la joke'ra de zu  = you have been his game player;
-* jo ka seru la tu joke'ra     = I'm not your game player;
-
-Verb can be used as noun if coda "u" is replaced by "a".
-
-* la joka se joku'be = the game was played;
-* la joka se finu'na = the game is over now;
+* tu senu'ra la joka de zu   = you have been his game;
+* jo pa senu la tu joka      = I'm not your game;
 
 **ro = ul**
 
-Use coda "e" and suffix "e'ro" to make an adjective.
+Verb can be used as adjective using coda "o".
 
-joku => joke'ro = playful
+joku => joko = playful
 
-* jo seru joke'ro = I'm playful
-* tu seru joke'ro = you are playful 
-* zu seru joke'ro = he is playful
+* tu senu joko = you are playful
+* zu senu joko = he is playful
 
 **vowel inversion:**
 
@@ -80,7 +74,7 @@ Nouns can invert vowels to become verbs:
 **example:**
 
 * tu dibu'na una buga? = you are starting a quarrel? 
-* tu te raju'be en la bura? = do you had a fight in the bar?
+* tu te raju'ra en la bura? = do you had a fight in the bar?
 
 ## Reflexive form
 
@@ -107,8 +101,8 @@ favu = please (make me favor)
 **using reflexive prefix**
 
 * nu dovu sh hodu'ne = we have to rest ourselves
-* vu dovu sh kamu've = you have to calm yourselves
-* zu dovu sh domu'ze = they must sleep themselves
+* vu dovu sh kamu'vh = you have to calm yourselves
+* zu dovu sh domu'zh = they must sleep themselves
 
 Read next: [nouns](nouns.md)
 
@@ -144,7 +138,8 @@ In next example we use rood word "lufa" that means influence to create two other
 
 **example:**
 
-* jo lofu tu 
+* jo lofu'ra zu = I have influenced him
+* tu senu'ra lofu = You have been influenced
 
 ## Subjunctive mod
 
@@ -152,7 +147,7 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 **example 1:**
 
-* Jo povu sh fabu pana = I can make bred
+* jo povu sh fabu pana = I can make bred
 * su povu sh somu paqo = he can sleep peacefully
 
 **example 2:**
@@ -160,7 +155,8 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 * voru = will, demand
 * vora = order
 
+* vh favu mi daru la vora? = please give me the order
 * jo voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru! = the order was given
+* la vora se daru'ra = the order was given
 
 **Read next about:** [adverbs](adverbs.md)

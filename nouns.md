@@ -164,6 +164,8 @@ For substantive larger then usual, you can use ending: "o'ga"
 For a scientific group of words we use plural + suffix "o'xa"
 
 * xa = xaka = science
+* xa = xako = scientific
+* xa = xaku = study
 
 **examples:**
 
