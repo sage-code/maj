@@ -151,7 +151,7 @@ Second reflexive is using word: "sifo" = "self"
 
 * jo levu sifo = I am washing myself
 * su wazu sifo = he is resting himself
-* tu joku da solo = you are playing by yourself
+* tu joku solo = you are playing by yourself
 
 **notes:** 
  * it is a total of: 6 x 4 = 24 pronouns

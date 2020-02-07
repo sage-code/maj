@@ -136,10 +136,23 @@ In next example we use rood word "lufa" that means influence to create two other
 * lufo = influenced
 * lofu = to influence
 
-**example:**
+**example 1:**
 
 * jo lofu'ra zu = I have influenced him
 * tu senu'ra lofu = You have been influenced
+
+Another good example of verb root is "gema" that means money.
+
+* gema = money
+* gemu = pay
+* gemo = payed
+
+**example 2:**
+
+* tu raku mi vuza = you have broken my camera
+* tu dovu'na sh gemu = now you have to pay
+* tu hodu una dota = you hold a dept
+* la dota seru'ra gemo = the debt was payed
 
 ## Subjunctive mod
 

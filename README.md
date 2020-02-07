@@ -1,8 +1,6 @@
 # Maj
 
-Maj is a Romance language with short words and simple grammar. It can be used for debates, study, and entertainment.  Maj words are designed to be easy to speak and understand. 
-
-Maj can be learned quickly by anyone who knows the Latin alphabet. Initial documentation for Maj is written in English but we hope we will translate documentation in other languages.
+Maj is a Romance language with short words and simple grammar. Initial documentation for Maj is written in English but we will translate it into other languages as well.
 
 **Attributes ...**
 
@@ -14,27 +12,17 @@ Maj is a logic auxiliary language, with following attributes:
 
 **Purpose ...**
 
-Maj is designed for informal social chat;
+Maj is designed for artificial rezoning;
 
 1. Maj is for study;
 2. Maj is for business;
-3. Maj is for friendship;
-4. Maj is for entertainment;
-5. Maj is for experience exchange;
+3. Maj is for entertainment;
 
-**Maj is not ...**
-
-Maj has a humble purpose, and is not.
-
-1. a cryptic language;
-1. a mystic language;
-1. a secret language;
-
-**Rad more:** [case](case.md)
+**Rad more:** [use case](case.md)
 
 ## Alphabet
 
-The alphabet starts with same letters "A, B, C" like any Romance language but some letters are ordered differently due to Maj pronunciation. We think the alphabet can be memorized more easily in this order: 
+The alphabet Latin letters like other Romance languages but the ordered is modified: 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
 ---|---|---|---|---|---|---|---|----|----|----|----|----

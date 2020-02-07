@@ -1,7 +1,6 @@
 # Render
 
-Maj text can be executed using a Maj rendering service;
-
+Maj is similar to Wiki notation. It can be used to create web pages.
 
 ## Symbols
 
@@ -48,7 +47,7 @@ Maj text can be executed using a Maj rendering service;
 
 ## Variables
 
-You can create a variable or a constant anywhere in the Maj text
+You can create a variable or a constant anywhere in the Maj text;
 
 constant: @PI   = 3.14 
 
@@ -88,9 +87,9 @@ Maj enable markup code. That can be HTML, or XML
 
 ## Input form
 
-To create an input form you can use keyword obio: = to get
+To create an input form you can use keyword iobu: = to get
 
-obio: $var1
+iobu: $var1
 
  Label        | Values      
 --------------|--------------------------------
@@ -110,15 +109,15 @@ TOTAL         | $var1 + $var2
 
 You can create a dynamic form using multiple rows:
 
-obio: @values(10,5)
+iobu: @vala(10,5)
 
  "@values()"  | Values      
 --------------|--------------------------------
- ...          | @values
- TOTAL        | +@values
+ ...          | @vala
+ TOTAL        | +@vala
 
-* "@values(1,1) =" @values( 1, 1)
-* "@values(2,1) =" @values( 2, 1)
+* "@vala(1,1) =" @vala(1, 1)
+* "@vala(2,1) =" @vala(2, 1)
 
 
 **notes**
@@ -130,4 +129,4 @@ obio: @values(10,5)
 
 ## Future envelopment
 
-In the future we will expand on this idea to make Maj Turing complete.
+In the future we will expand on this idea to make Maj a Turing complete language.
