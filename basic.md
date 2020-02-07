@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'do, 'ra };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'da, 'ra };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 

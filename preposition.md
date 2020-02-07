@@ -27,9 +27,9 @@ The object can be a composite object described with more then one word:
 
 Note: In next example we change coda "o" into "a" to make nouns from time adjectives:
 
-* jo vobu'do una saga da la nova = I will tell a stories about the present
-* tu vobu'do una saga da la dopa = you will tell a story about the future
-* su vobu'do una saga da la rama = he will tell a story about the past
+* jo vobu'da una saga da la nova = I will tell a stories about the present
+* tu vobu'da una saga da la dopa = you will tell a story about the future
+* su vobu'da una saga da la rama = he will tell a story about the past
 
 **Preposition:** de = from (location)
 
@@ -298,7 +298,7 @@ Spanish | y      | Marc y Alice van a la playa
 
 * senu = to be
 
-asi senu'do tu!
+asi senu'da tu!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

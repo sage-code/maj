@@ -7,98 +7,117 @@
 
 ## Infinitive
 
-In Maj the Infinitive form of verbs is terminated with coda "u". It can be used in this form or it can be used with a time suffix: {'do, 'na, 'ra}.
+In Maj the Infinitive form of verbs is terminated with coda "u". 
 
-## Time suffix
+**examples:**
 
-* Suffix is using apostrophe before suffix to link with the root;
-* Composite words are pronounced legato as a single word;
+* jo leru = I'm reading
+* tu xaku = you are reading
+* su muka = he is working
 
-Related noun: tesa = time
+## Negative
+
+In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
+
+* jo pa leru = I do not read
+* jo leru'pa = I do not read
+
+## Affirmative
+
+The affirmative is usually buld without preposition or suffic but is possible to be:
+
+* ia jo leru = yes I read
+* jo leru'ia = I do read
+
+Close to afirmative is preposition "iko" = still, or verb "kotu" = to continue.
+
+* jo iko leru'na = I still read now
+* jo kotu'da leru = I will continue to read
+
+## Time conjugation
+
+Maj include a basic conjugation for verb and this is time conjugation:
+
+Noun: tesa = time
 
  Suffix  | From Adjective     
 ---------|-------------------
- do      | dopo = after  
- na      | navo = new    
- ra      | rama = past
- 
+ da      | future
+ na      | present
+ ra      | past
 
-**verb conjugation:**
+**examples:**
 
-In Maj, the verb conjuration include only time information: 
-
-* jo joku'do = I will play
+* jo joku'da = I will play
 * tu joku'na = you are playing
 * su joku'ra = he was playing
-
 
 ## Imperative form
 
 For imperative case, you you must use an auxiliary verb:
 
+* dovu = must
+* diku = to tell/to talk
+* kotu = to continue
 * saga = story
-* dovu = must/mandatory
-* diku = to talk/discuss 
+* roma = the past
+* nova = the present
+* dopa = the future
 
 **examples:**
 
-* jo vobu'na una saga da la rama! = I will tell a story about the past!
-* nu dovu sh diku'do  da la rama! = we must talk after about the past!
-* tu kotu'do vobu da la nava! = you will continue to speak about the present!
+Preposition: di = about
+
+* jo diku'na una saga di la roma! = I will tell a story about the past!
+* nu dovu sh diku'da  di la nova!  = we will have to talk about the present!
+* tu kotu'da sh diku  di la nova!  = you will continue to talk about the future!
 
 ## Verb transformation
 
-Verb can be used as noun by changing coda from "u" to "a".
+Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
-joku => joku
+* joku = play
+* joka = game
+* joko = playful
 
-* tu senu'ra la joka de zu   = you have been his game;
-* jo pa senu la tu joka      = I'm not your game;
+**examples:**
 
-**ro = ul**
-
-Verb can be used as adjective using coda "o".
-
-joku => joko = playful
-
-* tu senu joko = you are playful
-* zu senu joko = he is playful
-
-**vowel inversion:**
-
-Nouns can invert vowels to become verbs:
-
-* buga	= quarrel
-* raju  = to brawl
-
-**example:**
-
-* tu dibu'na una buga? = you are starting a quarrel? 
-* tu te raju'ra en la bura? = do you had a fight in the bar?
+* tu seru'ra la joka de zu   = you have been his game;
+* jo seru'pa la tu joka      = I'm not your game;
+* tu seru'na joko            = you are playful now;
 
 ## Reflexive form
 
 When you refer to some action performed by somebody on himself.
 
-**verbs:**
+**direct reflexive:**
 
-* kamu'te  =>  calm yourself 
-* hodu'ne  =>  rest ourselves
-* domu'su  =>  sleep himself
+* jo mh joku'na = I'm playing
+* tu te joku'na = you are playing
+* zu se joku'na = he is playing
 
-**imperative:**
+**polite reflexive:**
+
+Auxiliar: favu = please (make me favor)
+
+* te favu sh kamu'te  => please calm yourself 
+* te favu sh hodu'te  => please rest yourself 
+* te favu sh domu'te  => please go to sleep
+
+**imperative reflexive:**
 
 Next prepositions are used in imperative sentences to make them friendly.
 
-hai  = let's  (leading/encouragement)
-favu = please (make me favor)
+Auxiliar: hai  = let's  (leading/encouragement)
 
 **using pronoun after verb:**
 
-* hai sh hodu'ne  = let's calm ourselves
-* te favu kamu'te  = please calm yourself 
+* hai sh hodu'ne  = let's rest ourselves
+* hai sh kamu'ne  = let's calm ourselves
 
 **using reflexive prefix**
+
+Auxiliar: dovu = must
 
 * nu dovu sh hodu'ne = we have to rest ourselves
 * vu dovu sh kamu'vh = you have to calm yourselves
@@ -115,10 +134,10 @@ In next examples we use two verbs:
 
 The following two messages convey the same message:
 
-* tu boku malo  = you become bad (literal)
-* tu boku soxo  = you get dirty (figurative)
+* tu boku malo  = you become bad
+* tu boku soxo  = you get dirty
 
-**Note:** The second idea is using a metaphor: becoming dirty is equivalent to becoming bad.
+**Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
 
 ## Verb to noun
 
@@ -127,10 +146,9 @@ In next example "besa" is a noun but can become verb:
 * jo doru tu daru'mi una besa = I wish you give me a kiss
 * jo dour tu besu'mi = I wish you kiss me
 
-
 ## Related words
 
-In next example we use rood word "lufa" that means influence to create two other words:
+In next example we use root word "lufa" that means influence to create two other words:
 
 * lufa = influence
 * lufo = influenced
@@ -138,8 +156,8 @@ In next example we use rood word "lufa" that means influence to create two other
 
 **example 1:**
 
-* jo lofu'ra zu = I have influenced him
-* tu senu'ra lofu = You have been influenced
+* jo lofu'ra zu   = I have influenced him
+* tu seru'ra lofu = You have been influenced
 
 Another good example of verb root is "gema" that means money.
 
@@ -149,10 +167,10 @@ Another good example of verb root is "gema" that means money.
 
 **example 2:**
 
-* tu raku mi vuza = you have broken my camera
-* tu hodu una dota = you hold a dept
-* tu dovu'na sh gemu = now you have to pay
-* la dota seru'ra gemo = the debt was payed
+* tu raku'ra mi vuza   = you have broken my camera
+* tu hodu'na una dota  = you now hold a dept
+* tu dovu'da sh gemu   = then you have to pay
+* la dota seru'da gemo = the debt will be payed
 
 ## Subjunctive mod
 
@@ -161,7 +179,7 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 **example 1:**
 
 * jo povu sh fabu pana = I can make bred
-* su povu sh somu paqo = he can sleep peacefully
+* su povu sh domu paqo = he can sleep peacefully
 
 **example 2:**
 
