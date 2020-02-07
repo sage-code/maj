@@ -1,9 +1,5 @@
 # Maj
 
-Maj is a Romance language with short words and simple grammar. Initial documentation for Maj is written in English but we will translate it into other languages as well.
-
-**Attributes ...**
-
 Maj is a logic auxiliary language, with following attributes:
 
 1. Familiar  - uses familiar and popular sounds;
@@ -22,7 +18,7 @@ Maj is designed for artificial rezoning;
 
 ## Alphabet
 
-The alphabet Latin letters like other Romance languages but the ordered is modified: 
+Maj alphabet is Latin but the ordered is modified: 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
 ---|---|---|---|---|---|---|---|----|----|----|----|----

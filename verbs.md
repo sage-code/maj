@@ -150,8 +150,8 @@ Another good example of verb root is "gema" that means money.
 **example 2:**
 
 * tu raku mi vuza = you have broken my camera
-* tu dovu'na sh gemu = now you have to pay
 * tu hodu una dota = you hold a dept
+* tu dovu'na sh gemu = now you have to pay
 * la dota seru'ra gemo = the debt was payed
 
 ## Subjunctive mod

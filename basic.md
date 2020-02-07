@@ -214,7 +214,7 @@ verb: vidu  = to see
 * jo vidu tu un'foa!  = I seen you one time!
 * su vidu vu ni'foa!  = He never seen y'all!
 * tu vidu mi suv!     = You will see me often!
-* nu podo vidu zu!    = We can see them!
+* nu podo sh vidu zu! = We can see them!
 
 ## Imperative
 
@@ -223,8 +223,8 @@ In Maj, "hay" is used as an determinant call, preposition:
 hai = c'mon (come on)
 hai = let's (let us)
 
-* hai nu haru bosu su = c'mon we have to search him
-* hai nu dovu bosu zu = c'mon we must search them
+* hai nu haru sh bosu su = c'mon we have to search him
+* hai nu dovu sh bosu zu = c'mon we must search them
 
 
 ## Interrogative
@@ -400,8 +400,6 @@ Common noun is using plural "e" or singular "a" with different articles:
 * amo mele = all apples
 * mua mele = many apples
 * ixo cen male = approximative 10 apples
-
-
 
 Invariant noun is terminated in "s" or other consonant:
 
