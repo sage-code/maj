@@ -129,8 +129,8 @@ Maj has two reflexive forms: firs is using pronoun
 singular                | plural
 ------------------------|--------------------------------
  jo mh = myself         | nu ne = ourself 
- tu te = yourself       | vu ve = yourselves
- su se = himself,itself | zu ze = themselves
+ tu te = yourself       | vu vh = yourselves
+ su se = himself,itself | zu zh = themselves
 
 **examples**
 
@@ -188,7 +188,7 @@ Sometimes we use adverbs to augment the verb:
 
 **composite**
 
-foa   = times (* = ora)
+foa = times (* = ora)
 
 * ni'foa  = never
 * un'foa  = once 
@@ -316,8 +316,8 @@ A noun represents person, place, object, or idea.
 
 **examples:**
 
-* pana  = bread
-* pane  = breads
+* pita  = bread
+* pite  = breads
 
 You can learn more about nouns in a separate document:
 [nouns](nouns.md)
@@ -338,8 +338,8 @@ An article is a short word you add in front of the noun.
 
 **example**
 
-* la pana = the bread
-* le pene = the breads
+* la pita = the bread
+* le pite = the breads
 
 2. Definite article _determinant form:_
 
@@ -350,23 +350,23 @@ Plural     | ete = these |  ele = those
 
 **example:**
 
-es (senu) = to be
+sona = to exist
+sonu = to be
 
-* eta es pana = this is bred
-* ete es pane = these are breads
-* ela es pana = that is bred
-* ele es pane = those are breads
+* eta sonu pana = this is bred
+* ete sonu pane = these are breads
+* ela sonu pana = that is bred
+* ele sonu pane = those are breads
 
 3. Descriptive article _descriptive form:_
 
-* de    = of 
-* de la = of the
+* de pe = of the
 
 **example:**
 
 * English: the freckles of my face
 * Spanish: las pecas de mi cara
-* Maj: le peqe de mia cara
+* Maj: le peqe de pe faca mia
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:

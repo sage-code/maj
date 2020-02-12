@@ -11,9 +11,9 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 **examples:**
 
-* jo leru = I'm reading
-* tu xaku = you are reading
-* su muka = he is working
+* jo leru = I read
+* tu xaku = you study
+* su muka = he works
 
 ## Negative
 
@@ -24,27 +24,27 @@ In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
 
 ## Affirmative
 
-The affirmative is usually buld without preposition or suffic but is possible to be:
+The affirmative is usually build without preposition or suffix, but sometimes it is:
 
 * ia jo leru = yes I read
 * jo leru'ia = I do read
 
 Close to afirmative is preposition "iko" = still, or verb "kotu" = to continue.
 
-* jo iko leru'na = I still read now
-* jo kotu'da leru = I will continue to read
+* jo iko leru  = I still read
+* jo kotu sh leru = I continue to read
 
-## Time conjugation
+## Verb conjugation
 
-Maj include a basic conjugation for verb and this is time conjugation:
+In Maj verb conjugation include only time information:
 
 Noun: tesa = time
 
- Suffix  | From Adjective     
----------|-------------------
- da      | future
- na      | present
- ra      | past
+ Suffix  | Related Noun     
+---------|--------------
+ da      | dopa = future     
+ na      | nova = present     
+ ra      | roma = past     
 
 **examples:**
 
@@ -69,8 +69,8 @@ For imperative case, you you must use an auxiliary verb:
 Preposition: di = about
 
 * jo diku'na una saga di la roma! = I will tell a story about the past!
-* nu dovu sh diku'da  di la nova!  = we will have to talk about the present!
-* tu kotu'da sh diku  di la nova!  = you will continue to talk about the future!
+* nu dovu'da sh diku  di la nova!  = we will have to talk about the present!
+* tu kotu'da sh diku  di la dopa!  = you will continue to talk about the future!
 
 ## Verb transformation
 
@@ -106,7 +106,7 @@ Auxiliar: favu = please (make me favor)
 
 **imperative reflexive:**
 
-Next prepositions are used in imperative sentences to make them friendly.
+Next prepositions are used in imperative sentences:
 
 Auxiliar: hai  = let's  (leading/encouragement)
 
@@ -182,9 +182,6 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 * su povu sh domu paqo = he can sleep peacefully
 
 **example 2:**
-
-* voru = will, demand
-* vora = order
 
 * vh favu mi daru la vora? = please give me the order
 * jo voru la hola ku keso! = I want the omelet with cheese
