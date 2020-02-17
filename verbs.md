@@ -36,13 +36,13 @@ In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
 
 ## Conditional
 
-An action that was not executed because whatever reason is represented with suffix "re"
+An action that was not realized is created using suffix "re"
 
-re <= rego = regret
+suffix: ra <= would have / should have
 
-* io leru're da su mi lexu'pa = I would have read but he didn't let me
+* io leru'ra da su mi lexu'pa = I would have read but he didn't let me
 * io pa leru'be poi su mi lexu'pa = I have not read because he do not let me
-
+* io dotu leru asi su dovu sh lexu'me en paqa = I have a debt to read so you have to let me alone
 
 ## Verb conjugation
 
@@ -78,9 +78,9 @@ For imperative case, you must use an auxiliary verb:
 
 Preposition: di = about
 
-* io diku'bi una saga di la bifa! = I have told you a story about the past!
-* tu diku'ia una saga di la dopa! = you will talk now about the future!
-* nu diku'fu una saga di la nova! = we will talk about the present!
+* io diku'be una saga di la pasa! = I have told a story about the past!
+* tu diku'ia una saga di la futa! = you will talk now about the future!
+* nu diku'fu una saga di la iaka! = we will talk about the present!
 
 ## Verb transformation
 
@@ -167,8 +167,8 @@ In next example we use root word "lufa" that means influence to create two other
 
 **example 1:**
 
-* io lofu'bi zu   = I have influenced him
-* tu seru'bi lofu = You have been influenced
+* io lofu'be zu   = I have influenced him
+* tu seru'be lofu = You have been influenced
 
 Another good example of verb root is "gema" that means money.
 
@@ -178,7 +178,7 @@ Another good example of verb root is "gema" that means money.
 
 **example 2:**
 
-* tu raku'bi mi vuza   = you have broken my camera
+* tu raku'be mi vuza   = you have broken my camera
 * tu hodu'ia una dota  = you now hold a dept
 * tu dovu'fu sh gemu   = then you have to pay
 * la dota sonu'fu gemo = the debt will be payed
@@ -196,6 +196,6 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 * vh favu mi daru la vora? = please give me the order
 * io voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru'bi = the order was given
+* la vora se daru'be = the order was given
 
 **Read next about:** [adverbs](adverbs.md)
