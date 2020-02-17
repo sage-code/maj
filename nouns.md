@@ -6,36 +6,47 @@ Nouns are words representing objects, materials, persons or places.
 
 <img src="demo/maj-animals.png" alt="Maj Animals" width="300"></img>
 
-**other:**
+**rules:**
+
+* Regular nouns are ending with letters {`a`,`e`};
+* Some nouns can end with a consonant, for example materials;
+* Most nouns have 2 syllables, quite rare 3 syllables;
+
+Examples:
 
 * bana    = banana
 * akwa    = water
 * plumb   = lead
 * feron   = iron
+* pukon   = plastic
+* razin   = soft wood
+* xenin   = hard wood
 
-**rules:**
+**exception:**
 
-* Regular nouns are ending with letters {`a`,`e`};
-* Nouns that end in a consonant are invariant nouns;
-* Most nouns have 2 syllables, quite rare 3 syllables;
-* Nouns that represent leaving beens start with uppercase;
+Nouns that represent leaving beens start with uppercase;
 
-Examples:
-
-* Kide   = children    
-* Pare   = parents 
-* Kania  = dog
+* Katia   = cat
+* Kania   = dog
+* Xavala  = horse
+* Xenina  = oak
 
 **plural:**
 
-Regular nouns are using different ending for singular and plural:
+Nouns ending with "a" can have plural form, replacing "a" with "e":
 
 * pana   = bread  (singular)
 * pane   = breads (plural)
 
+Nouns ending in a consonant do not have plural. In rare examples though looks like:
+
+* Xenina = oak tree
+* Xenine = several oak tree
+* xenin  = oak wood
+
 **gender:**
 
-In Maj, nouns do not have a specific ending for genre but use adjectives instead.
+In Maj, nouns do not have a specific ending for genre. You can use an adjective:
 
 * maqo Kania = male dog 
 * fimo Kania = female dog 
@@ -82,7 +93,6 @@ Some nouns are representing materials or substances not individual objects. In t
 * karbon = charbon
 * klorin = chlor
 * kodes  = condensation
-* 
 
 
 ## Proper nouns

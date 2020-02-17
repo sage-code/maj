@@ -12,7 +12,7 @@ ak bk ck dk ek fk gk hk ik jk -- lk mk nk ok pk qk rk sk tk uk vk xk yk wk zk
 al bl cl dl el fl gl hl il jl kl -- ml nl ol pl ql rl sl tl ul vl xl yl wl zl 
 am bm cm dm em fm gm hm im jm km lm -- nm om pm qm rm sm tm um vm xm ym wm zm 
 an bn cn dn en fn gn hn in jn kn ln mn -- on pn qn rn sn tn un vn xn yn wn zn 
-ao bo co do eo fo go ho io jo ko lo mo no -- po qo ro so to uo vo xo yo wo zo 
+ao bo co do eo fo go ho io io ko lo mo no -- po qo ro so to uo vo xo yo wo zo 
 ap bp cp dp ep fp gp hp ip jp kp lp mp np op -- qp rp sp tp up vp xp yp wp zp 
 aq bq cq dq eq fq gq hq iq jq kq lq mq nq oq pq -- rq sq tq uq vq xq yq wq zq 
 ar br cr dr er fr gr hr ir jr kr lr mr nr or pr qr -- sr tr ur vr xr yr wr zr 

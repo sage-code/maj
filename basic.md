@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'na, 'da, 'ra };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ia, 'da, 'ra };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
@@ -66,7 +66,7 @@ Is a word that can function as a noun in a phrase to refer either to the partici
 
 I Nominative | Singular | Plural
 -------------|----------|--------------
-  1          | jo       | nu
+  1          | io       | nu
   2          | tu       | vu
   3          | su, lo   | zu, lo
 
@@ -84,7 +84,7 @@ III Posesiv  | Singular | Plural
 
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
-  1          | jo mh    | nu ne
+  1          | io mh    | nu ne
   2          | tu te    | vu vh
   3          | su se    | zu zh
 
@@ -94,27 +94,38 @@ Is the person or the thing who perform the action.
 
   ps |singular          | plural
 -----|------------------|-----------------------------
-  1  | jo = I           | nu  = we
+  1  | io = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
   4  | lo = it          | lu  = they
 
 
-**Objective**
+**Dative:**
 
-Is the person or the thing who receive the action.
+Indicate the person or object recipient of an action.
 
- ps | singular                 | plural     
-----|--------------------------|-----------------------------
- 1  | cu mi, mie = to me       | cu no, nuo = to us   
- 2  | cu te, cie = to you      | cu vo, vuo = to y'all
- 3  | cu se, sie = to him/her  | cu zo, zuo = to them 
+**stressed:**
+
+ ps | singular           | plural     
+----|--------------------|-----------------------------
+ 1  | mie = to me        | nowh = to us   
+ 2  | cie = to you       | vowh = to y'all
+ 3  | sie = to him/her   | zowh = to them 
+
+**unstressed**
+
+ ps | singular            | plural     
+----|---------------------|-----------------------------
+ 1  | cu me = to me       | cu nu  = to us   
+ 2  | cu te = to you      | cu vu  = to y'all
+ 3  | cu se = to him/her  | cu zu  = to them 
+
  
-**Possessive**
+**Genitive**
 
-Is a composite word for a person or object who own something or have something.
+This case is used to express possession or properties.
 
-determinant: al = belong, of the
+**unstressed:**
 
 singular              | plural
 ----------------------|--------------------------------
@@ -122,34 +133,52 @@ singular              | plural
  tua = yours          | vua = yours
  sua = his, hers, its | zua = theirs
 
-## Reflexive
+**stressed:** 
+
+singular              | plural
+----------------------|--------------------------------
+ al meu               | al nos = ours
+ al thu               | al vos = yours
+ al shu               | al zos = theirs
+ 
+**Accusative**
+ 
+This case expresses the object of an action or the goal of motion.
+
+ Singular            | Plural
+---------------------|------------------------- 
+ pe mine = on me     | pe noi omi = on us all
+ pe tine = on you    | pe voi omi = on you all
+ pe sine = on him    | pe zhi omi = on they all
+
+
+**Reflexive**
 
 Maj has two reflexive forms: firs is using pronoun
 
 singular                | plural
 ------------------------|--------------------------------
- jo mh = myself         | nu ne = ourself 
+ io mh = myself         | nu ne = ourself 
  tu te = yourself       | vu vh = yourselves
  su se = himself,itself | zu zh = themselves
 
 **examples**
 
-* jo mh joku = I'm playing
+* io mh joku = I'm playing
 * tu te joku = you are playing
 * su se joku = he is playing
 
-Second reflexive is using word: "sifo" = "self"
-
-* mi sifo = myself;
-* tu sifo = yourself; 
-* su sifo = himself/ itself
-* nu sifo = ourselves; 
-* vu sifo = yourselves; 
-* zu sifo = themselves; 
+Second reflexive is using adjectiv: "sifo" = "self"
+  
+singular                   | plural
+---------------------------|--------------------------------
+ mi sifo = myself;         |  nu sifo = ourselves; 
+ tu sifo = yourself;       |  vu sifo = yourselves; 
+ su sifo = himself/ itself |  zu sifo = themselves; 
 
 **examples**
 
-* jo levu sifo = I am washing myself
+* io levu sifo = I am washing myself
 * su wazu sifo = he is resting himself
 * tu joku solo = you are playing by yourself
 
@@ -163,38 +192,34 @@ Verb is a word used to describe an action, state, or occurrence, and forming the
  
 **example**
 
-Verbs are invariant relative to person or gender.
-
 joku = to play
 
-* jo joku  = I play
+* io joku  = I play
 * tu joku  = you play
 * zu joku  = he play
 * nu joku  = we play
 * vu joku  = you play
 * zu joku  = they play
 
-Read more about: [verbs](verbs.md)
+There is much more about: [verbs](verbs.md)
 
 ## Adverb
 
 Sometimes we use adverbs to augment the verb:
 
-* suvo  = often (French souvent)
-* moxo  = soon  (Latin mox)
-
-* jo joku suvo = I play often
-* zu joku moxo = I play soon
+* io joku'ia suvo = I play indeed often
+* nu joku'fu moxo = we will play soon
+* zu joku'be reqo = they have played recently
 
 **composite**
 
-foa = times (* = ora)
+fwa = times (* = ora)
 
-* ni'foa  = never
-* un'foa  = once 
-* du'foa  = twice
-* re'foa  = three times
-* im'foa  = forever
+* ni'fwa  = never
+* un'fwa  = once 
+* du'fwa  = twice
+* ru'fwa  = three times
+* im'fwa  = forever
 
 **using numerals**
 
@@ -202,7 +227,7 @@ lio  = place (French lieu)
 
 * un'lio  = first  place
 * du'lio  = second place
-* re'lio  = third   place
+* ru'lio  = third   place
 * ni'lio  = last place
 
 ## Proposition
@@ -211,8 +236,8 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* jo vidu tu un'foa!  = I seen you one time!
-* su vidu vu ni'foa!  = He never seen y'all!
+* io vidu tu un'fwa!  = I seen you one time!
+* su vidu vu ni'fwa!  = He never seen y'all!
 * tu vidu mi suv!     = You will see me often!
 * nu podo sh vidu zu! = We can see them!
 

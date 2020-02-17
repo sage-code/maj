@@ -12,23 +12,26 @@ When used in text or expressions, symbols can have associated a name:
 
 Symbol | Maj    | English
 -------|--------|---------------------
-  ` `  | eka    | Space, gap, blank
-  `=`  | iko    | Equal sign
-  `>`  | guo    | Greater then sign
-  `<`  | luo    | Less then sign
-  `+`  | pio    | Plus sign 
-  `-`  | mio    | Hyphen , minus sign 
-  `/`  | sla    | Slash , forward slash 
-  `.`  | opa    | Dot, full stop 
-  `,`  | ova    | Comma 
-  `:`  | epa    | Colon 
-  `;`  | eva    | Semicolon 
-  `?`  | kra    | Question mark 
-  `!`  | ira    | Exclamation mark 
-  `\*` | sta    | Asterisk 
-  `()` | bra    | Round brackets 
-  `[]` | kra    | Square brackets 
-  `{}` | sra    | Curly brackets 
+`x	`  | fwa	| Times
+`\	`  | bla	| Backward slash
+`()	`  | bra	| Round brackets
+`:	`  | epa	| Colon
+`;	`  | iva	| Semicolon
+`_	`  | spa	| blank, gap
+`>	`  | gwo	| Greater then sign
+`=	`  | ego	| Equal sign
+`≠	`  | ugo	| Inequal sign
+`!	`  | ira	| Exclamation mark
+`?	`  | kwa	| Question mark
+`<	`  | lwo	| Less then sign
+`-	`  | fio	| Hyphen , minus sign
+`.	`  | ipa	| Dot, full stop
+`,	`  | oga	| Comma
+`+	`  | plu	| Plus sign
+`[]	`  | gra	| Square brackets
+`*	`  | sta	| Asterisk
+`/	`  | sla	| Slash , forward slash
+`{}	`  | sra	| Curly brackets
 
 **notes:**
 
@@ -157,15 +160,26 @@ For billions we do not use prefix.
 
 **Binary**
 
-Note: TODO: Fix oes not work due to change in tense:
+For binary values we have design special words:
+
+vala = value
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | bina           | binary
-8   | riga           | octet
-16  | un'riga        | short integer
-32  | du'rige        | integer
-64  | qu'rige        | long integer
+0/1 | du vala        | two values
+8   | ok vala        | eight values
+16  | un'cen+sia     | short integer
+32  | qua x okva     | integer
+64  | oka x okva     | long integer
+
+Reading: 
+
+x = bai
+
+* dua x okva = Maj:"dua bai okva"
+* oka x okva = Maj:"oka bai okva"
+
+
 
 Griat!
 

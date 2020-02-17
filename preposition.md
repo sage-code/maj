@@ -27,7 +27,7 @@ The object can be a composite object described with more then one word:
 
 Note: In next example we change coda "o" into "a" to make nouns from time adjectives:
 
-* jo vobu'da una saga da la nova = I will tell a stories about the present
+* io vobu'da una saga da la nova = I will tell a stories about the present
 * tu vobu'da una saga da la dopa = you will tell a story about the future
 * su vobu'da una saga da la rama = he will tell a story about the past
 
@@ -35,15 +35,15 @@ Note: In next example we change coda "o" into "a" to make nouns from time adject
 
 Notes: Using coda "e" we create plural from word "nova" that is translated: "news"
 
-* jo taru la nove de Europa!  = I bring the news from Europe;
+* io taru la nove de Europa!  = I bring the news from Europe;
 * tu taru ke nove de Weta?    = you bring what news from West?
 
 **Prepositions:** 
 
 ku = with (compozition), di = from (composition)
 
-* jo doru dua weve ku kesa = I with two eggs with cheese
-* jo qeru una omla di kesa = I ask for one omelet with cheese
+* io doru dua weve ku kesa = I with two eggs with cheese
+* io qeru una omla di kesa = I ask for one omelet with cheese
 
 
 **Category of prepositions**
@@ -76,14 +76,14 @@ Preposition can be considered in this categories:
 
 You can create composite adjective to refer the number of occurrences for events or actions:
 
-foa  = repetition/ number of times
+fwa  = repetition/ number of times
 
 **using repetition**
-* un'foa = once 
-* du'foa = two times
-* re'foa = tbree times
+* un'fwa = once 
+* du'fwa = two times
+* ru'fwa = three times
 ....
-* ni'foa = never
+* ni'fwa = never
 
 
 **Related nouns**
@@ -124,7 +124,7 @@ Repetitive situations are using prepositions "omi"
 
 In contrast with "foa" that can specify more precise how many times:
 
-* repu nam ok'foa omi ora  = repeat for eight times every our 
+* repu nam ok'fwa omi ora  = repeat for eight times every our 
 
 ## Agent & Tools
 
@@ -239,7 +239,6 @@ Conjunctive preposition is a word used to connect ideas and arguments in a sente
  asi | so      | as consequence
  axa | right   | correct, agree with
  ero | because | as, since, cause of a consequence
- uba | but     | alternative
  poi | then    | time consequence
  asi | thus    | therefore, hence, so, then, thus 
  ado | and     | also
@@ -260,7 +259,7 @@ Conjunction is used when...
 * an idea you have, depends on another idea;
 * you want to add a new idea into an existing one;
   
-**Maj:** abh = but
+**Maj:** da = but
     
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -268,14 +267,14 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:**  uel = or
+**Maj:**  odh = or
 
-* cyma  = cinema
+* qima  = cinema
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
-* yrdu  = to go
+* vadu  = to go
 
-nu yrdu cu cyma uel yrdu cu goxa;
-We go to cinema or we go to supermarket
+nu vadu cu qima odh cu meka;
+We go to cinema or to supermarket
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -283,9 +282,9 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to cinema or we go to supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:**  etu  = and
+**Maj:**  iku  = and
 
-Marc etu Alice andu'ra la plaia;
+Marco iku Alice andu'ia la plaia;
 
 
 Lang    | Word   |  Example
