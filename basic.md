@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ia, 'da, 'ra };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'go, 'da, 'ra };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
@@ -66,7 +66,7 @@ Is a word that can function as a noun in a phrase to refer either to the partici
 
 I Nominative | Singular | Plural
 -------------|----------|--------------
-  1          | io       | nu
+  1          | jo       | nu
   2          | tu       | vu
   3          | su, lo   | zu, lo
 
@@ -84,7 +84,7 @@ III Posesiv  | Singular | Plural
 
 IV Reflexiv  | Singular | Plural
 -------------|----------|--------------
-  1          | io mh    | nu ne
+  1          | jo mh    | nu ne
   2          | tu te    | vu vh
   3          | su se    | zu zh
 
@@ -94,7 +94,7 @@ Is the person or the thing who perform the action.
 
   ps |singular          | plural
 -----|------------------|-----------------------------
-  1  | io = I           | nu  = we
+  1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
   4  | lo = it          | lu  = they
@@ -158,13 +158,13 @@ Maj has two reflexive forms: firs is using pronoun
 
 singular                | plural
 ------------------------|--------------------------------
- io mh = myself         | nu ne = ourself 
+ jo mh = myself         | nu ne = ourself 
  tu te = yourself       | vu vh = yourselves
  su se = himself,itself | zu zh = themselves
 
 **examples**
 
-* io mh joku = I'm playing
+* jo mh joku = I'm playing
 * tu te joku = you are playing
 * su se joku = he is playing
 
@@ -178,7 +178,7 @@ singular                   | plural
 
 **examples**
 
-* io levu sifo = I am washing myself
+* jo levu sifo = I am washing myself
 * su wazu sifo = he is resting himself
 * tu joku solo = you are playing by yourself
 
@@ -194,7 +194,7 @@ Verb is a word used to describe an action, state, or occurrence, and forming the
 
 joku = to play
 
-* io joku  = I play
+* jo joku  = I play
 * tu joku  = you play
 * zu joku  = he play
 * nu joku  = we play
@@ -207,19 +207,19 @@ There is much more about: [verbs](verbs.md)
 
 Sometimes we use adverbs to augment the verb:
 
-* io joku'ia suvo = I play indeed often
-* nu joku'fu moxo = we will play soon
-* zu joku'be reqo = they have played recently
+* jo joku'go suvo = I play indeed often
+* nu joku'do moxo = we will play soon
+* zu joku'vo reqo = they have played recently
 
 **composite**
 
-fwa = times (* = ora)
+xai = times ( x = ora)
 
-* ni'fwa  = never
-* un'fwa  = once 
-* du'fwa  = twice
-* ru'fwa  = three times
-* im'fwa  = forever
+* ni'xai  = never
+* un'xai  = once 
+* du'xai  = twice
+* ri'xai  = three times
+* im'xai  = forever
 
 **using numerals**
 
@@ -227,7 +227,7 @@ lio  = place (French lieu)
 
 * un'lio  = first  place
 * du'lio  = second place
-* ru'lio  = third   place
+* ri'lio  = third   place
 * ni'lio  = last place
 
 ## Proposition
@@ -236,8 +236,8 @@ Structure of proposition: Subject + verb'time + objective + adverb.
 
 verb: vidu  = to see
 
-* io vidu tu un'fwa!  = I seen you one time!
-* su vidu vu ni'fwa!  = He never seen y'all!
+* jo vidu tu un'xai!  = I seen you one time!
+* su vidu vu ni'xai!  = He never seen y'all!
 * tu vidu mi suv!     = You will see me often!
 * nu podo sh vidu zu! = We can see them!
 

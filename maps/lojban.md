@@ -1,6 +1,6 @@
 # Lojban Reference:
 
-* https://lojban.github.io/cll/
+* https://lojban.github.jo/cll/
 * https://en.wiktionary.org/wiki/Appendix:Lojban
 
 # Lojban Thesaurus

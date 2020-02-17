@@ -23,6 +23,6 @@ lwa   |away         |lejos
 Adverb is usually placed after the verb: SVA order (Subject Verb Adverb)
 
 * tu te joku ako; = You play too;
-* io mh joku ufo; = I play sometimes; 
+* jo mh joku ufo; = I play sometimes; 
 
 

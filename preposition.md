@@ -27,7 +27,7 @@ The object can be a composite object described with more then one word:
 
 Note: In next example we change coda "o" into "a" to make nouns from time adjectives:
 
-* io vobu'da una saga da la nova = I will tell a stories about the present
+* jo vobu'da una saga da la nova = I will tell a stories about the present
 * tu vobu'da una saga da la dopa = you will tell a story about the future
 * su vobu'da una saga da la rama = he will tell a story about the past
 
@@ -35,15 +35,15 @@ Note: In next example we change coda "o" into "a" to make nouns from time adject
 
 Notes: Using coda "e" we create plural from word "nova" that is translated: "news"
 
-* io taru la nove de Europa!  = I bring the news from Europe;
+* jo taru la nove de Europa!  = I bring the news from Europe;
 * tu taru ke nove de Weta?    = you bring what news from West?
 
 **Prepositions:** 
 
 ku = with (compozition), di = from (composition)
 
-* io doru dua weve ku kesa = I with two eggs with cheese
-* io qeru una omla di kesa = I ask for one omelet with cheese
+* jo doru dua weve ku kesa = I with two eggs with cheese
+* jo qeru una omla di kesa = I ask for one omelet with cheese
 
 
 **Category of prepositions**
@@ -76,14 +76,14 @@ Preposition can be considered in this categories:
 
 You can create composite adjective to refer the number of occurrences for events or actions:
 
-fwa  = repetition/ number of times
+xai  = repetition/ number of times
 
 **using repetition**
-* un'fwa = once 
-* du'fwa = two times
-* ru'fwa = three times
+* un'xai = once 
+* du'xai = two times
+* ri'xai = three times
 ....
-* ni'fwa = never
+* ni'xai = never
 
 
 **Related nouns**
@@ -124,7 +124,7 @@ Repetitive situations are using prepositions "omi"
 
 In contrast with "foa" that can specify more precise how many times:
 
-* repu nam ok'fwa omi ora  = repeat for eight times every our 
+* repu nam ok'xai omi ora  = repeat for eight times every our 
 
 ## Agent & Tools
 
@@ -284,7 +284,7 @@ Spanish | o      | Vamos al cine o vamos al supermercado
 
 **Maj:**  iku  = and
 
-Marco iku Alice andu'ia la plaia;
+Marco iku Alice andu'go la plaia;
 
 
 Lang    | Word   |  Example

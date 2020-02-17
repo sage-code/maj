@@ -12,7 +12,7 @@ When used in text or expressions, symbols can have associated a name:
 
 Symbol | Maj    | English
 -------|--------|---------------------
-`x	`  | fwa	| Times
+`x	`  | xai	| Multiply (times)
 `\	`  | bla	| Backward slash
 `()	`  | bra	| Round brackets
 `:	`  | epa	| Colon
@@ -51,11 +51,11 @@ x | maj  | xx | maj          | xx | maj    |
 0 | nil  | 10 | un'cen+nil   |    |        |
 1 | una  | 11 | un'cen+una   | 10 | un'cen |
 2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
-3 | rua  | 13 | un'cen+rua   | 30 | ru'cen |
+3 | ria  | 13 | un'cen+ria   | 30 | ri'cen |
 4 | qua  | 14 | un'cen+qua   | 40 | qu'cen |
-5 | fea  | 15 | un'cen+fea   | 50 | fe'cen |
-6 | sia  | 16 | un'cen+sia   | 60 | si'cen |
-7 | xoa  | 17 | un'cen+xoa   | 70 | xo'cen |
+5 | fia  | 15 | un'cen+fia   | 50 | fi'cen |
+6 | soa  | 16 | un'cen+soa   | 60 | so'cen |
+7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
@@ -70,19 +70,19 @@ x | maj  | xx | maj          | xx | maj    |
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... rua dua una nil ado lazu!
+* ... ria dua una nil ado lazu!
                                          
 ## Ordinals
          
-Repeting time is created using `kota` = number
+Repeting time is created using `xai` = x (times)
 
-* ni'kota = not even once (never)
-* un'kota = once
-* du'kota = twice
-* ru'kota = three times
+* ni'xai = not even once (never)
+* un'xai = once
+* du'xai = twice
+* ri'xai = three times
 * ...
-* ce'kota = then times
-* im'kota = forever
+* ce'xai = then times
+* im'xai = forever
           
 **positional**
 
@@ -94,7 +94,7 @@ Franch:  lieu,  ordre, position
 
 * un'lysa = first place
 * du'lysa = second place
-* ru'lysa = third place
+* ri'lysa = third place
 
 ## Level 2
 
@@ -105,15 +105,15 @@ Franch:  lieu,  ordre, position
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  si'sute
- 200 |  du'sute  |  700 |  xo'sute
- 300 |  ru'sute  |  800 |  ok'sute
+ 100 |  un'suta  |  600 |  so'sute
+ 200 |  du'sute  |  700 |  xe'sute
+ 300 |  ri'sute  |  800 |  ok'sute
  400 |  qu'sute  |  900 |  no'sute
- 500 |  fe'sute  | 1000 |  un'mila
+ 500 |  fi'sute  | 1000 |  un'mila
 
 
-* 125 = un'suta+du'cen+fea
-* 555 = fe'sute+fe'cen+fea
+* 125 = un'suta+du'cen+fia
+* 555 = fi'sute+fi'cen+fia
 * 801 = ok'sute+una
 
 
@@ -121,24 +121,24 @@ Franch:  lieu,  ordre, position
 
 * 1,000 = un'mila
 * 2,000 = du'mile
-* 3,000 = ru'mile
+* 3,000 = ri'mile
 * 4,000 = qu'mile
-* 5,000 = fe'mile
-* 6,000 = si'mile
-* 7,000 = xo'mile
+* 5,000 = fi'mile
+* 6,000 = so'mile
+* 7,000 = xe'mile
 * 8,000 = ok'mile
-* 9,000 = nu'mile
+* 9,000 = no'mile
 
 
 **Millions  = milona/milone**
 
-For millions we do not use prefix.
+For the millions we do not use prefix.
 
 1,000,000  = milona
 
 * 1,000,000 = una milona
 * 2,000,000 = dua milone
-* 3,000,000 = rua milone
+* 3,000,000 = ria milone
 * ...
 * 9,000,000 = noa milone
 
@@ -152,7 +152,7 @@ For billions we do not use prefix.
 
 * 1,000,000,000 = una bilona
 * 2,000,000,000 = dua bilone
-* 3,000,000,000 = rua bilone
+* 3,000,000,000 = ria bilone
 * ...
 * 9,000,000,000 = noa bilone
 
@@ -166,18 +166,18 @@ vala = value
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du vala        | two values
-8   | ok vala        | eight values
-16  | un'cen+sia     | short integer
-32  | qua x okva     | integer
-64  | oka x okva     | long integer
+0/1 | du'vale        | two values
+8   | ok'vale        | eight values
+16  | dua xai okva   | short integer
+32  | qua xai okva   | integer
+64  | oka xai okva   | long integer
 
 Reading: 
 
-x = bai
+x = xai
 
-* dua x okva = Maj:"dua bai okva"
-* oka x okva = Maj:"oka bai okva"
+* dua x okva = Maj:"dua xai okva"
+* oka x okva = Maj:"oka xai okva"
 
 
 

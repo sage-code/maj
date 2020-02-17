@@ -113,7 +113,7 @@ Things, titles and events start with uppercase.
 **note:* The word Kapth represents an occupation. Sometimes the occupation becomes the occupation and is considered proper noun. So it can be written with uppercase or lowercase. Ocupation names also can terminate in "h". 
 
 * tu es la Kapta = you are the captain
-* io doru bo kapth = I wish to be captain
+* jo doru bo kapth = I wish to be captain
 
 ## Prefix particles
 

@@ -11,7 +11,7 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 **examples:**
 
-* io leru = I read
+* jo leru = I read
 * tu xaku = you study
 * su muka = he works
 
@@ -19,20 +19,20 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 The affirmative is usually build without preposition or suffix, but sometimes it is:
 
-* si io leru'ia = yes I'm playing
-* si su joku'ia = yes he is playing
+* ia jo leru'go = yes I'm playing
+* ia su joku'go = yes he is playing
 
 Close to afirmative is preposition "iko" = still, or verb "kotu" = to continue.
 
-* io ynkh leru = I still read indeed
-* io kotu sh leru = I continue to read
+* jo ynkh leru = I still read indeed
+* jo kotu sh leru = I continue to read
 
 ## Negative
 
 In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
 
-* io pa leru'ia = I do not read now
-* ia io leru'pa = now I do not read
+* jo pa leru'go = I do not read now
+* ia jo leru'pa = now I do not read
 
 ## Conditional
 
@@ -40,9 +40,9 @@ An action that was not realized is created using suffix "re"
 
 suffix: ra <= would have / should have
 
-* io leru'ra da su mi lexu'pa = I would have read but he didn't let me
-* io pa leru'be poi su mi lexu'pa = I have not read because he do not let me
-* io dotu leru asi su dovu sh lexu'me en paqa = I have a debt to read so you have to let me alone
+* jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
+* jo pa leru'vo poi su mi lexu'pa = I have not read because he do not let me
+* jo dotu leru asi su dovu sh lexu'me en paqa = I have a debt to read so you have to let me alone
 
 ## Verb conjugation
 
@@ -52,15 +52,21 @@ Noun: tesa = time
 
  Suffix  | Related Noun     
 ---------|--------------
- fu      | futa   = future
- ia      | iaka   = now
- be      | befo   = before
+ do      | doxa   = future
+ go      | goxa   = present
+ vo      | voxa   = past
 
 **examples:**
 
-* io joku'fu = I will play
-* tu joku'ia = you are playing
-* su joku'be = he was playing
+* jo joku'do = I will play
+* tu joku'go = you are playing
+* su joku'vo = he was playing
+
+**alternative:**
+
+* jo mh joku'do en la futa
+* tu te joku'go en la nova
+* su se joku'vo en la pasa
 
 ## Imperative form
 
@@ -78,9 +84,9 @@ For imperative case, you must use an auxiliary verb:
 
 Preposition: di = about
 
-* io diku'be una saga di la pasa! = I have told a story about the past!
-* tu diku'ia una saga di la futa! = you will talk now about the future!
-* nu diku'fu una saga di la iaka! = we will talk about the present!
+* jo diku'vo una saga di la pasa! = I have told a story about the past!
+* tu diku'go una saga di la futa! = you will talk now about the future!
+* nu diku'do una saga di la iaka! = we will talk about the present!
 
 ## Verb transformation
 
@@ -93,8 +99,8 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 **examples:**
 
 * tu seru'ra la joka de zu   = you have been his game;
-* io seru'be la tu joka      = I'm not your game;
-* tu seru'ia joko            = you are playful now;
+* jo seru'vo la tu joka      = I'm not your game;
+* tu seru'go joko            = you are playful now;
 
 ## Reflexive form
 
@@ -102,9 +108,9 @@ When you refer to some action performed by somebody on himself.
 
 **direct reflexive:**
 
-* io mh joku'ia = I'm playing
-* tu te joku'ia = you are playing
-* zu se joku'ia = he is playing
+* jo mh joku'go = I'm playing
+* tu te joku'go = you are playing
+* zu se joku'go = he is playing
 
 **polite reflexive:**
 
@@ -144,8 +150,8 @@ In next examples we use two verbs:
 
 The following two messages convey the same message:
 
-* tu boku'ia malo  = you are becoming bad
-* tu boku'be soxo  = you have get dirty
+* tu boku'go malo  = you are becoming bad
+* tu boku'vo soxo  = you have get dirty
 * jo doru sh boku algo = I wish to become somebody
 
 **Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
@@ -155,8 +161,8 @@ The following two messages convey the same message:
 
 In next example "besa" is a noun but can become verb:
 
-* io doru tu daru'mi una besa = I wish you give me a kiss
-* io dour tu besu'mi = I wish you kiss me
+* jo doru tu daru'mi una besa = I wish you give me a kiss
+* jo dour tu besu'mi = I wish you kiss me
 
 ## Related words
 
@@ -168,8 +174,8 @@ In next example we use root word "lufa" that means influence to create two other
 
 **example 1:**
 
-* io lofu'be zu   = I have influenced him
-* tu seru'be lofu = You have been influenced
+* jo lofu'vo zu   = I have influenced him
+* tu seru'vo lofu = You have been influenced
 
 Another good example of verb root is "gema" that means money.
 
@@ -179,10 +185,10 @@ Another good example of verb root is "gema" that means money.
 
 **example 2:**
 
-* tu raku'be mi vuza   = you have broken my camera
-* tu hodu'ia una dota  = you now hold a dept
-* tu dovu'fu sh gemu   = then you have to pay
-* la dota sonu'fu gemo = the debt will be payed
+* tu raku'vo mi vuza   = you have broken my camera
+* tu hodu'go una dota  = you now hold a dept
+* tu dovu'do sh gemu   = then you have to pay
+* la dota sonu'do gemo = the debt will be payed
 
 ## Subjunctive mod
 
@@ -190,13 +196,13 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 **example 1:**
 
-* io povu sh fabu pana = I can make bred
+* jo povu sh fabu pana = I can make bred
 * su povu sh domu paqo = he can sleep peacefully
 
 **example 2:**
 
 * vh favu mi daru la vora? = please give me the order
-* io voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru'be = the order was given
+* jo voru la hola ku keso! = I want the omelet with cheese
+* la vora se daru'vo = the order was given
 
 **Read next about:** [adverbs](adverbs.md)
