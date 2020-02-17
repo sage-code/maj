@@ -60,33 +60,9 @@ In dictionary the root is using a particular coda, to avoid a large dictionary.
 
 Is a word that can function as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
 
-* pronoun has 3 persons (I, II, III)
-* pronoun has 3 cases: nominative, objective, possessive
+* pronoun has 3 persons (I, II, III, IV)
 * pronoun has 2 numeral forms: singular and plural
-
-I Nominative | Singular | Plural
--------------|----------|--------------
-  1          | jo       | nu
-  2          | tu       | vu
-  3          | su, lo   | zu, lo
-
-II Objective | Singular | Plural
--------------|----------|--------------
-  1          | mie      | nowh
-  2          | cie      | vowh
-  3          | sie      | zowh
-
-III Posesiv  | Singular | Plural
--------------|----------|--------------
-  1          | mia      | nua
-  2          | tua      | vua
-  3          | sua      | zua
-
-IV Reflexiv  | Singular | Plural
--------------|----------|--------------
-  1          | jo mh    | nu ne
-  2          | tu te    | vu vh
-  3          | su se    | zu zh
+* pronoun has 5 cases: nominative, dative, genitive, accusative and genitive
 
 **Nominative**
 
@@ -110,15 +86,15 @@ Indicate the person or object recipient of an action.
 ----|--------------------|-----------------------------
  1  | mie = to me        | nowh = to us   
  2  | cie = to you       | vowh = to y'all
- 3  | sie = to him/her   | zowh = to them 
+ 3  | sie = to him/her/it| zowh = to them 
 
 **unstressed**
 
- ps | singular            | plural     
-----|---------------------|-----------------------------
- 1  | cu me = to me       | cu nu  = to us   
- 2  | cu te = to you      | cu vu  = to y'all
- 3  | cu se = to him/her  | cu zu  = to them 
+ ps | singular             | plural     
+----|----------------------|-----------------------------
+ 1  | cu me = to me        | cu nu  = to us   
+ 2  | cu te = to you       | cu vu  = to y'all
+ 3  | cu se = to him/her/it| cu zu  = to them 
 
  
 **Genitive**
@@ -131,7 +107,7 @@ singular              | plural
 ----------------------|--------------------------------
  mia = mine           | nua = ours
  tua = yours          | vua = yours
- sua = his, hers, its | zua = theirs
+ sua = his/hers/its   | zua = theirs
 
 **stressed:** 
 
@@ -150,7 +126,6 @@ This case expresses the object of an action or the goal of motion.
  pe mine = on me     | pe noi omi = on us all
  pe tine = on you    | pe voi omi = on you all
  pe sine = on him    | pe zhi omi = on they all
-
 
 **Reflexive**
 
