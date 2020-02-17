@@ -144,8 +144,9 @@ In next examples we use two verbs:
 
 The following two messages convey the same message:
 
-* tu boku malo  = you become bad
-* tu boku soxo  = you get dirty
+* tu boku'ia malo  = you are becoming bad
+* tu boku'be soxo  = you have get dirty
+* jo doru sh boku algo = I wish to become somebody
 
 **Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
 
