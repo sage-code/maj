@@ -36,7 +36,7 @@ In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
 
 ## Conditional
 
-An action that was not realized is created using suffix "re"
+An action that was not realized is created using suffix "ra".
 
 suffix: ra <= would have / should have
 
