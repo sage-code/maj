@@ -284,7 +284,7 @@ Spanish | o      | Vamos al cine o vamos al supermercado
 
 **Maj:**  iku  = and
 
-Marco iku Alice andu'go la plaia;
+Marco iku Alice andu'ga la plaia;
 
 
 Lang    | Word   |  Example

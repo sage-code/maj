@@ -42,7 +42,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **coda:**
 
 * Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'go, 'da, 'ra };
+* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ga, 'da, 'ra };
 * Adjectives and Adverbs are finalized with { "o", "e" }
 * Prepositions are two or three letter long and do not have coda;
 
@@ -180,9 +180,9 @@ There is much more about: [verbs](verbs.md)
 
 Sometimes we use adverbs to augment the verb:
 
-* jo joku'go suvo = I play indeed often
+* jo joku'ga suvo = I play indeed often
 * nu joku'do moxo = we will play soon
-* zu joku'bo reqo = they have played recently
+* zu joku'be reqo = they have played recently
 
 **composite**
 
@@ -362,12 +362,12 @@ sonu = to be
 3. Descriptive article _descriptive form:_
 
 * de pe = of the
+* de la = from the
 
 **example:**
 
-* English: the freckles of my face
-* Spanish: las pecas de mi cara
-* Maj: le peqe de pe faca mia
+* le peqe de pe faca mia = the freckles of my face
+* jo sonu de la Romhnia  = I'm from the Romania
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
@@ -383,29 +383,31 @@ In Maj: indefinite article is resolved by using _numeral articles_.
 
 * emo = any
 * oni = every
-* amo = all
-* mua = many
+* omi = all
 * plu = more 
-* pao = few
-* van = several (some)
+* mio = few
 * ago = some 
 * ixo = approximative
 
-Common noun is using plural "e" or singular "a" with different articles:
+Noun can use plural "e" or singular "a" with different articles:
 
-* una mela = one apple
-* dua mele = two apples
-* oni mela = every apple
-* emi mela = any apple
-* ago mele = some apples
-* amo mele = all apples
-* mua mele = many apples
-* ixo cen male = approximative 10 apples
+**singular**
 
-Invariant noun is terminated in "s" or other consonant:
+* emo Maza = any apple
+* oni Maza = every apple
 
-* pao Mercedes = few Mercedes 
+**plural**
+
+* omi Maze = all apples
+* plu Maze = more apples
+* mio Maze = fewer apples
+* ago Maze = some apples
+* ixo cen Maze = approximative 10 apples
+
+Invariant noun terminated with consonant do not vary with the number:
+
 * emo Mercedes = any Mercedes 
+* ago Mercedes = some Mercedes 
 
 **read next:**
 

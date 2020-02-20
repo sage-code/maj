@@ -38,7 +38,7 @@ Nouns ending with "a" can have plural form, replacing "a" with "e":
 * pana   = bread  (singular)
 * pane   = breads (plural)
 
-Nouns ending in a consonant do not have plural. In rare examples though looks like:
+Nouns ending in a consonant do not have plural. 
 
 * Xenina = oak tree
 * Xenine = several oak tree
@@ -46,7 +46,7 @@ Nouns ending in a consonant do not have plural. In rare examples though looks li
 
 **gender:**
 
-In Maj, nouns do not have a specific ending for genre. You can use an adjective:
+In Maj, nouns do not have a specific ending for genre. 
 
 * maqo Kania = male dog 
 * fimo Kania = female dog 
@@ -62,10 +62,11 @@ Some words include gender and do not require adjective.
 
 **adjectives:**
 
-In maj you can use an adjective before or after the noun to describe some of its properties: 
+In Maj you can use an adjective before or after the noun to describe some of its properties: 
 
-* eta Kania es niso = this dog is nice
-* eta niso Kania es mia = this nice dog is mine
+* eta Kania sonu niso = this dog is nice
+* eta Katia haru niso hera = this dog has nice hear
+* eta niso Kania posu mia = this nice dog is mine
 
 **composite:**
 
@@ -75,8 +76,6 @@ Sometimes an adjective + noun can have a new meaning that may be translated to o
 * kaso dona = housewife
 * novo djia = tomorrow
 * veho djia = yesterday
-
-
 
 ## Invariant nouns
 
@@ -114,60 +113,39 @@ Things, titles and events start with uppercase.
 
 * tu es la Kapta = you are the captain
 * jo doru bo kapth = I wish to be captain
-
-## Prefix particles
-
-Sometimes we use a preposition determinant as prefix to create a new meaning for words:
-
-* pa  = not  - create antonyms
-* ma  = may  - purpose / possible
-* 
-
-**examples:**
-
-* ma-bebo = for drink
-* pa-bebo = not for drink
-* bu-gera = anti war
-   
-## Noun suffixes
-
-* You can add a suffix to a noun to add information about the noun properties.
-* After root you can use apostrophe `'` to connect with a suffix.
-
-You can use suffix to create a composite word for representing nouns:
+  
 
 ## Diminutives (small)
 
-Maj enable diminutives (likable) using suffix "i'ca". 
-
-ca = caga = sugar
+Maj enable diminutives (likable) using coda "i" instead of "u". 
 
 **close persons**
 
-* xero Mami'ca  = "dear mother"
-* xero Papi'ca  = "dear father"
+* xero Mami  = "dear mother"
+* xero Papi  = "dear father"
 
 **animals (pets)**
 
-* Katia = cat
-* Kania = dog
-
-* nito Kati'ca => nice kitty
-* nito Kani'ca => nice doggy
+* nito Kati => nice kitty
+* nito Kani => nice doggy
 
 **note:** Proper nouns (names of places or persons) do not support diminutives.
 
-## Superlative (large)
+## Superlative
 
-For substantive larger then usual, you can use ending: "o'ga"
+Some adjectives are called superlative, making things bigger or better:
 
-* gaso = large
+* lago = large
+* gaso = fat
 * ingo = huge
+* cibo = inteligent
 
 **examples:**
 
-* eta ingo Kato'ga => this large kitten
-* eta gaso Kano'ga => this large dog
+* eta ingo Katina => this huge kitten
+* eta cibo Kania  => this smart dog
+* eta lago Bovina => this large cow
+* eta gaso Ovina  => this fat sheep
 
 ## Group words
 
@@ -184,24 +162,26 @@ For a scientific group of words we use plural + suffix "o'xa"
 * la vego'xa = the science of vegetables
 * la vivo'xa = the science of leaving beans
 
-## First nouns
+## Some nouns
 
-First nouns examples represent close persons:
+Person nouns start with uppercase letters:
 
-**Simple nouns**
+Huma    = human (man or women)
 
 Maj     | English        | Romanian
 --------|----------------|-----------------
 Mama    | mother         | mama
-Tata    | father         | tata
-Nana    | grand mother   | bunica
-Papa    | grand father   | bunicu
-Homa    | men            | bărbat
-Fema    | women          | femeie
-Frea    | brother        | frate
+Papa    | father         | tata
+Nana    | babysitter     | îngrijitoare
+Gama    | grand mother   | bunica
+Gapa    | grand father   | bunicu
+Vira    | men            | bărbat
+Geta    | gentlemen      | domn
+Dona    | women          | doamna
+Buda    | brother        | frate
 Sora    | sister         | soră
-Bobo    | beby           | bebelus
-       
+Bobo    | beby           | bebelus   
+
 
 See next: [preposition](preposition.md)
 

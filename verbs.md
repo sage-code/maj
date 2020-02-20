@@ -12,6 +12,20 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 * tu moku = you eat
 * su xaku = he study
 
+## Verb transformation
+
+Verb can be used as noun by changing coda from "u" to {"a", "o"}.
+
+* joku = play / trick
+* joka = game / fool
+* joko = playful/ joking
+
+**examples:**
+
+* tu seru'be la joka de zu = He trick you;
+* jo seru'pa la tu joka    = I'm not your fool;
+* tu seru'ga joko          = you are joking;
+
 ## Time conjugation
 
 In Maj verb conjugation is done done by adding a suffix after the coda "u".
@@ -21,14 +35,14 @@ Noun: tesa = time
  Suffix  | Meaning | Related Noun     
 ---------|---------|------------
  do      | after   | futa   = future
- go      | now     | nova   = present
- bo      | before  | pasa   = past
+ ga      | now     | nova   = present
+ be      | before  | pasa   = past
 
 **examples:**
 
 * jo leru'do = I will read
-* tu moku'go = you are eating
-* su xaku'bo = he has study
+* tu moku'ga = you are eating
+* su xaku'be = he has study
 
 ## Nominative
 
@@ -41,8 +55,8 @@ In this case the verb represent an action done by the subject or done to the sub
 
 **specify time**
 
-* jo xatu'go en la luva    = I'm singing in the rain
-* jo vezu'bo su en la luva = I have seen him in the rain
+* jo xatu'ga en la luva    = I'm singing in the rain
+* jo vezu'be su en la luva = I have seen him in the rain
 
 ## Reflexive case
 
@@ -50,41 +64,50 @@ In this case the subject is doing something for himself.
 
 **examples:**
 
-* jo mh lavu'go = I'm wash myself
-* tu te miru'go = you are looking at yourself
-* su se joku'go = he is playing
+* jo mh lavu'ga = I'm wash myself
+* tu te miru'ga = you are looking at yourself
+* su se joku'ga = he is playing
 
 ## Interrogative
 
 To ask someone if is doing something you can use "ke" interrogative preposition.
 
 * ke faru tu?  = what are you doing?
-* tu leru'go?  = are you reading?
+* tu leru'ga?  = are you reading?
+
+**infinitive response**
+
+For infinitive response "si" and "pa" can be used as verb suffix.
+
+* jo si leru = I do read
+* jo pa leru = I do not read
+
+**specify time**
+
+The affirmative can be created with prepositions "si" and "pa". By using the preposition you can specify the time so the information is complete.
+
 
 **affirmative**
 
-The affirmative can be created with preposition "si" that means "yes":
-
-* jo leru jao    = then I read
-* si jo leru'go  = yes I read now
-* si jo iko leru = yes I still read
+* si jo leru'ga  = yes I read now
+* si jo leru'do  = yes I will read
+* si jo leru'be  = yes I have read
 
 **negative**
 
-In Maj any verb cab be negated in two ways: Using preposition or suffix "pa".
+* jo pa leru'ga = I'm not reading
+* jo pa leru'do = I will not read 
+* jo pa leru'be = I have not read
 
-* jo pa leru'go = I do not read now
-* go jo leru'pa = now I do not read
 
 ## Conditional
 
-An action that was not realized is created using suffix "ra".
+An action that is not realized is created using suffix "ra".
 
 suffix: ra <= would have / should have
 
 * jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
-* jo pa leru'bo kh su mi lexu'pa = I have not read because he do not let me
-* jo dovu leru, axa kh lesu'me en paqa = I have to read, so let me alone
+* tu leru'ra da tu te domu'be = You would have read but you have fall asleep
 
 ## Imperative
 
@@ -102,23 +125,9 @@ For imperative case, you must use an auxiliary verb:
 
 Preposition: di = about
 
-* jo diku'bo una saga di la pasa! = I have told a story about the past!
-* tu diku'go una saga di la futa! = you will talk now about the future!
+* jo diku'be una saga di la pasa! = I have told a story about the past!
+* tu diku'ga una saga di la futa! = you will talk now about the future!
 * nu diku'do una saga di la nova! = we will talk about the present!
-
-## Verb transformation
-
-Verb can be used as noun by changing coda from "u" to {"a", "o"}.
-
-* joku = play
-* joka = game
-* joko = playful
-
-**examples:**
-
-* tu seru'ra la joka de zu   = you have been his game;
-* jo seru'bo la tu joka      = I'm not your game;
-* tu seru'go joko            = you are playful now;
 
 ## Reflexive form
 
@@ -126,9 +135,9 @@ When you refer to some action performed by somebody on himself.
 
 **direct reflexive:**
 
-* jo mh joku'go = I'm playing
-* tu te joku'go = you are playing
-* zu se joku'go = he is playing
+* jo mh joku'ga = I'm playing
+* tu te joku'ga = you are playing
+* zu se joku'ga = he is playing
 
 **polite reflexive:**
 
@@ -168,8 +177,8 @@ In next examples we use two verbs:
 
 The following two messages convey the same message:
 
-* tu boku'go malo  = you are becoming bad
-* tu boku'bo soxo  = you have get dirty
+* tu boku'ga malo  = you are becoming bad
+* tu boku'be soxo  = you have get dirty
 * jo doru sh boku algo = I wish to become somebody
 
 **Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
@@ -192,8 +201,8 @@ In next example we use root word "lufa" that means influence to create two other
 
 **example 1:**
 
-* jo lofu'bo zu   = I have influenced him
-* tu seru'bo lofu = You have been influenced
+* jo lofu'be zu   = I have influenced him
+* tu seru'be lofu = You have been influenced
 
 Another good example of verb root is "gema" that means money.
 
@@ -203,8 +212,8 @@ Another good example of verb root is "gema" that means money.
 
 **example 2:**
 
-* tu raku'bo mi vuza   = you have broken my camera
-* tu hodu'go una dota  = you now hold a dept
+* tu raku'be mi vuza   = you have broken my camera
+* tu hodu'ga una dota  = you now hold a dept
 * tu dovu'do sh gemu   = then you have to pay
 * la dota sonu'do gemo = the debt will be payed
 
@@ -221,6 +230,6 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 * vh favu mi daru la vora? = please give me the order
 * jo voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru'bo = the order was given
+* la vora se daru'be = the order was given
 
 **Read next about:** [adverbs](adverbs.md)
