@@ -52,9 +52,9 @@ x | maj  | xx | maj          | xx | maj    |
 1 | una  | 11 | un'cen+una   | 10 | un'cen |
 2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
 3 | ria  | 13 | un'cen+ria   | 30 | ri'cen |
-4 | qua  | 14 | un'cen+qua   | 40 | qu'cen |
-5 | fia  | 15 | un'cen+fia   | 50 | fi'cen |
-6 | soa  | 16 | un'cen+soa   | 60 | so'cen |
+4 | foa  | 14 | un'cen+foa   | 40 | fo'cen |
+5 | qia  | 15 | un'cen+qia   | 50 | qi'cen |
+6 | zoa  | 16 | un'cen+zoa   | 60 | zo'cen |
 7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
@@ -76,13 +76,17 @@ Let's count a rocket launch:
          
 Repeting time is created using `xai` = x (times)
 
-* ni'xai = not even once (never)
-* un'xai = once
-* du'xai = twice
-* ri'xai = three times
+Question: de xai kotu   = how many times
+
+* 0x = ni'xai = never
+* 1x = un'xai = once
+* 2x = du'xai = twice
+* 3x = ri'xai = three times
+* 4x = fo'xai = for times
+* 5x = qi'xai = five times
 * ...
-* ce'xai = then times
-* im'xai = forever
+* 10x = ce'xai = then times
+* +x  = po'xai = forever
           
 **positional**
 
@@ -105,15 +109,15 @@ Franch:  lieu,  ordre, position
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  so'sute
+ 100 |  un'suta  |  600 |  zo'sute
  200 |  du'sute  |  700 |  xe'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  qu'sute  |  900 |  no'sute
- 500 |  fi'sute  | 1000 |  un'mila
+ 400 |  fo'sute  |  900 |  no'sute
+ 500 |  qi'sute  | 1000 |  un'mila
 
 
-* 125 = un'suta+du'cen+fia
-* 555 = fi'sute+fi'cen+fia
+* 125 = un'suta+du'cen+qia
+* 555 = qi'sute+qi'cen+qia
 * 801 = ok'sute+una
 
 
@@ -122,9 +126,9 @@ Franch:  lieu,  ordre, position
 * 1,000 = un'mila
 * 2,000 = du'mile
 * 3,000 = ri'mile
-* 4,000 = qu'mile
-* 5,000 = fi'mile
-* 6,000 = so'mile
+* 4,000 = fo'mile
+* 5,000 = qi'mile
+* 6,000 = zo'mile
 * 7,000 = xe'mile
 * 8,000 = ok'mile
 * 9,000 = no'mile
@@ -169,7 +173,7 @@ bits| maj            | description
 0/1 | du'vale        | two values
 8   | ok'vale        | eight values
 16  | dua xai okva   | short integer
-32  | qua xai okva   | integer
+32  | foa xai okva   | integer
 64  | oka xai okva   | long integer
 
 Reading: 
@@ -178,8 +182,6 @@ x = xai
 
 * dua x okva = Maj:"dua xai okva"
 * oka x okva = Maj:"oka xai okva"
-
-
 
 Griat!
 

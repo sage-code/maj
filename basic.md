@@ -60,7 +60,7 @@ In dictionary the root is using a particular coda, to avoid a large dictionary.
 
 Is a word that can function as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
 
-* pronoun has 3 persons (I, II, III, IV)
+* pronoun has 3 persons (I, II, III)
 * pronoun has 2 numeral forms: singular and plural
 * pronoun has 5 cases: nominative, dative, genitive, accusative and genitive
 
@@ -73,8 +73,6 @@ Is the person or the thing who perform the action.
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
-  4  | lo = it          | lu  = they
-
 
 **Dative:**
 
@@ -184,7 +182,7 @@ Sometimes we use adverbs to augment the verb:
 
 * jo joku'go suvo = I play indeed often
 * nu joku'do moxo = we will play soon
-* zu joku'vo reqo = they have played recently
+* zu joku'bo reqo = they have played recently
 
 **composite**
 
@@ -196,14 +194,18 @@ xai = times ( x = ora)
 * ri'xai  = three times
 * im'xai  = forever
 
-**using numerals**
+**order**
 
-lio  = place (French lieu)
+era  = hierarchy (order)
 
-* un'lio  = first  place
-* du'lio  = second place
-* ri'lio  = third   place
-* ni'lio  = last place
+* un'era  = first 
+* du'era  = second
+* ri'era  = third
+...
+
+pimo = main
+dumo = second
+vimo = last
 
 ## Proposition
 
@@ -265,7 +267,6 @@ Sometimes "ke" is used to indicate a response and not a question:
 * es la tesa ke zu venu! = is the time they arrive!
 
 **expressions**
-
   
 You can use `uda` instead of `loka`.
   

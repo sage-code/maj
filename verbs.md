@@ -1,9 +1,6 @@
 # Verbs & conjugation
 
-
-1. A verb is referring to somebody or something that is the subject of the discussion. The verb can be used in conjunction with a nominative subject and an objective subject. If the subject is not near verb, it can be replaced by a pronoun.
-
-2. The verb do not change its root with the case, person or number. Maj verbs are regular and invariable. However the same root can be used as noun, adverb or adjective by changing its coda.  
+Maj verbs are short words representing actions or interactions.  
 
 ## Infinitive
 
@@ -12,27 +9,72 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 **examples:**
 
 * jo leru = I read
-* tu xaku = you study
-* su muka = he works
+* tu moku = you eat
+* su xaku = he study
 
-## Affirmative
+## Time conjugation
 
-The affirmative is usually build without preposition or suffix, but sometimes it is:
+In Maj verb conjugation is done done by adding a suffix after the coda "u".
 
-* ia jo leru'go = yes I'm playing
-* ia su joku'go = yes he is playing
+Noun: tesa = time
 
-Close to afirmative is preposition "iko" = still, or verb "kotu" = to continue.
+ Suffix  | Meaning | Related Noun     
+---------|---------|------------
+ do      | after   | futa   = future
+ go      | now     | nova   = present
+ bo      | before  | pasa   = past
 
-* jo ynkh leru = I still read indeed
-* jo kotu sh leru = I continue to read
+**examples:**
 
-## Negative
+* jo leru'do = I will read
+* tu moku'go = you are eating
+* su xaku'bo = he has study
 
-In Maj any verb cab ve negated in two ways: Using preposition or suffix "pa".
+## Nominative
+
+In this case the verb represent an action done by the subject or done to the subject by somebody else.
+
+**infinitive**
+
+* jo xatu en la luva    = I sing in the rain
+* jo vezu su en la luva = I see him in the rain
+
+**specify time**
+
+* jo xatu'go en la luva    = I'm singing in the rain
+* jo vezu'bo su en la luva = I have seen him in the rain
+
+## Reflexive case
+
+In this case the subject is doing something for himself. 
+
+**examples:**
+
+* jo mh lavu'go = I'm wash myself
+* tu te miru'go = you are looking at yourself
+* su se joku'go = he is playing
+
+## Interrogative
+
+To ask someone if is doing something you can use "ke" interrogative preposition.
+
+* ke faru tu?  = what are you doing?
+* tu leru'go?  = are you reading?
+
+**affirmative**
+
+The affirmative can be created with preposition "si" that means "yes":
+
+* jo leru jao    = then I read
+* si jo leru'go  = yes I read now
+* si jo iko leru = yes I still read
+
+**negative**
+
+In Maj any verb cab be negated in two ways: Using preposition or suffix "pa".
 
 * jo pa leru'go = I do not read now
-* ia jo leru'pa = now I do not read
+* go jo leru'pa = now I do not read
 
 ## Conditional
 
@@ -41,34 +83,10 @@ An action that was not realized is created using suffix "ra".
 suffix: ra <= would have / should have
 
 * jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
-* jo pa leru'vo poi su mi lexu'pa = I have not read because he do not let me
-* jo dotu leru asi su dovu sh lexu'me en paqa = I have a debt to read so you have to let me alone
+* jo pa leru'bo kh su mi lexu'pa = I have not read because he do not let me
+* jo dovu leru, axa kh lesu'me en paqa = I have to read, so let me alone
 
-## Verb conjugation
-
-In Maj verb conjugation include only time information:
-
-Noun: tesa = time
-
- Suffix  | Related Noun     
----------|--------------
- do      | doxa   = future
- go      | goxa   = present
- vo      | voxa   = past
-
-**examples:**
-
-* jo joku'do = I will play
-* tu joku'go = you are playing
-* su joku'vo = he was playing
-
-**alternative:**
-
-* jo mh joku'do en la futa
-* tu te joku'go en la nova
-* su se joku'vo en la pasa
-
-## Imperative form
+## Imperative
 
 For imperative case, you must use an auxiliary verb:
 
@@ -84,9 +102,9 @@ For imperative case, you must use an auxiliary verb:
 
 Preposition: di = about
 
-* jo diku'vo una saga di la pasa! = I have told a story about the past!
+* jo diku'bo una saga di la pasa! = I have told a story about the past!
 * tu diku'go una saga di la futa! = you will talk now about the future!
-* nu diku'do una saga di la iaka! = we will talk about the present!
+* nu diku'do una saga di la nova! = we will talk about the present!
 
 ## Verb transformation
 
@@ -99,7 +117,7 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 **examples:**
 
 * tu seru'ra la joka de zu   = you have been his game;
-* jo seru'vo la tu joka      = I'm not your game;
+* jo seru'bo la tu joka      = I'm not your game;
 * tu seru'go joko            = you are playful now;
 
 ## Reflexive form
@@ -151,7 +169,7 @@ In next examples we use two verbs:
 The following two messages convey the same message:
 
 * tu boku'go malo  = you are becoming bad
-* tu boku'vo soxo  = you have get dirty
+* tu boku'bo soxo  = you have get dirty
 * jo doru sh boku algo = I wish to become somebody
 
 **Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
@@ -174,8 +192,8 @@ In next example we use root word "lufa" that means influence to create two other
 
 **example 1:**
 
-* jo lofu'vo zu   = I have influenced him
-* tu seru'vo lofu = You have been influenced
+* jo lofu'bo zu   = I have influenced him
+* tu seru'bo lofu = You have been influenced
 
 Another good example of verb root is "gema" that means money.
 
@@ -185,7 +203,7 @@ Another good example of verb root is "gema" that means money.
 
 **example 2:**
 
-* tu raku'vo mi vuza   = you have broken my camera
+* tu raku'bo mi vuza   = you have broken my camera
 * tu hodu'go una dota  = you now hold a dept
 * tu dovu'do sh gemu   = then you have to pay
 * la dota sonu'do gemo = the debt will be payed
@@ -203,6 +221,6 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 * vh favu mi daru la vora? = please give me the order
 * jo voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru'vo = the order was given
+* la vora se daru'bo = the order was given
 
 **Read next about:** [adverbs](adverbs.md)
