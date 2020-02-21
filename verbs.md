@@ -12,20 +12,6 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 * tu moku = you eat
 * su xaku = he study
 
-## Verb transformation
-
-Verb can be used as noun by changing coda from "u" to {"a", "o"}.
-
-* joku = play / trick
-* joka = game / fool
-* joko = playful/ joking
-
-**examples:**
-
-* tu seru'be la joka de zu = He trick you;
-* jo seru'pa la tu joka    = I'm not your fool;
-* tu seru'ga joko          = you are joking;
-
 ## Time conjugation
 
 In Maj verb conjugation is done done by adding a suffix after the coda "u".
@@ -141,11 +127,11 @@ When you refer to some action performed by somebody on himself.
 
 **polite reflexive:**
 
-Auxiliar: favu = please (make me a favor)
+Auxiliar: te favu = please make me a favor
 
-* te favu sh kamu'te  => please calm yourself 
-* te favu sh hodu'te  => please rest yourself 
-* te favu sh domu'te  => please go to sleep
+* te favu kamu'te  => please calm yourself 
+* te favu hodu'te  => please rest yourself 
+* te favu domu'te  => please go to sleep
 
 **imperative reflexive:**
 
@@ -168,55 +154,6 @@ Auxiliar: dovu = must
 
 Read next: [nouns](nouns.md)
 
-## Verb examples
-
-In next examples we use two verbs: 
-
-* boku = to become
-* doru = wish, desire
-
-The following two messages convey the same message:
-
-* tu boku'ga malo  = you are becoming bad
-* tu boku'be soxo  = you have get dirty
-* jo doru sh boku algo = I wish to become somebody
-
-**Note:** The second example is using a metaphor: becoming dirty is equivalent to becoming bad.
-
-
-## Verb to noun
-
-In next example "besa" is a noun but can become verb:
-
-* jo doru tu daru'mi una besa = I wish you give me a kiss
-* jo dour tu besu'mi = I wish you kiss me
-
-## Related words
-
-In next example we use root word "lufa" that means influence to create two other words:
-
-* lufa = influence
-* lufo = influenced
-* lofu = to influence
-
-**example 1:**
-
-* jo lofu'be zu   = I have influenced him
-* tu seru'be lofu = You have been influenced
-
-Another good example of verb root is "gema" that means money.
-
-* gema = money
-* gemu = pay
-* gemo = payed
-
-**example 2:**
-
-* tu raku'be mi vuza   = you have broken my camera
-* tu hodu'ga una dota  = you now hold a dept
-* tu dovu'do sh gemu   = then you have to pay
-* la dota sonu'do gemo = the debt will be payed
-
 ## Subjunctive mod
 
 Maj verbs can use determinant particle "sh" to create subjunctive mode.
@@ -231,5 +168,50 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 * vh favu mi daru la vora? = please give me the order
 * jo voru la hola ku keso! = I want the omelet with cheese
 * la vora se daru'be = the order was given
+
+## Verb transformation
+
+Verb can be used as noun by changing coda from "u" to {"a", "o"}.
+
+* joku = play / trick
+* joka = game / fool
+* joko = playful/ joking
+
+In next example "jok" is the verb root:
+
+* tu seru'be la joka de zu = He trick you;
+* jo seru'pa la tu joka    = I'm not your fool;
+* tu seru'ga joko          = you are joking;
+
+In next example "besa" and "besu" are used:
+
+* jo doru tu daru'mi una besa = I wish you give me a kiss
+* jo doru tu sh mh besu'be = I wish you had kissed me
+
+## O/U inversion
+
+In next example we use root word "luf" that means influenc:
+
+* lufa = influence
+* lufo = influenced
+* lofu = to influence (inversion)
+
+**example 1:**
+
+* jo lofu'be zu   = I have influenced him
+* tu seru'be lofu = You had been influenced
+
+Another good example of verb root is "gem" that means money.
+
+* gema = money
+* gemu = pay
+* gemo = payed
+
+**example 2:**
+
+* tu raku'be mi vuza   = you have broken my camera
+* tu hodu'ga una dota  = you are holding a dept
+* poi tu dovu sh gemu  = then you have to pay
+* la dota sonu'be gemo = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)
