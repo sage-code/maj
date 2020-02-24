@@ -16,7 +16,7 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 In Maj verb conjugation is done done by adding a suffix after the coda "u".
 
-Noun: tesa = time
+Noun: tema = time
 
  Suffix  | Meaning | Related Noun     
 ---------|---------|------------
@@ -103,9 +103,6 @@ For imperative case, you must use an auxiliary verb:
 * diku = to tell/to talk
 * kotu = to continue
 * saga = story
-* roma = the past
-* nova = the present
-* dopa = the future
 
 **examples:**
 
@@ -186,11 +183,11 @@ In next example "jok" is the verb root:
 In next example "besa" and "besu" are used:
 
 * jo doru tu daru'mi una besa = I wish you give me a kiss
-* jo doru tu sh mh besu'be = I wish you had kissed me
+* jo doru tu mh besu'be = I wish you had kissed me
 
 ## O/U inversion
 
-In next example we use root word "luf" that means influenc:
+In next example we use "luf" root:
 
 * lufa = influence
 * lufo = influenced
@@ -201,7 +198,7 @@ In next example we use root word "luf" that means influenc:
 * jo lofu'be zu   = I have influenced him
 * tu seru'be lofu = You had been influenced
 
-Another good example of verb root is "gem" that means money.
+Another good example of verb root is "gem":
 
 * gema = money
 * gemu = pay

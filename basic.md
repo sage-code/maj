@@ -243,7 +243,7 @@ Composite interrogations using preposition "de" and noun:
 
 maj        |New  | english  | spanish | 1:1 translation
 -----------|-----|----------|---------|---------------
-de ke tesa?| uta | when?    | cuando  | about what time?
+de ke tema?| uta | when?    | cuando  | about what time?
 de ke loka?| uda | where?   | donde   | about what location?
 de ke reza?| uka | why?     | por qué | for what reason?
 
@@ -264,7 +264,7 @@ Asking about location can be explicit using "ke loka":
 Sometimes "ke" is used to indicate a response and not a question:
 
 * es la loka ke te joku! = is the place you play!
-* es la tesa ke zu venu! = is the time they arrive!
+* es la tema ke zu venu! = is the time they arrive!
 
 **expressions**
   

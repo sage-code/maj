@@ -72,10 +72,10 @@ In Maj you can use an adjective before or after the noun to describe some of its
 
 Sometimes an adjective + noun can have a new meaning that may be translated to other word:
 
-* mano bara = handrail
-* kaso dona = housewife
-* novo djia = tomorrow
-* veho djia = yesterday
+* mano-bara = handrail
+* kaso-dona = housewife
+* novo-djia = tomorrow
+* paso-djia = yesterday
 
 ## Invariant nouns
 
@@ -172,6 +172,7 @@ Maj     | English        | Romanian
 --------|----------------|-----------------
 Mama    | mother         | mama
 Papa    | father         | tata
+Popa	| preot          | priest
 Nana    | babysitter     | îngrijitoare
 Gama    | grand mother   | bunica
 Gapa    | grand father   | bunicu

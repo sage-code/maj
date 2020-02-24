@@ -91,7 +91,7 @@ xai  = repetition/ number of times
 Location related nouns can be used with prepositions.
 
 loka  = location
-tesa  = time
+tema  = time
 data  = date
 hora  = hour
 anoa  = year
@@ -103,8 +103,8 @@ seza  = season
 
 **Examples:**
 
-* vu ha rivu la tesa = yes you have arrived just in time
-* tu pa rivu la tesa = you have not arrived in time 
+* vu ha rivu la tema = yes you have arrived just in time
+* tu pa rivu la tema = you have not arrived in time 
 
 **quantity prefix**
 
@@ -307,7 +307,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Maj:** ia = now
 
-* tesa = time
+* tema = time
 * muro = dead
 * dovu = must
 * rejo = reach
@@ -315,7 +315,7 @@ Spanish | entonce| ¡Entonces fuiste tú!
 
 **Translate:**
 
-la muro-tesa dovu rejo, uba esta kan senu sibo!
+la muro-tema dovu rejo, uba esta kan senu sibo!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
