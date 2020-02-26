@@ -16,7 +16,7 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 In Maj verb conjugation is done done by adding a suffix after the coda "u".
 
-Noun: tema = time
+Noun: tepa = time
 
  Suffix  | Meaning | Related Noun     
 ---------|---------|------------
@@ -203,17 +203,17 @@ In next example we use "luf" root:
 * jo lofu'be zu   = I have influenced him
 * tu seru'be lofu = You had been influenced
 
-Another good example of verb root is "gem":
+Another good example of verb root is "pag":
 
 * gema = money
-* gemu = pay
-* gemo = payed
+* pagu = pay
+* pago = payed
 
 **example 2:**
 
 * tu raku'be mi vuza   = you have broken my camera
 * tu hodu'ga una dota  = you are holding a dept
-* poi tu dovu sh gemu  = then you have to pay
-* la dota sonu'be gemo = the debt was payed
+* poi tu dovu sh pagu  = then you have to pay
+* la dota sonu'be pago = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)

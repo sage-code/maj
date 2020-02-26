@@ -127,7 +127,7 @@ Two letter words starting with "w" and one vowel are called interjections. In th
 * wu! (disapproval)
 * wh! (disgusting)
 
-Observe that wh ia pronounced IPA:"wə"
+Observe that wh is pronounced IPA:"wə"
 
 ## Tone and accent
 

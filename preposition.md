@@ -103,8 +103,8 @@ seza  = season
 
 **Examples:**
 
-* vu ha rivu la tema = yes you have arrived just in time
-* tu pa rivu la tema = you have not arrived in time 
+* vu ha rivu la tepa = yes you have arrived just in time
+* tu pa rivu la tepa = you have not arrived in time 
 
 **quantity prefix**
 
@@ -227,8 +227,6 @@ ino     |inside              |dentro           | innerhalb
 
 * vero = the truth
 * faso = the opposite of truth   
-* bono = right, good
-* malo = wrong, bad
 
 ## Conjunction
 
@@ -259,7 +257,7 @@ Conjunction is used when...
 * an idea you have, depends on another idea;
 * you want to add a new idea into an existing one;
   
-**Maj:** da = but
+**Maj:** da = but (reason)
     
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -267,13 +265,13 @@ Franch  | mais   | C’est cher mais de très bonne qualité
 English | but    | It’s expensive, but very good quality
 Spanish | pero   | Es caro, pero de muy buena calidad.
 
-**Maj:**  odh = or
+**Maj:**  or = or (alternative)
 
 * qima  = cinema
 * goxa  = supermarket (et: goso+shop = big, xopu = shop)
 * vadu  = to go
 
-nu vadu cu qima odh cu meka;
+nu vadu cu qima or cu meka;
 We go to cinema or to supermarket
 
 Lang    | Word   |  Example
@@ -282,9 +280,9 @@ Franch  | ou     | Nous allons au cinéma ou nous allons au supermarché
 English | or     | We go to cinema or we go to supermarket
 Spanish | o      | Vamos al cine o vamos al supermercado        
 
-**Maj:**  iku  = and
+**Maj:**  xi  = and (conjunction)
 
-Marco iku Alice andu'ga la plaia;
+Marco xi ku Alice andu'ga la plaia;
 
 
 Lang    | Word   |  Example
@@ -293,11 +291,11 @@ Franch  | et     | Marc et Alice vont à la plage
 English | and    | Marc and Alice go to the beach
 Spanish | y      | Marc y Alice van a la playa
 
-**Maj:** asy = so, thus
+**Maj:** poi = then (conclusion)
 
 * senu = to be
 
-asi senu'da tu!
+poi senu'do tu! = then it was you
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
@@ -305,17 +303,18 @@ Franch  | donc   | C’est donc toi!
 English | so     | So it was you!
 Spanish | entonce| ¡Entonces fuiste tú!
 
-**Maj:** ia = now
+**Maj:** ga = now
 
-* tema = time
-* muro = dead
+* tepa = time
+* lima = limit
+* todu = dead
 * dovu = must
-* rejo = reach
+* rexu = succeed
 * senu = to be
 
 **Translate:**
 
-la muro-tema dovu rejo, uba esta kan senu sibo!
+la limo-tepa dovu sh rexu, da la sonu'pa poso!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------

@@ -255,11 +255,11 @@ ki?     | who?     | quien   | cine
 
 Composite interrogations using preposition "de" and noun:
 
-maj        |New  | english  | spanish | 1:1 translation
+maj        | New | english  | spanish | 1:1 translation
 -----------|-----|----------|---------|---------------
-de ke tema?| uta | when?    | cuando  | about what time?
+de ke tepa?| uta | when?    | cuando  | about what time?
 de ke loka?| uda | where?   | donde   | about what location?
-de ke reza?| uka | why?     | por qué | for what reason?
+de ke reza?| ure | why?     | por qué | for what reason?
 
 **examples**
 
@@ -293,7 +293,7 @@ The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* ia = yes/ affirmative
+* si = yes/ affirmative
 * pa = not/ negative
 
 **polite**
