@@ -74,6 +74,11 @@ Is the person or the thing who perform the action.
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
 
+Objects:
+
+* lo = the object  (it)
+* le = the objects (no translation)
+
 **Dative:**
 
 Indicate the person or object recipient of an action.
@@ -90,10 +95,12 @@ Indicate the person or object recipient of an action.
 
  ps | singular             | plural     
 ----|----------------------|-----------------------------
- 1  | cu me = to me        | cu nu  = to us   
+ 1  | cu mi = to me        | cu nu  = to us   
  2  | cu te = to you       | cu vu  = to y'all
  3  | cu se = to him/her/it| cu zu  = to them 
 
+* lo daru cu mi    = give it to me
+* lo daru cu te    = I will give this to you
  
 **Genitive**
 
@@ -163,7 +170,7 @@ singular                   | plural
 
 Verb is a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen. Maj verbs are ending with "u". 
  
-**example**
+**example:1**
 
 joku = to play
 
@@ -174,7 +181,14 @@ joku = to play
 * vu joku  = you play
 * zu joku  = they play
 
-There is much more about: [verbs](verbs.md)
+**example:2**
+
+sonu = to be
+
+* tu sonu'pa mi xefa  = You are not my boss
+* jo sonu la mi xefa  = I'm my own boss
+
+There is much more to learn about: [verbs](verbs.md)
 
 ## Adverb
 
@@ -334,8 +348,8 @@ An article is a short word you add in front of the noun.
 
 1. Definite article _indicative form:_
 
-* la = the (singular)
-* le = the (plural)
+* la = the  (singular)
+* le = the  (plural)
 
 **example**
 

@@ -34,6 +34,11 @@ Noun: tema = time
 
 In this case the verb represent an action done by the subject or done to the subject by somebody else.
 
+**examples:**
+
+* uke djia huma haru
+
+
 **infinitive**
 
 * jo xatu en la luva    = I sing in the rain
