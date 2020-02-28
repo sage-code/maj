@@ -81,7 +81,7 @@ method      |front    |central    |back
 ------------|---------|-----------|---------
 close       |i        |y          |u      
 close mid   |e        |           |o
-mid         |         |ə          |
+mid         |         |h          |
 open        |a        |           |
 approximate |         |w          | 
 
