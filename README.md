@@ -18,17 +18,7 @@ Maj is designed for artificial rezoning but has also other uses:
 
 ## Alphabet
 
-Maj alphabet is Latin but the ordered is modified: 
-
- A | B | C | D | F | G | H | E | I  | J  | K  | L  | M  
----|---|---|---|---|---|---|---|----|----|----|----|----
- a | b | c | d | f | g | h | e | i  | j  | k  | l  | m  
- 
- N | O | P | Q | R | S | T | U | V  | W  | X  | Y  | Z 
----|---|---|---|---|---|---|---|----|----|----|----|----
- n | o | p | q | r | s | t | u | v  | w  | x  | y  | z 
-
-**Notes:**
+Maj is using Latin alphabet with modified order.
 
 * Maj has a total of 26 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading each letter;
@@ -41,21 +31,9 @@ There is available a tool to convert Maj words into IPA phonetic representation.
 
 [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
-
 ## Script
 
-Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Unicode symbols found in other alphabets: Greek, Georgian, Armenian and Latin. 
-
-
- α | β | ɕ | შ | ჵ | ɤ | ჩ | ɛ | ʚ  | უ  | ჺ  | ჲ  | რ  
----|---|---|---|---|---|---|---|----|----|----|----|----
- a | b |t͡s| d | f | g | h | e | i  | ʒ  | k  | l  | m  
- 
- 
- ღ | თ | დ | ƍ | წ | σ | ծ | և | ϑ  | ω  | ϰ  | ყ  | ʓ  
----|---|---|---|---|---|---|---|----|----|----|----|----
- n | o | p |t͡ʃ| r | s | t | u | v  | w  | ʃ  | y  | z 
-
+Maj uses a secondary alphabet for handwriting. 
 
 **Notes:**
 
@@ -98,7 +76,6 @@ Maj words are inspired from 7 different languages.
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
 
-This year, Maj will have about 2000 root words.
 
 ## Essentials
 
@@ -106,17 +83,8 @@ One distinctive aspect of Maj are the way words are created.
 
 * Maj has root words and composite words;
 * Maj root words are very short;
-* Maj words can have prefix or suffix;
-* Maj longer words are rarely used;
-* Maj words usually have one base meaning;
-
-**technical:**
-
-Coincidental, Maj is using the _power of 3_ to organize its grammar:
-
-1. There are 3 kind of sentences: {interrogative, declarative, imperative};
-1. There are 3 kind of answers: { affirmative, negative, informative };
-1. There are 3 time periods: {past, present, future};
+* Maj words can have a suffix;
+* Mak can have composite words formed from two root words;
 
 **Read more about:** [basic grammar](basic.md)
 
