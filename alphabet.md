@@ -32,7 +32,7 @@ Latin | IPA  | MAJ | Maj Name
   v   | v    | ϑ   | vera
   w   | w    | ω   | waka
   x   | ʃ    | ϰ   | xaka
-  y   | y    | ყ   | ykra
+  y   | y    | ყ   | ygra
   z   | z    | ʓ   | zeta
 
 **See also:** [script](script.md) page;
