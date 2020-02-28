@@ -46,11 +46,13 @@ There is available a tool to convert Maj words into IPA phonetic representation.
 Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Unicode symbols found in other alphabets: Greek, Georgian, Armenian and Latin. 
 
 
- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  | 10 | 11 | 12 | 13   
----|---|---|---|---|---|---|---|----|----|----|----|----
  α | β | ɕ | შ | ჵ | ɤ | ჩ | ɛ | ʚ  | უ  | ჺ  | ჲ  | რ  
+---|---|---|---|---|---|---|---|----|----|----|----|----
  a | b |t͡s| d | f | g | h | e | i  | ʒ  | k  | l  | m  
+ 
+ 
  ღ | თ | დ | ƍ | წ | σ | ծ | և | ϑ  | ω  | ϰ  | ყ  | ʓ  
+---|---|---|---|---|---|---|---|----|----|----|----|----
  n | o | p |t͡ʃ| r | s | t | u | v  | w  | ʃ  | y  | z 
 
 
