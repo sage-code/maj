@@ -2,16 +2,16 @@
 
 Maj is a logic auxiliary language, with following attributes:
 
-1. Familiar  - uses familiar and popular sounds;
-2. Efficient - simple alphabet and short words;
-3. Accesible - has comprehensive and public documentation;
+1. Efficient - simple alphabet and short words;
+2. Accesible - has comprehensive and public documentation;
+1. Familiar  - uses familiar words and popular sounds;
 
 **Purpose ...**
 
-Maj is designed for artificial rezoning;
+Maj is designed for artificial rezoning but has also other uses:
 
-1. Maj is for study;
-2. Maj is for business;
+1. Maj is for study other languages;
+2. Maj is for making friends;
 3. Maj is for entertainment;
 
 **Rad more:** [use case](case.md)
@@ -36,7 +36,7 @@ Details: [Maj alphabet](alphabet.md)
 
 **Tool:** 
 
-There is available a tool to convert Maj words into IPA phonetic representation:
+There is available a tool to convert Maj words into IPA phonetic representation. You can use this tool to write a word you know and see how this is read. After getting familiar with the alphabet this tool is no longer necessary.
 
 [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
@@ -54,11 +54,6 @@ Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Uni
  n | o | p |t͡ʃ| r | s | t | u | v  | w  | ʃ  | y  | z 
 
 
-**Examples:**
-
-* თჲα.რևშα!   = ola muda;
-* ɛծα.ɛσ.რαუ; = eta maj!
-
 **Notes:**
 
 * Script do not have uppercase letters;
@@ -67,7 +62,7 @@ Maj uses a secondary alphabet for handwriting. This alphabet is a mixture of Uni
 
 **Tools:**
 
-There is a dual conversion tool from Latin to Maj script:
+There is a dual conversion tool from Latin to Maj script. This tool will help you to write maj. Once you have learned Maj script you can use the letters to take notes on a notepad.
 
 [Maj script converter](https://lingojam.com/MajScript)
 
@@ -166,6 +161,7 @@ We accept volunteer work to improve the language.
 2. To review grammar and text;
 3. To improve lexicon and examples;
 4. To write short stories;
+5. To have a conversation;
 
 **Community:**
 
