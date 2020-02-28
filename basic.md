@@ -2,12 +2,12 @@
 
 In this document we describe the basics of MAJ grammar.
 
-* [How to say greetings](greetings)
-* [Pronouns and cases](pronoun)
-* [Verb tense](verb)
-* [Proposition](proposition)
-* [About noun](noun)
-* [About article](article)
+* [How to say greetings](#greetings)
+* [Pronouns and cases](#pronoun)
+* [Verb tense](#verb)
+* [Proposition](#proposition)
+* [About noun](#noun)
+* [About article](#article)
 
 ## Greetings
 
