@@ -53,19 +53,18 @@ Read more: [Script details](script.md)
 
 For numbers, Maj is using Arabic symbols associated with short words called: numerals:
 
-|`#`| Maj  | IPA   | Script|
-|---|:-----|:------|:------|
-| 0 | nil  | nil   | ღʚჲ   |
-| 1 | una  | una   | ևღα   |
-| 2 | dua  | dua   | შևα   |
-| 3 | rea  | rea   | წɛα   |
-| 4 | qua  | t͡ʃua | ƍևα   |
-| 5 | fea  | fea   | ჵɛα   |
-| 6 | sia  | sia   | σɛα   |
-| 7 | xoa  | ʃoa   | ϰთα   |
-| 8 | oka  | oka   | თჺα   |
-| 9 | noa  | noa   | ღთα   |
-| 10| cen  | t͡sen | ɕɛღ   |
+x | maj  | xx | maj          | xx | maj    |
+--|------|----|--------------|----|--------|
+0 | nil  | 10 | un'cen+nil   |    |        |
+1 | una  | 11 | un'cen+una   | 10 | un'cen |
+2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
+3 | ria  | 13 | un'cen+ria   | 30 | ri'cen |
+4 | foa  | 14 | un'cen+foa   | 40 | fo'cen |
+5 | qia  | 15 | un'cen+qia   | 50 | qi'cen |
+6 | zoa  | 16 | un'cen+zoa   | 60 | zo'cen |
+7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
+8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
+9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
 Details: [The numerals](numerals.md)
 
