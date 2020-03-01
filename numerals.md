@@ -169,25 +169,27 @@ For billions we do not use prefix.
 
 For binary values we have design special words:
 
-vala = value
+teju = value
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | duva           | two values
-8   | okva           | eight values
-16  | du'xai-okva    | short integer
-32  | fo'xai-okva    | integer
-64  | ok'xai-okva    | long integer
+0/1 | du-teju        | two values
+8   | ok-teju        | eight values
+16  | du'xai-ok      | short integer
+32  | fo'xai-ok      | integer
+64  | ok'xai-ok      | long integer
 
-Reading: 
+**Reading:** 
+
+Numbers can be written using "x" between to represent dimensions:
 
 x = xai
 
-* 2 x 2 = Maj:"du xai du"
-* 2 x 8 = Maj:"du xai ok"
-* 4 x 4 = Maj:"fo xai fo"
-* 8 x 8 = Maj:"ok xai ok"
+* 2x2 = Maj:"du'xai-du"
+* 2x8 = Maj:"du'xai-ok"
+* 4x4 = Maj:"fo'xai-fo"
+* 8x8 = Maj:"ok'xai-ok"
 
-Griat!
+This is great!
 
 Read next: [basic](basic.md)
