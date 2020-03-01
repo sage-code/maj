@@ -10,8 +10,8 @@ Maj numeral system and symbols are related so we put them together.
 
 When used in text or expressions, symbols can have associated a name:
 
-Symbol | Maj    | English
--------|--------|---------------------
+Symbol | Maj  | English
+-------|------|---------------------
 `x	`  | xai	| Multiply (times)
 `\	`  | bla	| Backward slash
 `()	`  | bra	| Round brackets
@@ -93,15 +93,15 @@ Question: de xai kotu   = how many times
           
 **positional**
 
-Position in a series or enumeration: lysa (place)
+Position in a series or enumeration: era = hierarchy
 
 English: place, order, position
 Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
-* un'lysa = first place
-* du'lysa = second place
-* ri'lysa = third place
+* un'era = first place
+* du'era = second place
+* ri'era = third place
 
 ## Level 2
 
