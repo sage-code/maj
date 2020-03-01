@@ -35,7 +35,10 @@ Symbol | Maj    | English
 
 **notes:**
 
-Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. This is possible for all symbols.
+Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. 
+
+una ipa = one dot
+due ipe = two dots
 
 
 ## Numbers
@@ -54,8 +57,8 @@ x | maj  | xx | maj          | xx | maj    |
 3 | ria  | 13 | un'cen+ria   | 30 | ri'cen |
 4 | foa  | 14 | un'cen+foa   | 40 | fo'cen |
 5 | qia  | 15 | un'cen+qia   | 50 | qi'cen |
-6 | zoa  | 16 | un'cen+zoa   | 60 | zo'cen |
-7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
+6 | zia  | 16 | un'cen+zoa   | 60 | zi'cen |
+7 | xoa  | 17 | un'cen+xea   | 70 | xo'cen |
 8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
 9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
 
@@ -128,8 +131,8 @@ Franch:  lieu,  ordre, position
 * 3,000 = ri'mile
 * 4,000 = fo'mile
 * 5,000 = qi'mile
-* 6,000 = zo'mile
-* 7,000 = xe'mile
+* 6,000 = zi'mile
+* 7,000 = xo'mile
 * 8,000 = ok'mile
 * 9,000 = no'mile
 
