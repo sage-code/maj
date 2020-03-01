@@ -173,18 +173,20 @@ vala = value
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du'vale        | two values
-8   | ok'vale        | eight values
-16  | dua xai okva   | short integer
-32  | foa xai okva   | integer
-64  | oka xai okva   | long integer
+0/1 | duva           | two values
+8   | okva           | eight values
+16  | du'xai-okva    | short integer
+32  | fo'xai-okva    | integer
+64  | ok'xai-okva    | long integer
 
 Reading: 
 
 x = xai
 
-* dua x okva = Maj:"dua xai okva"
-* oka x okva = Maj:"oka xai okva"
+* 2 x 2 = Maj:"du xai du"
+* 2 x 8 = Maj:"du xai ok"
+* 4 x 4 = Maj:"fo xai fo"
+* 8 x 8 = Maj:"ok xai ok"
 
 Griat!
 
