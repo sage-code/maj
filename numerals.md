@@ -2,9 +2,9 @@
 
 Maj numeral system and symbols are related so we put them together.
 
-* kota = number
-* kotu = counting
-* koto = accounted for
+* noma = number
+* nomu = counting
+* nomo = accounted for
 
 ## Symbols
 
