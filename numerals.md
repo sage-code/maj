@@ -57,7 +57,7 @@ x | maj  | xx | maj          | xx | maj    |
 3 | ri   | 13 | un'cen+ria   | 30 | ri'cen |
 4 | fo   | 14 | un'cen+foa   | 40 | fo'cen |
 5 | qi   | 15 | un'cen+qia   | 50 | qi'cen |
-6 | ze   | 16 | un'cen+zoa   | 60 | zi'cen |
+6 | ze   | 16 | un'cen+zoa   | 60 | ze'cen |
 7 | xo   | 17 | un'cen+xea   | 70 | xo'cen |
 8 | ok   | 18 | un'cen+oka   | 80 | ok'cen |
 9 | no   | 19 | un'cen+noa   | 90 | no'cen | 
