@@ -131,7 +131,7 @@ Franch:  lieu,  ordre, position
 * 3,000 = ri'mile
 * 4,000 = fo'mile
 * 5,000 = qi'mile
-* 6,000 = zi'mile
+* 6,000 = ze'mile
 * 7,000 = xo'mile
 * 8,000 = ok'mile
 * 9,000 = no'mile
