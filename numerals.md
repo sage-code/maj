@@ -10,8 +10,8 @@ Maj numeral system and symbols are related so we put them together.
 
 When used in text or expressions, symbols can have associated a name:
 
-Symbol | Maj  | English
--------|------|---------------------
+Symbol | Maj    | English
+-------|--------|---------------------
 `x	`  | xai	| Multiply (times)
 `\	`  | bla	| Backward slash
 `()	`  | bra	| Round brackets
@@ -60,7 +60,7 @@ x | maj  | xx | maj          | xx | maj    |
 6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
 7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
 8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
-9 | no   | 19 | un'cen+no    | 90 | no'cen | 
+9 | vo   | 19 | un'cen+vo    | 90 | vo'cen | 
 
 **Note** 
 
@@ -115,13 +115,13 @@ Franch:  lieu,  ordre, position
  100 |  un'suta  |  600 |  zo'sute
  200 |  du'sute  |  700 |  xe'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  fo'sute  |  900 |  no'sute
+ 400 |  fo'sute  |  900 |  vo'sute
  500 |  qi'sute  | 1000 |  un'mila
 
 
-* 125 = un'suta+du'cen+qia
-* 555 = qi'sute+qi'cen+qia
-* 801 = ok'sute+una
+* 125 = un'suta+du'cen+qi
+* 555 = qi'sute+qi'cen+qi
+* 801 = ok'sute+un
 
 
 **Thousands = mila/mile**
@@ -134,7 +134,7 @@ Franch:  lieu,  ordre, position
 * 6,000 = ze'mile
 * 7,000 = xo'mile
 * 8,000 = ok'mile
-* 9,000 = no'mile
+* 9,000 = vo'mile
 
 
 **Millions  = milona/milone**
@@ -143,11 +143,11 @@ For the millions we do not use prefix.
 
 1,000,000  = milona
 
-* 1,000,000 = una milona
-* 2,000,000 = dua milone
-* 3,000,000 = ria milone
+* 1,000,000 = un milona
+* 2,000,000 = du milone
+* 3,000,000 = ri milone
 * ...
-* 9,000,000 = noa milone
+* 9,000,000 = vo milone
 
 
 **Billions = bilona/bilone**
@@ -157,11 +157,11 @@ For billions we do not use prefix.
 1,000.000.000   = bilona
 
 
-* 1,000,000,000 = una bilona
-* 2,000,000,000 = dua bilone
-* 3,000,000,000 = ria bilone
+* 1,000,000,000 = un bilona
+* 2,000,000,000 = du bilone
+* 3,000,000,000 = ri bilone
 * ...
-* 9,000,000,000 = noa bilone
+* 9,000,000,000 = vo bilone
 
 ## Level 3
 
@@ -169,15 +169,16 @@ For billions we do not use prefix.
 
 For binary values we have design special words:
 
-teju = value
+teja = value
+teje = values
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du-teju        | two values
-8   | ok-teju        | eight values
-16  | ok'xai du      | short integer
-32  | ok'xai fo      | integer
-64  | ok'xai ok      | long integer
+0/1 | du-teje        | two values
+8   | ok-teje        | eight values
+16  | ok'xai-du      | short integer
+32  | ok'xai-fo      | integer
+64  | ok'xai-ok      | long integer
 
 **Reading:** 
 

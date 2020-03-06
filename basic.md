@@ -218,11 +218,7 @@ era  = hierarchy (order)
 * un'era  = first 
 * du'era  = second
 * ri'era  = third
-...
-
-pimo = main
-dumo = second
-vimo = last
+* ni'era  = last
 
 ## Proposition
 
@@ -242,9 +238,9 @@ In Maj, "hay" is used as an determinant call, preposition:
 hai = c'mon (come on)
 hai = let's (let us)
 
-* hai nu haru sh bosu su = c'mon we have to search him
-* hai nu dovu sh bosu zu = c'mon we must search them
-
+* hai sh katu su = let's search for him
+* hai nu dovu sh katu zu = c'mon we must search for them
+* hai sh katu su taxe = let's search his pockets
 
 ## Interrogative
 
