@@ -185,10 +185,10 @@ Numbers can be written using "x" between to represent dimensions:
 
 x = xai
 
-* 2x2 = Maj:"du'xai-du"
-* 2x8 = Maj:"du'xai-ok"
-* 4x4 = Maj:"fo'xai-fo"
-* 8x8 = Maj:"ok'xai-ok"
+* 2x2 = du'xai-du
+* 2x8 = du'xai-ok
+* 4x4 = fo'xai-fo
+* 8x8 = ok'xai-ok
 
 This is great!
 
