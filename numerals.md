@@ -51,16 +51,16 @@ due ipe = two dots
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | ni   | 10 | un'cen+nil   |    |        |
-1 | un   | 11 | un'cen+una   | 10 | un'cen |
-2 | du   | 12 | un'cen+dua   | 20 | du'cen |
-3 | ri   | 13 | un'cen+ria   | 30 | ri'cen |
-4 | fo   | 14 | un'cen+foa   | 40 | fo'cen |
-5 | qi   | 15 | un'cen+qia   | 50 | qi'cen |
-6 | ze   | 16 | un'cen+zea   | 60 | ze'cen |
-7 | xo   | 17 | un'cen+xoa   | 70 | xo'cen |
-8 | ok   | 18 | un'cen+oka   | 80 | ok'cen |
-9 | no   | 19 | un'cen+noa   | 90 | no'cen | 
+0 | ni   | 10 | un'cen+ni    |    |        |
+1 | un   | 11 | un'cen+un    | 10 | un'cen |
+2 | du   | 12 | un'cen+du    | 20 | du'cen |
+3 | ri   | 13 | un'cen+ri    | 30 | ri'cen |
+4 | fo   | 14 | un'cen+fo    | 40 | fo'cen |
+5 | qi   | 15 | un'cen+qi    | 50 | qi'cen |
+6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
+7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
+8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
+9 | no   | 19 | un'cen+no    | 90 | no'cen | 
 
 **Note** 
 
