@@ -133,10 +133,11 @@ We accept volunteer work to improve the language.
 4. To write short stories;
 5. To have a conversation;
 
+Thanks for reading. We are waiting for you to join us!
+
 **Community:**
 
 We use Discord application to chat in English about Maj: 
 
 Join: [discord invitation](https://discordapp.com/invite/CQWx8xc)
 
-Great!
