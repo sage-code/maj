@@ -20,7 +20,7 @@ Noun: tepa = time
 
  Suffix  | Meaning | Related Noun     
 ---------|---------|------------
- do      | after   | futa   = future
+ do      | after   | zuka  = future
  ga      | now     | nova   = present
  be      | before  | pasa   = past
 
@@ -100,6 +100,7 @@ suffix: ra <= would have / should have
 * jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
 * tu leru'ra da tu te domu'be = You would have read but you have fall asleep
 
+
 ## Imperative
 
 For imperative case, you must use an auxiliary verb:
@@ -109,12 +110,17 @@ For imperative case, you must use an auxiliary verb:
 * kotu = to continue
 * saga = story
 
-**examples:**
+**example:1**
+
+* nu dovu sh kotu'ga     = We have to continue
+* nu dovu'ra sh leru'be  = We should have read
+
+**example:2**
 
 Preposition: di = about
 
 * jo diku'be una saga di la pasa! = I have told a story about the past!
-* tu diku'ga una saga di la futa! = you will talk now about the future!
+* tu diku'ga una saga di la zuka! = you will talk now about the future!
 * nu diku'do una saga di la nova! = we will talk about the present!
 
 ## Reflexive form
@@ -214,6 +220,7 @@ Another good example of verb root is "pag":
 * tu raku'be mi vuza   = you have broken my camera
 * tu hodu'ga una dota  = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
+* tu pagu la gema      = you pay the money
 * la dota sonu'be pago = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)

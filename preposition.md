@@ -318,22 +318,19 @@ la limo-tepa dovu sh rexu, da la sonu'pa poso!
 
 Lang    | Word   |  Example
 --------|--------|----------------------------------------------
-Franch  | or     | Il faut tenir les délais, or, ce n’est pas possible
+Franch  | mais   | Il faut tenir les délais, mais ce n’est pas possible
 English | yet    | The deadlines must be met, yet this is not possible
 English | now    | The deadlines must be met, now this is not possible
 Spanish | pero   | Deben cumplirse los plazos, pero esto no es posible
 
 **Maj:** niq = neither, nor 
 
-*  kan   = first negation
-*  niq   = second negation
-
 **other words**
 
-*  sohu = wish
+*  doru = wish
 *  keru = ask
 *  gema = money
-*  reha = gift
+*  dara = gift
 
 **translate:**
 

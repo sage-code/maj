@@ -138,18 +138,18 @@ The Lexicon contains most frequent Maj words organized by domain:
 
 * Suffix: 'xa is comes form word: xatu = "to know"
 
-1. suto'xa = [structure](words/structure.md)
+1. siro'xa = [structure](words/structure.md)
 1. info'xa = [information](words/information.md)
-1. paqo'xa = [space](words/space.md)
-1. teso'xa = [time](words/time.md)
-1. poco'xa = [processes](words/processes.md)
+1. paco'xa = [space](words/space.md)
+1. tepo'xa = [time](words/time.md)
+1. roco'xa = [processes](words/processes.md)
 1. movo'xa = [movement](words/movement.md)
 1. fizo'xa = [physical world](words/physical_world.md)
-1. naro'xa = [nature](words/nature.md)
-1. vevo'xa = [life](words/life.md)
+1. nato'xa = [nature](words/nature.md)
+1. vivo'xa = [life](words/life.md)
 1. piho'xa = [psychology](words/psychology.md)
 1. famo'xa = [family](words/family.md)
-1. kulo'xa = [human culture](words/human_culture.md)
+1. kuto'xa = [human culture](words/human_culture.md)
 1. teho'xa = [technology](words/technology.md)
 
 **Note:**
