@@ -175,9 +175,9 @@ bits| maj            | description
 ----|----------------|----------------------
 0/1 | du-teju        | two values
 8   | ok-teju        | eight values
-16  | du'xai-ok      | short integer
-32  | fo'xai-ok      | integer
-64  | ok'xai-ok      | long integer
+16  | ok'xai du      | short integer
+32  | ok'xai fo      | integer
+64  | ok'xai ok      | long integer
 
 **Reading:** 
 
