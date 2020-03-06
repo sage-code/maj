@@ -61,10 +61,10 @@ x | maj  | xx | maj          | xx | maj    |
 3 | ri   | 13 | un'cen+ri    | 30 | ri'cen |
 4 | fo   | 14 | un'cen+fo    | 40 | fo'cen |
 5 | qi   | 15 | un'cen+qi    | 50 | qi'cen |
-6 | ze   | 16 | un'cen+ze    | 60 | zo'cen |
-7 | xo   | 17 | un'cen+xo    | 70 | xe'cen |
+6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
+7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
 8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
-9 | va   | 19 | un'cen+va    | 90 | no'cen | 
+9 | va   | 19 | un'cen+va    | 90 | va'cen | 
 
 Details: [The numerals](numerals.md)
 

@@ -60,7 +60,7 @@ x | maj  | xx | maj          | xx | maj    |
 6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
 7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
 8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
-9 | vo   | 19 | un'cen+vo    | 90 | vo'cen | 
+9 | va   | 19 | un'cen+va    | 90 | va'cen | 
 
 **Note** 
 
@@ -112,10 +112,10 @@ Franch:  lieu,  ordre, position
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  zo'sute
- 200 |  du'sute  |  700 |  xe'sute
+ 100 |  un'suta  |  600 |  ze'sute
+ 200 |  du'sute  |  700 |  xo'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  fo'sute  |  900 |  vo'sute
+ 400 |  fo'sute  |  900 |  va'sute
  500 |  qi'sute  | 1000 |  un'mila
 
 
@@ -134,7 +134,7 @@ Franch:  lieu,  ordre, position
 * 6,000 = ze'mile
 * 7,000 = xo'mile
 * 8,000 = ok'mile
-* 9,000 = vo'mile
+* 9,000 = va'mile
 
 
 **Millions  = milona/milone**
@@ -147,7 +147,7 @@ For the millions we do not use prefix.
 * 2,000,000 = du milone
 * 3,000,000 = ri milone
 * ...
-* 9,000,000 = vo milone
+* 9,000,000 = va milone
 
 
 **Billions = bilona/bilone**
@@ -161,7 +161,7 @@ For billions we do not use prefix.
 * 2,000,000,000 = du bilone
 * 3,000,000,000 = ri bilone
 * ...
-* 9,000,000,000 = vo bilone
+* 9,000,000,000 = va bilone
 
 ## Level 3
 
