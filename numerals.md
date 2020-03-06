@@ -2,16 +2,16 @@
 
 Maj numeral system and symbols are related so we put them together.
 
-* kota = number
-* kotu = counting
-* koto = accounted for
+* noma = number
+* nomu = counting
+* nomo = accounted for
 
 ## Symbols
 
 When used in text or expressions, symbols can have associated a name:
 
-Symbol | Maj    | English
--------|--------|---------------------
+Symbol | Maj  | English
+-------|------|---------------------
 `x	`  | xai	| Multiply (times)
 `\	`  | bla	| Backward slash
 `()	`  | bra	| Round brackets
@@ -35,7 +35,10 @@ Symbol | Maj    | English
 
 **notes:**
 
-Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. This is possible for all symbols.
+Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. 
+
+una ipa = one dot
+due ipe = two dots
 
 
 ## Numbers
@@ -48,16 +51,16 @@ Symbols are nouns so they end with "a". We will learn later this can be changed 
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | nil  | 10 | un'cen+nil   |    |        |
-1 | una  | 11 | un'cen+una   | 10 | un'cen |
-2 | dua  | 12 | un'cen+dua   | 20 | du'cen |
-3 | ria  | 13 | un'cen+ria   | 30 | ri'cen |
-4 | foa  | 14 | un'cen+foa   | 40 | fo'cen |
-5 | qia  | 15 | un'cen+qia   | 50 | qi'cen |
-6 | zoa  | 16 | un'cen+zoa   | 60 | zo'cen |
-7 | xea  | 17 | un'cen+xea   | 70 | xe'cen |
-8 | oka  | 18 | un'cen+oka   | 80 | ok'cen |
-9 | noa  | 19 | un'cen+noa   | 90 | no'cen | 
+0 | ni   | 10 | un'cen+ni    |    |        |
+1 | un   | 11 | un'cen+un    | 10 | un'cen |
+2 | du   | 12 | un'cen+du    | 20 | du'cen |
+3 | ri   | 13 | un'cen+ri    | 30 | ri'cen |
+4 | fo   | 14 | un'cen+fo    | 40 | fo'cen |
+5 | qi   | 15 | un'cen+qi    | 50 | qi'cen |
+6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
+7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
+8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
+9 | no   | 19 | un'cen+no    | 90 | no'cen | 
 
 **Note** 
 
@@ -90,15 +93,15 @@ Question: de xai kotu   = how many times
           
 **positional**
 
-Position in a series or enumeration: lysa (place)
+Position in a series or enumeration: era = hierarchy
 
 English: place, order, position
 Italian: posto, ordine, posizione
 Franch:  lieu,  ordre, position
 
-* un'lysa = first place
-* du'lysa = second place
-* ri'lysa = third place
+* un'era = first place
+* du'era = second place
+* ri'era = third place
 
 ## Level 2
 
@@ -128,8 +131,8 @@ Franch:  lieu,  ordre, position
 * 3,000 = ri'mile
 * 4,000 = fo'mile
 * 5,000 = qi'mile
-* 6,000 = zo'mile
-* 7,000 = xe'mile
+* 6,000 = ze'mile
+* 7,000 = xo'mile
 * 8,000 = ok'mile
 * 9,000 = no'mile
 
@@ -166,23 +169,27 @@ For billions we do not use prefix.
 
 For binary values we have design special words:
 
-vala = value
+teju = value
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du'vale        | two values
-8   | ok'vale        | eight values
-16  | dua xai okva   | short integer
-32  | foa xai okva   | integer
-64  | oka xai okva   | long integer
+0/1 | du-teju        | two values
+8   | ok-teju        | eight values
+16  | ok'xai du      | short integer
+32  | ok'xai fo      | integer
+64  | ok'xai ok      | long integer
 
-Reading: 
+**Reading:** 
+
+Numbers can be written using "x" between to represent dimensions:
 
 x = xai
 
-* dua x okva = Maj:"dua xai okva"
-* oka x okva = Maj:"oka xai okva"
+* 2x2 = du'xai-du
+* 2x8 = du'xai-ok
+* 4x4 = fo'xai-fo
+* 8x8 = ok'xai-ok
 
-Griat!
+This is great!
 
 Read next: [basic](basic.md)

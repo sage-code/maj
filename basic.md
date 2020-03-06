@@ -1,12 +1,15 @@
 # Basic Grammar
 
-In this document we describe the basics of MAJ grammar.
+In this document we describe the basics of MAJ concepts.
 
-* How to say greetings
-* Pronouns and cases
-* Verb tense
-* Noun article
-* Some prepositions
+* [Greetings](#greetings)
+* [Words](#words)
+* [Pronouns](#pronoun)
+* [Verbs](#verbs)
+* [Adverb](#adverb)
+* [Proposition](#proposition)
+* [Nouns](#noun)
+* [Article](#article)
 
 ## Greetings
 

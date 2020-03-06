@@ -4,7 +4,7 @@ Maj alphabet has 26 letters.
 
 **notes:**
 * the order of letters is different from ISO standard;
-* letters name start with the letter it represents;
+* each letter is associated with a word;
 
 Latin | IPA  | MAJ | Maj Name
 ------|------|-----|-----------
@@ -32,7 +32,7 @@ Latin | IPA  | MAJ | Maj Name
   v   | v    | ϑ   | vera
   w   | w    | ω   | waka
   x   | ʃ    | ϰ   | xaka
-  y   | y    | ყ   | ykra
+  y   | y    | ყ   | ygra
   z   | z    | ʓ   | zeta
 
 **See also:** [script](script.md) page;
@@ -81,7 +81,7 @@ method      |front    |central    |back
 ------------|---------|-----------|---------
 close       |i        |y          |u      
 close mid   |e        |           |o
-mid         |         |ə          |
+mid         |         |h          |
 open        |a        |           |
 approximate |         |w          | 
 
