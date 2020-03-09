@@ -186,10 +186,10 @@ joku = to play
 
 **example:2**
 
-sonu = to be
+etu = to be 
 
-* tu sonu'pa mi xefa  = You are not my boss
-* jo sonu la mi xefa  = I'm my own boss
+* tu etu'pa mi xefa  = You are not my boss
+* jo etu la mi xefa  = I'm my own boss
 
 There is much more to learn about: [verbs](verbs.md)
 
@@ -265,8 +265,8 @@ de ke reza?| ure | why?     | por qué | for what reason?
 Next examples show how to use interrogative prepositions:
 
 * ke moku tu  ?  = what are you eating ?
-* ki senu tu  ?  = how are you ?   
-* ki senu ala ?  = who was there?
+* ki sonu tu  ?  = who are you?   
+* ki sonu ala ?  = who was there?
 
 Asking about location can be explicit using "ke loka":
 
@@ -364,8 +364,7 @@ Plural     | ete = these |  ele = those
 
 **example:**
 
-sona = to exist
-sonu = to be
+sonu = to exist
 
 * eta sonu pana = this is bred
 * ete sonu pane = these are breads
