@@ -55,7 +55,7 @@ x | maj  | xx | maj         | xx | maj    |
 1 | un   | 11 | un'ca+un    | 10 | un'ca  |
 2 | du   | 12 | un'ca+du    | 20 | du'ce  |
 3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
-4 | fo   | 14 | un'ca+fo    | 40 | fo'ce  |
+4 | fu   | 14 | un'ca+fu    | 40 | fu'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
 7 | xo   | 17 | un'ca+xo    | 70 | xo'ce  |
@@ -85,10 +85,10 @@ Question: de xai kotu   = how many times
 * 1x = un'xai = once
 * 2x = du'xai = twice
 * 3x = ri'xai = three times
-* 4x = fo'xai = for times
+* 4x = fu'xai = for times
 * 5x = qi'xai = five times
 * ...
-* 10x = ce'xai = then times
+* 10x = ca'xai = then times
 * +x  = po'xai = forever
           
 **positional**
@@ -119,9 +119,9 @@ Franch:  lieu,  ordre, position
  500 |  qi'sute  | 1000 |  un'mila
 
 
-* 125 = un'suta+du'cen+qi
-* 555 = qi'sute+qi'cen+qi
-* 801 = ok'sute+un
+* 125 = un'suta+du'ce+qi
+* 555 = qi'sute+qi'ce+qi
+* 801 = ok'sute+ni'ce+un
 
 
 **Thousands = mila/mile**
@@ -129,12 +129,13 @@ Franch:  lieu,  ordre, position
 * 1,000 = un'mila
 * 2,000 = du'mile
 * 3,000 = ri'mile
-* 4,000 = fo'mile
+* 4,000 = fu'mile
 * 5,000 = qi'mile
 * 6,000 = ze'mile
 * 7,000 = xo'mile
 * 8,000 = ok'mile
 * 9,000 = va'mile
+* 10,000= ca'mile
 
 
 **Millions  = milona/milone**
@@ -165,6 +166,16 @@ For billions we do not use prefix.
 
 ## Level 3
 
+**Groups**
+
+For several distingusih groups of people in muzic you can use these words:
+
+duo = a formation of two people 
+rio = a fomration of 3 people
+qio = a formation of four people
+oko = a formation of eight people
+ceo = a group of 10 people
+
 **Binary**
 
 For binary values we have design special words:
@@ -174,7 +185,7 @@ teje = values
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du-teje        | two values
+0/1 | du-teje        | two values (binary)
 8   | ok-teje        | eight values
 16  | ok'xai-du      | short integer
 32  | ok'xai-fo      | integer
