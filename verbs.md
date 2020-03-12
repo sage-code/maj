@@ -24,30 +24,39 @@ Noun: tepa = time
  ga      | now     | nova   = present
  be      | before  | pasa   = past
 
-**examples:**
+**example:1**
+
+Simple time conjugation:
 
 * jo leru'do = I will read
 * tu moku'ga = you are eating
 * su xaku'be = he has study
 
+**example:2**
+
+Using preposition: bo = about
+
+* jo diku'be una saga bo la pasa! = I have told a story about the past!
+* tu diku'ga una saga bo la zuka! = you will talk now about the future!
+* nu diku'do una saga bo la nova! = we will talk about the present!
+
 ## Nominative
 
 In this case the verb represent an action done by the subject or done to the subject by somebody else.
 
-**examples:**
-
-* uke djia huma haru
-
+* umo djia hume haru?   = how many days hymans have?
+* umo lo daru el Dios!  = how many God gives!
 
 **infinitive**
 
-* jo xatu en la luva    = I sing in the rain
-* jo vezu su en la luva = I see him in the rain
+* jo xosu en la luva;    = I sing in the rain.
+* jo vezu su en la luva; = I see him in the rain.
 
 **specify time**
 
-* jo xatu'ga en la luva    = I'm singing in the rain
-* jo vezu'be su en la luva = I have seen him in the rain
+* lo lovu'ga;               = it is raining.
+* jo xatu'ga en la luva;    = I'm singing in the rain.
+* jo vezu'be su en la luva; = I have seen him in the rain.
 
 ## Reflexive case
 
@@ -89,7 +98,8 @@ The affirmative can be created with prepositions "si" and "pa". By using the pre
 * jo pa leru'ga = I'm not reading
 * jo pa leru'do = I will not read 
 * jo pa leru'be = I have not read
-
+* jo no leru'pa = I do not read
+* jo lo leru'ni = I never read it
 
 ## Conditional
 
@@ -100,28 +110,23 @@ suffix: ra <= would have / should have
 * jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
 * tu leru'ra da tu te domu'be = You would have read but you have fall asleep
 
-
 ## Imperative
 
-For imperative case, you must use an auxiliary verb:
+Maj has two imperative forms: direct and polite
 
 * dovu = must
-* diku = to tell/to talk
-* kotu = to continue
 * saga = story
+* diku = to tell/to talk
 
-**example:1**
+Imperative direct: using pronoun prefix.
 
-* nu dovu sh kotu'ga     = We have to continue
-* nu dovu'ra sh leru'be  = We should have read
+* diku'mi la saga de tu vita; = tell me your life story! 
+* sagu'mi tu vita = describe your life!
 
-**example:2**
+Imperative polite: using auxiliary preposition:
 
-Preposition: di = about
-
-* jo diku'be una saga di la pasa! = I have told a story about the past!
-* tu diku'ga una saga di la zuka! = you will talk now about the future!
-* nu diku'do una saga di la nova! = we will talk about the present!
+* hai tu dovu sh sexu!    = Please you have to continue!
+* nu dovu'ra sh leru'be!  = We should have read!
 
 ## Reflexive form
 
