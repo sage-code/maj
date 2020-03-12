@@ -188,7 +188,7 @@ bits| maj            | description
 0/1 | du-teje        | two values (binary)
 8   | ok-teje        | eight values
 16  | ok'xai-du      | short integer
-32  | ok'xai-fo      | integer
+32  | ok'xai-fu      | integer
 64  | ok'xai-ok      | long integer
 
 **Reading:** 
@@ -199,7 +199,7 @@ x = xai
 
 * 2x2 = du'xai-du
 * 2x8 = du'xai-ok
-* 4x4 = fo'xai-fo
+* 4x4 = fu'xai-fu
 * 8x8 = ok'xai-ok
 
 This is great!
