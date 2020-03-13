@@ -29,7 +29,7 @@ Details: [Maj alphabet](alphabet.md)
 
 There is available a tool to convert Maj words into IPA phonetic representation. You can use this tool to write a word you know and see how this is read. After getting familiar with the alphabet this tool is no longer necessary.
 
-[Maj IPA phonetic converter](https://lingojam.com/MajIPA)
+External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 ## Script
 
@@ -45,7 +45,7 @@ Maj uses a secondary alphabet for handwriting.
 
 There is a dual conversion tool from Latin to Maj script. This tool will help you to write maj. Once you have learned Maj script you can use the letters to take notes on a notepad.
 
-[Maj script converter](https://lingojam.com/MajScript)
+External tool: [Maj script converter](https://lingojam.com/MajScript)
 
 Read more: [Script details](script.md)
 
