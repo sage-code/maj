@@ -58,7 +58,7 @@ x | maj  | xx | maj         | xx | maj    |
 4 | fu   | 14 | un'ca+fu    | 40 | fu'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
-7 | xo   | 17 | un'ca+xo    | 70 | xo'ce  |
+7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
 8 | ok   | 18 | un'ca+ok    | 80 | ok'ce  |
 9 | va   | 19 | un'ca+va    | 90 | va'ce  | 
 
@@ -132,7 +132,7 @@ Franch:  lieu,  ordre, position
 * 4,000 = fu'mile
 * 5,000 = qi'mile
 * 6,000 = ze'mile
-* 7,000 = xo'mile
+* 7,000 = xa'mile
 * 8,000 = ok'mile
 * 9,000 = va'mile
 * 10,000= ca'mile
