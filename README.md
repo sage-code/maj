@@ -51,20 +51,20 @@ Read more: [Script details](script.md)
 
 ## Numerals
 
-For numbers, Maj is using Arabic symbols associated with short words called: numerals:
+Maj has very short and regular numbers:
 
 x | maj  | xx | maj          | xx | maj    |
 --|------|----|--------------|----|--------|
-0 | ni   | 10 | un'cen+ni    |    |        |
-1 | un   | 11 | un'cen+un    | 10 | un'cen |
-2 | du   | 12 | un'cen+du    | 20 | du'cen |
-3 | ri   | 13 | un'cen+ri    | 30 | ri'cen |
-4 | fo   | 14 | un'cen+fo    | 40 | fo'cen |
-5 | qi   | 15 | un'cen+qi    | 50 | qi'cen |
-6 | ze   | 16 | un'cen+ze    | 60 | ze'cen |
-7 | xo   | 17 | un'cen+xo    | 70 | xo'cen |
-8 | ok   | 18 | un'cen+ok    | 80 | ok'cen |
-9 | va   | 19 | un'cen+va    | 90 | va'cen | 
+0 | ni   | 10 | un'ca+ni     |    |        |
+1 | un   | 11 | un'ca+un     | 10 | un'ca  |
+2 | du   | 12 | un'ca+du     | 20 | du'ce  |
+3 | ri   | 13 | un'ca+ri     | 30 | ri'ce  |
+4 | fu   | 14 | un'ca+fu     | 40 | fu'ce  |
+5 | qi   | 15 | un'ca+qi     | 50 | qi'ce  |
+6 | ze   | 16 | un'ca+ze     | 60 | ze'ce  |
+7 | xo   | 17 | un'ca+xo     | 70 | xo'ce  |
+8 | ok   | 18 | un'ca+ok     | 80 | ok'ce  |
+9 | va   | 19 | un'ca+va     | 90 | va'ce  | 
 
 Details: [The numerals](numerals.md)
 
