@@ -37,13 +37,13 @@ The English language is usually using order AN (adjective first then the noun). 
 
 ## Composite words
 
-Long words are formed using an adjective in front of noun using pattern: adjective-noun
+An ajective can fuze together with a noun using pattern: adjective-noun and make a composite word:
 
 djia = day
 
 * la dopo-djia = tomorrow
 * la novo-djia = today
 * la paso-djia = yesterday
-
+* la novo-sara = tonaight
 
 
