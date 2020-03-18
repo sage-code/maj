@@ -40,10 +40,13 @@ The English language is usually using order AN (adjective first then the noun). 
 An ajective can fuze together with a noun using pattern: adjective-noun and make a composite word:
 
 djia = day
+noqa = night
+sara = evening
+moga = morning
 
 * la dopo-djia = tomorrow
 * la novo-djia = today
 * la paso-djia = yesterday
 * la novo-sara = tonaight
-
+* la raio-sola = sunshine
 
