@@ -10,8 +10,8 @@ Maj numeral system and symbols are related so we put them together.
 
 When used in text or expressions, symbols can have associated a name:
 
-Symbol | Maj    | English
--------|--------|---------------------
+Symbol | Maj  | English
+-------|------|---------------------
 `x	`  | xai	| Multiply (times)
 `\	`  | bla	| Backward slash
 `()	`  | bra	| Round brackets
@@ -47,7 +47,7 @@ du ipe = two dots
 * The prefix can be used to create a larger number;
 
 
-**Ten = ca/ce** 
+**Ten/Tens = ca/ce** 
 
 x | maj  | xx | maj         | xx | maj    |
 --|------|----|-------------|----|--------|
@@ -66,7 +66,13 @@ x | maj  | xx | maj         | xx | maj    |
 
 * The numbers do not have gender,
 * Small numbers do not have plural form,
-* Number 10 has a form of plural: ce
+* Number 10 is the smallest number that has form of plural: ce
+
+## Reading 
+
+* 11 = un'ca+un = IPA:/un t͡sa plu un/ 
+* 50 = qi'ce    = IPA:/t͡ʃi t͡s/
+* 70 = xa'ce    = IPA:/ʃa't͡se/
 
 ## Counting:
 
@@ -108,20 +114,20 @@ Franch:  lieu,  ordre, position
 * Large numerals are combined using symbol `+` (pio);
 * Large numbers have singular and plural forms;
 
-**Hundreds = suta/sute**
+**Hundreds = cana/cane**
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  ze'sute
- 200 |  du'sute  |  700 |  xo'sute
- 300 |  ri'sute  |  800 |  ok'sute
- 400 |  fu'sute  |  900 |  va'sute
- 500 |  qi'sute  | 1000 |  un'mila
+ 100 |  un'cana  |  600 |  ze'cane
+ 200 |  du'cane  |  700 |  xo'cane
+ 300 |  ri'cane  |  800 |  ok'cane
+ 400 |  fu'cane  |  900 |  va'cane
+ 500 |  qi'cane  | 1000 |  un'mila
 
 
-* 125 = un'suta+du'ce+qi
-* 555 = qi'sute+qi'ce+qi
-* 801 = ok'sute+ni'ce+un
+* 125 = un'cana+du'ce+qi
+* 555 = qi'cana+qi'ce+qi
+* 801 = ok'cana+ni'ce+un
 
 
 **Thousands = mila/mile**
