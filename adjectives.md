@@ -42,14 +42,21 @@ An ajective can fuze together with a noun using pattern: adjective-noun and make
 * la dopo-djia = tomorrow
 * la novo-djia = today
 * la paso-djia = yesterday
+* la paso-moga = yesterday morning
 * la novo-sara = tonaight
+* la novo-moga = this morning
 * la raio-sola = sunshine
 
-**translation:**
+**micro dictionary:**
 
-djia = day
-noqa = night
-sara = evening
-moga = morning
-raio = radiation
-sola = the Sun
+* djia = day
+* noqa = night
+* sara = evening
+* moga = morning
+* raio = radiation
+* sola = the Sun
+
+**exemples:**
+
+* en la novo-moga la raio-sola sonu'be luqo ka ni'xai = this morning the sunshine was brighter than ever
+* la mogo-veza sonu'be una feta po la mi okia = the morning view was a party for my eyes
