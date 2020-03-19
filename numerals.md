@@ -55,7 +55,7 @@ x | maj  | xx | maj         | xx | maj    |
 1 | un   | 11 | un'ca+un    | 10 | un'ca  |
 2 | du   | 12 | un'ca+du    | 20 | du'ce  |
 3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
-4 | fo   | 14 | un'ca+fu    | 40 | fo'ce  |
+4 | fo   | 14 | un'ca+fo    | 40 | fo'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
 7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
