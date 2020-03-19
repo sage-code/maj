@@ -177,9 +177,9 @@ For billions we do not use prefix.
 
 For several distingusih groups of people in muzic you can use these words:
 
-dua = a formation of two people 
-foa = a formation of fout people
-oka = a formation of eight people
+* dua = a formation of two people 
+* foa = a formation of fout people
+* oka = a formation of eight people
 
 **Binary**
 
