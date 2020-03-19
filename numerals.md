@@ -122,7 +122,7 @@ Franch:  lieu,  ordre, position
  200 |  du'cane  |  700 |  xo'cane
  300 |  ri'cane  |  800 |  ok'cane
  400 |  fu'cane  |  900 |  va'cane
- 500 |  qi'cane  | 1000 |  un'mila
+ 500 |  qi'cane  | 1000 |  un'toza
 
 
 * 125 = un'cana+du'ce+qi
@@ -130,18 +130,18 @@ Franch:  lieu,  ordre, position
 * 801 = ok'cana+ni'ce+un
 
 
-**Thousands = mila/mile**
+**Thousands = toza/toze**
 
-* 1,000 = un'mila
-* 2,000 = du'mile
-* 3,000 = ri'mile
-* 4,000 = fu'mile
-* 5,000 = qi'mile
-* 6,000 = ze'mile
-* 7,000 = xa'mile
-* 8,000 = ok'mile
-* 9,000 = va'mile
-* 10,000= ca'mile
+* 1,000 = un'toza
+* 2,000 = du'toze
+* 3,000 = ri'toze
+* 4,000 = fu'toze
+* 5,000 = qi'toze
+* 6,000 = ze'toze
+* 7,000 = xa'toze
+* 8,000 = ok'toze
+* 9,000 = va'toze
+* 10,000= ca'toze
 
 
 **Millions  = milona/milone**
