@@ -217,7 +217,7 @@ Phonetic writing is quoted using IPA: notation
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"
 * djia => IPA:"d͡ʒia"   = "day"
-* adja => IPA:"ad͡ʒa"   = "today"
+
 
 **Modified: c**
 
