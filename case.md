@@ -105,7 +105,7 @@ Maj will enable you to make new text; this reduce time to write a story or a the
 
 it is true that text do not take much space, but in the future AI will learn how to produce text; in this case, the repository knowledge will grow exponential; improving efficiency should be always a goal;
 
-sorter words is the key for better text alignment. as you know full justified text require extra spaces between words. this is more suitable for Maj since it uses short letters. The longest words will be maximum 6 characters long.
+sorter words is the key for better text alignment. as you know full justified text require extra spaces between words. this is more suitable for Maj since it uses short words. The longest words will be maximum 7 characters long.
 
 Maj is a descriptive language; a Maj interpretor can read _Maj_ and do computations to calculate values; using functions and expressions; you can describe _input/output_ forms, _data tables_, _expressions_ and _algorithms_;
 
