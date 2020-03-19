@@ -55,7 +55,7 @@ x | maj  | xx | maj         | xx | maj    |
 1 | un   | 11 | un'ca+un    | 10 | un'ca  |
 2 | du   | 12 | un'ca+du    | 20 | du'ce  |
 3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
-4 | fu   | 14 | un'ca+fu    | 40 | fu'ce  |
+4 | fo   | 14 | un'ca+fu    | 40 | fo'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
 7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
@@ -79,55 +79,56 @@ x | maj  | xx | maj         | xx | maj    |
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... ria dua una nil ado lazu!
+* ... ri du un ni xi lazu!
                                          
-## Ordinals
+## Repetition
          
 Repeting time is created using `xai` = x (times)
 
-Question: de xai kotu   = how many times
+**Question:** 
+
+umo xai?   = how many times?
+
+**Answers:**
 
 * 0x = ni'xai = never
 * 1x = un'xai = once
 * 2x = du'xai = twice
 * 3x = ri'xai = three times
-* 4x = fu'xai = for times
+* 4x = fo'xai = for times
 * 5x = qi'xai = five times
 * ...
 * 10x = ca'xai = then times
 * +x  = po'xai = forever
           
-**positional**
+## Ordinal
 
-Position in a series or enumeration: era = hierarchy
+Position in a series or enumeration:
 
-English: place, order, position
-Italian: posto, ordine, posizione
-Franch:  lieu,  ordre, position
+**particle:** so = sota (sorting)
 
-* un'era = first place
-* du'era = second place
-* ri'era = third place
+* un'so loka = first place
+* du'so loka = second place
+* ri'so loka = third place
 
 ## Level 2
 
 * Large numerals are combined using symbol `+` (pio);
 * Large numbers have singular and plural forms;
 
-**Hundreds = cana/cane**
+**Hundreds = suta/sute**
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'cana  |  600 |  ze'cane
- 200 |  du'cane  |  700 |  xo'cane
- 300 |  ri'cane  |  800 |  ok'cane
- 400 |  fu'cane  |  900 |  va'cane
- 500 |  qi'cane  | 1000 |  un'toza
+ 100 |  un'sute  |  600 |  ze'sute
+ 200 |  du'sute  |  700 |  xo'sute
+ 300 |  ri'sute  |  800 |  ok'sute
+ 400 |  fo'sute  |  900 |  va'sute
+ 500 |  qi'sute  | 1000 |  un'toza
 
-
-* 125 = un'cana+du'ce+qi
-* 555 = qi'cana+qi'ce+qi
-* 801 = ok'cana+ni'ce+un
+* 125 = un'suta+du'ce+qi
+* 555 = qi'sute+qi'ce+qi
+* 801 = ok'sute+ni'ce+un
 
 
 **Thousands = toza/toze**
@@ -135,7 +136,7 @@ Franch:  lieu,  ordre, position
 * 1,000 = un'toza
 * 2,000 = du'toze
 * 3,000 = ri'toze
-* 4,000 = fu'toze
+* 4,000 = fo'toze
 * 5,000 = qi'toze
 * 6,000 = ze'toze
 * 7,000 = xa'toze
@@ -176,26 +177,24 @@ For billions we do not use prefix.
 
 For several distingusih groups of people in muzic you can use these words:
 
-duo = a formation of two people 
-rio = a fomration of 3 people
-qio = a formation of four people
-oko = a formation of eight people
-ceo = a group of 10 people
+dua = a formation of two people 
+foa = a formation of fout people
+oka = a formation of eight people
 
 **Binary**
 
 For binary values we have design special words:
 
-teja = value
-teje = values
+2 values = due
+8 values = oke
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | du-teje        | two values (binary)
-8   | ok-teje        | eight values
-16  | ok'xai-du      | short integer
-32  | ok'xai-fu      | integer
-64  | ok'xai-ok      | long integer
+0/1 | due            | two values (bin)
+8   | oke            | eight values (oktet)
+16  | du'oke         | short integer
+32  | fu'oke         | integer
+64  | ok'oke         | long integer
 
 **Reading:** 
 
@@ -205,7 +204,7 @@ x = xai
 
 * 2x2 = du'xai-du
 * 2x8 = du'xai-ok
-* 4x4 = fu'xai-fu
+* 4x4 = fo'xai-fo
 * 8x8 = ok'xai-ok
 
 This is great!
