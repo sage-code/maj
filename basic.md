@@ -37,27 +37,17 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 
 
 **notes:**
-1. A regular word start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
+1. A regular word is 4 character long, start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
 2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
 3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda. A short root word may be totally unrelated a longer word created with the root + coda.
-4. Longer words can end with a consonant. This is called stop consonant. These are called irregular words and are considered more expensive and therefore rarely used.
+4. Some words can end with a consonant. Las consonant is called a stop consonant and is voiceless. These words represent prepositions, numerals or nouns without a plural. Usually materials and fluids or proper names end with a consonant.
 
 **coda:**
 
-* Nouns are finalized with vowels: {"a", "e"}
-* Verbs are finalized with vowels: {"u", "o"} and maybe Suffix: { 'ga, 'da, 'ra };
-* Adjectives and Adverbs are finalized with { "o", "e" }
-* Prepositions are two or three letter long and do not have coda;
-
-**root:**
-
-In dictionary the root is using a particular coda, to avoid a large dictionary.
-
-* Most nouns terminated with "a" 
-* Some nouns terminated with "e"
-* Most verbs are terminated with "u"
-* Some verbs are terminated with "o"
-* Adverbs and adjectives are terminated with ("o" or "i")
+* Most nouns are finalized with vowels: {"a", "e", "i"}
+* Verbs are finalized with vowel: "u" and possible a time suffix;
+* Adjectives and adverbs are finalized with "o"
+* Prepositions cab be two, three letter long rarely four;
 
 ## Pronoun
 
@@ -76,11 +66,6 @@ Is the person or the thing who perform the action.
   1  | jo = I           | nu  = we
   2  | tu = you         | vu  = y'all
   3  | su = him, she    | zu  = they
-
-Objects:
-
-* lo = the object  (it)
-* le = the objects (no translation)
 
 **Dative:**
 
@@ -168,6 +153,16 @@ singular                   | plural
 **notes:** 
  * it is a total of: 6 x 4 = 24 pronouns
  * there is no gender differentiation for 3'rd person
+
+## Special pronouns
+
+**Objects:**
+
+We can not talk with objects and objects can not talk:
+
+* lo = it (one object)
+* le = them (many objcts)
+
 
 ## Verbs
 
