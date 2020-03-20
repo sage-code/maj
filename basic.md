@@ -49,6 +49,13 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 * Adjectives and adverbs are finalized with "o"
 * Prepositions cab be two, three letter long rarely four;
 
+**examle:**
+In this example we use root word "rop" to make 3 distinct words:
+
+* ropa = garment (clothing)
+* ropo = dressed up
+* ropu = getting dressed
+
 ## Pronoun
 
 Is a word that can function as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
