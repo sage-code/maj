@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a logic auxiliary language, with following attributes:
+Maj is an exoerimental auxiliary language, with following attributes:
 
 1. Efficient - simple alphabet and short words;
 2. Accesible - has comprehensive and public documentation;
@@ -8,7 +8,7 @@ Maj is a logic auxiliary language, with following attributes:
 
 **Purpose ...**
 
-Maj is designed for artificial rezoning but has also other uses:
+Maj is designed primarly for artificial rezoning but it has secondary use-cases:
 
 1. Maj is for study other languages;
 2. Maj is for making friends;
@@ -18,10 +18,13 @@ Maj is designed for artificial rezoning but has also other uses:
 
 ## Alphabet
 
-Maj is using Latin alphabet with modified order.
+Maj is using Latin alphabet with modified order and custom pronounciation.
 
 * Maj has a total of 26 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading each letter;
+* Maj do not use cedilla nor diaressis;
+* Maj do not use accent to indicate the stress letters;
+* Mak can use apostrophe and dash to make composite words;
 
 Details: [Maj alphabet](alphabet.md)
 
