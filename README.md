@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an exoerimental auxiliary language, with following attributes:
+Maj is an experimental auxiliary language, with following attributes:
 
 1. Efficient - simple alphabet and short words;
 2. Accesible - has comprehensive and public documentation;
