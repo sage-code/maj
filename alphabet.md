@@ -149,10 +149,7 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 
 **accent:**
 
-Maj words have a constant accent. Usually the first vowel in a word is a bit stronger then the other vowels. This can be changed if the vowel has an accent over it. In this case only one vowel can have an accent. It becomes a bit stronger than the normal tone.
-
-* Grave accent can be used to stress a letter: {à è ì ò ù};
-* Letter "h" is read "ə" but it can not have an accent; 
+Maj words have a constant accent. When word start with a consonant, the first vowel in a word is a bit stronger then the other vowels. When word start with a vowel, the second vowel is geting the accent, except when there is no second vowel. Than there is no accent since only one vowel is present.
 
 ## Consonants
 
@@ -168,7 +165,7 @@ lateral  |         |              | l        |       |               |
 affricate|         |              | c        |       | q             |
 
 
-Most consonants are similar to: Italian and Romanian but are similar to in English;
+Most consonants are similar to: Italian and Romanian;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
 * Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
@@ -188,12 +185,12 @@ Most consonants are similar to: Italian and Romanian but are similar to in Engli
 * Letter  `c`  is alveolar affricate, like `zz` in "pizza";
 * Letter  `q`  is voiceless post-alveolar affricate like "ch" in "church";
 * Letter  `g`  is voiced velar fricative like `gu` in "guitar";
-* Letter  `h`  is voiced fricative glottal before vowels like "h" in "happy";
+* Letter  `h`  is voiced fricative glottal like "h" in "happy";
 
 
 ## Difficult sounds
 
-You should be familiar with most of these sounds if you speak English. However the sounds in Maj are associated differently with the letters. Next you will learn the rules to make Maj sounds.
+You should be familiar with most of these sounds if you speak English, Italian or Romanian. However the sounds in Maj are associated differently with the letters. Next you will learn the rules to make more difficult Maj sounds.
 
 **Digraphs**
 
@@ -212,7 +209,7 @@ Most frequent digraphs are associate with letters:
 Phonetic writing is quoted using IPA: notation 
 
 * qoka => IPA:"t͡ʃoka"  = "chocolate"   
-* xava => IPA:"ʃava"    = "shovel"    
+* xava => IPA:"ʃava"   = "shovel"    
 * koqa => IPA:"kot͡ʃa"  = "coach"     
 * qika => IPA:"t͡ʃika"  = "girl"      
 * cita => IPA:"t͡sita"  = "target"
@@ -221,11 +218,11 @@ Phonetic writing is quoted using IPA: notation
 
 **Modified: c**
 
-Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in English word "cats". To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is actually never used in Maj.
+Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in word ENG:"cats". To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` is actually never used in Maj but replaced by single letter "c" instead.
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
-* ciga = ENG: "cigarette"  => IPA: "t͡siga"
+* cyga = ENG: "cigarette"  => IPA: "t͡syga"
 
 **Modified: k**
 
