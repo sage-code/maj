@@ -24,12 +24,12 @@ qau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **note:** Some form of salute have multiple meanings
 
 * muda = world      
-* toto = everyone
+* tuto = everyone
 
 **examples:**
 
 * ola muda = hello world
-* qau toto = farewell everyone
+* qau tuto = farewell everyone
 
 ## Words
 
