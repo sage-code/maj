@@ -37,24 +37,27 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 
 
 **notes:**
-1. A regular word is 4 character long, start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
-2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will change the meaning of the word. The words having same root are related. 
+1. Most words are 4 character long. Usually a word start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
+2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will slightly change the meaning of the word. The words having same root are related. 
 3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda. A short root word may be totally unrelated a longer word created with the root + coda.
-4. Some words can end with a consonant. Las consonant is called a stop consonant and is voiceless. These words represent prepositions, numerals or nouns without a plural. Usually materials and fluids or proper names end with a consonant.
+4. Some words can end with a consonant. Last consonant is called _stop_ and is voiceless. Usually these words represent prepositions, numerals or nouns that have no plural. Usually materials and fluids or names can end with a consonant.
 
 **coda:**
 
 * Most nouns are finalized with vowels: {"a", "e", "i"}
 * Verbs are finalized with vowel: "u" and possible a time suffix;
 * Adjectives and adverbs are finalized with "o"
-* Prepositions cab be two, three letter long rarely four;
+* Most prepositions start with a vowel and have a simple form: VCV (3 letters).
 
 **examle:**
-In this example we use root word "rop" to make 3 distinct words:
+
+In this example we use the root word "rop" to make 3 distinct words:
 
 * ropa = garment (clothing)
 * ropo = dressed up
 * ropu = getting dressed
+
+**note:** Becouse of this rule, you may invent new words that make perfect sens. However we must put the word in Lexicon and have a transaltion for it to be official acceptable. Until the Lexicon is finished this rule could be useful to understand the examples better.
 
 ## Pronoun
 
