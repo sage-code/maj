@@ -2,9 +2,9 @@
 
 Maj is an experimental auxiliary language, with following attributes:
 
-1. Efficient - simple alphabet and short words;
-2. Accesible - has comprehensive and public documentation;
-1. Familiar  - uses familiar words and popular sounds;
+* Regular - with deterministic reading rules;
+* Efficient - short words and simple grammar;
+* Familiar - using Latin alphabet and Balkan sounds;
 
 **Purpose ...**
 
