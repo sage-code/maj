@@ -120,7 +120,7 @@ Position in a series or enumeration:
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'sute  |  600 |  ze'sute
+ 100 |  un'suta  |  600 |  ze'sute
  200 |  du'sute  |  700 |  xo'sute
  300 |  ri'sute  |  800 |  ok'sute
  400 |  fo'sute  |  900 |  va'sute
