@@ -21,15 +21,15 @@ Noun: tepa = time
  Suffix  | Meaning | Related Noun     
 ---------|---------|------------
  do      | after   | zuka  = future
- ga      | now     | nova   = present
+ ia      | now     | nova   = present
  be      | before  | pasa   = past
-
+ 
 **example:1**
 
 Simple time conjugation:
 
 * jo leru'do = I will read
-* tu moku'ga = you are eating
+* tu moku'ia = you are eating
 * su xaku'be = he has study
 
 **example:2**
@@ -37,7 +37,7 @@ Simple time conjugation:
 Using preposition: bo = about
 
 * jo diku'be una saga bo la pasa! = I have told a story about the past!
-* tu diku'ga una saga bo la zuka! = you will talk now about the future!
+* tu diku'ia una saga bo la zuka! = you will talk now about the future!
 * nu diku'do una saga bo la nova! = we will talk about the present!
 
 ## Nominative
@@ -49,14 +49,22 @@ In this case the verb represent an action done by the subject or done to the sub
 
 **infinitive**
 
+In these examples the time of action is not specified.
+
 * jo xosu en la luva;    = I sing in the rain.
 * jo vezu su en la luva; = I see him in the rain.
 
 **specify time**
 
-* lo lovu'ga;               = it is raining.
-* jo xatu'ga en la luva;    = I'm singing in the rain.
-* jo vezu'be su en la luva; = I have seen him in the rain.
+In these examples the time of action is specific.
+
+* lo lovu'ia;                = it is raining now.
+* jo xatu'ia en la lova;     = I'm singing in the rain.
+* jo vezu'be su en la lova;  = I have seen him in the rain.
+* jo pa gabu'do eda lovu;    = I will not walk if is raining.
+
+* jo lo peju'pa sh mh luva;  = I do not like to get wet.
+* jo no lo paju sh gabu en la luva;
 
 ## Reflexive case
 
