@@ -173,14 +173,6 @@ For billions we do not use prefix.
 
 ## Level 3
 
-**Groups**
-
-For several distingusih groups of people in muzic you can use these words:
-
-* dua = a formation of two people 
-* foa = a formation of fout people
-* oka = a formation of eight people
-
 **Binary**
 
 For binary values we have design special words:
@@ -190,7 +182,7 @@ For binary values we have design special words:
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | due            | two values (bin)
+0/1 | bin            | two values (bin)
 8   | oke            | eight values (oktet)
 16  | du'oke         | short integer
 32  | fu'oke         | integer
