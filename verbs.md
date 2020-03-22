@@ -14,31 +14,28 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 ## Time conjugation
 
-In Maj verb conjugation is done done by adding a suffix after the coda "u".
+In Maj verb conjugation is done by adding a suffix after the coda "u".
 
 Noun: tepa = time
 
- Suffix  | Meaning | Related Noun     
----------|---------|------------
- do      | after   | zuka  = future
- ia      | now     | nova   = present
- be      | before  | pasa   = past
- 
+ Suffix  | Meaning
+---------|-------------
+ va      | in the future
+ ra      | in the past
+  
 **example:1**
 
 Simple time conjugation:
 
-* jo leru'do = I will read
-* tu moku'ia = you are eating
-* su xaku'be = he has study
+* tu leru'va = you will read
+* su moku'ra = he has eaten
 
 **example:2**
 
 Using preposition: bo = about
 
-* jo diku'be una saga bo la pasa! = I have told a story about the past!
-* tu diku'ia una saga bo la zuka! = you will talk now about the future!
-* nu diku'do una saga bo la nova! = we will talk about the present!
+* jo diku'ra una saga bo la pasa! = I have told a story about the past!
+* tu diku'va una saga bo la zuka! = you will tell now a story about the future!
 
 ## Nominative
 
@@ -47,24 +44,19 @@ In this case the verb represent an action done by the subject or done to the sub
 * umo djia hume haru?   = how many days hymans have?
 * umo lo daru el Dios!  = how many God gives!
 
-**infinitive**
+**present**
 
-In these examples the time of action is not specified.
+In these examples the time of action is implicit: present (now).
 
-* jo xosu en la luva;    = I sing in the rain.
-* jo vezu su en la luva; = I see him in the rain.
+* jo xosu en la luva;    = I'm singing in the rain.
+* jo vhzu su en la luva; = I see him in the rain.
 
 **specify time**
 
-In these examples the time of action is specific.
+In next examples the time of action is specific: future or past.
 
-* lo lovu'ia;                = it is raining now.
-* jo xatu'ia en la lova;     = I'm singing in the rain.
-* jo vezu'be su en la lova;  = I have seen him in the rain.
-* jo pa gabu'do eda lovu;    = I will not walk if is raining.
-
-* jo lo peju'pa sh mh luva;  = I do not like to get wet.
-* jo no lo paju sh gabu en la luva;
+* su xatu'ra en la luva;     = he was sing in the rain.
+* jo xatu'va si pa luva;     = I will sing if is not raining.
 
 ## Reflexive case
 
@@ -72,7 +64,7 @@ In this case the subject is doing something for himself.
 
 **examples:**
 
-* jo mh lavu = I'm wash myself
+* jo mh lavu = I'm washing myself
 * tu te miru = you are looking at yourself
 * su se joku = he is playing
 
@@ -81,42 +73,38 @@ In this case the subject is doing something for himself.
 To ask someone if is doing something you can use "ke" interrogative preposition.
 
 * ke faru tu?  = what are you doing?
-* tu leru'ia?  = are you reading?
+* tu lo leru?  = are you reading?
 
 **infinitive response**
 
-For infinitive response "si" and "pa" can be used as verb suffix.
+For infinitive response "ia" and "pa" can be used as verb suffix.
 
-* jo si leru = I do read
-* jo pa leru = I do not read
+* jo leru'ia = I read indeed
+* jo leru'pa = I do not read
 
 **specify time**
 
-The affirmative can be created with prepositions "si" and "pa". By using the preposition you can specify the time so the information is complete.
+The affirmative and negative can be created with prepositions "si" and "pa". By using the preposition you can specify the time so the information is complete.
 
 
 **affirmative**
 
-* si jo leru'ia  = yes I read now
-* si jo leru'do  = yes I will read
-* si jo leru'be  = yes I have read
+* ia jo leru     = yes I'm reading
+* ia jo leru'va  = yes I will read
+* si jo leru'ra  = yes I was reading
 
 **negative**
 
-* jo pa leru'ia = I'm not reading
-* jo pa leru'do = I will not read 
-* jo pa leru'be = I have not read
-* jo no leru'pa = I do not read
-* jo lo leru'ni = I never read it
+* jo pa leru    = I'm not reading
+* jo pa leru'va = I will not read 
+* jo pa leru're = I have not read
 
 ## Conditional
 
-An action that is not realized is created using suffix "ra".
+An action that is not realized is created using auxiliary verb: "voru"
 
-suffix: ra <= would have / should have
-
-* jo leru'ra da su mi lexu'pa = I would have read but he didn't let me
-* tu leru'ra da tu te domu'be = You would have read but you have fall asleep
+* jo voru'ra sh leru da su mh lexu'pa = I wanted to read but he didn't let me
+* tu voru'ra sh leru da ra tobu doma  = You wanted to read but have fall asleep
 
 ## Imperative
 
@@ -133,8 +121,8 @@ Imperative direct: is created using pronoun as prefix.
 
 Imperative polite: using auxiliary preposition "hai":
 
-* hai tu dovu sh kotu!    = Please you have to continue!
-* nu dovu'ra sh leru'be!  = We should have read!
+* hai tu dovu sh kotu! = Please you have to continue!
+* nu dovu'ra sh leru!  = We should have read!
 
 ## Reflexive form
 
@@ -198,15 +186,10 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
 In next example "sonu" can change the meaning of word "jok":
 
-* tu sonu'be la joka de zu = He trick you;
-* su te xamu'be            = I has tricked you; 
-* jo sonu'pa la tu joka    = I'm not your fool;
-* tu sonu'ia joko          = you are joking;
-
-In next example "besa" and "besu" are used:
-
-* jo doru tu daru'mi una besa = I wish you give me a kiss
-* jo doru tu mh besu'be = I wish you had kissed me
+* tu sonu'ra la joka de zu = He trick you;
+* su te xamu'ra            = I has tricked you; 
+* jo sonu'pa la tu joka    = I'm not your play;
+* su sonu joko             = he is playful;
 
 ## O/U inversion
 
@@ -218,21 +201,20 @@ In next example we use "luf" root:
 
 **example 1:**
 
-* jo lofu'be zu   = I have influenced him
-* tu sonu'be lofu = You had been influenced
+* jo lofu'ra zu   = I have influenced him
+* tu sonu'ra lofu = You had been influenced
 
-Another good example of verb root is "pag":
+For next example example we use verb root "pag":
 
-* gema = money
 * pagu = pay
 * pago = payed
 
 **example 2:**
 
-* tu raku'be mi vuza   = you have broken my camera
-* tu hodu'ia una dota  = you are holding a dept
+* tu raku'ra mi vuza   = you have broken my camera
+* tu hodu una dota     = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
 * tu pagu la gema      = you pay the money
-* la dota sonu'be pago = the debt was payed
+* la dota sonu'ra pago = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)
