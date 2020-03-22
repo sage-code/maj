@@ -54,20 +54,8 @@ Read more: [Script details](script.md)
 
 ## Numerals
 
-Maj has very short and regular numbers:
+Maj is using arabic symbo from 0 to 9: {0,1,2,3,4,5,6,7,8,9}. Each symbol can be combined with other symbol to make large numbers. Maj has support for naming small numbers up to 1000. For larger numbers you can group 3 nobers together using comma. Decimal point "." can be used to specify fractional numbers.
 
-x | maj  | xx | maj          | xx | maj    |
---|------|----|--------------|----|--------|
-0 | ni   | 10 | un'ca+ni     |    |        |
-1 | un   | 11 | un'ca+un     | 10 | un'ca  |
-2 | du   | 12 | un'ca+du     | 20 | du'ce  |
-3 | ri   | 13 | un'ca+ri     | 30 | ri'ce  |
-4 | fu   | 14 | un'ca+fu     | 40 | fu'ce  |
-5 | qi   | 15 | un'ca+qi     | 50 | qi'ce  |
-6 | ze   | 16 | un'ca+ze     | 60 | ze'ce  |
-7 | xa   | 17 | un'ca+xa     | 70 | xa'ce  |
-8 | ok   | 18 | un'ca+ok     | 80 | ok'ce  |
-9 | va   | 19 | un'ca+va     | 90 | va'ce  | 
 
 Details: [The numerals](numerals.md)
 
