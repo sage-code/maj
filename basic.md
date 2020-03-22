@@ -171,8 +171,8 @@ singular                   | plural
 
 We can not talk with objects and objects can not talk:
 
-* lo = it (one object)
-* le = them (many objcts)
+* lo = it (one object or action)
+* le = them (many objcts or actions)
 
 
 ## Verbs
