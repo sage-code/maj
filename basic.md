@@ -24,30 +24,31 @@ qau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio 
 **note:** Some form of salute have multiple meanings
 
 * muda = world      
-* tuto = everyone
+* jedo = everyone
 
 **examples:**
 
-* ola muda = hello world
-* qau tuto = farewell everyone
+* ola po jedo muda; = hello for everyone in the world
+* qau po jedo muda; = farewell for everyone in the world
 
 ## Words
 
-A word is a rapid succession of sounds without pause. Maj have two kind of words: basic words and composite words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word have a single role.
+A word is a rapid succession of sounds without pause. Maj have two kind of words: basic words and advanced words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word have a single role.
 
 
 **notes:**
-1. Most words are 4 character long. Usually a word start with a consonant or a vowel and ends with a vowel. This rule makes words easy to connect together in propositions using articles.
-2. A word has a _root_ and a _coda_. Root is invariable, but changing the _coda_ will slightly change the meaning of the word. The words having same root are related. 
-3. Words having a root and coda can not exist without the a coda. You can add a suffix to a word after the coda. A short root word may be totally unrelated a longer word created with the root + coda.
-4. Some words can end with a consonant. Last consonant is called _stop_ and is voiceless. Usually these words represent prepositions, numerals or nouns that have no plural. Usually materials and fluids or names can end with a consonant.
+1. Particles are words of 2 character long. Particles are used to create interjections, pronouns, numerals, prefixes, suffixes and prepositions. These words can have form: VC, or CV In total there are about 60 words of this kind.
+2. Shrt words having 3 character long are using pattern: VCV or CVV. These words are in general prepositions, adverbs or adjectives. There are about 100 short words of this kind.
+3. Basic words are 4 character long. A basic word is using these 4 patterns: CVCV, VCVV, VCCV, VCVC. This rule makes words easy to connect together in propositions using articles. There will be about 1500 words of this kind.
+2. Basic word has a _root_ and a _coda_. The root is invariable, but changing the _coda_ will slightly change the meaning of the word. Usually the words having same root are related. 
+4. Words can end with a consonant. Last consonant is called a _stop consonant_. Usually these words represent prepositions, numerals or nouns that have no plural. Usually materials, fluids and names are ending with a consonant. These words are having invariable form.
+5. Advanced words are going to be longer than 4 characters. These words will represent names of fruits, animals, trees, places, rivers, countries, towns and other names. Usually the names are 5 character long but may be longer.
 
 **coda:**
 
 * Most nouns are finalized with vowels: {"a", "e", "i"}
 * Verbs are finalized with vowel: "u" and possible a time suffix;
 * Adjectives and adverbs are finalized with "o"
-* Most prepositions start with a vowel and have a simple form: VCV (3 letters).
 
 **examle:**
 
