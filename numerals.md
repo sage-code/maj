@@ -27,7 +27,7 @@ Symbol | Maj  | English
 `-	`  | fio	| Hyphen , minus sign
 `.	`  | ipa	| Dot, full stop
 `,	`  | oga	| Comma
-`+	`  | plu	| Plus sign
+`+	`  | eth	| Plus sign
 `[]	`  | gra	| Square brackets
 `*	`  | sta	| Asterisk
 `/	`  | sla	| Slash , forward slash
@@ -53,14 +53,14 @@ x | maj  | xx | maj         | xx | maj    |
 --|------|----|-------------|----|--------|
 0 | ni   | 10 | un'ca+ni    |    |        |
 1 | un   | 11 | un'ca+un    | 10 | un'ca  |
-2 | du   | 12 | un'ca+du    | 20 | du'ce  |
+2 | bi   | 12 | un'ca+bi    | 20 | bi'ce  |
 3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
 4 | fo   | 14 | un'ca+fo    | 40 | fo'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
 7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
 8 | ok   | 18 | un'ca+ok    | 80 | ok'ce  |
-9 | va   | 19 | un'ca+va    | 90 | va'ce  | 
+9 | no   | 19 | un'ca+no    | 90 | va'ce  | 
 
 **Note** 
 
@@ -79,7 +79,7 @@ x | maj  | xx | maj         | xx | maj    |
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... ri du un ni xi lazu!
+* ... ri du bi ni xi lazu!
                                          
 ## Repetition
          
@@ -93,7 +93,7 @@ umo xai?   = how many times?
 
 * 0x = ni'xai = never
 * 1x = un'xai = once
-* 2x = du'xai = twice
+* 2x = bi'xai = twice
 * 3x = ri'xai = three times
 * 4x = fo'xai = for times
 * 5x = qi'xai = five times
@@ -103,17 +103,17 @@ umo xai?   = how many times?
           
 ## Ordinal
 
-Position in a series or enumeration:
+Ordinals are adjectives, therefore will finalize with "o":
 
-**particle:** so = sota (sorting)
+**particle:** am 
 
-* un'so loka = first place
-* du'so loka = second place
-* ri'so loka = third place
+* uno loka = first place
+* bio loka = second place
+* rio loka = third place
 
 ## Level 2
 
-* Large numerals are combined using symbol `+` (pio);
+* Large numerals are combined using symbol `+` (eth);
 * Large numbers have singular and plural forms;
 
 **Hundreds = suta/sute**
@@ -121,12 +121,12 @@ Position in a series or enumeration:
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
  100 |  un'suta  |  600 |  ze'sute
- 200 |  du'sute  |  700 |  xo'sute
+ 200 |  bi'sute  |  700 |  xo'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  fo'sute  |  900 |  va'sute
+ 400 |  fo'sute  |  900 |  no'sute
  500 |  qi'sute  | 1000 |  un'toza
 
-* 125 = un'suta+du'ce+qi
+* 125 = un'suta+bi'ce+qi
 * 555 = qi'sute+qi'ce+qi
 * 801 = ok'sute+ni'ce+un
 
