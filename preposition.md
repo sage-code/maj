@@ -2,9 +2,10 @@
 
 A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in:
 
-* the man on the platform; 
-* she arrived after dinner; 
-* what did you do it for ?
+* la homa de pe peron; = the man on the platform. 
+* su ravu do la qena;  = she arrived after dinner. 
+* upo la faru?         = for what have you done it?
+* ura la faru?         = why did you do it? 
 
 **notes**
 
