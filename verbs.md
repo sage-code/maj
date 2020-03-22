@@ -72,16 +72,16 @@ In this case the subject is doing something for himself.
 
 **examples:**
 
-* jo mh lavu'ga = I'm wash myself
-* tu te miru'ga = you are looking at yourself
-* su se joku'ga = he is playing
+* jo mh lavu = I'm wash myself
+* tu te miru = you are looking at yourself
+* su se joku = he is playing
 
 ## Interrogative
 
 To ask someone if is doing something you can use "ke" interrogative preposition.
 
 * ke faru tu?  = what are you doing?
-* tu leru'ga?  = are you reading?
+* tu leru'ia?  = are you reading?
 
 **infinitive response**
 
@@ -97,13 +97,13 @@ The affirmative can be created with prepositions "si" and "pa". By using the pre
 
 **affirmative**
 
-* si jo leru'ga  = yes I read now
+* si jo leru'ia  = yes I read now
 * si jo leru'do  = yes I will read
 * si jo leru'be  = yes I have read
 
 **negative**
 
-* jo pa leru'ga = I'm not reading
+* jo pa leru'ia = I'm not reading
 * jo pa leru'do = I will not read 
 * jo pa leru'be = I have not read
 * jo no leru'pa = I do not read
@@ -133,7 +133,7 @@ Imperative direct: using pronoun prefix.
 
 Imperative polite: using auxiliary preposition:
 
-* hai tu dovu sh sexu!    = Please you have to continue!
+* hai tu dovu sh kotu!    = Please you have to continue!
 * nu dovu'ra sh leru'be!  = We should have read!
 
 ## Reflexive form
@@ -142,17 +142,17 @@ When you refer to some action performed by somebody on himself.
 
 **direct reflexive:**
 
-* jo mh joku'ga = I'm playing
-* tu te joku'ga = you are playing
-* zu se joku'ga = he is playing
+* jo mh joku'ia = I'm playing
+* tu te joku'ia = you are playing
+* zu se joku'ia = he is playing
 
 **polite reflexive:**
 
 Auxiliar: te favu = please make me a favor
 
-* te favu kamu'te  => please calm yourself 
-* te favu hodu'te  => please rest yourself 
-* te favu domu'te  => please go to sleep
+* te fevu kamu'te  => please calm yourself 
+* te fevu hodu'te  => please rest yourself 
+* te fevu domu'te  => please go to sleep
 
 **imperative reflexive:**
 
@@ -200,9 +200,9 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
 In next example "jok" is the verb root:
 
-* tu seru'be la joka de zu = He trick you;
-* jo seru'pa la tu joka    = I'm not your fool;
-* tu seru'ga joko          = you are joking;
+* tu sonu'be la joka de zu = He trick you;
+* jo sonu'pa la tu joka    = I'm not your fool;
+* tu sonu'ia joko          = you are joking;
 
 In next example "besa" and "besu" are used:
 
@@ -231,7 +231,7 @@ Another good example of verb root is "pag":
 **example 2:**
 
 * tu raku'be mi vuza   = you have broken my camera
-* tu hodu'ga una dota  = you are holding a dept
+* tu hodu'ia una dota  = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
 * tu pagu la gema      = you pay the money
 * la dota sonu'be pago = the debt was payed
