@@ -126,12 +126,12 @@ Maj has two imperative forms: direct and polite
 * saga = story
 * diku = to tell/to talk
 
-Imperative direct: using pronoun prefix.
+Imperative direct: is created using pronoun as prefix.
 
 * diku'mi la saga de tu vita; = tell me your life story! 
 * sagu'mi tu vita = describe your life!
 
-Imperative polite: using auxiliary preposition:
+Imperative polite: using auxiliary preposition "hai":
 
 * hai tu dovu sh kotu!    = Please you have to continue!
 * nu dovu'ra sh leru'be!  = We should have read!
@@ -142,17 +142,9 @@ When you refer to some action performed by somebody on himself.
 
 **direct reflexive:**
 
-* jo mh joku'ia = I'm playing
-* tu te joku'ia = you are playing
-* zu se joku'ia = he is playing
-
-**polite reflexive:**
-
-Auxiliar: te favu = please make me a favor
-
-* te fevu kamu'te  => please calm yourself 
-* te fevu hodu'te  => please rest yourself 
-* te fevu domu'te  => please go to sleep
+* jo mh joku = I'm playing
+* tu te joku = you are playing
+* zu se joku = he is playing
 
 **imperative reflexive:**
 
@@ -165,9 +157,15 @@ Auxiliar: hai  = let's  (leading/encouragement)
 * hai sh hodu'ne  = let's rest ourselves
 * hai sh kamu'ne  = let's calm ourselves
 
-**using reflexive prefix**
+**imperative polite:**
 
-Auxiliar: dovu = must
+Auxiliar verb: favu = asking for a favor
+
+* te fevu kamu'te  => please calm yourself 
+* te fevu hodu'te  => please rest yourself 
+* te fevu domu'te  => please go to sleep
+
+Auxiliar verb: dovu = must
 
 * nu dovu sh hodu'ne = we have to rest ourselves
 * vu dovu sh kamu'vh = you have to calm yourselves
@@ -194,13 +192,14 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
-* joku = play / trick
-* joka = game / fool
-* joko = playful/ joking
+* joku = play 
+* joka = game 
+* joko = playful
 
-In next example "jok" is the verb root:
+In next example "sonu" can change the meaning of word "jok":
 
 * tu sonu'be la joka de zu = He trick you;
+* su te xamu'be            = I has tricked you; 
 * jo sonu'pa la tu joka    = I'm not your fool;
 * tu sonu'ia joko          = you are joking;
 
@@ -220,7 +219,7 @@ In next example we use "luf" root:
 **example 1:**
 
 * jo lofu'be zu   = I have influenced him
-* tu seru'be lofu = You had been influenced
+* tu sonu'be lofu = You had been influenced
 
 Another good example of verb root is "pag":
 
