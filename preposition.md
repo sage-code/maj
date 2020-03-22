@@ -4,8 +4,8 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 
 * la homa de pe peron; = the man on the platform. 
 * su ravu do la qena;  = she arrived after dinner. 
-* upo la faru?         = for what have you done it?
-* ura la faru?         = why did you do it? 
+* upo lo faru?         = for what have you done it?
+* ura lo faru?         = why did you do it? 
 
 **notes**
 
