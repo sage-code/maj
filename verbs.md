@@ -16,47 +16,35 @@ In Maj the Infinitive form of verbs is terminated with coda "u".
 
 In Maj verb conjugation is done by adding a suffix after the coda "u".
 
-Noun: tepa = time
-
  Suffix  | Meaning
----------|-------------
- va      | in the future
- ra      | in the past
-  
-**example:1**
+---------|------------------
+ na      | present
+ va      | future
+ be      | past
+ pa      | negative
+ ra      | conditional
 
-Simple time conjugation:
+**infinitive present:**
 
-* tu leru'va = you will read
-* su moku'ra = he has eaten
+In the next example the time of action is not specified:
 
-**example:2**
+* jo leru    = I read
+* tu leru'pa = You do not read
 
-Using preposition: bo = about
-
-* jo diku'ra una saga bo la pasa! = I have told a story about the past!
-* tu diku'va una saga bo la zuka! = you will tell now a story about the future!
-
-## Nominative
-
-In this case the verb represent an action done by the subject or done to the subject by somebody else.
-
-* umo djia hume haru?   = how many days hymans have?
-* umo lo daru el Dios!  = how many God gives!
-
-**present**
-
-In these examples the time of action is implicit: present (now).
-
-* jo xosu en la luva;    = I'm singing in the rain.
-* jo vhzu su en la luva; = I see him in the rain.
-
-**specify time**
+**time prefix:**
 
 In next examples the time of action is specific: future or past.
 
-* su xatu'ra en la luva;     = he was sing in the rain.
-* jo xatu'va si pa luva;     = I will sing if is not raining.
+* su leru'na = He is reading now
+* tu leru'va = You will read
+* jo leru'be = I have read
+
+**conditional prefix:**
+
+In next examples there is a condition that prevent action for being executed.
+
+* su va xatu'ra si lo luva;  = he will sing if is raining.
+* su va xatu'pa si pa luva;  = he will not sing if is not raining.
 
 ## Reflexive case
 
@@ -84,49 +72,53 @@ For infinitive response "ia" and "pa" can be used as verb suffix.
 
 **specify time**
 
-The affirmative and negative can be created with prepositions "si" and "pa". By using the preposition you can specify the time so the information is complete.
-
+The affirmative and negative can be created with prepositions "si" and "pa".
 
 **affirmative**
 
-* ia jo leru     = yes I'm reading
-* ia jo leru'va  = yes I will read
-* si jo leru'ra  = yes I was reading
+* ia jo leru'na  = yes I'm reading now
+* ia jo leru'va  = yes I will read 
+* si jo leru'be  = yes I have read
 
 **negative**
 
-* jo pa leru    = I'm not reading
+* jo pa leru'na = I'm not reading
 * jo pa leru'va = I will not read 
-* jo pa leru're = I have not read
+* jo pa leru'be = I have not read
 
 ## Conditional
 
-An action that is not realized is created using auxiliary verb: "voru"
+An action that is not realized is created using auxiliary verb: "voru" and prefix "ra"
 
 * jo voru'ra sh leru da su mh lexu'pa = I wanted to read but he didn't let me
-* tu voru'ra sh leru da ra tobu doma  = You wanted to read but have fall asleep
+* tu voru'ra sh leru da tobu'be domo  = You wanted to read but have fallen asleep
 
 ## Imperative
 
 Maj has two imperative forms: direct and polite
 
-* dovu = must
-* saga = story
-* diku = to tell/to talk
 
-Imperative direct: is created using pronoun as prefix.
+**dictionary:**
+
+In next examples I will use 2 new verbs abd a noun:
+
+* dovu = must
+* diku = to tell
+* saga = story
+
+Imperative direct: is created using the pronoun as a suffix:
 
 * diku'mi la saga de tu vita; = tell me your life story! 
 * sagu'mi tu vita = describe your life!
 
 Imperative polite: using auxiliary preposition "hai":
 
-* hai tu dovu sh kotu! = Please you have to continue!
-* nu dovu'ra sh leru!  = We should have read!
+* hai tu dovu sh diku la saga!  = Come on you have to tell the story!
+* hau nu dovu sh leru la saga!  = Come on we must read the story!
 
 ## Reflexive form
 
-When you refer to some action performed by somebody on himself.
+When you refer to some action performed by somebody on himself you use reflexive.
 
 **direct reflexive:**
 
@@ -186,35 +178,36 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
 In next example "sonu" can change the meaning of word "jok":
 
-* tu sonu'ra la joka de zu = He trick you;
-* su te xamu'ra            = I has tricked you; 
+* tu sonu la joka de zu    = You are his game;
+* su te xamu'be            = I has tricked you; 
 * jo sonu'pa la tu joka    = I'm not your play;
 * su sonu joko             = he is playful;
 
 ## O/U inversion
 
-In next example we use "luf" root:
+In next example we use "luf" as root of 3 words:
 
 * lufa = influence
 * lufo = influenced
-* lofu = to influence (inversion)
+* lofu = to influence (root changed to "lof")
 
 **example 1:**
 
-* jo lofu'ra zu   = I have influenced him
-* tu sonu'ra lofu = You had been influenced
+* jo lofu zu   = I influence him
+* tu sonu lofu = You are influenced
 
 For next example example we use verb root "pag":
 
+* paga = payment
 * pagu = pay
 * pago = payed
 
 **example 2:**
 
-* tu raku'ra mi vuza   = you have broken my camera
+* tu raku mi foto      = you broke my camera
 * tu hodu una dota     = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
 * tu pagu la gema      = you pay the money
-* la dota sonu'ra pago = the debt was payed
+* la dota sonu pago    = the debt
 
 **Read next about:** [adverbs](adverbs.md)
