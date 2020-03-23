@@ -196,7 +196,7 @@ In next example we use "luf" as root of 3 words:
 * jo lofu zu   = I influence him
 * tu sonu lofu = You are influenced
 
-For next example example we use verb root "pag":
+For next example we use verb root "pag":
 
 * paga = payment
 * pagu = pay
@@ -208,6 +208,6 @@ For next example example we use verb root "pag":
 * tu hodu una dota     = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
 * tu pagu la gema      = you pay the money
-* la dota sonu pago    = the debt
+* la dota sonu pago    = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)
