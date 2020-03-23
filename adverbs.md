@@ -7,7 +7,7 @@ The adverb is a word that modifies or qualifies a verb, expressing a relation of
 * oso = also
 * oma = all
 * ote = sometimes
-* suv = often
+* ofa = often
 * ake = even
 * poi = then
 
