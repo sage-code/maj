@@ -9,15 +9,14 @@ The adverb is a word that modifies or qualifies a verb, expressing a relation of
 * ote = sometimes
 * ofa = often
 * ake = even
-* poi = then
 
 ## Adverb Position
 
-Adverb is usually placed after the subject in SVA order (Subject Adverb Verb).
+Adverb is usually placed after the subject in SVA order (Subject Adverb Verb). There are exceptions, when we use two adverbs for examples. The secondary adverb can ve laced after the verb.
 
-* tu oso te joku; = You play also;
-* jo ote mh joku; = I play sometimes; 
-* jo ofa mh joku; = I play often;
-* su ake se joku; = Even he plays;
+* jo ofa mh joku; = I play sometimes; 
+* tu oso te joku; = You also play;
+* su ake se joku ote; = Even he plays sometimes;
+* nu oma ne joku; = We all play;
 
 
