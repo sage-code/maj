@@ -1,28 +1,23 @@
 ## Adverbs
 
-a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there ).
-
-Adverb can be:
-
-* monosyllabic prepositions
-* short words (2 syllable) terminated with "o"
-* long words (3 syllable) terminated with any letter
+The adverb is a word that modifies or qualifies a verb, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there ...). Adverb are usually short words terminated with vowel "o":
 
 **examples:**
 
-MAJ   |ENGLISH      |SPANISH
-------|-------------|------------
-amo   |all          |todas
-den   |then         |entonces
-avo   |sometimes    |a veces
-ugo   |even         |incluso
-lwa   |away         |lejos
+* oso = also
+* oma = all
+* ote = sometimes
+* suv = often
+* ake = even
+* poi = then
 
 ## Adverb Position
 
-Adverb is usually placed after the verb: SVA order (Subject Verb Adverb)
+Adverb is usually placed after the subject in SVA order (Subject Adverb Verb).
 
-* tu te joku ako; = You play too;
-* jo mh joku ufo; = I play sometimes; 
+* tu oso te joku; = You play also;
+* jo ote mh joku; = I play sometimes; 
+* jo ofa mh joku; = I play often;
+* su ake se joku; = Even he plays;
 
 
