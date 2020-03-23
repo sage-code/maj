@@ -72,11 +72,11 @@ For infinitive response "ia" and "pa" can be used as verb suffix.
 
 **specify time**
 
-The affirmative and negative can be created with prepositions "si" and "pa".
+The affirmative and negative can be created with prepositions "ia" and "pa".
 
 **affirmative**
 
-* ia jo leru'na  = yes I'm reading now
+* ia jo leru'na  = yes I'm reading
 * ia jo leru'va  = yes I will read 
 * si jo leru'be  = yes I have read
 
@@ -97,7 +97,6 @@ An action that is not realized is created using auxiliary verb: "voru" and prefi
 
 Maj has two imperative forms: direct and polite
 
-
 **dictionary:**
 
 In next examples I will use 2 new verbs abd a noun:
@@ -106,12 +105,12 @@ In next examples I will use 2 new verbs abd a noun:
 * diku = to tell
 * saga = story
 
-Imperative direct: is created using the pronoun as a suffix:
+**Imperative direct:** is created using the pronoun as a suffix:
 
 * diku'mi la saga de tu vita; = tell me your life story! 
 * sagu'mi tu vita = describe your life!
 
-Imperative polite: using auxiliary preposition "hai":
+**Imperative polite:** using auxiliary preposition "hai":
 
 * hai tu dovu sh diku la saga!  = Come on you have to tell the story!
 * hau nu dovu sh leru la saga!  = Come on we must read the story!
