@@ -30,34 +30,43 @@ Symbol | Maj  | English
 
 When two symbols are used you repeat the word:
 
+```
 .. = bla bla
 << = lio lio
+```
 
 With 3 or more you can use numeral prefix:
 
+```
 ... = ri'bla
 <<< = ri'lio
 >>> = ri'gro
+```
 
 ## Open and Close 
 
 Brackets have open/close variant:
 
-* ( = ovro bra
-* ) = kuso bra
+```
+ ( = ovro bra
+ ) = kuso bra
+```
 
 You can use preposition "iro" = "between":
 
-* [...] = iro bra
-* [...] = iro kra
-* {...} = iro sra
+```
+ [...] = iro bra
+ [...] = iro kra
+ {...} = iro sra
+```
 
 ## Range = _raga_
 
 To specify a range of numbers you can use notation "[..]":
 
-* [4..8] = [4,5,6,7,8]
-
+```
+[4..8] = [4,5,6,7,8]
+```
 This is an interval of numbers that is called 
 
 ## Set = _sota_
@@ -68,7 +77,9 @@ To specify a set of numbers you can use notation "{..}"
 
 A set of four numbers:
 
-* {1, 2, 4, 8} = un sota de fo noma; 
+```
+{1, 2, 4, 8} = un sota de fo noma; 
+```
 
 **To be continued!***
 
