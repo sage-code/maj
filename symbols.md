@@ -5,29 +5,71 @@ Maj is using next symbols for mathematical expressions and text:
 Symbol | Maj  | English
 -------|------|---------------------
 `x	`  | xai	| Multiply (times)
-`\	`  | oba	| Backward slash
+`\	`  | epa	| Backward slash
 `()	`  | bra	| Round brackets
-`:	`  | epa	| Colon
-`;	`  | iva	| Semicolon
+`:	`  | ebi	| Colon
+`;	`  | evi	| Semicolon
 `_	`  | spa	| blank, gap
-`>	`  | gwo	| Greater then sign
+`>	`  | gro	| Greater then sign
 `=	`  | ego	| Equal sign
-`≠	`  | ugo	| Inequal sign
-`!	`  | ira	| Exclamation mark
-`?	`  | kwa	| Question mark
-`<	`  | lwo	| Less then sign
-`-	`  | fio	| Hyphen , minus sign
+`≠	`  | igo	| Inequal sign
+`!	`  | era	| Exclamation mark
+`?	`  | kua	| Question mark
+`<	`  | lio	| Less then sign
+`-	`  | meo	| Hyphen , minus sign
 `.	`  | bla	| Dot, full stop
-`,	`  | oga	| Comma
-`+	`  | eth	| Plus sign
-`[]	`  | gra	| Square brackets
+`,	`  | oja	| Comma
+`+	`  | plu	| Plus sign
+`[]	`  | kra	| Square brackets
 `*	`  | sta	| Asterisk
-`/	`  | osa	| Slash , forward slash
+`/	`  | esa	| Slash , forward slash
 `{}	`  | sra	| Curly brackets
+`~  `  | ugo  | Almost equal
 
-**notes:**
+## Plural
 
-Symbols are nouns so they end with "a". We will learn later this can be changed in "e" to make plural. 
+When two symbols are used you repeat the word:
 
-un ipa = one dot
-du ipe = two dots
+.. = bla bla
+<< = lio lio
+
+With 3 or more you can use numeral prefix:
+
+... = ri'bla
+<<< = ri'lio
+>>> = ri'gro
+
+## Open and Close 
+
+Brackets have open/close variant:
+
+* ( = ovro bra
+* ) = kuso bra
+
+You can use preposition "iro" = "between":
+
+* [...] = iro bra
+* [...] = iro kra
+* {...} = iro sra
+
+## Range = _raga_
+
+To specify a range of numbers you can use notation "[..]":
+
+* [4..8] = [4,5,6,7,8]
+
+This is an interval of numbers that is called 
+
+## Set = _sota_
+
+To specify a set of numbers you can use notation "{..}"
+
+**example
+
+A set of four numbers:
+
+* {1, 2, 4, 8} = un sota de fo noma; 
+
+**To be continued!***
+
+
