@@ -4,25 +4,25 @@ Maj is using next symbols for mathematical expressions and text:
 
 Symbol | Maj  | English
 -------|------|---------------------
-`x	`  | xai	| Multiply (times)
-`\	`  | epa	| Backward slash
+`x	`   | xai	| Multiply (times)
+`\	`   | epa	| Backward slash
 `()	`  | bra	| Round brackets
-`:	`  | ebi	| Colon
-`;	`  | evi	| Semicolon
-`_	`  | spa	| blank, gap
-`>	`  | gro	| Greater then sign
-`=	`  | ego	| Equal sign
-`≠	`  | igo	| Inequal sign
-`!	`  | era	| Exclamation mark
-`?	`  | kua	| Question mark
-`<	`  | lio	| Less then sign
-`-	`  | meo	| Hyphen , minus sign
-`.	`  | bla	| Dot, full stop
-`,	`  | oja	| Comma
-`+	`  | plu	| Plus sign
+`:	`   | ebi	| Colon
+`;	`   | evi	| Semicolon
+`_	`   | spa	| blank, gap
+`>	`   | gro	| Greater then sign
+`=	`   | ego	| Equal sign
+`≠	`   | igo	| Inequal sign
+`!	`   | era	| Exclamation mark
+`?	`   | kua	| Question mark
+`<	`   | lio	| Less then sign
+`-	`   | meo	| Hyphen , minus sign
+`.	`   | bla	| Dot, full stop
+`,	`   | oja	| Comma
+`+	`   | plu	| Plus sign
 `[]	`  | kra	| Square brackets
-`*	`  | sta	| Asterisk
-`/	`  | esa	| Slash , forward slash
+`*	`   | sta	| Asterisk
+`/	`   | esa	| Slash , forward slash
 `{}	`  | sra	| Curly brackets
 `~  `  | ugo  | Almost equal
 
@@ -73,7 +73,7 @@ This is an interval of numbers that is called
 
 To specify a set of numbers you can use notation "{..}"
 
-**example
+**example:**
 
 A set of four numbers:
 
@@ -81,6 +81,6 @@ A set of four numbers:
 {1, 2, 4, 8} = un sota de fo noma; 
 ```
 
-**To be continued!***
+**To be continued!**
 
 
