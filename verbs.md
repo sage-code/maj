@@ -32,7 +32,7 @@ In the next example the time of action is not specified:
 * jo leru'ia = I read indeed
 * tu leru'pa = You do not read
 
-**time prefixes:**
+**time prefixes:** {_na_, _va_, _be_}
 
 In next examples the time of action is specific: present, future or past.
 
@@ -40,7 +40,7 @@ In next examples the time of action is specific: present, future or past.
 * tu leru'va = You will read
 * jo leru'be = I have read
 
-**conditional prefix:** _ra_
+**conditional prefix:** {_ra_}
 
 In next examples there is a condition that prevent action for being executed.
 
@@ -64,24 +64,24 @@ To ask someone if is doing something you can use "ke" interrogative preposition.
 * ke faru tu?  = what are you doing?
 * tu lo leru?  = are you reading?
 
-**infinitive response**
+**infinitive response:**
 
 For infinitive response "ia" and "pa" can be used as verb suffix.
 
 * jo leru'ia = I read indeed
 * jo leru'pa = I do not read
 
-**specify time**
+**include time in response:**
 
 The affirmative and negative can be created with prepositions "ia" and "pa".
 
-**affirmative**
+**affirmative:** {_ia_}
 
 * ia jo leru'na  = yes I'm reading
 * ia jo leru'va  = yes I will read 
 * si jo leru'be  = yes I have read
 
-**negative**
+**negative:** {_pa_}
 
 * jo pa leru'na = I'm not reading
 * jo pa leru'va = I will not read 
@@ -100,7 +100,7 @@ Maj has two imperative forms: direct and polite
 
 **dictionary:**
 
-In next examples I will use 2 new verbs abd a noun:
+In next examples I will use 2 new verbs and one noun:
 
 * dovu = must
 * diku = to tell
