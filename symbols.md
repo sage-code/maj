@@ -65,7 +65,7 @@ You can use preposition "iro" = "between":
 To specify a range of numbers you can use notation "[..]":
 
 ```
-[4..8] = [4,5,6,7,8]
+[4..8] = [4,5,6,7,8] = un raga de qi noma;
 ```
 This is an interval of numbers that is called 
 
