@@ -21,25 +21,26 @@ In Maj verb conjugation is done by adding a suffix after the coda "u".
  na      | present
  va      | future
  be      | past
- pa      | negative
  ra      | conditional
+ ia      | affirmative
+ pa      | negative 
 
 **infinitive present:**
 
 In the next example the time of action is not specified:
 
-* jo leru    = I read
+* jo leru'ia = I read indeed
 * tu leru'pa = You do not read
 
-**time prefix:**
+**time prefixes:**
 
-In next examples the time of action is specific: future or past.
+In next examples the time of action is specific: present, future or past.
 
 * su leru'na = He is reading now
 * tu leru'va = You will read
 * jo leru'be = I have read
 
-**conditional prefix:**
+**conditional prefix:** _ra_
 
 In next examples there is a condition that prevent action for being executed.
 
@@ -113,7 +114,7 @@ In next examples I will use 2 new verbs abd a noun:
 **Imperative polite:** using auxiliary preposition "hai":
 
 * hai tu dovu sh diku la saga!  = Come on you have to tell the story!
-* hau nu dovu sh leru la saga!  = Come on we must read the story!
+* hai nu dovu sh leru la saga!  = Come on we must read the story!
 
 ## Reflexive form
 
@@ -158,14 +159,14 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 
 **example 1:**
 
-* jo povu sh fabu pana = I can make bred
-* su povu sh domu paqo = he can sleep peacefully
+* jo povu sh fabu pana; = I can make bred.
+* su povu sh domu paqo; = he can sleep peacefully.
 
 **example 2:**
 
-* vh favu mi daru la vora? = please give me the order
-* jo voru la hola ku keso! = I want the omelet with cheese
-* la vora se daru'be = the order was given
+* vh favu mi daru la vora? = Please can I have the order?
+* jo voru la hola ku keso! = I want the omelet with cheese!
+* la vora se daru'be; = The order was given.
 
 ## Verb transformation
 
@@ -177,10 +178,10 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
 In next example "sonu" can change the meaning of word "jok":
 
-* tu sonu la joka de zu    = You are his game;
-* su te xamu'be            = I has tricked you; 
-* jo sonu'pa la tu joka    = I'm not your play;
-* su sonu joko             = he is playful;
+* tu sonu la joka de zu    = You are his game
+* su te xamu'be            = He tricked you 
+* jo sonu'pa la tu joka    = I'm not your play
+* su sonu joko             = he is playful
 
 ## O/U inversion
 
@@ -192,8 +193,8 @@ In next example we use "luf" as root of 3 words:
 
 **example 1:**
 
-* jo lofu zu   = I influence him
-* tu sonu lofu = You are influenced
+* jo lofu su   = I influence him
+* tu sonu lufo de su = You are influenced by him
 
 For next example we use verb root "pag":
 
