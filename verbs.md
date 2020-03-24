@@ -208,6 +208,6 @@ For next example we use verb root "pag":
 * tu hodu una dota     = you are holding a dept
 * poi tu dovu sh pagu  = then you have to pay
 * tu pagu la gema      = you pay the money
-* la dota sonu pago    = the debt was payed
+* la dota sonu'be pago = the debt was payed
 
 **Read next about:** [adverbs](adverbs.md)
