@@ -44,13 +44,20 @@ Maj uses a secondary alphabet for handwriting.
 * Script is mapped 1:1 with the Latin print alphabet;
 * Script is using same punctuation marks as Latin;
 
+**Example:**
+
+* this is an example written in maj;
+* eta sonu un jesa kibo en maj;
+* ɛծα σთღև ևღ უɛσα ჺʚβთ ɛღ რαუ;
+
+Read more: [Script details](script.md)
+
 **Tools:**
 
 There is a dual conversion tool from Latin to Maj script. This tool will help you to write maj. Once you have learned Maj script you can use the letters to take notes on a notepad.
 
 External tool: [Maj script converter](https://lingojam.com/MajScript)
 
-Read more: [Script details](script.md)
 
 ## Numerals
 
