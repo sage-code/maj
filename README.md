@@ -10,9 +10,9 @@ Maj is an experimental auxiliary language, with following attributes:
 
 Maj is designed primarly for artificial rezoning but it has secondary use-cases:
 
-1. Maj is for study other languages;
-2. Maj is for making friends;
-3. Maj is for entertainment;
+1. Maj is for making friends;
+2. Maj is for entertainment;
+3. Maj is for learning new languages;
 
 **Rad more:** [use case](case.md)
 
