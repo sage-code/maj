@@ -12,7 +12,7 @@ Maj is designed primarly for artificial rezoning but it has secondary use-cases:
 
 1. Maj is for making friends;
 2. Maj is for entertainment;
-3. Maj is for learning new languages;
+3. Maj is for linguistic studies;
 
 **Rad more:** [use case](case.md)
 
