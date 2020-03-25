@@ -75,20 +75,15 @@ Details: [The symbols](symbols.md)
 
 Some of the Maj words are inspired from different European languages. Sometimes we revert the word to the original Latin word to avoid colisions with other existing words. Our struggle is to produce unique words and avoid duplicates.
 
-* **More:** Spanish, Romanian, Italian 
-* **Less:** Latin, French, English, German.
-
 Maj words are short and easy to memorize. Maj has ancient roots nut it also has modern words like "foto" or "fona" that represents technological advanced decives that do not exist in vulgar Latin. 
 
+For example we borrow the word: "ia" from German and word "pa" from French. Also we borrow word "si" from Spanish and words "on/of" from English. In the end we are balancing the advantages and desadvantages of every word and we combine the comprehensive into a single language that we believe will be easy to comprehend.
 
 ## Essentials
 
-One distinctive aspect of Maj are the way words are created.
+One distinctive aspect of Maj is the reach pronounciation of words. We have maximized the use of Latin alphabet. Also we have reduced the Grammar complexity compared to French, English or German. Maj Grammar is similar to Italian and Romanian grammer but more regular. We do not have invariant verbs.
 
-* Maj has root words and composite words;
-* Maj root words are very short;
-* Maj words can have a suffix;
-* Mak can have composite words formed from two root words;
+Maj pronouns are very regular and distinctive. That is one of the first feature you will learn when you study the Grammar. We describe in details each word category and make some examples in a comprehensive document called:  "basic"
 
 **Read more about:** [basic grammar](basic.md)
 
@@ -107,13 +102,13 @@ Advanced grammar rules and examples are explained by:  _word category_
 
 We accept volunteer work to improve the language.
 
-1. To translate in other languages;
-2. To review grammar and text;
-3. To improve lexicon and examples;
-4. To write short stories;
-5. To have a conversation;
+1. To review grammar and text;
+2. To improve lexicon and examples;
+3. To write short stories;
+4. To have a conversation;
+5. To translate in other languages;
 
-Thanks for reading. We are waiting for you to join us!
+Thanks for reading. We are waiting for you to join us soon!
 
 **Community:**
 
