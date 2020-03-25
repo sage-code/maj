@@ -73,10 +73,12 @@ Details: [The symbols](symbols.md)
 
 ## Words
 
-Maj words are inspired from 7 different languages.
+Some of the Maj words are inspired from different European languages. Sometimes we revert the word to the original Latin word to avoid colisions with other existing words. Our struggle is to produce unique words and avoid duplicates.
 
 * **More:** Spanish, Romanian, Italian 
 * **Less:** Latin, French, English, German.
+
+Maj words are short and easy to memorize. Maj has ancient roots nut it also has modern words like "foto" or "fona" that represents technological advanced decives that do not exist in vulgar Latin. 
 
 
 ## Essentials
