@@ -61,10 +61,15 @@ External tool: [Maj script converter](https://lingojam.com/MajScript)
 
 ## Numerals
 
-Maj is using arabic symbo from 0 to 9: {0,1,2,3,4,5,6,7,8,9}. Each symbol can be combined with other symbol to make large numbers. Maj has support for naming small numbers up to 1000. For larger numbers you can group 3 nobers together using comma. Decimal point "." can be used to specify fractional numbers.
-
+Maj is using arabic symbols from 0 to 9: {0,1,2,3,4,5,6,7,8,9}. 
 
 Details: [The numerals](numerals.md)
+
+## Symbols
+
+Maj is using ASCII and Unicode symbols. We give a name to each symbols used in Maj
+
+Details: [The symbols](symbols.md)
 
 ## Words
 
