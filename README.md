@@ -24,7 +24,7 @@ Maj is using Latin alphabet with modified order and custom pronounciation.
 * Maj has deterministic phonetic rules for reading each letter;
 * Maj do not use cedilla nor diaressis;
 * Maj do not use accent to indicate the stress letters;
-* Mak can use apostrophe and dash to make composite words;
+* Maj can use apostrophe and dash to make composite words;
 
 Details: [Maj alphabet](alphabet.md)
 
