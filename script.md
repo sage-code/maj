@@ -28,31 +28,13 @@ The letters in next picture are not perfect. However if you start the letter fro
 
 <img src="demo/new-script.jpg" alt="Maj Alphabet" width="600"></img>
 
-
-## Cost of writing
-
-The more movements a letter has the more expensive it is. The cost of writing can be calculated using 3 classes depending on letter difficulty. We have selected this cost so that most frequent letters are less expensive while more rare laters are a bit more expensive.
-
-Cost |  Letter
------|----------------------------
-  1  |abcdgsv
-  2  |eiktlqouwyz
-  3  |mnjxrhfp
-
-Const of writing can be used in an algorithms to evaluate word complexity during word creation. Names can be invented in Maj so this function could be used to establish popular names for persons and places.
-
-**Tools:**  
-  
-* [Maj Script Convertor](https://lingojam.com/MajScript)
-* [IPA alphabet](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
-
 ## Examples of words in Maj
 
 **example:**
 
-* ʚთ.შთწև.ɕև.ծთშთ.რևშთ,ღთϑთ.αღთ.ჵɛʓთ!
-* jo doru cu todo mudo novo ano fezo!
-* I wish to the entire world happy new year!
+* jo voru cu jedo un novo iana fezo!
+* უთ ϑთწև ɕև უɛშთ ևღ ღთϑთ ʚαღα ჵɛʓთ!
+* I wish to everyone a happy new year!
 
 **notes:**
 
