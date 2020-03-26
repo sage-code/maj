@@ -24,7 +24,7 @@ Symbol | Maj  | English
 `*	`   | sta	| Asterisk
 `/	`   | esa	| Slash , forward slash
 `{}	`  | sra	| Curly brackets
-`~  `  | ugo  | Almost equal
+`~  `  | ezo  | Almost equal
 
 ## Plural
 
