@@ -18,10 +18,10 @@ In Maj verb conjugation is done by adding a suffix after the coda "u".
 
  Suffix  | Meaning
 ---------|------------------
- na      | present
- va      | future
- be      | past
- ra      | conditional
+ na      | now
+ do      | after
+ be      | before
+ ra      | would
  ia      | affirmative
  pa      | negative 
 
@@ -29,8 +29,9 @@ In Maj verb conjugation is done by adding a suffix after the coda "u".
 
 In the next example the time of action is not specified:
 
-* jo leru'ia = I read indeed
-* tu leru'pa = You do not read
+* jo leru = I read
+* tu joku = You play
+* su moku = He eats/ Shee eats
 
 **time prefixes:** {_na_, _va_, _be_}
 
