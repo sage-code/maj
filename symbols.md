@@ -5,7 +5,7 @@ Maj is using next symbols for mathematical expressions and text:
 Symbol | Maj  | English
 -------|------|---------------------
 `x	`   | xai	| Multiply (times)
-`\	`   | epa	| Backward slash
+`\	`   | eba	| Backward slash
 `()	`  | bra	| Round brackets
 `:	`   | ebi	| Colon
 `;	`   | evi	| Semicolon
