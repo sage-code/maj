@@ -260,11 +260,11 @@ ki?     | who?     | quien   | cine
 
 Composite interrogations using preposition "de" and noun:
 
-maj        | New | english  | spanish | 1:1 translation
------------|-----|----------|---------|---------------
-de ke tepa?| uta | when?    | cuando  | about what time?
-de ke loka?| uda | where?   | donde   | about what location?
-de ke reza?| ure | why?     | por qué | for what reason?
+Maj  | english  | spanish | 1:1 translation
+-----|----------|---------|---------|---------------
+ uta | when?    | cuando  | about what time?
+ uvo | where?   | donde   | about what location?
+ ura | why?     | por qué | for what reason?
 
 **examples**
 
@@ -274,23 +274,16 @@ Next examples show how to use interrogative prepositions:
 * ki sonu tu  ?  = who are you?   
 * ki sonu ala ?  = who was there?
 
-Asking about location can be explicit using "ke loka":
+Asking about location can be explicit using: uvo = where:
 
-* de ke loka te andu? = where are you going?
-* de ke loka te venu? = where are you coming from?
-* de ke loka te senu? = where are you from?
+* uvo te andu? = where are you going?
+* uvo te venu? = where are you coming from?
+* uvo te sonu? = where are you from?
     
-Sometimes "ke" is used to indicate a response and not a question:
+Sometimes question word: "uvo", "uto" is used to indicate a response and not a question:
 
-* es la loka ke te joku! = is the place you play!
-* es la tema ke zu venu! = is the time they arrive!
-
-**expressions**
-  
-You can use `uda` instead of `loka`.
-  
-* de uda cu uda? = from where to where!
-* de aki cu ala! = from here to there!
+* es la loka uvo te joku! = is the place where you play!
+* es la tema uta zu venu! = is the time when they arrive!
 
 ## Responses
 
@@ -298,36 +291,29 @@ The interrogative question can be answered with affirmative or negative:
 
 **familiar**
 
-* si = yes/ affirmative
+* ia = yes/ affirmative
 * pa = not/ negative
-
-**polite**
-
-* ceto = indeed
-* juso = right
-* vero = true
-* faso = false
-
 
 **logical**
 
 * vero!  = true, affirmative
 * faso!  = false, negative, 
 
-**scientific**
-For stronger assurance answer you can specify the logical values:
+**technical**
 
-* bon, bono! = good, tasteful
-* mal, malo! = bad, repulsive
+* juso = correct
+* juso'pa = incorrect
 
-**composite**
+**polite**
 
-* pan-juso = incorrect, not justified
-* nam-juso = to be justified
+* bonu = good
+* malo = bad
+* joru = agree
+* bogu = against 
 
 ## Noun
 
-Noun is a word terminated with coda:
+Noun is a word terminated with coda "a", "e" or "i":
 
 * coda "a" = singular
 * coda "e" = plural
@@ -384,8 +370,8 @@ sonu = to exist
 
 **example:**
 
-* le peqe de pe faca mia = the freckles of my face
-* jo sonu de la Romhnia  = I'm from the Romania
+* le peqe de pe faca mia = the freckles of my face;
+* jo sonu de la Romhnia  = I'm from the Romania;
 
 **English indefinite articles**
 In English, indefinite articles are the words 'a' and 'an.' Each of these articles is used to refer to a noun, but the noun being referred to is not a specific person, place, object, or idea. It can be any noun from a group of nouns. For example:
