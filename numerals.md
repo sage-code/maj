@@ -68,13 +68,31 @@ umo xai?   = how many times?
           
 ## Ordinal
 
-Ordinals are adjectives, therefore will finalize with "o":
+Ordinals are almost like pronouns, therefore will finalize with "a":
 
-**particle:** am 
+* al una = first
+* al bia = second
+* al ria = third
 
-* uno loka = first place
-* bio loka = second place
-* rio loka = third place
+**question:**
+
+* uko = what number?
+* al uko  = what position?
+* qe kota = what number?
+
+**alternative:**
+
+* kota un = number one
+* kota bi = number two
+* kota ri = number three
+
+**formations:**
+
+* uno = single
+* bio = duo
+* rio = trio
+* quo = quartet
+* oko = oktet
 
 ## Level 2
 
