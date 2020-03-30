@@ -16,10 +16,10 @@ In this document we describe the basics of MAJ concepts.
 You can give greetings to one person or to everyone:
 
 
-Maj   | English  | Spanish    | French     | Latin     | Romanian    | Italian  | German
-------|----------|------------|------------|-----------|-------------|----------|-----------
-ola   |hello     | hola       | bienvenue  | salve     | salut       | ciao     | Gruß
-qau   |farewell  | adiós      | à bientôt  | adios     | adio        | addio    | Abschied
+Maj   | English  | Spanish    | French     |  Romanian   | Italian  | German
+------|----------|------------|------------|-------------|----------|-----------
+ola   |hello     | hola       | bienvenue  | salut       | ciao     | Gruß
+qau   |farewell  | adiós      | à bientôt  | adio        | addio    | Abschied
 
 **note:** Some form of salute have multiple meanings
 
