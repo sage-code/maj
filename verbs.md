@@ -20,6 +20,7 @@ In Maj verb conjugation is done by adding a suffix after the coda "u".
 ---------|------------------
  na      | now
  do      | after
+ va      | will
  be      | before
  ra      | would
  ia      | affirmative
@@ -37,16 +38,36 @@ In the next example the time of action is not specified:
 
 In next examples the time of action is specific: present, future or past.
 
-* su leru'na = He is reading now
-* tu leru'va = You will read
-* jo leru'be = I have read
+* su leru'na = He is reading;
+* tu leru'va = You will read;
+* jo leru'be = I have read;
+
+**time adverb:**
+
+Time suffix can be used as adjective, sligtly changing the meaning of sentance.
+
+* su na leru = He reads now;
+* su va leru = he will read;
+* jo be leru = I was reading;
+
+**using "do" and "va"
+
+In Maj "do" represets a relarive future while "va" is an absolute future.
+
+* su leru'va = he will read; 
+* su leru'do = he read next;
+
+It is possible and more correct to use both prefixes in the same sentance;
+
+* su va leru'do = he will read next;
+* do su leru'va = next he will read;
 
 **conditional prefix:** {_ra_}
 
-In next examples there is a condition that prevent action for being executed.
+Adjective and suffix "ra" can express an action that was not realized for a specific reason. 
 
-* su va xatu'ra si lo luva;  = he will sing if is raining.
-* su va xatu'pa si pa luva;  = he will not sing if is not raining.
+* su be xatu'ra si lo luva'pa;  = he would have sung if it would not have rain.
+* su va xatu'pa si va luva;     = he will not sing if it will rain.
 
 ## Reflexive case
 
@@ -54,9 +75,9 @@ In this case the subject is doing something for himself.
 
 **examples:**
 
-* jo mh lavu = I'm washing myself
-* tu te miru = you are looking at yourself
-* su se joku = he is playing
+* jo mh lavu sifo = I'm washing myself
+* su se joku sifo = he is playing alone
+* tu te gezu ot pejo = you are looking at your mirror immage
 
 ## Interrogative
 
@@ -69,8 +90,8 @@ To ask someone if is doing something you can use "ke" interrogative preposition.
 
 For infinitive response "ia" and "pa" can be used as verb suffix.
 
-* jo leru'ia = I read indeed
-* jo leru'pa = I do not read
+* jo leru'ia = I read indeed;
+* jo leru'pa = I do not read;
 
 **include time in response:**
 
@@ -78,9 +99,9 @@ The affirmative and negative can be created with prepositions "ia" and "pa".
 
 **affirmative:** {_ia_}
 
-* ia jo leru'na  = yes I'm reading
-* ia jo leru'va  = yes I will read 
-* si jo leru'be  = yes I have read
+* ia jo leru'na  = yes I'm reading;
+* ia jo leru'va  = yes I will read; 
+* ia jo leru'be  = yes I have read;
 
 **negative:** {_pa_}
 
@@ -92,8 +113,8 @@ The affirmative and negative can be created with prepositions "ia" and "pa".
 
 An action that is not realized is created using auxiliary verb: "voru" and prefix "ra"
 
-* jo voru'ra sh leru da su mh lexu'pa = I wanted to read but he didn't let me
-* tu voru'ra sh leru da tobu'be domo  = You wanted to read but have fallen asleep
+* jo voru'ra sh leru da su mh lexu'pa = I wanted to read but he didn't let me;
+* tu voru'ra sh leru da tobu'be domo  = You wanted to read but have fallen asleep;
 
 ## Imperative
 
