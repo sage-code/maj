@@ -1,6 +1,6 @@
 # Basic Grammar
 
-In this document we describe the basics of MAJ concepts.
+In this document we describe the basics of MAJ language.
 
 * [Greetings](#greetings)
 * [Words](#words)
@@ -385,15 +385,14 @@ In each case, the noun is not specific. The Mercedes could be any Mercedes car a
 
 In Maj: indefinite article is resolved by using _numeral articles_. 
 
-* emo = any
-* oni = every
-* omi = all
+* oxe = any
+* evo = every
+* oma = all
 * plu = more 
-* mio = few
+* meo = few
 * ago = some 
-* ixo = approximative
 
-Noun can use plural "e" or singular "a" with different articles:
+Noun can use singular or plural with different prepozitions:
 
 **singular**
 
@@ -402,11 +401,11 @@ Noun can use plural "e" or singular "a" with different articles:
 
 **plural**
 
-* omi Maze = all apples
-* plu Maze = more apples
-* mio Maze = fewer apples
-* ago Maze = some apples
-* ixo cen Maze = approximative 10 apples
+* ome Maze = all apples
+* ple Maze = more apples
+* foe Maze = fewer apples
+* age Maze = some apples
+* ixe cen Maze = approximative 10 apples
 
 Invariant noun terminated with consonant do not vary with the number:
 
