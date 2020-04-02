@@ -7,13 +7,12 @@
 * Existing spoken languages are difficult to optimize due to government intervention;
 * Existing languages are thought in schools to be used not to be improved;
 
-For learning English you need about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words. The rest of your life you learn the English. Even if you are born in US or England you will not know every words of English until you die.
+For learning English you spend about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words. The rest of your life you learn will learn some English but not all. Even if you are born in US or England you will never know all English words until you die. Some people will understend and use specific words based on domain of activity. I have selected about 2020 most frequent English words to be translated into Maj.
 
 **about Maj:** 
 
-* Maj is an open source, Romance language;
+* Maj is an open source, romance language;
 * Maj is using Latin alphabet similar to English alphabet;
-* Maj in contrast to English is a deterministic language;
 * Maj is limited in scope and you can learn it all in one year;
 
 **punctuation:**
@@ -33,18 +32,18 @@ there are some good reasons to make a new and different language:
 
 * study grammar and vocabulary of other languages;
 * experiment with different words and sounds;
-* making demo software for string manipulations;
+* making demo software for language processing;
 
 **as a product:**
 
-once the language is established it can be usable for:
+once the language is established it could be usable for:
 
 * friendly chat;
 * making comments;
 * outdoor activity;
 * taking notes;
 * video games;
-* artificial intelligence;
+* artificial reasoning;
 * knowledge repository;
 
 the last _use-case_ is actually the most valuable of all;
@@ -55,11 +54,11 @@ Maj is articulated and laud; it can be spoken in the forest, mountains or in the
 
 Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language; 
 
-Maj can be spoken in public but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America or Australia or Europe some words could sound familiar.
+Maj can be spoken in public but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America  or Europe some words could sound familiar.
 
 # but how
 
-we shorten the words to reduce cost of pronunciation; so Maj can be faster and more efficient than other Romance languages; after initial calculation we estimate Maj is 30% more efficient than other languages;
+we have shorten the words to reduce cost of pronunciation; so Maj can be faster and more efficient than other Romance languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages;
 
 in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; therefore further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
