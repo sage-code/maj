@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an experimental auxiliary language, with following attributes:
+Maj is an experimental constructed language, with following attributes:
 
 * Regular - with deterministic reading rules;
 * Efficient - short words and simple grammar;
