@@ -190,6 +190,22 @@ Maj verbs can use determinant particle "sh" to create subjunctive mode.
 * jo voru la hola ku keso! = I want the omelet with cheese!
 * la vora se daru'be; = The order was given.
 
+## Impersonal mode
+
+In maj you can talk about actions in general not reffering to a specific person.
+
+* aki se vobu liga Maj = here we speak Maj language;
+* aki se qalu obi erfe = here we chat about inventions;
+
+**notes:**
+
+The word "se" is a particle that can be also used in reflexive 3'rd person.
+
+* su se gezu en la peja = he is looking at himself in the mirror
+* su se lavu = he is washing himself
+
+This case do not exist in English this is why the translation is aproximative.
+
 ## Verb transformation
 
 Verb can be used as noun by changing coda from "u" to {"a", "o"}.
