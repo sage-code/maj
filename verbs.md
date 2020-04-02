@@ -216,23 +216,12 @@ Verb can be used as noun by changing coda from "u" to {"a", "o"}.
 
 In next example "sonu" can change the meaning of word "jok":
 
+**example 1:**
+
 * tu sonu la joka de zu    = You are his game
 * su te xamu'be            = He tricked you 
 * jo sonu'pa la tu joka    = I'm not your play
 * su sonu joko             = he is playful
-
-## O/U inversion
-
-In next example we use "luf" as root of 3 words:
-
-* lufa = influence
-* lufo = influenced
-* lofu = to influence (root changed to "lof")
-
-**example 1:**
-
-* jo lofu su   = I influence him
-* tu sonu lufo de su = You are influenced by him
 
 For next example we use verb root "pag":
 
