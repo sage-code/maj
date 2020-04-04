@@ -20,7 +20,7 @@ x | maj  | xx | maj         | xx | maj    |
 1 | un   | 11 | un'ca+un    | 10 | un'ca  |
 2 | bi   | 12 | un'ca+bi    | 20 | bi'ce  |
 3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
-4 | fo   | 14 | un'ca+fo    | 40 | fo'ce  |
+4 | vi   | 14 | un'ca+vi    | 40 | vi'ce  |
 5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
 6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
 7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
@@ -60,7 +60,7 @@ umo xai?   = how many times?
 * 1x = un'xai = once
 * 2x = bi'xai = twice
 * 3x = ri'xai = three times
-* 4x = fo'xai = for times
+* 4x = vi'xai = for times
 * 5x = qi'xai = five times
 * ...
 * 10x = ca'xai = then times
@@ -70,15 +70,15 @@ umo xai?   = how many times?
 
 Ordinals are almost like pronouns, therefore will finalize with "a":
 
-* al una = first
-* al bia = second
-* al ria = third
+* al una = the first
+* al bia = the second
+* al ria = the third
 
 **question:**
 
-* uko = what number?
-* al uko  = what position?
-* qe kota = what number?
+* uko? = what number?
+* al uko?  = what position?
+* qe kota? = what number?
 
 **alternative:**
 
@@ -91,7 +91,7 @@ Ordinals are almost like pronouns, therefore will finalize with "a":
 * uno = single
 * bio = duo
 * rio = trio
-* quo = quartet
+* vio = quartet
 * oko = oktet
 
 ## Level 2
@@ -106,7 +106,7 @@ Ordinals are almost like pronouns, therefore will finalize with "a":
  100 |  un'suta  |  600 |  ze'sute
  200 |  bi'sute  |  700 |  xo'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  fo'sute  |  900 |  no'sute
+ 400 |  vi'sute  |  900 |  no'sute
  500 |  qi'sute  | 1000 |  un'toza
 
 * 125 = un'suta+bi'ce+qi
@@ -119,7 +119,7 @@ Ordinals are almost like pronouns, therefore will finalize with "a":
 * 1,000 = un'toza
 * 2,000 = du'toze
 * 3,000 = ri'toze
-* 4,000 = fo'toze
+* 4,000 = vi'toze
 * 5,000 = qi'toze
 * 6,000 = ze'toze
 * 7,000 = xa'toze
@@ -168,7 +168,7 @@ bits| maj            | description
 0/1 | bin            | two values (bin)
 8   | oke            | eight values (oktet)
 16  | du'oke         | short integer
-32  | fu'oke         | integer
+32  | vi'oke         | integer
 64  | ok'oke         | long integer
 
 **Reading:** 
@@ -179,7 +179,7 @@ x = xai
 
 * 2x2 = du'xai-du
 * 2x8 = du'xai-ok
-* 4x4 = fo'xai-fo
+* 4x4 = vi'xai-vi
 * 8x8 = ok'xai-ok
 
 This is great!
