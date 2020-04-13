@@ -18,8 +18,8 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     |  Romanian   
 ------|----------|------------|------------|-------------
-ola   |hello     | hola       | bienvenue  | salut       
-qau   |farewell  | adiós      | à bientôt  | adio        
+qau   |hello     | hola       | bienvenue  | ceau, salut       
+are   |farewell  | adiós      | à bientôt  | la revedere       
 
 **note:** Some form of salute have multiple meanings
 
@@ -28,21 +28,22 @@ qau   |farewell  | adiós      | à bientôt  | adio
 
 **examples:**
 
-* ola po jedo muda; = hello for everyone in the world
-* qau po jedo muda; = farewell for everyone in the world
+* qau muda = hello world
+* are jedo = goodbye everyone
 
 ## Words
 
-A word is a rapid succession of sounds without pause. Maj have two kind of words: basic words and advanced words. Words are used together in propositions. Sometimes a word can have different roles but most of the time one word have a single role.
+A word is a rapid succession of sounds without pause. Maj have two kind of words: basic words and composite words. Words are used together in propositions. One word have a single role in a sentance. If the word role must be different a word can sligtly change its form by adding a suffix, a prefix or changing its coda.
 
 
 **notes:**
-1. Particles are words of 2 character long. Particles are used to create interjections, pronouns, numerals, prefixes, suffixes and prepositions. These words can have form: VC, or CV In total there are about 60 words of this kind.
-2. Shrt words having 3 character long are using pattern: VCV or CVV. These words are in general prepositions, adverbs or adjectives. There are about 100 short words of this kind.
-3. Basic words are 4 character long. A basic word is using these 4 patterns: CVCV, VCVV, VCCV, VCVC. This rule makes words easy to connect together in propositions using articles. There will be about 1500 words of this kind.
-2. Basic word has a _root_ and a _coda_. The root is invariable, but changing the _coda_ will slightly change the meaning of the word. Usually the words having same root are related. 
-4. Words can end with a consonant. Last consonant is called a _stop consonant_. Usually these words represent prepositions, numerals or nouns that have no plural. Usually materials, fluids and names are ending with a consonant. These words are having invariable form.
-5. Advanced words are going to be longer than 4 characters. These words will represent names of fruits, animals, trees, places, rivers, countries, towns and other names. Usually the names are 5 character long but may be longer.
+1. Particles are words of 2 character long. Particles are used to create interjections, pronouns, numerals, prefixes, suffixes and prepositions. These words can have form: VC, or CV In total there are will be about 80 words of this kind.
+2. Short words having 3 character long are using pattern: VCV or CVV. These words are in general prepositions, adverbs or adjectives. There will be about 150 short words of this kind.
+3. Basic words are 4 character long. A basic word is using these 4 patterns: CVCV, VCVV, VCCV, VCVC. This rule makes words easy to connect together in propositions using articles. There will be about 2020 words of this kind.
+2. Basic word has a _root_ and a _coda_. The root is invariable, but changing the _coda_ will slightly change the meaning of the word. Usually the words having same root are related. Basic words are regular.
+4. Words can end with a consonant. Last consonant is called a _stop consonant_. Usually these words represent prepositions, numerals or nouns that have no plural. Materials, fluids and names are ending with a consonant. These words are having invariable form.
+5. Composite words are going to be longer than 4 characters. These words are based on a root word that has an adjective in front of it connected using a dash. A composite word can have up to 8 significant characters. 
+6. Long numerals are created using symbol (+) that is pronounced (i). Numerals are explained in a different document. Connecting numbers with (+) instead of (-) has a significance of addition and this can avoid confusions when you read a word. 
 
 **coda:**
 
@@ -50,7 +51,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 * Verbs are finalized with vowel: "u" and possible a time suffix;
 * Adjectives and adverbs are finalized with "o"
 
-**examle:**
+**examle1:**
 
 In this example we use the root word "rop" to make 3 distinct words:
 
@@ -59,6 +60,11 @@ In this example we use the root word "rop" to make 3 distinct words:
 * ropu = getting dressed
 
 **note:** Becouse of this rule, you may invent new words that make perfect sens. However we must put the word in Lexicon and have a transaltion for it to be official acceptable. Until the Lexicon is finished this rule could be useful to understand the examples better.
+
+**examle2:**
+
+* 
+
 
 ## Pronoun
 
