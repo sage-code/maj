@@ -1,25 +1,26 @@
 # MAJ Alphabet
 
-Maj alphabet has 26 letters.
-
-**notes:**
-* the order of letters is different from ISO standard;
-* each letter is associated with a word;
+Maj alphabet has 26 letters. In the next table each letter is associated with a word example that start with the respective letter. This word do not represent the name of the letter nor the name of the script symbol. 
 
 <img src="maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
 
-**See also:** [script](script.md) page;
-
+**notes:**
+* the order of letters is different from ISO standard;
+* the word associated is an example not the name of the letter;
+* there is a curious letter in Maj, the letter "y" is very rarely used;
+* ocasionally "y" is used as first letter in particles: "yn", "yl", "yi";
 
 ## Pronunciation
 
-Maj pronunciation is simple and easy to learn. It has well defined phonetic rules, no need to spell words;
+Maj pronunciation is simple and easy to learn. It has well defined rules, that are general for any word. In maj you do no need to spell words you need to learn the general reading rules.
+
+**Notes:**
 
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
 * Maj sounds do not require to put your tongue between your teeth;
 * Maj sounds do not require inverted tongue tip (retroflex);
 * Maj has strong consonants and clear vowels similar to Portuguese;
-* You will never byte your tongue or spit around by speaking Maj;
+* Maj sounds have Balcan influence. Not all sounds are Latin;
 
 **Tools:**
 
@@ -43,7 +44,7 @@ Phonetic notation has language prefix and is enclosed in double quotes like this
 * IPA phonetic: IPA:"word";
 * English phonetic: ENG:"word";
 
-IPA phonetic is used only in Maj documentation. Maj phonetic is used only in training text. For chat you can use normal letters. English phonetic can be used to compare Maj with English.
+IPA phonetic is used only in Maj documentation. Maj phonetic is used only for training text. For regular chat you can use Latin letters with no accent over and no diaeresis. English phonetic can be used to compare Maj with English and to understand Maj better.
 
 
 ## Vowels
@@ -60,7 +61,7 @@ approximate |         |w          |
 
 **Origin:**
 
-Next 5 vowels are pronounced like in Italian and Romanian languages:
+Next 5 vowels are pronounced like in Italian and Romanian languages not like in English nor German:
 
 * Letter `a`  is open central, like `a` in `car`;
 * Letter `e`  is close-mid front, like `e`  in `melon`;
@@ -69,11 +70,11 @@ Next 5 vowels are pronounced like in Italian and Romanian languages:
 * Letter `u`  is close back, like `oo` in `soon`;
 * Letter `ə`  is mid central, like `o` in baron;
 
-**Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually "y". This sound is very different than English sound `y`. It is very similar to sound `i` in words "still" or "director".
+**Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually "y". This sound is very different than English sound `y`. It is very similar to sound `i` in words "still" or "director". A similar sound is IPA:/ɨ/. Maj do not use this letter very often but it is present in some words given as examples: "myna" = hand and "zyna" = fairy.
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
-* zyna = "fairy"
+**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. This letter is not closed and not open but tranzitional, aproximand. In some languages this letter is considered consonant.
 
 **Letter `h`:** has two pronunciations depending on its position in word and previous letter:
 
@@ -85,26 +86,13 @@ Since on QUERTY KEYBOARD there is not `ə` you can use "h" instead.
 * veha = "vehicle" in this case `h` is `ɦ` like IPA:"veɦa"
 * zhi  = "they"    in this case `h` is `ə` like IPA:"zəi"
 
-**Letter `w`:** is called soft `u`. It is pronounced like "w" in "whiskey". You can use `w` before a vowel but not before a consonant. This letter is not closed and not open but tranzitional, aproximand. In some languages this letter is considered consonant.
+In some languages "h" is silent, but not in Maj. We alwasy associate a strong sound with "h". It is `ɦ` or `ə` depending on the rules but is always voiced, never silent. There is a limitation though. We can not use diftongs: {aə, uə, iə, oə}. To overcome this limitation we use letter "w" to make the glide between the vowel and last sound "ə", so we have words like: "nowh" = IPA: /nouə/.
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
 
-**interjections:**
-
-Two letter words starting with "w" and one vowel are called interjections. In these words the vowel is a little bit longer than usual but is not duplicated. We do not write: waaa! but wa!
-
-* wa! (administration)
-* wo! (surprise)
-* wi! (happiness)
-* we! (sadness, cry)
-* wu! (disapproval)
-* wh! (disgusting)
-
-Observe that wh is pronounced IPA:"wə"
-
 ## Tone and accent
 
-Maj vowels can be pronounced with one of two tones: Low tone and Higher tone: 
+Maj vowels can be pronounced with one of two tones: _Low Tone_ and _Higher Tone_: 
 
 **word ending**
 
@@ -122,7 +110,7 @@ For question mark: You should pronounce a longer vowel and gliding the tone from
 
 **accent:**
 
-Maj words have a constant accent. When word start with a consonant, the first vowel in a word is a bit stronger then the other vowels. When word start with a vowel, the second vowel is geting the accent, except when there is no second vowel. Than there is no accent since only one vowel is present.
+Maj words have a very soft accent on the first syllable. Apostroph can modify the accent position from first to last syllable. This accent gliding is used in verb conjugation, imperative and negation. I will not insis on Maj accent since Maj is for typing not for speaking. However if you need to speack Maj try to learn this simple rule.
 
 ## Consonants
 
@@ -163,7 +151,7 @@ Most consonants are similar to: Italian and Romanian;
 
 ## Difficult sounds
 
-You should be familiar with most of these sounds if you speak English, Italian or Romanian. However the sounds in Maj are associated differently with the letters. Next you will learn the rules to make more difficult Maj sounds.
+Next you will learn the rules to make more difficult Maj sounds. These sounds are strange and not found in original Latin. So we have found some controversial sollutions how to map the letters to get maximum range of sounds with only 26 letters. In total Maj has 28 distinctive sounds. So two sounds are not mapped 1:1 with Letin letters.
 
 **Digraphs**
 
@@ -177,16 +165,17 @@ Most frequent digraphs are associate with letters:
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 * Group `dj` sounds `d͡ʒ` like `g` in  "giraffe": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* Group `ks` sound like `x` in word "sex"
 
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
 
-* qoka => IPA:"t͡ʃoka"  = "chocolate"   
-* xava => IPA:"ʃava"   = "shovel"    
-* koqa => IPA:"kot͡ʃa"  = "coach"     
-* qika => IPA:"t͡ʃika"  = "girl"      
-* cita => IPA:"t͡sita"  = "target"
-* djia => IPA:"d͡ʒia"   = "day"
+* qoka => IPA:"t͡ʃoka"  = accident   
+* xava => IPA:"ʃava"   = horse    
+* koqa => IPA:"kot͡ʃa"  = car     
+* qika => IPA:"t͡ʃika"  = girl
+* cita => IPA:"t͡sita"  = quote
+* djia => IPA:"d͡ʒia"   = day
 
 
 **Modified: c**
@@ -195,7 +184,7 @@ Maj letter "c" sounds like Latvian "c" not English "c". It sounds like `t͡s` in
 
 **IPA practice**
 * ceba = ENG: "cerebellum" => IPA: "t͡seba"
-* cyga = ENG: "cigarette"  => IPA: "t͡syga"
+* ciga = ENG: "cigarette"  => IPA: "t͡siga"
 
 **Modified: k**
 
@@ -204,7 +193,7 @@ Maj letter "k" is plosive-valear not trilled. It may be pronounced like "c" in "
 **examples:**
 
 * akwa = "water";
-* qoka = "chocolate";
+* xoka = "chocolate";
 
 **Trilled: r**
 
