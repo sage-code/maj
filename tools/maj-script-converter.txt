@@ -1,0 +1,186 @@
+﻿https://lingojam.com/edit/6ff43faa3e443651a1227d030bee68d1
+
+
+###name, Name of your translator...:
+Maj Script
+
+
+###subtitle, Subtitle (optional):
+Latin to Maj Script converter
+
+
+###language1, Language1 name...:
+Latin
+
+
+###language2, Language2 name...:
+Maj
+
+
+###description, Description...:
+Latin to Maj script converter. 
+
+
+###email, Admin email (optional)...:
+elucian.moise@gmail.com
+
+
+###phrases1, Latin list...:
+
+
+
+###phrases2, Maj list...:
+
+
+
+###words1, Latin list...:
+
+
+
+###words2, Maj list...:
+
+
+
+###intraword1, Latin list...:
+a
+b
+c
+d
+e
+f
+g
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+x
+t
+u
+v
+y
+w
+z
+_
+
+
+###intraword2, Maj list...:
+α
+β
+ɕ
+შ
+ɛ
+ჵ
+ɤ
+ʚ
+უ
+ჺ
+ჲ
+რ
+ღ
+თ
+დ
+ƍ
+წ
+σ
+ϰ
+ծ
+և
+ϑ
+ყ
+ω
+ʓ
+.
+
+
+###prefixes1, Latin list...:
+
+
+
+###prefixes2, Maj list...:
+
+
+
+###suffixes1, Latin list...:
+
+
+
+###suffixes2, Maj list...:
+
+
+
+###regex1, Latin list...:
+/([αɛʚთևყ])(h)/g
+/([βɤშჵɕჩუჺჲრღდƍწσծϑωϰʓ])(h)/g
+
+
+###regex2, Maj list...:
+$1ჩ
+$1ɚ
+
+
+
+
+###rev_regex1, Maj list...:
+
+
+
+###rev_regex2, Latin list...:
+
+
+
+###ordering1, Latin list...:
+
+
+
+###ordering2, Maj list...:
+
+
+
+###defaulttext, One random default text string per line...:
+
+
+
+###disable-reverse, :
+on
+
+
+###custom-script, Define your functions here...:
+
+
+
+###title-extra, e.g. '(and reverse translation)':
+
+
+
+###background-image-source, http://example.com/my_image.png:
+
+
+
+###title-font-name, Name of custom font...:
+
+
+
+###title-font-size, Size of title (default=5.5)...:
+
+
+
+###language1-font, Language1 font...:
+
+
+
+###language2-font, Language2 font...:
+
+
+
+###language1-font-size, Language1 font size (default=24)...:
+
+
+
+###language2-font-size, Language2 font size (default=24)...:
