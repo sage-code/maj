@@ -6,15 +6,6 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 * Maj script is for writing with stylus on tablet;
 * Maj script is mapped almost 1:1 with Lating alphabet;
 
-## Font
-
-There is not yet a font for Maj script. We have found one nice font:
-
-**Demo: Everson Mono**
-
-<img src="demo/maj-font.png" alt="Maj Font" width="400"></img>
-
-
 ## Writing direction
 
 To write a Maj letter correctly you must start with movement 1, then you continue with movement 2 and do not lift your pen until you finish the letter. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle.
