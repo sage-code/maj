@@ -104,17 +104,16 @@ Maj [core elements](https://www.google.com/url?q=https://docs.google.com/spreads
 * numerals;
 * symbols;
 
-Primary Maj lexicon is divided in 3 pages organized by word length:
+Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
+and is organized in 3 pages by word length:
 
 * W2 = particles 
 * W3 = prepositions 
 * W4 = short words
 
-Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
-
 **note:**
 
-There is a third document that is not yet released. It is called maj-iavo and will contain composite words and extensions. Until this is released you have planty of materials to learn bazic Maj.
+There is an advanced Lexicon: "mak-iavo", that is not yet released. 
 
 ## Contribution
 
