@@ -97,9 +97,24 @@ Advanced grammar rules are explained by:  _word category_
 
 ## Lexicon
 
-We use Google docs and spreedsheet to create and maintain Maj words and expressions. These documents can be used to learn and enhance Maj language. These documents are available for edit only to Maj core team. If you wish to be part of Maj team and contribute to our project developement you can join us on discord chat services.
+Maj [core elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml?gid%3D1585147682%26single%3Dfalse&sa=D&ust=1587029543036000) include 3 pages: 
 
-Google doc: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
+* alphabet;
+* pronouns; 
+* numerals;
+* symbols;
+
+Primary Maj lexicon is divided in 3 pages organized by word length:
+
+* W2 = particles 
+* W3 = prepositions 
+* W4 = short words
+
+Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
+
+**note:**
+
+There is a third document that is not yet released. It is called maj-iavo and will contain composite words and extensions. Until this is released you have planty of materials to learn bazic Maj.
 
 ## Contribution
 
