@@ -99,7 +99,7 @@ Advanced grammar rules are explained by:  _word category_
 
 We use Google docs and spreedsheet to create and maintain Maj words and expressions. These documents can be used to learn and enhance Maj language. These documents are available for edit only to Maj core team. If you wish to be part of Maj team and contribute to our project developement you can join us on discord chat services.
 
-Google doc: [maj demo](https://docs.google.com/document/d/1SxiIRi7iLOV63PsLWuNTLIwpH8oIOywyoA5m6IaLKfU/edit?usp=sharing)
+Google doc: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
 
 ## Contribution
 
