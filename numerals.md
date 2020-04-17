@@ -14,37 +14,36 @@ Maj numeral system and symbols are related so we put them together.
 
 **Ten/Tens = ca/ce** 
 
-x | maj  | xx | maj         | xx | maj    |
---|------|----|-------------|----|--------|
-0 | ni   | 10 | un'ca+ni    |    |        |
-1 | un   | 11 | un'ca+un    | 10 | un'ca  |
-2 | bi   | 12 | un'ca+bi    | 20 | bi'ce  |
-3 | ri   | 13 | un'ca+ri    | 30 | ri'ce  |
-4 | vi   | 14 | un'ca+vi    | 40 | vi'ce  |
-5 | qi   | 15 | un'ca+qi    | 50 | qi'ce  |
-6 | ze   | 16 | un'ca+ze    | 60 | ze'ce  |
-7 | xa   | 17 | un'ca+xa    | 70 | xa'ce  |
-8 | ok   | 18 | un'ca+ok    | 80 | ok'ce  |
-9 | no   | 19 | un'ca+no    | 90 | va'ce  | 
+x | maj  | xx | maj       | xx | maj    |
+--|------|----|-----------|----|--------|
+0 | nil  | 10 | cae       |    |        |
+1 | una  | 11 | ca+una    | 10 | un'ca  |
+2 | due  | 12 | ca+due    | 20 | du'ce  |
+3 | rie  | 13 | ca+rie    | 30 | ri'ce  |
+4 | fue  | 14 | ca+fue    | 40 | fu'ce  |
+5 | qoe  | 15 | ca+qoe    | 50 | qo'ce  |
+6 | sae  | 16 | ca+sae    | 60 | sa'ce  |
+7 | xae  | 17 | ca+xae    | 70 | xa'ce  |
+8 | oke  | 18 | ca+oke    | 80 | ok'ce  |
+9 | noe  | 19 | ca+noe    | 90 | no'ce  | 
 
 **Note** 
 
 * The numbers do not have gender,
-* Small numbers do not have plural form,
-* Number 10 is the smallest number that has form of plural: ce
+* Number 10 is abbreviated "ca" or "ce"
 
 ## Reading 
 
-* 11 = un'ca+un = IPA:/un t͡sa plu un/ 
-* 50 = qi'ce    = IPA:/t͡ʃi t͡s/
-* 70 = xa'ce    = IPA:/ʃa't͡se/
+* 11 = un'ca+una = IPA:/unt͡saiuna/ 
+* 50 = qo'ce    = IPA:/t͡ʃot͡se/
+* 70 = xa'ce    = IPA:/ʃat͡se/
 
 ## Counting:
 
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... ri du bi ni xi lazu!
+* ... ria dua una nil xi lazu!
                                          
 ## Repetition
          
@@ -58,40 +57,40 @@ umo xai?   = how many times?
 
 * 0x = ni'xai = never
 * 1x = un'xai = once
-* 2x = bi'xai = twice
+* 2x = du'xai = twice
 * 3x = ri'xai = three times
-* 4x = vi'xai = for times
-* 5x = qi'xai = five times
+* 4x = fu'xai = for times
+* 5x = qo'xai = five times
 * ...
-* 10x = ca'xai = then times
-* +x  = po'xai = forever
+* 10x = ce'xai = then times
+* +x  = ixai = forever
           
 ## Ordinal
 
 Ordinals are almost like pronouns, therefore will finalize with "a":
 
 * al una = the first
-* al bia = the second
+* al dua = the second
 * al ria = the third
 
 **question:**
 
 * uko? = what number?
 * al uko?  = what position?
-* qe kota? = what number?
+* ke kota? = what number?
 
 **alternative:**
 
-* kota un = number one
-* kota bi = number two
-* kota ri = number three
+* kota una = number one
+* kota due = number two
+* kota rie = number three
 
 **formations:**
 
 * uno = single
-* bio = duo
+* duo = duo
 * rio = trio
-* vio = quartet
+* quo = quartet
 * oko = oktet
 
 ## Level 2
@@ -103,15 +102,15 @@ Ordinals are almost like pronouns, therefore will finalize with "a":
 
  Num |  Maj      |  Num | Maj
 -----|-----------|------|-------------
- 100 |  un'suta  |  600 |  ze'sute
- 200 |  bi'sute  |  700 |  xo'sute
+ 100 |  un'suta  |  600 |  sa'sute
+ 200 |  du'sute  |  700 |  xa'sute
  300 |  ri'sute  |  800 |  ok'sute
- 400 |  vi'sute  |  900 |  no'sute
- 500 |  qi'sute  | 1000 |  un'toza
+ 400 |  fo'sute  |  900 |  no'sute
+ 500 |  qo'sute  | 1000 |  un'toza
 
-* 125 = un'suta+bi'ce+qi
-* 555 = qi'sute+qi'ce+qi
-* 801 = ok'sute+ni'ce+un
+* 125 = un'suta+du'ce+qoe
+* 555 = qo'sute+qo'ce+qoe
+* 801 = ok'sute+ni'ce+una
 
 
 **Thousands = toza/toze**
@@ -119,12 +118,12 @@ Ordinals are almost like pronouns, therefore will finalize with "a":
 * 1,000 = un'toza
 * 2,000 = du'toze
 * 3,000 = ri'toze
-* 4,000 = vi'toze
-* 5,000 = qi'toze
-* 6,000 = ze'toze
+* 4,000 = fu'toze
+* 5,000 = qo'toze
+* 6,000 = sa'toze
 * 7,000 = xa'toze
 * 8,000 = ok'toze
-* 9,000 = va'toze
+* 9,000 = no'toze
 * 10,000= ca'toze
 
 
@@ -134,11 +133,11 @@ For the millions we do not use prefix.
 
 1,000,000  = milona
 
-* 1,000,000 = un milona
-* 2,000,000 = du milone
-* 3,000,000 = ri milone
+* 1,000,000 = una milona
+* 2,000,000 = due milone
+* 3,000,000 = rie milone
 * ...
-* 9,000,000 = va milone
+* 9,000,000 = noe milone
 
 
 **Billions = bilona/bilone**
@@ -148,11 +147,11 @@ For billions we do not use prefix.
 1,000.000.000   = bilona
 
 
-* 1,000,000,000 = un bilona
-* 2,000,000,000 = du bilone
-* 3,000,000,000 = ri bilone
+* 1,000,000,000 = una bilona
+* 2,000,000,000 = due bilone
+* 3,000,000,000 = rie bilone
 * ...
-* 9,000,000,000 = va bilone
+* 9,000,000,000 = noe bilone
 
 ## Level 3
 
@@ -161,15 +160,15 @@ For billions we do not use prefix.
 For binary values we have design special words:
 
 2 values = due
-8 values = oke
+8 values = oka
 
 bits| maj            | description
 ----|----------------|----------------------
 0/1 | bin            | two values (bin)
-8   | oke            | eight values (oktet)
-16  | du'oke         | short integer
-32  | vi'oke         | integer
-64  | ok'oke         | long integer
+8   | oka            | eight values (oktet)
+16  | du'oka         | short integer
+32  | fu'oka         | integer
+64  | ok'oka         | long integer
 
 **Reading:** 
 
@@ -179,7 +178,7 @@ x = xai
 
 * 2x2 = du'xai-du
 * 2x8 = du'xai-ok
-* 4x4 = vi'xai-vi
+* 4x4 = fu'xai-fu
 * 8x8 = ok'xai-ok
 
 This is great!
