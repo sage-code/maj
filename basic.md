@@ -19,7 +19,7 @@ You can give greetings to one person or to everyone:
 Maj   | English  | Spanish    | French     |  Romanian   
 ------|----------|------------|------------|-------------
 qau   |hello     | hola       | bienvenue  | ceau, salut       
-are   |farewell  | adiós      | à bientôt  | la revedere       
+bai   |farewell  | adiós      | à bientôt  | la revedere       
 
 **note:** Some form of salute have multiple meanings
 
@@ -29,7 +29,7 @@ are   |farewell  | adiós      | à bientôt  | la revedere
 **examples:**
 
 * qau muda = hello world
-* are jedo = goodbye everyone
+* bai jedo = goodbye everyone
 
 ## Words
 
