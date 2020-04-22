@@ -2,9 +2,11 @@
 
 Maj numeral system and symbols are related so we put them together.
 
-* kota = number
-* kotu = counting
-* koto = accounted for
+* noba = number
+* nobu = counting
+* nobo = accounted for
+* kota = computer
+* kotu = computed
 
 ## Numbers
 
@@ -14,36 +16,36 @@ Maj numeral system and symbols are related so we put them together.
 
 **Ten/Tens = ca/ce** 
 
-x | maj  | xx | maj       | xx | maj    |
---|------|----|-----------|----|--------|
-0 | nil  | 10 | cae       |    |        |
-1 | una  | 11 | ca+una    | 10 | un'ca  |
-2 | due  | 12 | ca+due    | 20 | du'ce  |
-3 | rie  | 13 | ca+rie    | 30 | ri'ce  |
-4 | fue  | 14 | ca+fue    | 40 | fu'ce  |
-5 | qoe  | 15 | ca+qoe    | 50 | qo'ce  |
-6 | sae  | 16 | ca+sae    | 60 | sa'ce  |
-7 | xae  | 17 | ca+xae    | 70 | xa'ce  |
-8 | oke  | 18 | ca+oke    | 80 | ok'ce  |
-9 | noe  | 19 | ca+noe    | 90 | no'ce  | 
+x | maj  | xx | maj      | xx | maj   |
+--|------|----|----------|----|-------|
+0 | nil  | 10 | ce       |    |       |
+1 | una  | 11 | ce+una   | 00 | nice  |
+2 | due  | 12 | ce+due   | 20 | duce  |
+3 | rie  | 13 | ce+rie   | 30 | rice  |
+4 | fue  | 14 | ce+fue   | 40 | fuce  |
+5 | qoe  | 15 | ce+qoe   | 50 | qoce  |
+6 | sae  | 16 | ce+sae   | 60 | sace  |
+7 | xae  | 17 | ce+xae   | 70 | xace  |
+8 | oke  | 18 | ce+oke   | 80 | okce  |
+9 | noe  | 19 | ce+noe   | 90 | noce  | 
 
 **Note** 
 
 * The numbers do not have gender,
-* Number 10 is abbreviated "ca" or "ce"
+* Number 10 is abbreviated "ce"
 
 ## Reading 
 
-* 11 = un'ca+una = IPA:/unt͡saiuna/ 
-* 50 = qo'ce    = IPA:/t͡ʃot͡se/
-* 70 = xa'ce    = IPA:/ʃat͡se/
+* 11 = unce+una = IPA:/unt͡seiuna/ 
+* 52 = qoce+due = IPA:/t͡ʃot͡seidue/
+* 73 = xace+rie = IPA:/ʃat͡seirie/
 
 ## Counting:
 
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... ria dua una nil xi lazu!
+* ... rie due una nil xi lazu!
                                          
 ## Repetition
          
@@ -51,66 +53,65 @@ Repeting time is created using `xai` = x (times)
 
 **Question:** 
 
-umo xai?   = how many times?
+um xai?   = how many times?
 
 **Answers:**
 
-* 0x = ni'xai = never
-* 1x = un'xai = once
-* 2x = du'xai = twice
-* 3x = ri'xai = three times
-* 4x = fu'xai = for times
-* 5x = qo'xai = five times
+* 0x  = nil xai = not even once
+* 1x  = uno xai = once
+* 2x  = due xai = twice
+* 3x  = rie xai = three times
+* 4x  = fue xai = for times
+* 5x  = qoe xai = five times
 * ...
-* 10x = ce'xai = then times
-* +x  = ixai = forever
+* 10x = ce xai = then times
           
 ## Ordinal
 
-Ordinals are almost like pronouns, therefore will finalize with "a":
+Ordinals are adjectives so they end with "o":
 
-* al una = the first
-* al dua = the second
-* al ria = the third
+* al uno = the first
+* al duo = the second
+* al rio = the third
 
 **question:**
 
 * uko? = what number?
 * al uko?  = what position?
-* ke kota? = what number?
+* ke noba? = what number?
 
 **alternative:**
 
-* kota una = number one
-* kota due = number two
-* kota rie = number three
+* noba una = number one
+* noba due = number two
+* noba rie = number three
 
 **formations:**
 
-* uno = single
-* duo = duo
-* rio = trio
-* quo = quartet
-* oko = oktet
+* una = single
+* dua = duo
+* ria = trio
+* qua = quartet
+* oka = oktet
 
 ## Level 2
 
-* Large numerals are combined using symbol `+` (eth);
+* Large numerals are combined using symbol (+) read as (i);
 * Large numbers have singular and plural forms;
 
 **Hundreds = suta/sute**
 
- Num |  Maj      |  Num | Maj
------|-----------|------|-------------
- 100 |  un'suta  |  600 |  sa'sute
- 200 |  du'sute  |  700 |  xa'sute
- 300 |  ri'sute  |  800 |  ok'sute
- 400 |  fo'sute  |  900 |  no'sute
- 500 |  qo'sute  | 1000 |  un'toza
+ Num |  Maj       |  Num | Maj
+-----|------------|------|-------------
+ 100 |  una'suta  |  600 |  sae'sute
+ 200 |  due'sute  |  700 |  xae'sute
+ 300 |  rie'sute  |  800 |  oke'sute
+ 400 |  fue'sute  |  900 |  noe'sute
+ 500 |  qoe'sute  | 1000 |  una'toza
 
-* 125 = un'suta+du'ce+qoe
-* 555 = qo'sute+qo'ce+qoe
-* 801 = ok'sute+ni'ce+una
+* 125 = una'suta+duce+qoe
+* 555 = qoe'sute+qoce+qoe
+* 801 = oko'sute+nice+una
 
 
 **Thousands = toza/toze**
@@ -166,9 +167,9 @@ bits| maj            | description
 ----|----------------|----------------------
 0/1 | bin            | two values (bin)
 8   | oka            | eight values (oktet)
-16  | du'oka         | short integer
-32  | fu'oka         | integer
-64  | ok'oka         | long integer
+16  | due xai oka    | short integer
+32  | fue xai oka    | integer
+64  | oke xau oka    | long integer
 
 **Reading:** 
 
@@ -176,10 +177,10 @@ Numbers can be written using "x" between to represent dimensions:
 
 x = xai
 
-* 2x2 = du'xai-du
-* 2x8 = du'xai-ok
-* 4x4 = fu'xai-fu
-* 8x8 = ok'xai-ok
+* 2x2 = due-xai-due
+* 2x8 = due-xai-oke
+* 4x4 = fue-xai-fue
+* 8x8 = oke-xai-oke
 
 This is great!
 
