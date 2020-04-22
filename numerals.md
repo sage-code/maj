@@ -4,9 +4,6 @@ Maj numeral system and symbols are related so we put them together.
 
 * noba = number
 * nobu = counting
-* nobo = accounted for
-* kota = computer
-* kotu = computed
 
 ## Numbers
 
@@ -18,16 +15,16 @@ Maj numeral system and symbols are related so we put them together.
 
 x | maj  | xx | maj      | xx | maj   |
 --|------|----|----------|----|-------|
-0 | nil  | 10 | ce       |    |       |
+0 | nil  | 10 | cen      |    |       |
 1 | una  | 11 | ce+una   | 00 | nice  |
 2 | due  | 12 | ce+due   | 20 | duce  |
 3 | rie  | 13 | ce+rie   | 30 | rice  |
 4 | fue  | 14 | ce+fue   | 40 | fuce  |
-5 | qoe  | 15 | ce+qoe   | 50 | qoce  |
+5 | que  | 15 | ce+que   | 50 | quce  |
 6 | sae  | 16 | ce+sae   | 60 | sace  |
 7 | xae  | 17 | ce+xae   | 70 | xace  |
 8 | oke  | 18 | ce+oke   | 80 | okce  |
-9 | noe  | 19 | ce+noe   | 90 | noce  | 
+9 | nue  | 19 | ce+nue   | 90 | nuce  | 
 
 **Note** 
 
@@ -57,28 +54,26 @@ um xai?   = how many times?
 
 **Answers:**
 
-* 0x  = nil xai = not even once
-* 1x  = uno xai = once
-* 2x  = due xai = twice
-* 3x  = rie xai = three times
-* 4x  = fue xai = for times
-* 5x  = qoe xai = five times
+* 0x  = nil-xai = not once
+* 1x  = uno-xai = once
+* 2x  = due-xai = twice
+* 3x  = rie-xai = three times
+* 4x  = fue-xai = for times
+* 5x  = que-xai = five times
 * ...
-* 10x = ce xai = then times
+* 10x = cen-xai = then times
           
 ## Ordinal
 
 Ordinals are adjectives so they end with "o":
 
-* al uno = the first
-* al duo = the second
-* al rio = the third
+* al unos = the first
+* al duos = the second
+* al rios = the third
 
 **question:**
 
-* uko? = what number?
-* al uko?  = what position?
-* ke noba? = what number?
+* ke noba?  = what number?
 
 **alternative:**
 
@@ -88,11 +83,13 @@ Ordinals are adjectives so they end with "o":
 
 **formations:**
 
-* una = single
-* dua = duo
-* ria = trio
-* qua = quartet
-* oka = oktet
+* ke foma de jente
+
+* solo = single
+* duet = duo
+* riet = trio
+* quet = quartet
+* oket = oktet
 
 ## Level 2
 
@@ -103,29 +100,29 @@ Ordinals are adjectives so they end with "o":
 
  Num |  Maj       |  Num | Maj
 -----|------------|------|-------------
- 100 |  una'suta  |  600 |  sae'sute
- 200 |  due'sute  |  700 |  xae'sute
- 300 |  rie'sute  |  800 |  oke'sute
- 400 |  fue'sute  |  900 |  noe'sute
- 500 |  qoe'sute  | 1000 |  una'toza
+ 100 |  una-suta  |  600 |  sae-sute
+ 200 |  due-sute  |  700 |  xae-sute
+ 300 |  rie-sute  |  800 |  oke-sute
+ 400 |  fue-sute  |  900 |  nue-sute
+ 500 |  que-sute  | 1000 |  una-toza
 
-* 125 = una'suta+duce+qoe
-* 555 = qoe'sute+qoce+qoe
-* 801 = oko'sute+nice+una
+* 125 = una-suta+duce+qoe
+* 555 = qoe-sute+qoce+qoe
+* 801 = oko-sute+nice+una
 
 
 **Thousands = toza/toze**
 
-* 1,000 = un'toza
-* 2,000 = du'toze
-* 3,000 = ri'toze
-* 4,000 = fu'toze
-* 5,000 = qo'toze
-* 6,000 = sa'toze
-* 7,000 = xa'toze
-* 8,000 = ok'toze
-* 9,000 = no'toze
-* 10,000= ca'toze
+* 1,000 = una-toza
+* 2,000 = due-toze
+* 3,000 = rie-toze
+* 4,000 = fue-toze
+* 5,000 = que-toze
+* 6,000 = sae-toze
+* 7,000 = xae-toze
+* 8,000 = oke-toze
+* 9,000 = nue-toze
+* 10,000= cen-toze
 
 
 **Millions  = milona/milone**
@@ -134,11 +131,11 @@ For the millions we do not use prefix.
 
 1,000,000  = milona
 
-* 1,000,000 = una milona
-* 2,000,000 = due milone
-* 3,000,000 = rie milone
+* 1,000,000 = una-milona
+* 2,000,000 = due-milone
+* 3,000,000 = rie-milone
 * ...
-* 9,000,000 = noe milone
+* 9,000,000 = nue-milone
 
 
 **Billions = bilona/bilone**
@@ -148,11 +145,11 @@ For billions we do not use prefix.
 1,000.000.000   = bilona
 
 
-* 1,000,000,000 = una bilona
-* 2,000,000,000 = due bilone
-* 3,000,000,000 = rie bilone
+* 1,000,000,000 = una-bilona
+* 2,000,000,000 = due-bilone
+* 3,000,000,000 = rie-bilone
 * ...
-* 9,000,000,000 = noe bilone
+* 9,000,000,000 = nue-bilone
 
 ## Level 3
 
@@ -160,16 +157,16 @@ For billions we do not use prefix.
 
 For binary values we have design special words:
 
-2 values = due
-8 values = oka
+2 values = duet
+8 values = oket
 
 bits| maj            | description
 ----|----------------|----------------------
-0/1 | bin            | two values (bin)
-8   | oka            | eight values (oktet)
-16  | due xai oka    | short integer
-32  | fue xai oka    | integer
-64  | oke xau oka    | long integer
+0/1 | duet           | two values 
+8   | oket           | eight values (oktet)
+16  | due xai oke    | short integer
+32  | fue xai oke    | integer
+64  | oke xau oke    | long integer
 
 **Reading:** 
 
