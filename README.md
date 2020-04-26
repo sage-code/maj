@@ -4,7 +4,7 @@ Maj is an experimental constructed language, with following attributes:
 
 * Regular - with deterministic reading rules;
 * Efficient - short words and simple grammar;
-* Familiar - using Latin alphabet and Balkan sounds;
+* Familiar - using Latin alphabet and Balkanian sounds;
 
 **Purpose ...**
 
@@ -12,15 +12,15 @@ Maj is designed primarly for artificial rezoning but it has secondary use-cases:
 
 1. Maj is for linguistic studies;
 2. Maj is for software engineering;
-3. Maj is for entertainment;
+3. Maj is for chat and entertainment;
 
 **Rad more:** [use case](case.md)
 
 ## Alphabet
 
-Maj is using Latin alphabet with modified order and custom pronounciation.
+Maj is using Latin alphabet with modified order and customized pronounciation.
 
-* Maj has a total of 26 letters in the alphabet;
+* Maj has a total of 27 letters in the alphabet;
 * Maj has deterministic phonetic rules for reading each letter;
 * Maj do not use cedilla nor diaressis or accents;
 
@@ -34,7 +34,7 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 ## Script
 
-Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet.
+Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until this is done you can store Maj text using Unicode symbols selected to match Maj script.
 
 <img src="maj-script-yes.png" alt="Maj Alphabet" width="600"></img>
 
