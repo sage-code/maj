@@ -115,7 +115,7 @@ and is organized in 3 pages by word length:
 
 **note:**
 
-There is an advanced Lexicon: "mak-iavo", that is not yet released. 
+There is an advanced Lexicon: "maj-iavo", that is not released yet. 
 
 ## Contribution
 
@@ -124,7 +124,7 @@ We accept volunteer work to improve the language.
 1. To review grammar and text;
 2. To improve lexicon and examples;
 3. To write short stories;
-4. To have a conversation;
+4. To have a conversation in Maj;
 5. To translate in other languages;
 
 Thanks for reading. We are waiting for you to join us soon!
