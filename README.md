@@ -36,7 +36,7 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet.
 
-<img src="demo/maj-script-yes.png" alt="Maj Alphabet" width="600"></img>
+<img src="maj-script-yes.png" alt="Maj Alphabet" width="600"></img>
 
 **Notes:**
 
