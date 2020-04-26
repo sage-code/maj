@@ -8,20 +8,23 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 
 ## Writing direction
 
-To write a Maj letter correctly you must start with movement 1, then you continue with movement 2 and do not lift your pen until you finish the letter. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle. 
+To write a Maj letter correctly you must start with correct position. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle. Never lift your pen until you finish the letter. If you must lift your pen you have started from the wrong starting point. 
 
 <img src="demo/maj-script-direction.png" alt="Maj Script" width="600"></img>
 
-**note:**
-In the previous picture I have used an existing font that approximate Maj letters. When you write, the only requirement is to start from the correct position and make a shape that looks like the one we have used above. It does not have to be identical. Each person can customize its own style. The condition is to be consistent. Do the letter in the same way every time so that one who read can get used with your heandwriting style.
+**notes:**
+In the previous picture I have used a crayon but you can write with a pencil or with a ballpen. Maj is not designed for paint brush. Each person can customize its own style. However you should be consistent. Do the letter in the same way every time. 
 
+Maj is a slow weiting system, never rush when you write something using Maj Script. If you need to write fast then you use a keyboard and you use Latin alphanet. Maj script is only for heandwriting therefore you can not be fast. 
+
+When you write Maj you must use letter "ɚ" intead of "h". For example word: "nowh" is converted to "ღთωɚ" using Maj script. However word "nah" for example is written "ღαჩ" using Maj script.  So the Maj script eliminate "h" rule necessary in Latin script. You do not use "h" after a consonante for Maj script.
 
 ## Examples of words in Maj
 
 **example:**
 
-* io voru cu jedo un novo iana fezo!
-* ʚთ ϑთწև ɕև უɛშთ ևღ ღთϑთ ʚαღα ჵɛʓთ!
+* io doru cu jedo un novo iana fezo!
+* ʚთ შთწև ɕև უɛშთ ևღ ღთϑთ ʚαღα ჵɛʓთ!
 * I wish to everyone a happy new year!
 
 **phonetic:**
