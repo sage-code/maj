@@ -47,7 +47,7 @@ Maj uses a secondary alphabet for handwriting. This enable Maj users to take qui
 **Example:**
 
 * this is an example written in maj;
-* eta sonu una zopa kibo yn maj;
+* ɛծα σთღև ևღα ζთდα ჺʚβთ ყღ რαʓ;
 * ɛծα σთღև ևღα ʓთდα ჺʚβთ ყღ რαუ;
 
 Read more: [Script details](script.md)
