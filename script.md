@@ -8,7 +8,7 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 
 ## Writing direction
 
-To write a Maj letter correctly you must start with correct position. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle. Never lift your pen until you finish the letter. If you must lift your pen you have started from the wrong starting point. 
+To write a Maj letter correctly you must start with correct position. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle. Never lift your pen until you finish the letter.  
 
 <img src="demo/maj-script-28.png" alt="Maj Script" width="600"></img>
 
