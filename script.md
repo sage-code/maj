@@ -27,6 +27,8 @@ When you write Maj you must use letter "ɚ" intead of "h". For example word: "no
 * ʚთ ẟთწև ɕև ʓɛẟთ ևღα ღთϑთ ʚαღα ჵɛζთ!
 * I wish to everyone a happy new year!
 
+**Note:** Some Unicode symbols are rough approximations.
+
 **phonetic:**
 
 Next picture has IPA pronounciation for each Maj letter:
