@@ -18,9 +18,9 @@ x | maj  | xx | maj      | xx | maj   |
 0 | nil  | 10 | cen      |    |       |
 1 | una  | 11 | ce+una   | 00 | nice  |
 2 | due  | 12 | ce+due   | 20 | duce  |
-3 | rie  | 13 | ce+rie   | 30 | rice  |
-4 | fue  | 14 | ce+fue   | 40 | fuce  |
-5 | que  | 15 | ce+que   | 50 | quce  |
+3 | rue  | 13 | ce+rue   | 30 | ruce  |
+4 | fie  | 14 | ce+fie   | 40 | fice  |
+5 | qie  | 15 | ce+qie   | 50 | qice  |
 6 | sae  | 16 | ce+sae   | 60 | sace  |
 7 | xae  | 17 | ce+xae   | 70 | xace  |
 8 | oke  | 18 | ce+oke   | 80 | okce  |
@@ -35,41 +35,41 @@ x | maj  | xx | maj      | xx | maj   |
 
 * 11 = unce+una = IPA:/unt͡seiuna/ 
 * 52 = qoce+due = IPA:/t͡ʃot͡seidue/
-* 73 = xace+rie = IPA:/ʃat͡seirie/
+* 73 = xace+rue = IPA:/ʃat͡seirue/
 
 ## Counting:
 
 Let's count a rocket launch:
 
 * ... 3 2 1 0 and launch!
-* ... rie due una nil xi lazu!
+* ... rue due una nil xi lazu!
                                          
 ## Repetition
          
-Repeting time is created using `xai` = x (times)
+Repeting time is created using `fwa` = x (times)
 
 **Question:** 
 
-um xai?   = how many times?
+um fwa?   = how many times?
 
 **Answers:**
 
-* 0x  = nil-xai = not once
-* 1x  = uno-xai = once
-* 2x  = due-xai = twice
-* 3x  = rie-xai = three times
-* 4x  = fue-xai = for times
-* 5x  = que-xai = five times
+* 0x  = nil-fwa = not once
+* 1x  = uno-fwa = once
+* 2x  = due-fwa = twice
+* 3x  = rue-fwa = three times
+* 4x  = fie-fwa = for times
+* 5x  = qie-fwa = five times
 * ...
-* 10x = cen-xai = then times
+* 10x = cen-fwa = then times
           
 ## Ordinal
 
 Ordinals are adjectives so they end with "o":
 
-* al unos = the first
-* al duos = the second
-* al rios = the third
+* al uno = the first
+* al duo = the second
+* al ruo = the third
 
 **question:**
 
@@ -77,9 +77,11 @@ Ordinals are adjectives so they end with "o":
 
 **alternative:**
 
+A number symbol is singular noun, so is ending in "a".
+
 * noba una = number one
-* noba due = number two
-* noba rie = number three
+* noba dua = number two
+* noba rua = number three
 
 **formations:**
 
@@ -102,12 +104,12 @@ Ordinals are adjectives so they end with "o":
 -----|------------|------|-------------
  100 |  una-suta  |  600 |  sae-sute
  200 |  due-sute  |  700 |  xae-sute
- 300 |  rie-sute  |  800 |  oke-sute
- 400 |  fue-sute  |  900 |  nue-sute
- 500 |  que-sute  | 1000 |  una-toza
+ 300 |  rue-sute  |  800 |  oke-sute
+ 400 |  fie-sute  |  900 |  nue-sute
+ 500 |  qie-sute  | 1000 |  una-toza
 
-* 125 = una-suta+duce+qoe
-* 555 = qoe-sute+qoce+qoe
+* 125 = una-suta+duce+qie
+* 555 = qie-sute+qice+qie
 * 801 = oko-sute+nice+una
 
 
@@ -115,9 +117,9 @@ Ordinals are adjectives so they end with "o":
 
 * 1,000 = una-toza
 * 2,000 = due-toze
-* 3,000 = rie-toze
-* 4,000 = fue-toze
-* 5,000 = que-toze
+* 3,000 = rue-toze
+* 4,000 = fie-toze
+* 5,000 = qie-toze
 * 6,000 = sae-toze
 * 7,000 = xae-toze
 * 8,000 = oke-toze
@@ -133,7 +135,7 @@ For the millions we do not use prefix.
 
 * 1,000,000 = una-milona
 * 2,000,000 = due-milone
-* 3,000,000 = rie-milone
+* 3,000,000 = rue-milone
 * ...
 * 9,000,000 = nue-milone
 
@@ -147,7 +149,7 @@ For billions we do not use prefix.
 
 * 1,000,000,000 = una-bilona
 * 2,000,000,000 = due-bilone
-* 3,000,000,000 = rie-bilone
+* 3,000,000,000 = rue-bilone
 * ...
 * 9,000,000,000 = nue-bilone
 
@@ -164,20 +166,20 @@ bits| maj            | description
 ----|----------------|----------------------
 0/1 | duet           | two values 
 8   | oket           | eight values (oktet)
-16  | due xai oke    | short integer
-32  | fue xai oke    | integer
-64  | oke xau oke    | long integer
+16  | due fwa oke    | short integer
+32  | fue fwa oke    | integer
+64  | oke fwa oke    | long integer
 
 **Reading:** 
 
 Numbers can be written using "x" between to represent dimensions:
 
-x = xai
+x = fwa
 
-* 2x2 = due-xai-due
-* 2x8 = due-xai-oke
-* 4x4 = fue-xai-fue
-* 8x8 = oke-xai-oke
+* 2x2 = due-fwa-due
+* 2x8 = due-fwa-oke
+* 4x4 = fue-fwa-fue
+* 8x8 = oke-fwa-oke
 
 This is great!
 
