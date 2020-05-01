@@ -58,32 +58,9 @@ There is a dual conversion tool from Latin to Maj script. This tool will help yo
 
 External tool: [Maj script converter](https://lingojam.com/MajScript)
 
+## Basics
 
-## Numerals
-
-Maj is using traditional arabic symbols from 0 to 9: {0,1,2,3,4,5,6,7,8,9}. 
-
-Details: [The numerals](numerals.md)
-
-## Symbols
-
-Maj is using ASCII and Unicode symbols. We give a name to each symbol to be able to read or dictate mathematical expressions using your voice. Maj is primary used for typing therefore symbols are rarely called by name.
-
-Details: [The symbols](symbols.md)
-
-## Words
-
-Some of the Maj words are inspired from different European languages. Sometimes we revert the word to the original Latin root. Our struggle is to produce unique words and avoid duplicates. 
-
-Maj words are short and easy to memorize. Maj has ancient roots but also modern words like "foto" or "fona" that represents technological advanced decives that do not exist in Latin. 
-
-We mix and create short words inspired from different languages: For example word: "ha" = yes comes from Japonese word "hai". Words {pa, si, tu, mi} comes from French. Words like: {on, of, or, as} come from English. 
-
-We create new words that have no resamblange with existing languages. For examle {na, ma, eg, ja, ob, oi}. In total we have 64 short words and prefixes using two letters.  
-
-## Essentials
-
-Maj has reduced complexity compared to other Romance languages: (French, English, Romanian, Italian). Maj is more like English that also uses very short words. Actually some words are shorter in English than Maj. For example verbs ENG: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
+Maj has reduced complexity compared to other Romance languages. Maj is more like English that also uses very short words. Actually some words are shorter in English than Maj. For example verbs: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
 
 **Read more about:** [basic grammar](basic.md)
 
@@ -119,19 +96,17 @@ There is an advanced Lexicon: "maj-iavo", that is not released yet.
 
 ## Contribution
 
-We accept volunteer work to improve the language.
+We accept volunteer work. You do volunteering job for reputation. 
 
 1. To review grammar and text;
 2. To improve lexicon and examples;
-3. To write short stories;
-4. To have a conversation in Maj;
-5. To translate in other languages;
+3. To translate Maj grammar in other languages;
 
-Thanks for reading. We are waiting for you to join us soon!
+If you think Maj has a chanse to be of value in the future then you contribute and learn Maj. We use Google Doc services to host our documentation and GitHub as a backup. On working with these tools is a skill that you will comprehend better working on Maj project.
 
 **Community:**
 
-We use Discord application to chat in English about Maj: 
+We use Discord application to chat about Maj. After Maj is consolidated as a useful language we can use Maj for chat about computer programming and valuable projects. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation using Maj. 
 
 Join: [discord invitation](https://discord.gg/ZtusYjf)
 
