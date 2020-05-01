@@ -76,7 +76,9 @@ Advanced grammar rules are explained by:  _word category_
 
 ## Lexicon
 
-Maj [core elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml?gid%3D1585147682%26single%3Dfalse&sa=D&ust=1587029543036000) include 3 pages: 
+Maj lexicon is a collection of several spreedshits that we use to host words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations.
+
+Maj [core elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml?gid%3D1585147682%26single%3Dfalse&sa=D&ust=1587029543036000) include 3 pages. In te future we will add more pages. 
 
 * alphabet;
 * pronouns; 
