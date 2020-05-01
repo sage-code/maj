@@ -98,7 +98,7 @@ There is an advanced Lexicon: "maj-iavo", that is not released yet.
 
 ## Contribution
 
-We accept volunteer work. You do volunteering job for reputation. 
+We accept volunteer work. You do volunteering job for reputation. We have no sponsor for this project. 
 
 1. To review grammar and text;
 2. To improve lexicon and examples;
