@@ -1,15 +1,18 @@
-# Use case
+# use case
 
-**facts:**
+Maj existence is a fictional, utopic langauge created for an utopian virtual world. It is illogical to create a new language otherwise. But... is it? I will try to find out other good reasons to build Maj. I hope this will entice you to take Maj more seriosuly and find it useful.
+
+## facts:
 
 * Erosion of linguistic diversity has reduced the number of spoken languages to around 6,500;
-* Existing spoken languages become more complex as time pass and therefore difficult to learn;
-* Existing spoken languages are difficult to optimize due to government intervention;
-* Existing languages are thought in schools to be used not to be improved;
+* Spoken languages become more complex as time pass and therefore difficult to learn;
+* Spoken languages are difficult to optimize due to government intervention and culture;
+* We learn languages in schools then use them during our lives without questioning anything;
+* Therefore, language progress is incremental, small and in sinch with technology.
 
 For learning English you spend about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words. The rest of your life you learn will learn some English but not all. Even if you are born in US or England you will never know all English words until you die. Some people will understend and use specific words based on domain of activity. I have selected about 2020 most frequent English words to be translated into Maj.
 
-**about Maj:** 
+## About Maj:
 
 * Maj is an open source, romance language;
 * Maj is using Latin alphabet similar to English alphabet;
@@ -26,6 +29,8 @@ in this document I use Maj pnctuation style:
 * interrogative propositions end with ?
 * enumerations start with star (*)
 
+# Reasons
+
 there are some good reasons to make a new and different language:
 
 **as a project:**
@@ -38,6 +43,7 @@ there are some good reasons to make a new and different language:
 
 once the language is established it could be usable for:
 
+* sf stories and world building;
 * friendly chat;
 * making comments;
 * outdoor activity;
@@ -48,23 +54,27 @@ once the language is established it could be usable for:
 
 the last _use-case_ is actually the most valuable of all;
 
-# but where
+# maj world
 
-Maj is articulated and laud; it can be spoken in the forest, mountains or in the desert; not good under water where you should use clicking sounds like Dolphins do; Maj do not use clicking sounds;
+Maj world is a future world where the people speack many languages. Maj is not spoken in on Earth but on space. It is preffered language on Marth and diverse moons that are colonized. Long distant travelers and deep space stations population is using Maj to send messages and communicate.
 
-Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language; 
+Maj is a quiet language. It can be spoken by humans but usually people are using it for writing messages and making voice commands. Long space voiages are lonely and requires faster communication over longer distances using text messages. Ship computers and stations also preffer to speack Maj.
 
-Maj can be spoken in public but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America  or Europe some words could sound familiar.
+Innitially Maj was developped for computers as a back-end language. However humans have learned this language to communicate with the computer. Now the language has evolved and is also used by space age population.
 
-# but how
+Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language used for space travel; 
 
-we have shorten the words to reduce cost of pronunciation; so Maj can be faster and more efficient than other Romance languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages;
+Maj can be spoken on Earth too but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America or Europe some words could sound familiar. Many space travelers get reach in space and return to Earth for retirement. Unfortunately they have to accomodate earth gravity and learn how to sepack English or Euro. 
+
+Euro is an aristochratic advanced natural language spoken in Europe. It has a revolutionary grammar and is considered a supperior language. Maj is a vulgar language considered a jargon spoken by workers and space travelers. People who do not speack anything else but Maj are considered primitive and bad educated.
+
+
+## design:
+
+maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages;
 
 in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; therefore further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
-We use two functions to compute cost of words during word design. one is considering pronunciation and another one is considering the cost of writing. We replace expensive letters with simpler letters to make the language more efficient.
-
-**design:**
 
 * Maj re-purpose some redundant letters: { Q, K, X, Y };
 * Maj do not use cedilla letters like: Franch, Romanian or German;
