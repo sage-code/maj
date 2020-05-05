@@ -1,6 +1,6 @@
 # Maj
 
-Maj is an experimental constructed language, with following attributes:
+Maj is a realistic artificial language,  with following attributes:
 
 * Regular - with deterministic reading rules;
 * Efficient - short words and simple grammar;
@@ -8,11 +8,15 @@ Maj is an experimental constructed language, with following attributes:
 
 **Purpose ...**
 
-Maj is designed primarly for artificial rezoning but it has secondary use-cases:
+Maj language has only potential use-cases, not an official single goal:
 
-1. Maj is for linguistic studies;
-2. Maj is for software engineering;
-3. Maj is for chat and entertainment;
+1. Linguistic studies;
+2. Chat and entertainment;
+3. Artificial reasoning;
+5. Fictional writing;
+6. Futuristic SF movies;
+7. MMO video games;
+
 
 **Rad more:** [use case](case.md)
 
@@ -20,8 +24,8 @@ Maj is designed primarly for artificial rezoning but it has secondary use-cases:
 
 Maj is using Latin alphabet with modified order and customized pronounciation.
 
-* Maj has a total of 27 letters in the alphabet;
-* Maj has deterministic phonetic rules for reading each letter;
+* Maj has a total of 28 primary sounds;
+* Maj has deterministic phonetic rules;
 * Maj do not use cedilla nor diaressis or accents;
 
 Details: [Maj alphabet](alphabet.md)
