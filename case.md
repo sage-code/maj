@@ -1,6 +1,6 @@
 # use case
 
-Maj existence is a fictional, utopic langauge created for an utopian virtual world. It is illogical to create a new language otherwise. But... is it? I will try to find out other good reasons to build Maj. I hope this will entice you to take Maj more seriosuly and find it useful.
+Maj existence is a artificial langauge created for a virtual world. I will try to find out other good reasons to build an Maj. I hope you will find this rationals entertaining and intresting. Maj is nothing but an artistic language until we find for it a more useful role.
 
 ## facts:
 
