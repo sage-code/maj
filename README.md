@@ -24,7 +24,10 @@ Maj language has only potential use-cases, not an official single goal:
 
 Maj is using Latin alphabet with modified order and customized pronounciation.
 
-* Maj has a total of 28 primary sounds;
+{a,b,c,d,e,f,g,h,e,i,j,k,l,m,n,o,p,r,s,t,u,v,x,z,dj,tc,ts}
+
+
+* Maj Latin alphabet has a total of 24 letters;
 * Maj has deterministic phonetic rules;
 * Maj do not use cedilla nor diaressis or accents;
 
@@ -40,10 +43,11 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until this is done you can store Maj text using Unicode symbols selected to match Maj script.
 
-<img src="maj-script-over.png" alt="Maj Alphabet" width="600"></img>
+{α,β,ɕ,ẟ,ɛ,φ,ɤ,ɚ,ɛ,ʚ,ჟ,ჵ,₰,რ,ღ,თ,დ,შ,ნ,ծ,ω,ϑ,ϰ,ʓ,უ,ჹ,ζ}
 
 **Notes:**
 
+* Script has a total of 27 symbols;
 * Script do not have uppercase letters;
 * Script is mapped 1:1 with the Latin print alphabet;
 * Script is using same punctuation marks as Latin;
@@ -51,9 +55,8 @@ Maj uses a secondary alphabet for handwriting. This enable Maj users to take qui
 **Example:**
 
 * this is an example written in maj;
-* ɛծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ
-* eta sonu una zopa kibo yn maj
-
+* ɛծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
+* eta sonu una zopa kibo yn maj;
 
 Read more: [Script details](script.md)
 
