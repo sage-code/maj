@@ -17,8 +17,6 @@ In the previous picture I have used a crayon but you can write with a pencil or 
 
 Maj is a slow weiting system, never rush when you write something using Maj Script. If you need to write fast then you use a keyboard and you use Latin alphanet. Maj script is only for heandwriting therefore you can not be fast. 
 
-When you write Maj you must use letter "ɚ" intead of "h". For example word: "nowh" is converted to "ღთωɚ" using Maj script. However word "nah" for example is written "ღαჩ" using Maj script.  So the Maj script eliminate "h" rule necessary in Latin script. You do not use "h" after a consonante for Maj script.
-
 ## Examples of words in Maj
 
 **example:**
