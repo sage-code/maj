@@ -114,6 +114,7 @@ affricate|         |              | ts, tc   |       | dj            |
 Most consonants are similar to IPA but some are different;
 
 * Letter  `b`  is voiced, plosive, bilabial like `b` in "boss";
+* Letter  `c`  is voiceless, post-alveolar fricative like `sh` in  "fashion": 
 * Letter  `p`  is voiceless, plosive, bilabial like `p` in "pin";
 * Letter  `t`  is voiceless, plosive, alveolar like `t` in "test";
 * Letter  `d`  is voiced, plosive, alveolar like `d` in "door";
@@ -126,42 +127,31 @@ Most consonants are similar to IPA but some are different;
 * Letter  `s`  is fricative alveolar like `s` in "snake";
 * Letter  `z`  is alveolar-dental, vibrated, similar to `z` in "zoo";
 * Letter  `l`  is liquid, alveolar, like `l` in "lord";
-* Letter  `c`  is voiceless post-alveolar affricate like "ch" in "church";
 * Letter  `g`  is voiced velar fricative like `gu` in "guitar";
 * Letter  `j`  is viuced fricative alveolar, like `s` in "pleasure";
 * Letter  `x`  is voiced fricative glottal like "h" in "happy";
 
 ## Difficult sounds
 
-Next you will learn the rules to make more difficult Maj sounds. These sounds are strange and not found in original Latin. So we have found some controversial sollutions how to map the letters to get maximum range of sounds with only 24 letters. In total Maj has 27 distinctive sounds. So three sounds are not mapped 1:1 with Letin letters.
+Next you will learn the rules to make more difficult sounds. We have used digraphs to maximum the range of Mah sounds using only 24 letters. In total Maj has 27 distinctive sounds. So we have used digraphs to make additional 3 sounds.
 
 **Digraphs**
 
-Most frequent sounds are associate with letters:
+Digraphs are groups of 2 letters that are thigtly connected and become a new and distinctive sound. In fact we have created special script letters for these 3 sounds. In other languages one vowel and one consonant can make a digraph but in Maj digraphs are created using two consonants.
 
-* Letter `c` sounds `ʃ` or `ʂ` like `sh` in  "fashion": 
-[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
 * Digraph `tc` sounds `t͡ʃ` or ʈ͡ʂ like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Digraph `ts` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
 * Group `dj` sounds `d͡ʒ` like `g` in  "giraffe": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
-* Group `ks` sound like `x` in word "sex"
 
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
 
-* Cava => IPA:"ʃava"   = horse    
+* atce => IPA:"at͡ʃe"   = needles    
+* atsa => IPA:"at͡sa"   = thread
 * djia => IPA:"d͡ʒia"   = day
-
-**Digraph: ts**
-
-Maj digraph "ts" sounds like `t͡s` in word ENG:"cats". To make this sound you put you tang in "t" position and make a pitch sound "s" instead. Group `ts` will make words a bit longer but this is the prace we pay to avoid ussage of cedila.
-
-**IPA practice**
-* tseba = ENG: "cerebellum" => IPA: "t͡seba"
-* tsiga = ENG: "cigarette"  => IPA: "t͡siga"
 
 **Modified: k**
 
@@ -172,7 +162,7 @@ Maj letter "k" is plosive-valear. It may be pronounced like "c" in "culture" or 
 * akua = "water";
 * tcoka = "chocolate";
 
-**Trilled: r**
+**Trilled: R**
 
 Letter "r" is trill-alveolar like in Romanian and Russian. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. Some Romanian children never learn this letter corectly and sound like Americans. 
 
@@ -186,15 +176,28 @@ Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affrica
 * tcika = "girl" is read like IPA: "t͡ʃika";
 * tcoka = "chocolate" is read like IPA: "t͡ʃoka";
 
-**Modified: x**
+## Diphthongs
 
-Letters `x` sounds like: `sh` in `sheep`. To prodice this sound you must softly press the middle of the tongue on the roof top of your mouth and produce a fricative whispering sound. In most other Romance languages this sound is "cs" but Maj has repurpose this letter to improve language efficiency. 
+Two vowels combined together into one cluster are called diphthongs.
 
-Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)
+x |a  |e  |i  |o  |u  | y | h 
+--|---|---|---|---|---|---|---
+a | · |ae |ai |ao |au |ay | ah
+e |ea | · |ei |eo |eu |ey | eh
+i |ia |ie | . |jo |iu |iy | ih
+o |oa |oe |oi | · |ou |oy | oh
+u |ua |ue |ui |uo |.  |uy | uh
+y |ya |ye |iy |yo |yu | . | yh
+h |ha |he |hi |ho |hu |hy | .    
+
+**Notes:** 
+
+* Maj do not enable duplicate vowels for any purpose. We do not use "ee" to make /i/;
+* Maj enable "gliding" so that ua is read "wa" therefore Maj do not need letter "w";
 
 ## Clusters
 
-A clusters represents a group of two consonants. Maj is using cluster in many words using pattern: CCV or VCCV. These words are  a bit difficult to pronounce therefore we preffer this method for rare words.
+A clusters represents a group of two consonants. Maj is using cluster in many words using pattern: CCV or VCCV. 
 
 **Rules:**
 
@@ -222,23 +225,6 @@ vr zb zd zg zm zn zv
 jb jk jd jl jm jn jr js jt jv 
 gn gl gm gr gv gs
 ``` 
-
-## Diphthongs
-
-Two vowels combined together into one cluster are called diphthongs.
-
-x |a  |e  |i  |o  |u  | y | h 
---|---|---|---|---|---|---|---
-a | · |ae |ai |ao |au |ay | ah
-e |ea | · |ei |eo |eu |ey | eh
-i |ia |ie | . |jo |iu |iy | ih
-o |oa |oe |oi | · |ou |oy | oh
-u |ua |ue |ui |uo |.  |uy | uh
-y |ya |ye |iy |yo |yu | . | yh
-h |ha |he |hi |ho |hu |hy | .    
-
-**Note:** We do not duplicate vowels in mak for any purpose.
-
  
 ## Letter weight 
 
