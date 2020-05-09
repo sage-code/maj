@@ -33,7 +33,7 @@ When you write Maj you must use letter "ɚ" intead of "h". For example word: "no
 
 Next picture has IPA pronounciation for each Maj letter:
 
-<img src="maj-alphabet-28.png" alt="Maj Alphabet" width="600"></img>
+<img src="maj-alphabet-27.png" alt="Maj Alphabet" width="600"></img>
 
 Audio file: [Maj-28-letters.mp3](Maj-28-letters.mp3)
 
