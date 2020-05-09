@@ -2,7 +2,7 @@
 
 Maj alphabet has 26 letters. In the next table each letter is associated with a word example that start with the respective letter. This word do not represent the name of the letter nor the name of the script symbol. 
 
-<img src="maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
+<img src="demo/maj-alphabet-27.png" alt="Maj Alphabet" width="600"></img>
 
 **notes:**
 * the order of letters is different from ISO standard;
