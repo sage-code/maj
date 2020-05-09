@@ -24,7 +24,7 @@ When you write Maj you must use letter "ɚ" intead of "h". For example word: "no
 **example:**
 
 * io doru cu jedo una novo iana fezo!
-* ʚთ ẟთწև ɕև ʓɛẟთ ևღα ღთϑთ ʚαღα ჵɛζთ!
+* ʚთ ẟთშω ɕω ჟɛẟთ ωღα ღთϑთ ʚαღα φɛʓთ!
 * I wish to everyone a happy new year!
 
 **Note:** Some Unicode symbols are rough approximations.
