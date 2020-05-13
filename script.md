@@ -21,8 +21,8 @@ Maj is a slow weiting system, never rush when you write something using Maj Scri
 
 **example:**
 
-* io doru cu jedo una novo iana fezo!
-* ʚთ ẟთშω ɕω ჟɛẟთ ωღα ღთϑთ ʚαღα φɛʓთ!
+* io doru la oma muda una novo agna fezo!
+* ʚთ ẟთშω ₰α თრα რωẟα ωღα ღთϑთ αɤღα φɛʓთ!
 * I wish to everyone a happy new year!
 
 **Note:** Some Unicode symbols are rough approximations.
