@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 handwriting symbols. In the next table each letter is associated with one IPA sound. 
+Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. 
 
 <img src="demo/maj-alphabet-27.png" alt="Maj Alphabet" width="600"></img>
 
@@ -11,7 +11,7 @@ Maj pronunciation is simple and easy to learn. It has well defined rules, that a
 
 **Notes:**
 
-* Maj alphabet has 7, 17 consonants and 3 digraphs in total 27 sounds;
+* Maj alphabet has 7 vowels, 17 consonants and 3 digraphs in total 27 sounds;
 * Maj sounds require healthy tongue, lips, teeth and vocal chords;
 * Maj sounds do not require to put your tongue between your teeth;
 * Maj sounds do not require inverted tongue tip (retroflex);
@@ -45,13 +45,13 @@ IPA phonetic is used only in Maj documentation. Maj phonetic is used only for tr
 
 ## Vowels
 
-Maj has 7 vowels: { a e i o u y ə }:
+Maj has 7 vowels: { a e i o u h y }:
 
 method      |front    |central    |back 
 ------------|---------|-----------|---------
 close       |i        |y          |u      
 close mid   |e        |           |o
-mid         |         |ə          |
+mid         |         |h          |
 open        |a        |           |
 
 **Origin:**
@@ -63,15 +63,15 @@ Next 5 vowels are pronounced like in Italian and Romanian languages not like in 
 * Letter `i`  is close front, like `ee` in `geese`;
 * Letter `o`  is close-mid back, like `o` in `document`;
 * Letter `u`  is close back, like `oo` in `soon`;
-* Letter `ə`  is mid central, like `o` in baron;
+* Letter `h`  is mid central, like `o` in baron;
 
 **Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually /y/. This sound is very different than English sound `y`. It is very similar to sound `i` in words "still" or "director". A similar sound is IPA:/ɨ/. Maj do not use this letter very often but it is present in some words given as examples: "myna" = hand and "zyna" = fairy.
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
 
-**Letter `h`:** In Maj this letter is very different from other languages.  This letter is pronounced `ə` and is never silent. If it is present, it has to be read. Th original sound /h/ is produced using letter x or X. Actually letter X si pronounced IPA: /x/. 
+**Letter `h`:** In Maj this letter is very different from other languages.  This letter is pronounced `ə` and is never silent. If it is present, it has to be read. Th original letter h is replaced by letter x or X. So then letter X si pronounced IPA: /h/. 
 
-Since on QUERTY KEYBOARD there is not `ə`we have decided to use "h" instead. We have inspired this decision from Greek where H is actually pronounced "i". Also there is no point to have a silent letter in Maj.
+Since on QUERTY KEYBOARD there is not letter `ə` we have decided to use "h" instead. We have inspired this decision from Greek where H is actually pronounced "i" but we think `ə` is necesary since we do have "i" that is good enaugh. Also there is no point to have a silent letters in Maj so "h" ould be wasted.
 
 Learn more: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
 
@@ -139,7 +139,7 @@ Next you will learn the rules to make more difficult sounds. We have used digrap
 
 Digraphs are groups of 2 letters that are thigtly connected and become a new and distinctive sound. In fact we have created special script letters for these 3 sounds. In other languages one vowel and one consonant can make a digraph but in Maj digraphs are created using two consonants.
 
-* Digraph `tc` sounds `t͡ʃ` or ʈ͡ʂ like `ch` in  "peach": 
+* Digraph `tc` sounds `t͡ʃ` like `ch` in  "peach": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 * Digraph `ts` sounds `t͡s` like `ts` in  "cats": 
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
@@ -155,11 +155,11 @@ Phonetic writing is quoted using IPA: notation
 
 **Modified: k**
 
-Maj letter "k" is plosive-valear. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. It replaces letter Latin letters "q" and "c". Letter Q is actually not prezent at all in Maj.
+Maj letter "k" is plosive-valear. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. It replaces letter Latin letters "q" and "c". Letter Q is actually not prezent at all in Maj and Letter "c" is pronounced /ʃ/.
 
 **examples:**
 
-* akua = "water";
+* akva = "water";
 * tcoka = "chocolate";
 
 **Trilled: R**
@@ -169,7 +169,7 @@ Letter "r" is trill-alveolar like in Romanian and Russian. It is strong like dou
 
 **Modified: C**
 
-In Maj, "C" is used to create IPA sound /ʃ/ " and sound /t͡ʃ/. When digraph "tc" replace digraph "ch" in words like "chin" or "chicken" or "peach". We use this technique to free letter "h" to be used for something else.
+In Maj, "C" is used to create IPA sound /ʃ/ " and sound /t͡ʃ/. When digraph "tc" replace digraph "ch" in words like "chin" or "chicken" or "peach". We use this technique to free letter "h" to be used for something else. So "h" is not used in digraphs.
 
 Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
 
