@@ -131,11 +131,8 @@ Most consonants are similar to IPA but some are different;
 * Letter  `j`  is viuced fricative alveolar, like `s` in "pleasure";
 * Letter  `x`  is voiced fricative glottal like "h" in "happy";
 
-## Difficult sounds
 
-Next you will learn the rules to make more difficult sounds. We have used digraphs to maximum the range of Mah sounds using only 24 letters. In total Maj has 27 distinctive sounds. So we have used digraphs to make additional 3 sounds.
-
-**Digraphs**
+## Digraphs
 
 Digraphs are groups of 2 letters that are thigtly connected and become a new and distinctive sound. In fact we have created special script letters for these 3 sounds. In other languages one vowel and one consonant can make a digraph but in Maj digraphs are created using two consonants.
 
@@ -152,29 +149,6 @@ Phonetic writing is quoted using IPA: notation
 * atce => IPA:"at͡ʃe"   = needles    
 * atsa => IPA:"at͡sa"   = thread
 * djia => IPA:"d͡ʒia"   = day
-
-**Modified: k**
-
-Maj letter "k" is plosive-valear. It may be pronounced like "c" in "culture" or "k" in "karate". Notice "k" is a very frequent letter in Maj. It replaces letter Latin letters "q" and "c". Letter Q is actually not prezent at all in Maj and Letter "c" is pronounced /ʃ/.
-
-**examples:**
-
-* akva = "water";
-* tcoka = "chocolate";
-
-**Trilled: R**
-
-Letter "r" is trill-alveolar like in Romanian and Russian. It is strong like double "rr" in English. To produce this sound, your tongue is relaxed and the tip of tongue taps the roof of the mouth several times. Some Romanian children never learn this letter corectly and sound like Americans. 
-
-
-**Modified: C**
-
-In Maj, "C" is used to create IPA sound /ʃ/ " and sound /t͡ʃ/. When digraph "tc" replace digraph "ch" in words like "chin" or "chicken" or "peach". We use this technique to free letter "h" to be used for something else. So "h" is not used in digraphs.
-
-Learn more:[listen](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)
-
-* tcika = "girl" is read like IPA: "t͡ʃika";
-* tcoka = "chocolate" is read like IPA: "t͡ʃoka";
 
 ## Diphthongs
 
