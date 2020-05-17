@@ -67,13 +67,33 @@ Next 5 vowels are pronounced like in Italian and Romanian languages not like in 
 
 **Letter `y`:** Is close central, un-rounded vowel. IPA symbol for this sound is actually /y/. This sound is very different than English sound `y`. It is very similar to sound `i` in words "still" or "director". A similar sound is IPA:/ɨ/. Maj do not use this letter very often but it is present in some words given as examples: "myna" = hand and "zyna" = fairy.
 
-Learn more: [listening](https://en.wikipedia.org/wiki/Close_central_unrounded_vowel)
+Learn more: [listening: y](https://en.wikipedia.org/wiki/Close_front_rounded_vowel)
 
 **Letter `h`:** In Maj this letter is very different from other languages.  This letter is pronounced `ə` and is never silent. If it is present, it has to be read. Th original letter h is replaced by letter x or X. So then letter X si pronounced IPA: /h/. 
 
 Since on QUERTY KEYBOARD there is not letter `ə` we have decided to use "h" instead. We have inspired this decision from Greek where H is actually pronounced "i" but we think `ə` is necesary since we do have "i" that is good enaugh. Also there is no point to have a silent letters in Maj so "h" ould be wasted.
 
-Learn more: [listening](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
+Learn more: [listening: h](https://en.wikipedia.org/wiki/Mid_central_vowel)
+
+## Diphthongs
+
+Two vowels combined together into one cluster are called diphthongs.
+
+x |a  |e  |i  |o  |u  | y | h 
+--|---|---|---|---|---|---|---
+a | · |ae |ai |ao |au |ay | ah
+e |ea | · |ei |eo |eu |ey | eh
+i |ia |ie | . |jo |iu |iy | ih
+o |oa |oe |oi | · |ou |oy | oh
+u |ua |ue |ui |uo |.  |uy | uh
+y |ya |ye |iy |yo |yu | . | yh
+h |ha |he |hi |ho |hu |hy | .    
+
+**Notes:** 
+
+* Maj do not enable duplicate vowels for any purpose. We do not use "ee" to make /i/;
+* Maj enable "gliding" so that ua is read "wa" therefore Maj do not need letter "w";
+
 
 ## Tone and accent
 
@@ -149,25 +169,6 @@ Phonetic writing is quoted using IPA: notation
 * atce => IPA:"at͡ʃe"   = needles    
 * atsa => IPA:"at͡sa"   = thread
 * djia => IPA:"d͡ʒia"   = day
-
-## Diphthongs
-
-Two vowels combined together into one cluster are called diphthongs.
-
-x |a  |e  |i  |o  |u  | y | h 
---|---|---|---|---|---|---|---
-a | · |ae |ai |ao |au |ay | ah
-e |ea | · |ei |eo |eu |ey | eh
-i |ia |ie | . |jo |iu |iy | ih
-o |oa |oe |oi | · |ou |oy | oh
-u |ua |ue |ui |uo |.  |uy | uh
-y |ya |ye |iy |yo |yu | . | yh
-h |ha |he |hi |ho |hu |hy | .    
-
-**Notes:** 
-
-* Maj do not enable duplicate vowels for any purpose. We do not use "ee" to make /i/;
-* Maj enable "gliding" so that ua is read "wa" therefore Maj do not need letter "w";
 
 ## Clusters
 
