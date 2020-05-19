@@ -86,7 +86,7 @@ e |ea | · |ei |eo |eu |ey | eh
 i |ia |ie | . |jo |iu |iy | ih
 o |oa |oe |oi | · |ou |oy | oh
 u |ua |ue |ui |uo |.  |uy | uh
-y |ya |ye |iy |yo |yu | . | yh
+y |ya |ye |yi |yo |yu | . | yh
 h |ha |he |hi |ho |hu |hy | .    
 
 **Notes:** 
