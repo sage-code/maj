@@ -31,7 +31,7 @@ Maj is a slow weiting system, never rush when you write something using Maj Scri
 
 Next picture has IPA pronounciation for each Maj letter:
 
-<img src="demo/maj-alpha.png" alt="Maj Alphabet" width="600"></img>
+<img src="demo/maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
 
 Audio file: [Maj-28-letters.mp3](Maj-28-letters.mp3)
 
