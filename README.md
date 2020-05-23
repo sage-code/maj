@@ -102,7 +102,7 @@ There is an advanced Lexicon: "maj-iavo", that is not released yet.
 
 ## Contribution
 
-If you think Maj has a chanse to be of value in the future then you can contribute and learn Maj. We use Google Docs to host our documentation in addition to GitHub. Working with these tools is a skill by itself. You can demonstrate some of your skills by working on Maj project.
+If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. Working with these tools is a skill by itself. You can demonstrate what you can do by working on the Maj project. It is also fun. Instead of playing videogames at least you do something potential useful.
 
 **Community:**
 
