@@ -20,7 +20,8 @@ Maj language has several potential use-cases:
 
 Maj is using Latin alphabet with modified order and customized pronounciation.
 
-**a, b, c, d, e, f, g, h, e, i, j, k, l, m, n, o, p, r, s, t, u, v, x, z**
+### a, b, c, d, e, f, g, h, e, i, j, k 
+### l, m, n, o, p, r, s, t, u, v, x, z
 
 
 * Maj Latin alphabet has a total of 24 letters;
@@ -39,9 +40,8 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until this is done you can store Maj text using Unicode symbols selected to match Maj script.
 
-### α,β,ɕ,ẟ,ɛ,φ,ɤ,ɚ,ɛ,ʚ
-### ჟ,ჵ,₰,რ,ღ,თ,დ,შ,ნ
-### ծ,ω,ϑ,ჩ,ყ,ʓ,წ,უ,ϰ,ζ
+### α,β,ɕ,ẟ,ɛ,φ,ɤ,ɚ,ɛ,ʚ,ჟ,ჵ,₰,რ,ღ
+### თ,დ,შ,ნ,ծ,ω,ϑ,ჩ,ყ,ʓ,წ,უ,ϰ,ζ
 
 **Notes:**
 
