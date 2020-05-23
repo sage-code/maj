@@ -8,7 +8,7 @@ Maj is a realistic artificial language,  with following attributes:
 
 **Purpose ...**
 
-Maj language has only potential use-cases, not an official single goal:
+Maj language has potential use-cases, but not an official goal:
 
 1. Linguistic studies;
 2. Chat and entertainment;
