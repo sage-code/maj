@@ -106,17 +106,11 @@ There is an advanced Lexicon: "maj-iavo", that is not released yet.
 
 ## Contribution
 
-We accept volunteer work. You do volunteering job for reputation. We have no sponsor for this project. 
-
-1. To review grammar and text;
-2. To improve lexicon and examples;
-3. To translate Maj grammar in other languages;
-
-If you think Maj has a chanse to be of value in the future then you contribute and learn Maj. We use Google Doc services to host our documentation and GitHub as a backup. On working with these tools is a skill that you will comprehend better working on Maj project.
+If you think Maj has a chanse to be of value in the future then you can contribute and learn Maj. We use Google Docs to host our documentation in addition to GitHub. Working with these tools is a skill by itself. You can demonstrate some of your skills by working on Maj project.
 
 **Community:**
 
-We use Discord application to chat about Maj. After Maj is consolidated as a useful language we can use Maj for chat about computer programming and valuable projects. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation using Maj. 
+We use Discord application to chat about Maj. After Maj Lexicon is consolidated we can use Maj for chat about computer programming and valuable other projects developped using Maj. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation. 
 
 Join: [discord invitation](https://discord.gg/ZtusYjf)
 
