@@ -119,7 +119,7 @@ Maj words have a very soft accent on the first syllable. Apostroph can modify th
 
 ## Consonants
 
-Maj is using 19 consonants:
+Maj is using 21 consonants:
 
 method   | bilabial| labio dental | alveolar | valar | post alveolar | glottal 
 ---------|---------|--------------|----------|-------|---------------|----------
@@ -128,7 +128,7 @@ nasal    | m       |              | n        |       |               |
 trill    |         |              | r        |       |               | 
 fricative|         | f,v          | s,z      |       | c, j          | x
 lateral  |         |              | l        |       |               |
-affricate|         |              | ts, tc   |       | dj            |
+affricate|         |              | ts,tc,ks |       | dj            |
 
 
 Most consonants are similar to IPA but some are different;
