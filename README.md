@@ -1,6 +1,6 @@
 # Maj
 
-Maj is a realistic artificial language,  with following attributes:
+Maj is an artificial language,  with following attributes:
 
 * Regular - with deterministic reading rules;
 * Efficient - short words and simple grammar;
@@ -39,7 +39,9 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 Maj uses a secondary alphabet for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until this is done you can store Maj text using Unicode symbols selected to match Maj script.
 
-{α,β,ɕ,ẟ,ɛ,φ,ɤ,ɚ,ɛ,ʚ,ჟ,ჵ,₰,რ,ღ,თ,დ,შ,ნ,ծ,ω,ϑ,ϰ,ʓ,უ,ჹ,ζ}
+### α,β,ɕ,ẟ,ɛ,φ,ɤ,ɚ,ɛ,ʚ
+### ჟ,ჵ,₰,რ,ღ,თ,დ,შ,ნ
+### ծ,ω,ϑ,ჩ,ყ,ʓ,წ,უ,ϰ,ζ
 
 **Notes:**
 
