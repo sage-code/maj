@@ -24,7 +24,7 @@ Maj language has only potential use-cases, not an official single goal:
 
 Maj is using Latin alphabet with modified order and customized pronounciation.
 
-{a,b,c,d,e,f,g,h,e,i,j,k,l,m,n,o,p,r,s,t,u,v,x,z,dj,tc,ts}
+{a,b,c,d,e,f,g,h,e,i,j,k,l,m,n,o,p,r,s,t,u,v,x,z,tc,dj,ks,ts}
 
 
 * Maj Latin alphabet has a total of 24 letters;
