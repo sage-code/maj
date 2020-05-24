@@ -64,4 +64,7 @@ nemuritor ci retce."
 ```
 Fragment is from poetry "Luceafărul" by Mihai Eminescu.
 
+<img src="demo/poetry.png" alt="Maj Alphabet" width="600"></img>
+
+
 **Read next about the Latin:** [alphabet](alphabet.md)
