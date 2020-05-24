@@ -49,7 +49,7 @@ Maj script is not depending on Maj language. You can use Maj script to write sec
 ẟʚღ შωẟɛ რαშʚ ყრდαშɚծɛɕծʚ   
 თ დშɛα φშωრთαნɚ φαծɚ**   
 ```
-"a fost o dath ka nitcodath
+a fost o dath ka nitcodath
 din rude mari ymparhtecti
 o prea frumoash fath"
 ```
@@ -58,7 +58,7 @@ o prea frumoash fath"
 ჵωრ ɛ φɛწთαშα ყღծშɛ ნφʚღζʚ   
 ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ**
 ```
-"ci era una la phrintsi
+ci era una la phrintsi
 ci myndrh-n toate tcele
 kum e fetcoara yntre sfintsi
 ci luna yntre stele"
@@ -68,7 +68,7 @@ ci luna yntre stele"
 ɕʚ ɛω ყღ ₰ωრɛα რɛα რɚ ნʚრծ   
 ღɛრωშʚծთშ ɕʚ შɛწɛ.**
 ```
-"trhind yn tcerkul vostru strymt
+trhind yn tcerkul vostru strymt
 norokul vh petretce,
 ci eu yn lumea mea mh simt
 nemuritor ci retce."
