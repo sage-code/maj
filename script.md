@@ -27,6 +27,7 @@ Maj is a slow weiting system, never rush when you write something using Maj Scri
 
 **Note:** Some Unicode symbols are rough approximations.
 
+
 **phonetic:**
 
 Next picture has IPA pronounciation for each Maj letter:
@@ -39,5 +40,41 @@ Audio file: [Maj-28-letters.mp3](Maj-28-letters.mp3)
     <source src="Maj-alphabet-reform.mp3" />    
 </audio>
 
+## Using Maj script
+
+Maj script is not depending on Maj language. You can use Maj script to write secret messages in any language that can be reduced to Maj alphabet. Next is an example of poetry in Romanian written with with Maj rules and Maj script. I guess a Romanian will understend this text and be able to learn from it the Maj alphabet.
+
+```
+α φთნծ თ ẟαծɚ ჵα ღʚწთẟαծɚ
+ẟʚღ შωẟɛ რαშʚ ყრდαშɚծɛɕծʚ
+თ დშɛα φშωრთαნɚ φαծɚ
+```
+"a fost o dath ka nitcodath
+din rude mari ymparhtecti
+o prea frumoash fath"
+
+```
+ɕʚ ɛშα ωღα ₰α დɚშʚღζʚ
+ɕʚ რყღẟშɚ-ღ ծთαծɛ წɛ₰ɛ
+ჵωრ ɛ φɛწთαშα ყღծშɛ ნφʚღζʚ
+ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ
+```
+"ci era una la phrintsi
+ci myndrh-n toate tcele
+kum e fetcoara yntre sfintsi
+ci luna yntre stele"
+
+```
+ծშɚʚღẟ ყღ წɛშჵω₰ ϑთნծშω ნծშყრծ
+ღთშთჵω₰ ϑɚ დɛծშɛწɛ,
+ɕʚ ɛω ყღ ₰ωრɛα რɛα რɚ ნʚრծ
+ღɛრωშʚծთშ ɕʚ შɛწɛ.
+```
+"trhind yn tcerkul vostru strymt
+norokul vh petretce,
+ci eu yn lumea mea mh simt
+nemuritor ci retce."
+
+Fragment is from poetry "Luceafărul" by Mihai Eminescu.
 
 **Read next about the Latin:** [alphabet](alphabet.md)
