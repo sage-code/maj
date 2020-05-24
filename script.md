@@ -17,18 +17,7 @@ In the previous picture I have used a crayon but you can write with a pencil or 
 
 Maj is a slow weiting system, never rush when you write something using Maj Script. If you need to write fast then you use a keyboard and you use Latin alphanet. Maj script is only for heandwriting therefore you can not be fast. 
 
-## Examples of words in Maj
-
-**example:**
-
-* io doru la oma muda una novo agna fezo!
-* ʚთ ẟთშω ₰α თრα რωẟα ωღα ღთϑთ αɤღα φɛʓთ!
-* I wish to everyone a happy new year!
-
-**Note:** Some Unicode symbols are rough approximations.
-
-
-**phonetic:**
+## Phonetic
 
 Next picture has IPA pronounciation for each Maj letter:
 
