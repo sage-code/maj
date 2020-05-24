@@ -45,19 +45,19 @@ Audio file: [Maj-28-letters.mp3](Maj-28-letters.mp3)
 Maj script is not depending on Maj language. You can use Maj script to write secret messages in any language that can be reduced to Maj alphabet. Next is an example of poetry in Romanian written with with Maj rules and Maj script. I guess a Romanian will understend this text and be able to learn from it the Maj alphabet.
 
 
-α φთნծ თ ẟαծɚ ჵα ღʚწთẟαծɚ   
+**α φთნծ თ ẟαծɚ ჵα ღʚწთẟαծɚ   
 ẟʚღ შωẟɛ რαშʚ ყრდαშɚծɛɕծʚ   
-თ დშɛα φშωრთαნɚ φαծɚ   
+თ დშɛα φშωრთαნɚ φαծɚ**   
 ```
 "a fost o dath ka nitcodath
 din rude mari ymparhtecti
 o prea frumoash fath"
 
 ```
-ɕʚ ɛშα ωღα ₰α დɚშʚღζʚ   
+**ɕʚ ɛშα ωღα ₰α დɚშʚღζʚ   
 ɕʚ რყღẟშɚ-ღ ծთαծɛ წɛ₰ɛ   
 ჵωრ ɛ φɛწთαშα ყღծშɛ ნφʚღζʚ   
-ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ   
+ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ   **
 ```
 "ci era una la phrintsi
 ci myndrh-n toate tcele
@@ -66,10 +66,10 @@ ci luna yntre stele"
 
 ```
 
-ծშɚʚღẟ ყღ წɛშჵω₰ ϑთნծშω ნծშყრծ   
+**ծშɚʚღẟ ყღ წɛშჵω₰ ϑთნծშω ნծშყრծ   
 ღთშთჵω₰ ϑɚ დɛծშɛწɛ,   
 ɕʚ ɛω ყღ ₰ωრɛα რɛα რɚ ნʚრծ   
-ღɛრωშʚծთშ ɕʚ შɛწɛ.   
+ღɛრωშʚծთშ ɕʚ შɛწɛ.   **
 
 ```
 "trhind yn tcerkul vostru strymt
