@@ -52,25 +52,21 @@ Maj script is not depending on Maj language. You can use Maj script to write sec
 "a fost o dath ka nitcodath
 din rude mari ymparhtecti
 o prea frumoash fath"
-
 ```
 **ɕʚ ɛშα ωღα ₰α დɚშʚღζʚ   
 ɕʚ რყღẟშɚ-ღ ծთαծɛ წɛ₰ɛ   
 ჵωრ ɛ φɛწთαშα ყღծშɛ ნφʚღζʚ   
-ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ   **
+ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ**
 ```
 "ci era una la phrintsi
 ci myndrh-n toate tcele
 kum e fetcoara yntre sfintsi
 ci luna yntre stele"
-
 ```
-
 **ծშɚʚღẟ ყღ წɛშჵω₰ ϑთნծშω ნծშყრծ   
 ღთშთჵω₰ ϑɚ დɛծშɛწɛ,   
 ɕʚ ɛω ყღ ₰ωრɛα რɛα რɚ ნʚრծ   
-ღɛრωშʚծთშ ɕʚ შɛწɛ.   **
-
+ღɛრωშʚծთშ ɕʚ შɛწɛ.**
 ```
 "trhind yn tcerkul vostru strymt
 norokul vh petretce,
