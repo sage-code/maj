@@ -1,6 +1,6 @@
 # use case
 
-Maj is an artificial langauge created for a virtual world that is utopic and does not exist. I will try to find out other good reasons to build Maj language. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn this language and use it.
+Maj is an artificial langauge created for an utopic virtual world. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn a thing or two about this language great language.
 
 ## facts:
 
@@ -10,21 +10,25 @@ Maj is an artificial langauge created for a virtual world that is utopic and doe
 * We learn languages in schools then use them during our lives without questioning anything;
 * National language progress is incremental and slow, lagging behind scientific and technologic descoveries.
 
+## Time to learn
+
 For learning English you spend about 5 years in school, from 1'st grade to 5'th grade to learn about 1400 words. The rest of your life you learn English but not all of it. Even if you are born as US or English citizen you will never know all English words until you die. Some people will understend and use specific words based on domain of activity. I have selected about 2020 most frequent English words to be translated into Maj.
 
 For learning Romanian you spend about 3 years in school. A Romanian child will know about 2000 words in this time. Romanian language has better spellig rules but it has a problem. Many children can not pronounce trilled "r" and therefore will use "l" instead for a long time. Usualli this defect in speach disapear in first or second class. Some children though will never make it trhrou wnd will have a speach defect making "r" sound like American "r". Same children have no trable speaking English.
+
+Once is done done, Maj should be easy to learn in less then one year. For this it needs good references translated in many other languages. Our Lexicon is translated in 5 languages: Romanian, Italian, French, Spanish and German. The Latin translation is partial.
 
 ## Romance influence
 
 Romanian is a balcanic language. It has inherited ancient words from Tracian, Bulgarian and Turkish, German and French. For example word "șpiț" = "top" comes from German "spitze". Though Romanian could have import more from different neighbour languages it is a conservaitive Romance language sticking with the Latin heritage.
 
-Romanian language is complex compared to other Romance languages. It is designed for poetry and has many redundant words, synonims and expressions not common in other languages. We have imported all letters from Latin language except "W". However that was not enaugh. Romanian language has additonal letters not found in English but in Turkish:  { Î î Ă ă Â â Ș ș Ț ț }. I think these letters makes Romanian language more coloreful than English but harder to write. You need a special keyboard for doing it.
+Romanian language is complex compared to other languages. It is suitable for poetry and songs and has many redundant words, synonims and expressions not common in other languages but native. We have imported all letters from Latin language except "W" so Romanian has imported only 25 letters. However that was not enaugh. Romanian language has additonal letters not found in English but in Turkish:  { Î î Ă ă Â â Ș ș Ț ț }. In total has 30 letters. I think these letters makes Romanian language more coloreful than English but harder to write. You need a special keyboard for doing it.
 
 
 ## About Maj:
 
 * Maj is an open source, romance language;
-* Maj is using Latin alphabet similar to English alphabet;
+* Maj is using Latin alphabet similar to Romanian alphabet;
 * Maj is limited in scope and you can learn it all in one year;
 
 **punctuation:**
@@ -77,12 +81,12 @@ Euro is an aristochratic advanced natural language spoken in Europe. It has a re
 
 ## design:
 
-maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages; we try to make Maj more efficient by reducing number of words for expressing actions, therefore Maj has an unusually large number of verbs.
+maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages. Also we try to make Maj more efficient by reducing number of words required in sentances; therefore Maj has an unusually large number of verbs.
 
-in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
+in other languages, some writers are using abbreviations; in Maj all the words are already abbreviated; further abbreviation makes no sense; foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
 * Maj re-purpose some letters: { h, c, x };
-* Maj do not use cedilla letters like: Franch and Romanian does;
+* Maj do not use cedilla letters like: French and Romanian does;
 * Maj is using simple grammar rules to reduce complexity;
 * Maj has a reduced numbers of sounds, easy to produce;
 * Maj will have a reduced vocabulary, less then 5000 words;
