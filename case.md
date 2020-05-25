@@ -1,6 +1,6 @@
 # use case
 
-Maj existence is a artificial langauge created for a virtual world. I will try to find out other good reasons to build an Maj. I hope you will find this rationals entertaining and intresting. Maj is nothing but an artistic language until we find for it a more useful role.
+Maj is an artificial langauge created for a virtual world that is utopic and does not exist. I will try to find out other good reasons to build Maj language. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn this language and use it.
 
 ## facts:
 
@@ -8,9 +8,18 @@ Maj existence is a artificial langauge created for a virtual world. I will try t
 * Spoken languages become more complex as time pass and therefore difficult to learn;
 * Spoken languages are difficult to optimize due to government intervention and culture;
 * We learn languages in schools then use them during our lives without questioning anything;
-* Therefore, language progress is incremental, small and in sinch with technology.
+* National language progress is incremental and slow, lagging behind scientific and technologic descoveries.
 
-For learning English you spend about 5 years, from 1'st grade to 5'th grade you will learn about 1400 words. The rest of your life you learn will learn some English but not all. Even if you are born in US or England you will never know all English words until you die. Some people will understend and use specific words based on domain of activity. I have selected about 2020 most frequent English words to be translated into Maj.
+For learning English you spend about 5 years in school, from 1'st grade to 5'th grade to learn about 1400 words. The rest of your life you learn English but not all of it. Even if you are born as US or English citizen you will never know all English words until you die. Some people will understend and use specific words based on domain of activity. I have selected about 2020 most frequent English words to be translated into Maj.
+
+For learning Romanian you spend about 3 years in school. A Romanian child will know about 2000 words in this time. Romanian language has better spellig rules but it has a problem. Many children can not pronounce trilled "r" and therefore will use "l" instead for a long time. Usualli this defect in speach disapear in first or second class. Some children though will never make it trhrou wnd will have a speach defect making "r" sound like American "r". Same children have no trable speaking English.
+
+## Romance influence
+
+Romanian is a balcanic language. It has inherited ancient words from Tracian, Bulgarian and Turkish, German and French. For example word "șpiț" = "top" comes from German "spitze". Though Romanian could have import more from different neighbour languages it is a conservaitive Romance language sticking with the Latin heritage.
+
+Romanian language is complex compared to other Romance languages. It is designed for poetry and has many redundant words, synonims and expressions not common in other languages. We have imported all letters from Latin language except "W". However that was not enaugh. Romanian language has additonal letters not found in English but in Turkish:  { Î î Ă ă Â â Ș ș Ț ț }. I think these letters makes Romanian language more coloreful than English but harder to write. You need a special keyboard for doing it.
+
 
 ## About Maj:
 
