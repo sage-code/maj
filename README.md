@@ -104,7 +104,7 @@ and is organized in 3 pages by word length:
 
 ## Contribution
 
-If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. Working with these tools is a skill by itself. You can demonstrate what you can do by working on the Maj project. It is also fun. Instead of playing videogames at least you do something potential useful.
+If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. You can not edit these documents, they are protected. We use these documents as reference. GitHub project has secondary priority so it needs to be updated from the primary documentation manually. This is where we may need help. So if you have a github account you just need to fork and do pull request as any other GitHub project.
 
 **Community:**
 
