@@ -43,28 +43,28 @@ Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj u
 
 **Notes:**
 
-* Script has a total of 27 symbols;
+* Script has a total of 28 symbols;
 * Script do not have uppercase letters;
 * Script is mapped 1:1 with the Latin print alphabet;
 * Script is using same punctuation marks as Latin;
 
 **Example:**
 
+* ɛნծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
+* esta sonu una zopa kibo yn maj;
 * this is an example written in maj;
-* ɛծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
-* eta sonu una zopa kibo yn maj;
 
 Read more: [Script details](script.md)
 
 **Tools:**
 
-There is a dual conversion tool from Latin to Maj script. This tool will help you to write maj. Once you have learned Maj script you can use the letters to take notes on a notepad.
+There is a dual conversion tool from Latin to Maj script. This tool will help you to write using Maj script. Once you have learned this script you can use it to take notes using Maj language. 
 
 External tool: [Maj script converter](https://lingojam.com/MajScript)
 
-## Basics
+## Grammar
 
-Maj has reduced complexity compared to other Romance languages. Maj is more like English that also uses very short words. Actually some words are shorter in English than Maj. For example verbs: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
+Maj has reduced complexity compared to other Romance languages: Spanish, Franch. It is more like English that also uses very short words. Actually some words are shorter in English than Maj. For example verbs: {do, go, be, is} are shorter than the respective Maj words: {faru, andu, sonu, sonu}. However Maj is simpler than English becouse one verb has only one single form and is always regular.
 
 **Read more about:** [basic grammar](basic.md)
 
@@ -82,7 +82,7 @@ Advanced grammar rules are explained by:  _word category_
 
 Maj lexicon is a collection of several spreedshits that we use to host words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations.
 
-Maj [core elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml?gid%3D1585147682%26single%3Dfalse&sa=D&ust=1587029543036000) include 3 pages. In te future we will add more pages. 
+Maj [core elements](https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml#) include 4 pages. In te future we will add more pages. 
 
 * alphabet;
 * pronouns; 
@@ -96,9 +96,11 @@ and is organized in 3 pages by word length:
 * W3 = prepositions 
 * W4 = short words
 
-**note:**
+**notes:**
 
-There is an advanced Lexicon: "maj-iavo", that is not released yet. 
+* The documents above are work in progress and update automatically;
+* The Lexicon is in heavy review, some words will be changed;
+* There is an advanced Lexicon: "maj-iavo", that is not released yet. 
 
 ## Contribution
 
