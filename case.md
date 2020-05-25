@@ -65,37 +65,32 @@ the last _use-case_ is actually the most valuable of all;
 
 # maj world
 
-Maj world is a future world where the people speack many languages. Maj is not spoken in on Earth but on space. It is preffered language on Marth and diverse moons that are colonized. Long distant travelers and deep space stations population is using Maj to send messages and communicate.
+Maj world is a future world where the people speack many languages. Maj is not spoken at all on Earth but only in space. It is the preffered language on Marth and diverse moons that are colonized. Long distant travelers and deep space population is using Maj to send messages and communicate.
 
-Maj is a quiet language. It can be spoken by humans but usually people are using it for writing messages and making voice commands. Long space voiages are lonely and requires faster communication over longer distances using text messages. Ship computers and stations also preffer to speack Maj.
+Maj is a quiet language without accents. It can be spoken by humans but usually people are using it for writing messages and making voice commands. Long space voiages are lonely and requires efficient communication over longer distances using text messages. Ship computers and stations also preffer to speack Maj.
 
-Innitially Maj was developped for computers as a back-end language. However humans have learned this language to communicate with the computer. Now the language has evolved and is also used by space age population.
+Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language used for space travel; Innitially Maj was developped for computers as a back-end language. However humans have learned this language to communicate with the computer without using an intermediary language. The language has evolved and is also used by humans in space.
 
-Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language used for space travel; 
+Maj can be spoken on Earth too but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America or Europe some words could sound familiar. Many space travelers return to Earth for retirement. Unfortunately they have to accomodate earth gravity and learn how to sepack Euro that is a similar language to Maj. 
 
-Maj can be spoken on Earth too but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America or Europe some words could sound familiar. Many space travelers get reach in space and return to Earth for retirement. Unfortunately they have to accomodate earth gravity and learn how to sepack English or Euro. 
-
-Euro is an aristochratic advanced natural language spoken in Europe. It has a revolutionary grammar and is considered a supperior language. Maj is a vulgar language considered a jargon spoken by workers and space travelers. People who do not speack anything else but Maj are considered primitive and bad educated.
-
+Euro is an aristochratic advanced natural language spoken in Europe. It has a revolutionary grammar and is considered a supperior language. Maj is a vulgar language considered a jargon spoken by workers in space. People who do not speack anything else but Maj are considered primitive, inferiors and bad educated.
 
 ## design:
 
-maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages;
+maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages; we try to make Maj more efficient by reducing number of words for expressing actions, therefore Maj has an unusually large number of verbs.
 
-in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; therefore further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
+in other languages, some writers are using abbreviations. in Maj all the words are already abbreviated; further abbreviation makes no sense. foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
-
-* Maj re-purpose some redundant letters: { Q, K, X, Y };
-* Maj do not use cedilla letters like: Franch, Romanian or German;
-* Maj is using root words and avoid composite long words;
+* Maj re-purpose some letters: { h, c, x };
+* Maj do not use cedilla letters like: Franch and Romanian does;
 * Maj is using simple grammar rules to reduce complexity;
 * Maj has a reduced numbers of sounds, easy to produce;
-* Maj will have a reduced vocabulary, about 2200 words;
+* Maj will have a reduced vocabulary, less then 5000 words;
 
 **rules:**
 
 * Maj can use prefixes and suffixes to make a new word from a root;
-* Maj is using quote `'` to connect with the root word with suffix or prefix;
+* Maj is using dash `-` to connect with the root word with suffix or prefix;
 * Maj avoid synonyms and is using mostly a single meaning for each word;
 * Maj frequent words are shorter while less frequent words are longer;
 * Maj words can differ from one to other by a single letter;
