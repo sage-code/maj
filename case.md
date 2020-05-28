@@ -1,6 +1,6 @@
 # use case
 
-Maj is an artificial langauge created for an utopic virtual world. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn a thing or two about this language great language.
+Maj is an artificial langauge created for an utopic virtual world. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn a thing or two about this great language.
 
 ## facts:
 
