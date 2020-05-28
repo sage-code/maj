@@ -89,12 +89,15 @@ Maj [core elements](https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWtt
 * numerals;
 * symbols;
 
-Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7pK9vB55081ycoOxikVwUvUuk43HFgAsm7vpmhfCBYQzyUAXASpxmCVtF6qAszPhE7b00IJxejo-R/pubhtml?gid=1162725407&single=false)
-and is organized in 3 pages by word length:
+Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vQIAx1UHDxg9SAk0caYU18U9hCQBfl-BWQuz9_6VhXwGr1aJdOfg-uv1ret-L-0u_2yQvPtlycNICi6/pubhtml#)
+and is organized in 7 pages by word length:
 
 * W2 = particles 
 * W3 = prepositions 
-* W4 = short words
+* W4 = regular words
+* W5 = advanced words
+* LW = longer words
+* CW = composite words
 
 **notes:**
 
