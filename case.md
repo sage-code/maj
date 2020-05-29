@@ -18,22 +18,27 @@ For learning Romanian you spend about 3 years in school. A Romanian child will k
 
 Once is done done, Maj should be easy to learn in less then one year. For this it needs good references translated in many other languages. Our Lexicon is translated in 5 languages: Romanian, Italian, French, Spanish and German. The Latin translation is partial.
 
-## Romance influence
+## Romanian influence
 
-Romanian is a balcanic language. It has inherited ancient words from Tracian, Bulgarian and Turkish, German and French. For example word "șpiț" = "top" comes from German "spitze". Though Romanian could have import more from different neighbour languages it is a conservaitive Romance language sticking with the Latin heritage.
+Romanian is a balcanic language. It has inherited ancient words from Tracian, Bulgarian and Turkish, German and French. For example word "șpiț" = "top" comes from German "spitze". Though Romanian could have import more words from different neighbour languages it is still the most conservaitive Romance language sticking with the Latin heritage.
 
-Romanian language is complex compared to other languages. It is suitable for poetry and songs and has many redundant words, synonims and expressions not common in other languages but native. We have imported all letters from Latin language except "W" so Romanian has imported only 25 letters. However that was not enaugh. Romanian language has additonal letters not found in English but in Turkish:  { Î î Ă ă Â â Ș ș Ț ț }. In total has 30 letters. I think these letters makes Romanian language more coloreful than English but harder to write. You need a special keyboard for doing it.
+Romanian language is a complex language. It is suitable for poetry and songs and has many redundant words, synonims and expressions not common in other Romance languages but inherited from Dacian culture. Romanian use to have a Kirillik alphabet but it was reformed. 
 
+Now the Romanian alphabet is using 25 Latin letters and these 5 more:  { Î î Ă ă Â â Ș ș Ț ț }. In total it has 30 letters. I think these letters makes Romanian language more coloreful than English but harder to write and more difficult to comprehend as a secondary language. 
 
 ## About Maj:
 
-* Maj is an open source, romance language;
+Maj is inspired from Romanian my native language but does not sound like Romanian. It is much more simpler. Though you could use Maj alphabet to write Romanian correctly I do not advice anybody to do so. Maj will sound a little bit like Portugese maybe.
+
+**key features:**
+
+* Maj is an open source, Romance language;
 * Maj is using Latin alphabet similar to Romanian alphabet;
 * Maj is limited in scope and you can learn it all in one year;
 
 **punctuation:**
 
-in this document I use Maj pnctuation style:
+in this document I will use Maj pnctuation style:
 
 * sentences start with lowercase letters;
 * names start with capital letters;
@@ -56,7 +61,7 @@ there are some good reasons to make a new and different language:
 
 once the language is established it could be usable for:
 
-* sf stories and world building;
+* SF stories and world building;
 * friendly chat;
 * making comments;
 * outdoor activity;
@@ -73,15 +78,15 @@ Maj world is a future world where the people speack many languages. Maj is not s
 
 Maj is a quiet language without accents. It can be spoken by humans but usually people are using it for writing messages and making voice commands. Long space voiages are lonely and requires efficient communication over longer distances using text messages. Ship computers and stations also preffer to speack Maj.
 
-Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language used for space travel; Innitially Maj was developped for computers as a back-end language. However humans have learned this language to communicate with the computer without using an intermediary language. The language has evolved and is also used by humans in space.
+Maj can be used on chat; it has specifics for describing computer languages and algorithms. therefore Maj is a descriptive _pseudo-code_ and _domain specific_ language used for space travel; Innitially Maj was developped for computers as a back-end language. However humans have learned this language to communicate with the computer without using an intermediary language. The language has evolved and is also used by humans to talk with each other.
 
 Maj can be spoken on Earth too but nobody will understand you; especially if you are in China, Russia or Africa, but if you are on America or Europe some words could sound familiar. Many space travelers return to Earth for retirement. Unfortunately they have to accomodate earth gravity and learn how to sepack Euro that is a similar language to Maj. 
 
-Euro is an aristochratic advanced natural language spoken in Europe. It has a revolutionary grammar and is considered a supperior language. Maj is a vulgar language considered a jargon spoken by workers in space. People who do not speack anything else but Maj are considered primitive, inferiors and bad educated.
+Euro is an aristochratic advanced natural language spoken in Europe. It has a revolutionary grammar and is considered a supperior language. Maj is a vulgar language considered a jargon spoken by workers in space. People who do not speack anything else but Maj are considered primitive, inferiors and badly  educated.
 
 ## design:
 
-maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages. Also we try to make Maj more efficient by reducing number of words required in sentances; therefore Maj has an unusually large number of verbs.
+Maj have shorte words to reduce cost of typing; so Maj can be faster and more efficient than other languages; after initial calculation we estimate Maj is on average 20% more efficient than other languages. Also we try to make Maj more efficient by reducing number of words required in sentances; therefore Maj has an unusually large number of verbs.
 
 in other languages, some writers are using abbreviations; in Maj all the words are already abbreviated; further abbreviation makes no sense; foreign words can be used in Maj but must be enclosed with double quotes FRA:"française" is pronounced: /fʁɑ̃.sɛz/ for example. 
 
