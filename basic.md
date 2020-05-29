@@ -18,18 +18,13 @@ You can give greetings to one person or to everyone:
 
 Maj   | English  | Spanish    | French     |  Romanian   
 ------|----------|------------|------------|-------------
-qaw   |hello     | hola       | bienvenue  | ceau, salut       
-ave   |farewell  | adiós      | à bientôt  | la revedere       
-
-**note:** Some form of salute have multiple meanings
-
-* muda = world      
-* jedo = everyone
+tcao  |hello     | hola       | bienvenue  | ceau, salut       
+adio  |farewell  | adiós      | à bientôt  | la revedere       
 
 **examples:**
 
-* qaw muda = hello world
-* ave jedo = goodbye everyone
+* tcho muda!     = hello world!
+* adio oni xete! = goodbye everyone!
 
 ## Words
 
@@ -39,7 +34,7 @@ A word is a rapid succession of sounds without pause. Maj have two kind of words
 **notes:**
 1. Particles are words of 2 character long. Particles are used to create interjections, pronouns, numerals, prefixes, suffixes and prepositions. These words can have form: VC, or CV In total there are will be about 80 words of this kind.
 2. Short words having 3 character long are using pattern: VCV or CVV. These words are in general prepositions, adverbs or adjectives. There will be about 150 short words of this kind.
-3. Basic words are 4 character long. A basic word is using these 4 patterns: CVCV, VCVV, VCCV, VCVC. This rule makes words easy to connect together in propositions using articles. There will be about 2020 words of this kind.
+3. Basic words are 4 character long. A basic word is using these 4 patterns: CVCV, VCVV, VCCV, VCVC. This rule makes words easy to connect together in propositions using articles. There will be about 2020 root words of this kind.
 2. Basic word has a _root_ and a _coda_. The root is invariable, but changing the _coda_ will slightly change the meaning of the word. Usually the words having same root are related. Basic words are regular.
 4. Words can end with a consonant. Last consonant is called a _stop consonant_. Usually these words represent prepositions, numerals or nouns that have no plural. Materials, fluids and names are ending with a consonant. These words are having invariable form.
 5. Composite words are going to be longer than 4 characters. These words are based on a root word that has an adjective in front of it connected using a dash. A composite word can have up to 8 significant characters. 
@@ -61,11 +56,6 @@ In this example we use the root word "rop" to make 3 distinct words:
 
 **note:** Becouse of this rule, you may invent new words that make perfect sens. However we must put the word in Lexicon and have a transaltion for it to be official acceptable. Until the Lexicon is finished this rule could be useful to understand the examples better.
 
-**examle2:**
-
-* 
-
-
 ## Pronoun
 
 Is a word that can function as a noun in a phrase to refer either to the participants in the discourse or to someone or something mentioned elsewhere in the discourse. Maj pronoun is regular and have the following features:
@@ -80,9 +70,9 @@ Is the person or the thing who perform the action.
 
   ps |singular          | plural
 -----|------------------|-----------------------------
-  1  | jo = I           | nu  = we
-  2  | tu = you         | vu  = y'all
-  3  | su = him, she    | zu  = they
+  1  | io = I           | noi  = we
+  2  | tu = you         | voi  = y'all
+  3  | su = him, she    | zhi  = they
 
 **Dative:**
 
