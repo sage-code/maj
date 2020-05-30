@@ -4,7 +4,7 @@ Maj is an artificial language,  with following attributes:
 
 * Regular - with deterministic reading rules;
 * Efficient - short words and simple grammar;
-* Familiar - using Latin alphabet and Balkanian sounds;
+* Familiar - using Latin alphabet and borrowed words;
 
 **Purpose ...**
 
