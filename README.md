@@ -1,5 +1,3 @@
-# Maj
-
 Maj is an artificial language,  with following attributes:
 
 * Regular - with deterministic reading rules;
