@@ -1,13 +1,13 @@
 # MAJ Alphabet
 
-Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. 
+Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. I will explain all the sounds below. 
 
 <img src="demo/maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
 
 
 ## Pronunciation
 
-Maj pronunciation is simple and easy to learn. It has well defined rules, that are general and have no exceptions. In maj you do no need to spell words, you need to learn the general reading rules and then you can read any word written in Latin or Maj Script.
+Maj pronunciation is based on deterministic rules. That means, pronounciation rules are the same in all words and do not depend on the word origin. In Maj you do no need to learn how to _spell words_ but you need to learn the alphabet. That is if you know Maj alphabet and reading rules then you can read any writen word correctly even if you have never heared that word before. 
 
 **Notes:**
 
@@ -16,7 +16,7 @@ Maj pronunciation is simple and easy to learn. It has well defined rules, that a
 * Maj sounds do not require to put your tongue between your teeth;
 * Maj sounds do not require inverted tongue tip (retroflex);
 * Maj has strong consonants and clear vowels similar to Portuguese;
-* Maj sounds have Balcan influence. Not all sounds are Latin;
+* Maj sounds have Balcan influences. Not all sounds are Latin;
 
 **Tools:**
 
@@ -31,17 +31,6 @@ For explaining the alphabet pronunciation we have used phonetic symbols:
 
 * [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
 * [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
-
-**Phonetic:**
-
-Phonetic notation has language prefix and is enclosed in double quotes like this:
-
-* Maj phonetic: MAJ:"word";
-* IPA phonetic: IPA:"word";
-* English phonetic: ENG:"word";
-
-IPA phonetic is used only in Maj documentation. Maj phonetic is used only for training text. For regular chat you can use Latin letters with no accent over and no diaeresis. English phonetic can be used to compare Maj with English and to understand Maj better.
-
 
 ## Vowels
 
@@ -150,7 +139,6 @@ Most consonants are similar to IPA but some are different;
 * Letter  `g`  is voiced velar fricative like `gu` in "guitar";
 * Letter  `j`  is viuced fricative alveolar, like `s` in "pleasure";
 * Letter  `x`  is voiced fricative glottal like "h" in "happy";
-
 
 ## Digraphs
 
