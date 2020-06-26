@@ -1,6 +1,6 @@
 # MAJ Alphabet
 
-Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. I will explain all the sounds below. 
+Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. You can learn Maj pronounciation without IPA symbols. I will explain each shoud using English similar examples.
 
 <img src="demo/maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
 
