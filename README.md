@@ -16,14 +16,19 @@ Maj language has several potential use-cases:
 
 ## Alphabet
 
-Maj is using 24 symbols from Latin alphabet with modified order and customized pronounciation.
+Maj is using 48 symbols from Latin ISO alphabet with modified order and customized pronounciation.
 
 ### a, b, c, d, e, f, g, h, e, i, j, k, l, m, n, o, p, r, s, t, u, v, x, z
 
+Maj is using also uppercase letters in some words. Uppercase letters have same pronounciation as lowercase letters.
+
+### A, B, C, D, E, F, G, H, E, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Z
 
 * Maj Latin alphabet has a total of 24 letters;
+* Letters W and Q are not used in Maj
 * Maj has deterministic phonetic rules;
 * Maj do not use cedilla nor diaressis or accents;
+
 
 Details: [Maj alphabet](alphabet.md)
 
@@ -35,7 +40,7 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 ## Script
 
-Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and personal journals using but a pen and a notebook. Script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until this is done you can store Maj text using Unicode symbols selected to match Maj script.
+Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until then you can store Maj text using Unicode symbols selected to match Maj script.
 
 ### α, β, ɕ, ẟ, ɛ, φ, ɤ, ɚ, ɛ, ʚ, ჟ, ჵ, ₰, რ, ღ, თ, დ, შ, ნ, ծ, ω, ϑ, ჩ, ყ, ʓ, წ, უ, ϰ, ζ
 
@@ -43,14 +48,14 @@ Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj u
 
 * Script has a total of 28 symbols;
 * Script do not have uppercase letters;
-* Script is mapped 1:1 with the Latin print alphabet;
+* Script is mapped 1:1 with Unicode symbols;
 * Script is using same punctuation marks as Latin;
 
 **Example:**
 
 * ɛნծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
-* esta sonu una zopa kibo yn maj;
-* this is an example written in maj;
+* esta sonu una zopa kibo yn Maj;
+* this is an example written in Maj;
 
 Read more: [Script details](script.md)
 
@@ -62,7 +67,7 @@ External tool: [Maj script converter](https://lingojam.com/MajScript)
 
 ## Grammar
 
-Maj has reduced complexity compared to other Romance languages: Spanish, Franch. It is more like English that also uses very short words. Actually some words are shorter in English than Maj. For example verbs: {do, go, be, is} are shorter than the respective Maj words: {faru, andu, sonu, sonu}. However Maj is simpler than English becouse one verb has only one single form and is always regular.
+Maj is an analytic language similar to English. It has reduced complexity compared to: Spanish, Franch, Romanian. Maj verb has only one single form and is always regular. Some words are shorter in English than Maj. For example verbs: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
 
 **Read more about:** [basic grammar](basic.md)
 
@@ -78,16 +83,18 @@ Advanced grammar rules are explained by:  _word category_
 
 ## Lexicon
 
-Maj lexicon is a collection of several spreedshits that we use to host words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations.
+Maj lexicon is a collection of several spreedshits that we use to create words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations between these languages. However Maj do not use gender for pronouns, so the translation of pronoun is not deterministic.
 
-Maj [core elements](https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml#) include 4 pages. In te future we will add more pages. 
+Maj [core elements](https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml#) 
+include 4 pages. In te future we will add more pages. 
 
 * alphabet;
 * pronouns; 
 * numerals;
 * symbols;
 
-Basic lexicon is called: [maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vQIAx1UHDxg9SAk0caYU18U9hCQBfl-BWQuz9_6VhXwGr1aJdOfg-uv1ret-L-0u_2yQvPtlycNICi6/pubhtml#)
+Basic lexicon is called: 
+[maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vQIAx1UHDxg9SAk0caYU18U9hCQBfl-BWQuz9_6VhXwGr1aJdOfg-uv1ret-L-0u_2yQvPtlycNICi6/pubhtml#)
 and is organized in 7 pages by word length:
 
 * W2 = particles 
@@ -101,7 +108,7 @@ and is organized in 7 pages by word length:
 
 * The documents above are work in progress and update automatically;
 * The Lexicon is in heavy review, some words will be changed;
-* There is an advanced Lexicon: "maj-iavo", that is not released yet. 
+* There is an advanced Lexicon: "maj-iavo", that is not public. 
 
 ## Contribution
 
