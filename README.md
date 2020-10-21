@@ -54,8 +54,6 @@ Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj u
 **Example:**
 
 * ɛნծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
-* esta sonu una zopa kibo yn Maj;
-* this is an example written in Maj;
 
 Read more: [Script details](script.md)
 
