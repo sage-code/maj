@@ -40,7 +40,7 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 ## Script
 
-Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer but it could be. In the future you will be able to use a stylus to write on a tablet and maybe a software will recognize your letters. Until then you can store Maj text using Unicode symbols selected to match Maj script.
+Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer. These symbols can be used to create secret messages nobody will understend except the ones who know how to read and write Maj.
 
 ### α, β, ɕ, ẟ, ɛ, φ, ɤ, ɚ, ɛ, ʚ, ჟ, ჵ, ₰, რ, ღ, თ, დ, შ, ნ, ծ, ω, ϑ, ჩ, ყ, ʓ, წ, უ, ϰ, ζ
 
