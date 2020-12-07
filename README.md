@@ -18,11 +18,11 @@ Maj language has several potential use-cases:
 
 Maj is using 48 symbols from Latin ISO alphabet with modified order and customized pronounciation.
 
-### a, b, c, d, e, f, g, h, e, i, j, k, l, m, n, o, p, r, s, t, u, v, x, z
+### a, b, c, d, f, g, h, e, i, j, k, l, m, n, o, p, r, s, t, u, v, x, y, z
 
 Maj is using also uppercase letters in some words. Uppercase letters have same pronounciation as lowercase letters.
 
-### A, B, C, D, E, F, G, H, E, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Z
+### A, B, C, D, F, G, H, E, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Y, Z
 
 * Maj Latin alphabet has a total of 24 letters;
 * Letters W and Q are not used in Maj
