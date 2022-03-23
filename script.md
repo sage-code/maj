@@ -10,7 +10,7 @@ Maj script is a cursive alphabet with letters from Georgian, Greek and Latin. It
 
 To write a Maj letter correctly you must start with correct position. Some letters have loops and some have full stops with returns. The return is back over the line, or slightly off forming a sharp angle. Never lift your pen until you finish the letter.  
 
-<img src="demo/Maj-script-28.png" alt="Maj Script" width="600"></img>
+<img src="demo/script_30.png" alt="Maj Script" width="600"></img>
 
 **notes:**
 In the previous picture I have used a crayon but you can write with a pencil or with a ballpen. Maj is not designed for paint brush. Each person can customize its own style. However you should be consistent. Do the letter in the same way every time. 
@@ -33,29 +33,17 @@ Audio file: [Maj-28-letters.mp3](Maj-28-letters.mp3)
 
 Maj script is not depending on Maj language. You can use Maj script to write secret messages in any language that can be reduced to Maj alphabet. Next is an example of poetry in Romanian written with with Maj rules and Maj script. I guess a Romanian will understend this text and be able to learn from it the Maj alphabet.
 
-
-**α φთნծ თ ẟαծɚ ჵα ღʚწთẟαծɚ   
-ẟʚღ შωẟɛ რαშʚ ყრდαშɚծɛɕծʚ   
-თ დშɛα φშωრთαნɚ φαծɚ**   
 ```
 a fost o dath ka nitcodath
 din rude mari ymparhtecti
 o prea frumoash fath"
 ```
-**ɕʚ ɛშα ωღα ₰α დɚშʚღζʚ   
-ɕʚ რყღẟშɚ-ღ ծთαծɛ წɛ₰ɛ   
-ჵωრ ɛ φɛწთαშα ყღծშɛ ნφʚღζʚ   
-ɕʚ ₰ωღα ყღծშɛ ნծɛ₰ɛ**
 ```
 ci era una la phrintsi
 ci myndrh-n toate tcele
 kum e fetcoara yntre sfintsi
 ci luna yntre stele"
 ```
-**ծშɚʚღẟ ყღ წɛშჵω₰ ϑთნծშω ნծშყრծ   
-ღთშთჵω₰ ϑɚ დɛծშɛწɛ,   
-ɕʚ ɛω ყღ ₰ωრɛα რɛα რɚ ნʚრծ   
-ღɛრωშʚծთშ ɕʚ შɛწɛ.**
 ```
 trhind yn tcerkul vostru strymt
 norokul vh petretce,
@@ -64,7 +52,6 @@ nemuritor ci retce."
 ```
 Fragment is from poetry "Luceafărul" by Mihai Eminescu.
 
-<img src="demo/poetry.png" alt="Maj Alphabet" width="600"></img>
 
 
 **Read next about the Latin:** [alphabet](alphabet.md)
