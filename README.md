@@ -65,16 +65,6 @@ Maj is an analytic language similar to English. It has reduced complexity compar
 
 **Read more about:** [Maj Grammar](https://docs.google.com/document/d/e/2PACX-1vQywJ8rY3R5CiQmhSlCJKi4fJ_pKNKlPmDf7EK49dMkPK14dzQV3DE6mOeAKa68b0QFMRq8mMPQAFFs/pub)
 
-## Details
-
-Advanced grammar rules are explained by:  _word category_
-
-* [Prepositions](preposition.md)
-* [Nouns](nouns.md)
-* [Verbs](verbs.md)
-* [Adverbs](adverbs.md)
-* [Adjectives](adjectives.md)
-
 ## Lexicon
 
 Maj lexicon is a collection of several spreedshits that we use to create words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations between these languages. However Maj do not use gender for pronouns, so the translation of pronoun is not deterministic.
@@ -100,17 +90,16 @@ and is organized in 7 pages by word length:
 
 **notes:**
 
-* The documents above are work in progress and update automatically;
+* The documents above are work in progress and update frequent;
 * The Lexicon is in heavy review, some words will be changed;
-* There is an advanced Lexicon: "maj-iavo", that is not public. 
 
 ## Contribution
 
-If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. You can not edit these documents, they are protected. We use these documents as reference. GitHub project has secondary priority so it needs to be updated from the primary documentation manually. This is where we may need help. So if you have a github account you just need to fork and do pull request as any other GitHub project.
+If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. You can not edit these documents, they are protected. GitHub project has secondary priority. We keep here software and tools related to Maj but we don't describe the grammar and words here. 
 
 **Community:**
 
-We use Discord application to chat about Maj. After Maj Lexicon is consolidated we can use Maj for chat about computer programming and valuable other projects developped using Maj. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation. 
+We use Discord application to chat about Maj. After we learn Maj, we can chat in Maj channels to learn other languages. Maj is designed to be translated in other 5 languages: Romanian, Spanish, Italian, French, English and German. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation. 
 
 Join: [discord invitation](https://discord.gg/ZtusYjf)
 
