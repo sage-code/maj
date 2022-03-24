@@ -36,20 +36,34 @@ Maj script is not depending on Maj language. You can use Maj script to write sec
 ```
 a fost o dath ka nitcodath
 din rude mari ymparhtecti
-o prea frumoash fath"
+o prea frumoash fath
 ```
+α 𐐸𐐫ნζ 𐐫 ẟαζ𐨓 ჵα 𐒙ʚშ𐐫ẟαζ𐨓
+ẟʚ𐒙 პωẟɛ რαპʚ ყრდαპ𐨓ζɛɕζʚ
+𐐫 დპɛα 𐐸პωრ𐐫αნ𐨓 𐐸αζ𐨓
+
 ```
 ci era una la phrintsi
 ci myndrh-n toate tcele
 kum e fetcoara yntre sfintsi
-ci luna yntre stele"
+ci luna yntre stele
 ```
+ɕʚ ɛპα ω𐒙α ℓα დ𐨓პʚ𐒙𑄄ʚ
+ɕʚ რყ𐒙ẟპ𐨓-𐒙 ζ𐐫αζɛ შɛℓɛ
+ჵωრ ɛ 𐐸ɛშ𐐫αპα ყ𐒙ζპɛ ნ𐐸ʚ𐒙𑄄ʚ
+ɕʚ ℓω𐒙α ყ𐒙ζპɛ ნζɛℓɛ
+
 ```
 trhind yn tcerkul vostru strymt
 norokul vh petretce,
 ci eu yn lumea mea mh simt
-nemuritor ci retce."
+nemuritor ci retce.
 ```
+ζპ𐨓ʚ𐒙ẟ ყ𐒙 შɛპჵωℓ ϑ𐐫ნζპω ნζპყრζ
+𐒙𐐫პ𐐫ჵωℓ ϑ𐨓 დɛζპɛშɛ,
+ɕʚ ɛω ყ𐒙 ℓωრɛα რɛα რ𐨓 ნʚრζ
+𐒙ɛრωპʚζ𐐫პ ɕʚ პɛშɛ.
+
 Fragment is from poetry "Luceafărul" by Mihai Eminescu.
 
 
