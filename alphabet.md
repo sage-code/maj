@@ -3,8 +3,9 @@
 Maj native alphabet has 28 symbols. This enable native Maj users to take quick notes and write personal journals using a pen and a notebook. Maj alphabet is a s script is not designed to be used on a computer. These symbols can be used to create messages nobody will understend except the ones who know how to read and write Maj. However, Maj is not a secret language becouse it's alphabet is public.
 
 <p align="center">
-<img src="demo/script_30.png" alt="Maj Script" width="400"></img>
+<img src="demo/script_30.png" alt="Maj Script" width="380"></img>
 </p>
+
 **Notes:**
 
 * The IPA symbols used above show how to pronounce each letter.
