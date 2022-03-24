@@ -63,7 +63,7 @@ External tool: [Maj script converter](https://lingojam.com/MajScript)
 
 Maj is an analytic language similar to English. It has reduced complexity compared to: Spanish, Franch, Romanian. Maj verb has only one single form and is always regular. Some words are shorter in English than Maj. For example verbs: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
 
-**Read more about:** [basic grammar](basic.md)
+**Read more about:** [Maj Grammar](https://docs.google.com/document/d/e/2PACX-1vQywJ8rY3R5CiQmhSlCJKi4fJ_pKNKlPmDf7EK49dMkPK14dzQV3DE6mOeAKa68b0QFMRq8mMPQAFFs/pub)
 
 ## Details
 
