@@ -18,14 +18,14 @@ Maj language has several potential use-cases:
 
 Maj is using 48 symbols from Latin ISO alphabet with modified order and customized pronounciation.
 
-### a, b, c, d, f, g, h, e, i, j, k, l, m, n, o, p, r, s, t, u, v, x, y, z
+### a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, x, y, z
 
 Maj is using also uppercase letters in some words. Uppercase letters have same pronounciation as lowercase letters.
 
-### A, B, C, D, F, G, H, E, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Y, Z
+### A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Y, Z
 
 * Maj Latin alphabet has a total of 24 letters;
-* Letters W and Q are not used in Maj
+* Letters W/w and Q/q are not used in Maj
 * Maj has deterministic phonetic rules;
 * Maj do not use cedilla nor diaressis or accents;
 
@@ -42,7 +42,7 @@ External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer. These symbols can be used to create secret messages nobody will understend except the ones who know how to read and write Maj.
 
-### α, β, ɕ, ẟ, ɛ, φ, ɤ, ɚ, ɛ, ʚ, ჟ, ჵ, ₰, რ, ღ, თ, დ, შ, ნ, ծ, ω, ϑ, ჩ, ყ, ʓ, წ, უ, ϰ, ζ
+### α β ɕ ઠ ɛ 𐐐 ծ 𐨓 ʚ ჟ ჵ 𐑙 რ 𐒙 𐐃 დ პ ნ ζ ω ϑ 𐒎 ყ ʓ
 
 **Notes:**
 
@@ -50,10 +50,6 @@ Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj u
 * Script do not have uppercase letters;
 * Script is mapped 1:1 with Unicode symbols;
 * Script is using same punctuation marks as Latin;
-
-**Example:**
-
-* ɛნծα ნთღω ωღα ʓთდα ჵʚβთ ɚღ რαჟ;
 
 Read more: [Script details](script.md)
 
