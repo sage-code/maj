@@ -2,18 +2,18 @@
 
 Maj native alphabet has 28 symbols. This enable native Maj users to take quick notes and write personal journals using a pen and a notebook. Maj alphabet is a s script is not designed to be used on a computer. These symbols can be used to create messages nobody will understend except the ones who know how to read and write Maj. However, Maj is not a secret language becouse it's alphabet is public.
 
+<img src="demo/script_30.png" alt="Maj Script" width="600"></img>
+
 **Notes:**
 
-* Script has a total of 28 symbols;
-* Script do not have uppercase letters;
-* Script is mapped 1:1 with Unicode symbols;
-* Script is using same punctuation marks as Latin;
-
-<img src="demo/script_30.png" alt="Maj Script" width="600"></img>
+* The IPA symbols used above show how to pronounce each letter.
+* Maj Script do not have uppercase letters;
+* Maj Script is mapped 1:1 with Unicode symbols;
+* Maj Script is using same punctuation marks as Latin;
 
 # Romanization
 
-Maj latin alphabet has 24 uppercase letters, 24 lowercase letters and 4 digraphs. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. You can learn Maj pronounciation without IPA symbols. I will explain each shoud using English similar examples.
+Maj latin alphabet has 24 uppercase letters, 24 lowercase letters and 4 digraphs. In the next table each letter is associated with one IPA sound. If you do not know what IPA is, do not bother. You can learn Maj pronounciation without IPA symbols. I will explain each shoud using English similar examples.
 
 
 ## Vowels
