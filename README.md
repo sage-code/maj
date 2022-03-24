@@ -38,21 +38,6 @@ There is available a tool to convert Maj words into IPA phonetic representation.
 
 External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
-## Script
-
-Maj uses a secondary alphabet with 28 symbols for handwriting. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer. These symbols can be used to create secret messages nobody will understend except the ones who know how to read and write Maj.
-
-α β ɕ ઠ ɛ 𐐐 ծ 𐨓 ʚ ჟ ჵ 𐑙 რ 𐒙 𐐃 დ პ ნ ζ ω ϑ 𐒎 ყ ʓ შ 𑄄 ფ ღ
-
-**Notes:**
-
-* Script has a total of 28 symbols;
-* Script do not have uppercase letters;
-* Script is mapped 1:1 with Unicode symbols;
-* Script is using same punctuation marks as Latin;
-
-Read more: [Script details](script.md)
-
 **Tools:**
 
 There is a dual conversion tool from Latin to Maj script. This tool will help you to write using Maj script. Once you have learned this script you can use it to take notes using Maj language. 

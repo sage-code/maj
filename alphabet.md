@@ -1,36 +1,20 @@
-# MAJ Alphabet
+# Maj Script
 
-Maj alphabet has 24 uppercase letters, 24 lowercase letters, 3 digraphs and 27 Unicode symbols. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. You can learn Maj pronounciation without IPA symbols. I will explain each shoud using English similar examples.
-
-<img src="demo/maj-alphabet.png" alt="Maj Alphabet" width="600"></img>
-
-
-## Pronunciation
-
-Maj pronunciation is based on deterministic rules. That means, pronounciation rules are the same in all words and do not depend on the word origin. In Maj you do no need to learn how to _spell words_ but you need to learn the alphabet. That is if you know Maj alphabet and reading rules then you can read any writen word correctly even if you have never heared that word before. 
+Maj uses alphabet has 28 symbols. This enable Maj users to take quick notes and write personal journals using a pen and a notebook. Maj script is not designed to be used on a computer. These symbols can be used to create messages nobody will understend except the ones who know how to read and write Maj.
 
 **Notes:**
 
-* Maj alphabet has 7 vowels, 17 consonants and 3 digraphs in total 27 sounds;
-* Maj sounds require healthy tongue, lips, teeth and vocal chords;
-* Maj sounds do not require to put your tongue between your teeth;
-* Maj sounds do not require inverted tongue tip (retroflex);
-* Maj has strong consonants and clear vowels similar to Portuguese;
-* Maj sounds have Balcan influences. Not all sounds are Latin;
+* Script has a total of 28 symbols;
+* Script do not have uppercase letters;
+* Script is mapped 1:1 with Unicode symbols;
+* Script is using same punctuation marks as Latin;
 
-**Tools:**
+<img src="demo/script_30.png" alt="Maj Script" width="600"></img>
 
-Maj has some tools for beginners to learn how to read and write correctly:
+# Romanization
 
-* Maj IPA: [phonetics](https://lingojam.com/MajIPA)
-* Maj script: [convertor](https://lingojam.com/MajScript)
+Maj latin alphabet has 24 uppercase letters, 24 lowercase letters and 4 digraphs. In the next table each letter is associated with one IPA sound. The IPA symbols are not part of Maj alphabet, just indicate how to pronounce the letters. If you do not know what IPA is, do not bother. You can learn Maj pronounciation without IPA symbols. I will explain each shoud using English similar examples.
 
-**Reference:**
-
-For explaining the alphabet pronunciation we have used phonetic symbols: 
-
-* [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
-* [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
 
 ## Vowels
 
@@ -64,60 +48,18 @@ Since on QUERTY KEYBOARD there is not letter `ə` we have decided to use "h" ins
 
 Learn more: [listening: h](https://en.wikipedia.org/wiki/Mid_central_vowel)
 
-## Diphthongs
-
-Two vowels combined together into one cluster are called diphthongs.
-
-x |a  |e  |i  |o  |u  | y | h 
---|---|---|---|---|---|---|---
-a | · |ae |ai |ao |au |ay | ah
-e |ea | · |ei |eo |eu |ey | eh
-i |ia |ie | . |jo |iu |iy | ih
-o |oa |oe |oi | · |ou |oy | oh
-u |ua |ue |ui |uo |.  |uy | uh
-y |ya |ye |yi |yo |yu | . | yh
-h |ha |he |hi |ho |hu |hy | .    
-
-**Notes:** 
-
-* Maj do not enable duplicate vowels for any purpose. We do not use "ee" to make /i/;
-* Maj enable "gliding" so that ua is read "wa" therefore Maj do not need letter "w";
-
-
-## Tone and accent
-
-Maj vowels can be pronounced with one of two tones: _Low Tone_ and _Higher Tone_: 
-
-**word ending**
-
-* If a word is ending with space, "." or ";" you can use lower tone for last vowel;
-* If a word is ending with comma, "," or "?" you should use higher tone for last vowel;
-
-**sentence ending**
-
-Symbols: "!" and "?" are altering the last vowel of the last word. 
-
-* Using "!" will make a lower tone for last vowel;
-* Using "?" will make a higher tone for last vowel;
-
-For question mark: You should pronounce a longer vowel and gliding the tone from lower to higher level. Wehn the word is ending with a consonant, the vowel in front of the last consonant is modified.
-
-**accent:**
-
-Maj words have a very soft accent on the first syllable. Apostroph can modify the accent position from first to last syllable. This accent gliding is used in verb conjugation, imperative and negation. I will not insis on Maj accent since Maj is for typing not for speaking. However if you need to speack Maj try to learn this simple rule.
-
 ## Consonants
 
 Maj is using 21 consonants:
 
-method   | bilabial| labio dental | alveolar | valar | post alveolar | glottal 
----------|---------|--------------|----------|-------|---------------|----------
-plosive  | p,b     |              | t, d     | k, g  |               |
-nasal    | m       |              | n        |       |               |
-trill    |         |              | r        |       |               | 
-fricative|         | f,v          | s,z      |       | c, j          | x
-lateral  |         |              | l        |       |               |
-affricate|         |              | ts,tc,ks |       | dj            |
+method   | bilabial| labio dental | alveolar | valar |paletal| post alveolar | glottal 
+---------|---------|--------------|----------|-------|-------|---------------|----------
+plosive  | p,b     |              | t, d     | k, g  |       |               |
+nasal    | m       |              | n        |       |  gn   |               |
+trill    |         |              | r        |       |       |               | 
+fricative|         | f,v          | s,z      |       |       | c, j          | x
+lateral  |         |              | l        |       |       |               |
+affricate|         |              | ts       |       |       | tc, dj        |
 
 
 Most consonants are similar to IPA but some are different;
@@ -150,6 +92,8 @@ Digraphs are groups of 2 letters that are thigtly connected and become a new and
 [listen](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)
 * Group `dj` sounds `d͡ʒ` like `g` in  "giraffe": 
 [listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
+* Group `gn` sounds `gn` in Italian word "segnal": 
+[listen](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)
 
 **Examples:** 
 Phonetic writing is quoted using IPA: notation 
@@ -157,6 +101,24 @@ Phonetic writing is quoted using IPA: notation
 * atce => IPA:"at͡ʃe"   = needles    
 * atsa => IPA:"at͡sa"   = thread
 * djia => IPA:"d͡ʒia"   = day
+
+## Diphthongs
+
+Two vowels combined together into one cluster are called diphthongs.
+
+x |a  |e  |i  |o  |u  | y 
+--|---|---|---|---|---|---
+a | · |ae |ai |ao |au | .  
+e |ea | · |ei |eo |eu | .  
+i |ia |ie | . |jo |iu |iy 
+o |oa |oe |oi | · |ou | . 
+u |ua |ue |ui |uo |.  |uy 
+y | . |.  |yi |.  |yu | . 
+
+**Notes:** 
+
+* Maj do not enable duplicate vowels for any purpose. We do not use "ee" to make /i/;
+* Maj enable "gliding" so that ua is read "wa" therefore Maj do not need letter "w";
 
 ## Clusters
 
@@ -188,6 +150,57 @@ vr zb zd zg zm zn zv
 jb jk jd jl jm jn jr js jt jv 
 gn gl gm gr gv gs
 ``` 
+
+## Pronunciation
+
+Maj pronunciation is based on deterministic rules. That means, pronounciation rules are the same in all words and do not depend on the word origin. In Maj you do no need to learn how to _spell words_ but you need to learn the alphabet. That is if you know Maj alphabet and reading rules then you can read any writen word correctly even if you have never heared that word before. 
+
+**Notes:**
+
+* Maj alphabet has 7 vowels, 17 consonants and 3 digraphs in total 27 sounds;
+* Maj sounds require healthy tongue, lips, teeth and vocal chords;
+* Maj sounds do not require to put your tongue between your teeth;
+* Maj sounds do not require inverted tongue tip (retroflex);
+* Maj has strong consonants and clear vowels similar to Portuguese;
+* Maj sounds have Balcan influences. Not all sounds are Latin;
+
+**Tools:**
+
+Maj has some tools for beginners to learn how to read and write correctly:
+
+* Maj IPA: [phonetics](https://lingojam.com/MajIPA)
+* Maj script: [convertor](https://lingojam.com/MajScript)
+
+**Reference:**
+
+For explaining the alphabet pronunciation we have used phonetic symbols: 
+
+* [IPA Org ](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) 
+* [IPA Wikipedia ](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+
+
+## Tone and accent
+
+Maj vowels can be pronounced with one of two tones: _Low Tone_ and _Higher Tone_: 
+
+**word ending**
+
+* If a word is ending with space, "." or ";" you can use lower tone for last vowel;
+* If a word is ending with comma, "," or "?" you should use higher tone for last vowel;
+
+**sentence ending**
+
+Symbols: "!" and "?" are altering the last vowel of the last word. 
+
+* Using "!" will make a lower tone for last vowel;
+* Using "?" will make a higher tone for last vowel;
+
+For question mark: You should pronounce a longer vowel and gliding the tone from lower to higher level. Wehn the word is ending with a consonant, the vowel in front of the last consonant is modified.
+
+**accent:**
+
+Maj words have a very soft accent on the first syllable. Apostroph can modify the accent position from first to last syllable. This accent gliding is used in verb conjugation, imperative and negation. I will not insis on Maj accent since Maj is for typing not for speaking. However if you need to speack Maj try to learn this simple rule.
+
  
 ## Letter weight 
 
@@ -276,4 +289,3 @@ Using this algorithm total cost for 542 words:
 * 7696  in Romanian
 * 9423  in German
 
-Read next: [numerals](numerals.md)
