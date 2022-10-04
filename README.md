@@ -4,6 +4,8 @@ Maj is an artificial language,  with following attributes:
 * Efficient - short words and simple grammar;
 * Familiar - using Latin alphabet and borrowed words;
 
+Home Page: [Sage-Code Maj](https://sagecode.net/maj)
+
 **Purpose ...**
 
 Maj language has several potential use-cases:
@@ -32,17 +34,15 @@ Maj is using also uppercase letters in some words. Uppercase letters have same p
 
 Details: [Maj alphabet](alphabet.md)
 
-**Tool:** 
+**Tools:** 
 
 There is available a tool to convert Maj words into IPA phonetic representation. You can use this tool to write a word you know and see how this is read. After getting familiar with the alphabet this tool is no longer necessary.
 
-External tool: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
-
-**Tools:**
+External tool 1: [Maj IPA phonetic converter](https://lingojam.com/MajIPA)
 
 There is a dual conversion tool from Latin to Maj script. This tool will help you to write using Maj script. Once you have learned this script you can use it to take notes using Maj language. 
 
-External tool: [Maj script converter](https://lingojam.com/MajScript)
+External tool 2: [Maj script converter](https://lingojam.com/MajScript)
 
 ## Grammar
 
@@ -75,16 +75,15 @@ and is organized in 7 pages by word length:
 
 **notes:**
 
-* The documents above are work in progress and update frequent;
+* The documents above are work in progress and update frequently;
 * The Lexicon is in heavy review, some words will be changed;
 
 ## Contribution
 
-If you think Maj has potential, you can contribute. We use Google Docs to host our documentation in addition to GitHub. You can not edit these documents, they are protected. GitHub project has secondary priority. We keep here software and tools related to Maj but we don't describe the grammar and words here. 
-
-**Community:**
-
-We use Discord application to chat about Maj. After we learn Maj, we can chat in Maj channels to learn other languages. Maj is designed to be translated in other 5 languages: Romanian, Spanish, Italian, French, English and German. Now Maj is in the inception stage but in the future maybe we will have enaugh Maj speakers to have a conversation. 
+If you like Maj project, you can contribute. We use Discord: Maj Utopia. Maj is translated in 5 languages: {Romanian, Spanish, Italian, French, English and German}. You can have a conversation about Maj in any of these languages. We share contribution links to edit and improve Maj Lexicon and Grammar.
 
 Join: [discord invitation](https://discord.gg/ZtusYjf)
 
+---
+
+Copyright (c) SageCode 2022 
