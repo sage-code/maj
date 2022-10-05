@@ -1,4 +1,4 @@
-# use case
+# Use cases
 
 Maj is an artificial langauge created for an utopic virtual world. Maj is not a good language until we find an useful role for it. I hope my next arguments are sound and will entice you to learn a thing or two about this great language.
 
@@ -133,7 +133,7 @@ Maj is a descriptive language; a Maj interpretor can read _Maj_ and do computati
 
 it is time to stop talking and start making;
 
-**Red next:** [basic](basic.md)
+--- 
 
-Great!
+Great! Thanks for reading.
 
