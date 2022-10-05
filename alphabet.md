@@ -291,3 +291,6 @@ Using this algorithm total cost for 542 words:
 * 7696  in Romanian
 * 9423  in German
 
+---
+
+Copyright (c) Sage-Code 2022
