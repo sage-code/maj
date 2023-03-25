@@ -78,7 +78,7 @@ This is an inactive block of code
 
 Maj enable markup code. That can be HTML, or XML
 
-<html>
+<html lang="en">
   <h1>Static HTML </h1>  
   <p> Maj interpreter will not touch the HTML code, 
       so it can be used only for static content. </p>
