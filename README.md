@@ -1,3 +1,5 @@
+## Maj Language
+
 Maj is an artificial language,  with following attributes:
 
 * Regular - with deterministic reading rules;
@@ -13,26 +15,7 @@ Maj language has several potential use-cases:
 1. Linguistic studies;
 1. Artificial reasoning;
 1. Fictional writing;
-
-**Rad more:** [use case](case.md)
-
-## Alphabet
-
-Maj is using 48 symbols from Latin ISO alphabet with modified order and customized pronounciation.
-
-### a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, x, y, z
-
-Maj is using also uppercase letters in some words. Uppercase letters have same pronounciation as lowercase letters.
-
-### A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, X, Y, Z
-
-* Maj Latin alphabet has a total of 24 letters;
-* Letters W/w and Q/q are not used in Maj
-* Maj has deterministic phonetic rules;
-* Maj do not use cedilla nor diaressis or accents;
-
-
-Details: [Maj alphabet](alphabet.md)
+1. International exchange;
 
 **Tools:** 
 
@@ -44,39 +27,6 @@ There is a dual conversion tool from Latin to Maj script. This tool will help yo
 
 External tool 2: [Maj script converter](https://lingojam.com/MajScript)
 
-## Grammar
-
-Maj is an analytic language similar to English. It has reduced complexity compared to: Spanish, Franch, Romanian. Maj verb has only one single form and is always regular. Some words are shorter in English than Maj. For example verbs: {do, go, be} are shorter than the respective Maj words: {faru, andu, sonu}. 
-
-**Read more about:** [Maj Grammar](https://docs.google.com/document/d/e/2PACX-1vQywJ8rY3R5CiQmhSlCJKi4fJ_pKNKlPmDf7EK49dMkPK14dzQV3DE6mOeAKa68b0QFMRq8mMPQAFFs/pub)
-
-## Lexicon
-
-Maj lexicon is a collection of several spreedshits that we use to create words and expressions with translation in several languages: Spansih, French, Italian, German, Romanian, Latin. This makes Maj a glue language tat can be used to make polyglot translations between these languages. However Maj do not use gender for pronouns, so the translation of pronoun is not deterministic.
-
-Maj [core elements](https://docs.google.com/spreadsheets/d/e/2PACX-1vTs0cvSYlWttqu7zPxMbiYlWxhN9SosL130JiEn7jqeAyEOxGAr_H7wrRaXrs6oSo-SAFuS2dci1WK6/pubhtml#) 
-include 4 pages. In te future we will add more pages. 
-
-* alphabet;
-* pronouns; 
-* numerals;
-* symbols;
-
-Basic lexicon is called: 
-[maj bazo](https://docs.google.com/spreadsheets/d/e/2PACX-1vQIAx1UHDxg9SAk0caYU18U9hCQBfl-BWQuz9_6VhXwGr1aJdOfg-uv1ret-L-0u_2yQvPtlycNICi6/pubhtml#)
-and is organized in 7 pages by word length:
-
-* W2 = particles 
-* W3 = prepositions 
-* W4 = regular words
-* W5 = advanced words
-* LW = longer words
-* CW = composite words
-
-**notes:**
-
-* The documents above are work in progress and update frequently;
-* The Lexicon is in heavy review, some words will be changed;
 
 ## Contribution
 
