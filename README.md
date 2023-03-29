@@ -1,10 +1,11 @@
-## Maj Language
+## Maj Saga
 
-Maj is an artificial language,  with following attributes:
+Maj is an artificial spoken language,  with following attributes:
 
-* Regular - with deterministic reading rules;
-* Efficient - short words and simple grammar;
-* Familiar - using Latin alphabet and borrowed words;
+* *Regular:* with deterministic reading rules;
+* *Efficient:* short words with precise role;
+* *Familiar:* using Latin alphabet and borrowed words;
+* *Simple:* no silent letters, for one letter one sound;
 
 Home Page: [Sage-Code Maj](https://sagecode.net/maj)
 
@@ -16,6 +17,7 @@ Maj language has several potential use-cases:
 1. Artificial reasoning;
 1. Fictional writing;
 1. International exchange;
+1. Language learning;
 
 **Tools:** 
 
@@ -30,10 +32,12 @@ External tool 2: [Maj script converter](https://lingojam.com/MajScript)
 
 ## Contribution
 
-If you like Maj project, you can contribute. We use Discord: Maj Utopia. Maj is translated in 5 languages: {Romanian, Spanish, Italian, French, English and German}. You can have a conversation about Maj in any of these languages. We share contribution links to edit and improve Maj Lexicon and Grammar.
+We use Discord: "Maj Saga" server. We build a dictionary using Google Spreadsheets. Maj is translated in 6 languages: {Romanian, Spanish, Italian, French, English and German}.
 
-Join: [discord invitation](https://discord.gg/ZtusYjf)
+We can learn to have a conversation using Maj and any of these languages. If you join, you will have access to documents and channels to learn Lexicon and Grammar and you can use voice to talk with us.
+
+Join: [discord invitation](https://discord.gg/Y8Bredb3eW)
 
 ---
 
-Copyright (c) SageCode 2022 
+Copyright (c) SageCode 2023
