@@ -7,7 +7,7 @@ Maj is an artificial spoken language,  with following attributes:
 * *Familiar:* using Latin alphabet and borrowed words;
 * *Simple:* no silent letters, for one letter one sound;
 
-Home Page: [Sage-Code Maj](https://sagecode.net/maj)
+Home Page: [Sage-Code Maj](https://maj.sagecode.net)
 
 **Purpose ...**
 
